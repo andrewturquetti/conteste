@@ -149,14 +149,11 @@ function showNotification(message, type = 'info') {
     const existing = document.querySelector('.notification');
     if (existing) existing.remove();
 
+    const icon = type === 'error' ? '✕' : '✓';
     const notification = document.createElement('div');
     notification.className = 'notification';
-    notification.innerHTML = `<span>${message}</span><button style="background:none;border:none;color:white;font-size:1.25rem;cursor:pointer;">&times;</button>`;
-    notification.style.cssText = `position:fixed;bottom:20px;right:20px;padding:1rem 1.5rem;background-color:${type === 'success' ? '#10b981' : '#ef4444'};color:white;border-radius:0.75rem;box-shadow:0 10px 25px rgba(0,0,0,0.2);display:flex;align-items:center;gap:1rem;z-index:9999;animation:slideIn 0.3s ease;max-width:400px;`;
-
-    const style = document.createElement('style');
-    style.textContent = '@keyframes slideIn{from{transform:translateX(100%);opacity:0}to{transform:translateX(0);opacity:1}}';
-    document.head.appendChild(style);
+    notification.innerHTML = `<span class="notification-icon">${icon}</span><span>${escapeHtml(message)}</span><button aria-label="Fechar">&times;</button>`;
+    notification.classList.add(type === 'error' ? 'notification--error' : 'notification--success');
 
     notification.querySelector('button').addEventListener('click', () => notification.remove());
     document.body.appendChild(notification);
