@@ -282,10 +282,9 @@ input { font-family: inherit; }
     position: absolute; inset: 0; width: 100%; height: 100%;
     object-fit: contain; object-position: center;
     background-color: var(--color-white);
-    /* Todo o conteúdo do site é preto e branco — imagens/logos de fontes
-       externas (brasões, marcas institucionais) são convertidas para
-       escala de cinza para manter a identidade visual monocromática. */
-    filter: grayscale(100%) contrast(1.05);
+    /* A "moldura" do site (header, botões, cards, tipografia) é preto e
+       branco — mas as imagens das oportunidades (logos, brasões, fotos)
+       mantêm suas cores originais. */
 }
 
 /* Padrões geométricos por categoria (preto e branco) */
