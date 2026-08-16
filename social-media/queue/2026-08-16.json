@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-16T16:12:41-03:00",
-  "total_items": 44,
+  "generated_at": "2026-08-16T17:36:39-03:00",
+  "total_items": 54,
   "posts": [
     {
       "id": "cultura-minc-biblioteca-cultura-viva-2026-08-16",
       "opportunity_id": "cultura-minc-biblioteca-cultura-viva",
       "opportunity_title": "MinC abre inscrições contínuas para bibliotecas virarem Pontos de Cultura",
       "category": "cultura",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -37,7 +37,7 @@
       "opportunity_id": "cultura-minc-rouanet-favelas-2",
       "opportunity_title": "Rouanet nas Favelas 2 vai investir R$ 10 milhões em projetos de periferias",
       "category": "cultura",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -67,7 +67,7 @@
       "opportunity_id": "cultura-funarte-aberta",
       "opportunity_title": "Funarte cede espaços culturais gratuitos para artistas de todo o Brasil",
       "category": "cultura",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -97,7 +97,7 @@
       "opportunity_id": "cultura-firjan-mosaico-rio-2026",
       "opportunity_title": "Firjan SESI abre Mosaico Rio 2026 com R$ 3,4 milhões para 96 projetos",
       "category": "cultura",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -127,7 +127,7 @@
       "opportunity_id": "cultura-sedac-rs-artista-escola",
       "opportunity_title": "RS seleciona 60 artistas para atuar em escolas de tempo integral em 2027",
       "category": "cultura",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -157,7 +157,7 @@
       "opportunity_id": "cultura-fundart-ubatuba-fosso",
       "opportunity_title": "Fundart abre oficina gratuita sobre a fotografia de Samuel Fosso",
       "category": "cultura",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -187,7 +187,7 @@
       "opportunity_id": "cultura-fundacao-varginha-oficina",
       "opportunity_title": "Varginha oferece oficina gratuita de elaboração de projetos culturais",
       "category": "cultura",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -217,7 +217,7 @@
       "opportunity_id": "educacao-ifsp-diadema-pronatec",
       "opportunity_title": "IFSP Diadema abre 75 vagas grátis com bolsa PRONATEC em TI",
       "category": "educacao",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -247,7 +247,7 @@
       "opportunity_id": "educacao-ifs-vagas-remanescentes",
       "opportunity_title": "IFS oferece 172 vagas remanescentes em cursos técnicos gratuitos",
       "category": "educacao",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -277,7 +277,7 @@
       "opportunity_id": "educacao-ifs-tecnico-secretaria-escolar",
       "opportunity_title": "Técnico gratuito em Secretaria Escolar EAD tem 100 vagas no IFS",
       "category": "educacao",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -307,7 +307,7 @@
       "opportunity_id": "educacao-ifsuldeminas-pos-educacao-especial",
       "opportunity_title": "IFSULDEMINAS abre 800 vagas em pós gratuita em Educação Especial",
       "category": "educacao",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -337,7 +337,7 @@
       "opportunity_id": "educacao-santander-apoio-financeiro",
       "opportunity_title": "Santander abre 2 mil bolsas de R$ 3 mil para universitários",
       "category": "educacao",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -367,7 +367,7 @@
       "opportunity_id": "educacao-schwarzman-scholars",
       "opportunity_title": "Bolsa integral para mestrado na China: Schwarzman Scholars 2027",
       "category": "educacao",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -397,7 +397,7 @@
       "opportunity_id": "educacao-ifrs-cursos-online",
       "opportunity_title": "IFRS libera mais de 200 cursos online gratuitos com certificado",
       "category": "educacao",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -427,7 +427,7 @@
       "opportunity_id": "esportes-ponta-grossa-educa-esportes",
       "opportunity_title": "Ponta Grossa abre 50 vagas gratuitas em atletismo, basquete e futsal",
       "category": "esportes",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -457,7 +457,7 @@
       "opportunity_id": "esportes-marica-comunidades-em-acao",
       "opportunity_title": "Maricá oferece aulas gratuitas de judô, capoeira e samba raiz",
       "category": "esportes",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -487,7 +487,7 @@
       "opportunity_id": "esportes-sao-jose-pinhais-handebol",
       "opportunity_title": "São José dos Pinhais tem 100 vagas gratuitas de handebol para jovens",
       "category": "esportes",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -517,7 +517,7 @@
       "opportunity_id": "esportes-cariacica-vagas-gratuitas",
       "opportunity_title": "Cariacica abre mais de 500 vagas gratuitas em natação, futsal e karatê",
       "category": "esportes",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -547,7 +547,7 @@
       "opportunity_id": "esportes-ufsc-atividades-fisicas",
       "opportunity_title": "UFSC oferta mais de 2.500 vagas em atividades físicas para a comunidade",
       "category": "esportes",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -577,7 +577,7 @@
       "opportunity_id": "esportes-vila-velha-nucleos-esportivos",
       "opportunity_title": "Vila Velha disponibiliza 2.802 vagas gratuitas em núcleos esportivos",
       "category": "esportes",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -607,7 +607,7 @@
       "opportunity_id": "esportes-anapolis-bolsa-atleta",
       "opportunity_title": "Anápolis abre inscrições para 300 bolsas do Programa Bolsa Atleta 2026",
       "category": "esportes",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -637,7 +637,7 @@
       "opportunity_id": "esportes-cuiaba-bom-de-esporte",
       "opportunity_title": "Cuiabá abre 2,6 mil vagas gratuitas no projeto Bom de Esporte, Bom de Escola",
       "category": "esportes",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -667,7 +667,7 @@
       "opportunity_id": "trabalho-sesau-al-concurso",
       "opportunity_title": "Concurso SESAU-AL: 1.750 vagas em Saúde, salário até R$ 5,7 mil",
       "category": "trabalho",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -697,7 +697,7 @@
       "opportunity_id": "trabalho-ibira-sp-concurso",
       "opportunity_title": "Prefeitura de Ibirá (SP) abre concurso com 41 cargos, salários até R$ 5 mil",
       "category": "trabalho",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -727,7 +727,7 @@
       "opportunity_id": "trabalho-semef-manaus-auditor-fiscal",
       "opportunity_title": "Concurso Auditor-Fiscal em Manaus: 20 vagas com salário de R$ 27,2 mil",
       "category": "trabalho",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -757,7 +757,7 @@
       "opportunity_id": "trabalho-pm-pi-concurso",
       "opportunity_title": "Concurso PM-PI reabre: 1.001 vagas de Soldado e Oficial Capelão",
       "category": "trabalho",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -787,7 +787,7 @@
       "opportunity_id": "trabalho-transpetro-concurso",
       "opportunity_title": "Concurso Transpetro: 4.171 vagas, salários até R$ 15 mil",
       "category": "trabalho",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -817,7 +817,7 @@
       "opportunity_id": "trabalho-loreal-trainee",
       "opportunity_title": "L'Oréal abre Trainee seedZ 2026 com salário de R$ 7.700",
       "category": "trabalho",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -847,7 +847,7 @@
       "opportunity_id": "trabalho-shopee-trainee",
       "opportunity_title": "Shopee abre Trainee com possibilidade de intercâmbio internacional",
       "category": "trabalho",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -877,7 +877,7 @@
       "opportunity_id": "trabalho-conceicao-feira-cursos",
       "opportunity_title": "1.100 vagas em cursos profissionalizantes gratuitos em Conceição da Feira (BA)",
       "category": "trabalho",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -907,7 +907,7 @@
       "opportunity_id": "cultura-pbh-multilinguagens-2026",
       "opportunity_title": "BH abre Edital Multilinguagens 2026 com R$ 9,6 milhões para a cultura",
       "category": "cultura",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -937,7 +937,7 @@
       "opportunity_id": "cultura-ribeirao-preto-cultura-em-acao",
       "opportunity_title": "Ribeirão Preto abre edital de R$ 1,3 milhão para projetos culturais",
       "category": "cultura",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -967,7 +967,7 @@
       "opportunity_id": "educacao-petrobras-senai-sjc",
       "opportunity_title": "Petrobras e SENAI abrem 120 vagas gratuitas com bolsa em São José dos Campos",
       "category": "educacao",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -997,7 +997,7 @@
       "opportunity_id": "esportes-salvador-arena-aquatica",
       "opportunity_title": "Salvador abre 1.045 vagas gratuitas para natação e hidroginástica",
       "category": "esportes",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -1027,7 +1027,7 @@
       "opportunity_id": "trabalho-agepar-concurso",
       "opportunity_title": "Concurso AGEPAR: 23 vagas de Especialista em Regulação, até R$ 9,9 mil",
       "category": "trabalho",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -1057,7 +1057,7 @@
       "opportunity_id": "cultura-sc-elisabete-anderle-2026",
       "opportunity_title": "SC abre Prêmio Elisabete Anderle com R$ 9 milhões para a cultura",
       "category": "cultura",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -1087,7 +1087,7 @@
       "opportunity_id": "trabalho-salvador-jovem-aprendiz",
       "opportunity_title": "Salvador abre 600 vagas de Jovem Aprendiz Empreendedor",
       "category": "trabalho",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -1117,7 +1117,7 @@
       "opportunity_id": "trabalho-aracaju-guarda-municipal",
       "opportunity_title": "Concurso Guarda Municipal de Aracaju reabre com 100 vagas, R$ 4 mil",
       "category": "trabalho",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -1147,7 +1147,7 @@
       "opportunity_id": "trabalho-itau-trainee-2026",
       "opportunity_title": "Itaú Unibanco abre Trainee 2026 com salário de R$ 9.350",
       "category": "trabalho",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -1177,7 +1177,7 @@
       "opportunity_id": "esportes-maratona-vitoria-2026",
       "opportunity_title": "Maratona de Vitória 2026 abre inscrições para 5km a 42km",
       "category": "esportes",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -1207,7 +1207,7 @@
       "opportunity_id": "educacao-ifes-graduacao-797-vagas",
       "opportunity_title": "IFES abre 797 vagas em cursos de graduação gratuitos, sem Enem",
       "category": "educacao",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -1237,7 +1237,7 @@
       "opportunity_id": "esportes-contagem-futsal-escolar",
       "opportunity_title": "Contagem abre inscrições para torneio de futsal entre escolas municipais",
       "category": "esportes",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -1267,7 +1267,7 @@
       "opportunity_id": "trabalho-santos-sp-concurso",
       "opportunity_title": "Prefeitura de Santos abre cinco concursos com cerca de 216 vagas",
       "category": "trabalho",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -1297,7 +1297,7 @@
       "opportunity_id": "trabalho-ses-iaserj-concurso",
       "opportunity_title": "SES e IASERJ abrem concurso com mais de 180 vagas na saúde",
       "category": "trabalho",
-      "created_at": "2026-08-16T16:12:41-03:00",
+      "created_at": "2026-08-16T17:36:39-03:00",
       "scheduled_at": null,
       "published_at": null,
       "status": "draft",
@@ -1317,6 +1317,306 @@
         },
         "linkedin": {
           "text": "🎯 Trabalho | OPORTUNIDADE\n\nSES e IASERJ abrem concurso com mais de 180 vagas na saúde\n\n📋 Vagas para Enfermeiro, Farmacêutico, Médico (várias especialidades), Fisioterapeuta, Psicólogo e cargos administrativos e técnicos, com reserva para PPI e PCD. Inscrição também presencial no Rio Comprido, RJ.\n\n📍 Local: Rio de Janeiro, RJ\n📅 Prazo: Até 15/09/2026\n🎯 Vagas: 180\n\n🔗 Saiba mais: https://concursos.ibdoprojetos.org.br\n\nFonte: Secretaria de Estado de Saúde (SES) e IASERJ\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Trabalho\n\nℹ️ As informações são apresentadas para facilitar o acesso à oportunidade. Sempre confirme requisitos, prazos e condições diretamente na fonte oficial.",
+          "status": "pending"
+        }
+      },
+      "external_post_ids": {}
+    },
+    {
+      "id": "cultura-fcrb-pipc-bolsas-pesquisa-2026-08-16",
+      "opportunity_id": "cultura-fcrb-pipc-bolsas-pesquisa",
+      "opportunity_title": "Fundação Casa de Rui Barbosa abre 21 bolsas de pesquisa em Cultura, de R$ 1,7 mil a R$ 3,1 mil",
+      "category": "cultura",
+      "created_at": "2026-08-16T17:36:39-03:00",
+      "scheduled_at": null,
+      "published_at": null,
+      "status": "draft",
+      "platforms": {
+        "instagram": {
+          "caption": "🎨 #Cultura | INSCRIÇÕES ABERTAS\n\n📌 Fundação Casa de Rui Barbosa abre 21 bolsas de pesquisa em Cultura, de R$ 1,7 mil a R$ 3,1 mil\n\n💡 Concurso público seleciona pesquisadores para o Programa de Incentivo à Produção do Conhecimento Técnico e Científico na Área da Cultura (PIPC), com bolsas mensais entre R$ 1.700 e R$ 3.100.\n\n📍 Nacional\n🗓️ Até 31/08/2026\n💰 Bolsa: R$ 1.700,00 a R$ 3.100,00 mensais, conforme a categoria\n🎯 21 vagas\n\n🔗 Link na bio ou: https://www.gov.br/casaruibarbosa/pt-br/acesso-a-i...\n📎 Fonte: Fundação Casa de Rui Barbosa\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Cultura\n\n⚠️ Sempre confirme as informações diretamente na fonte oficial antes de se inscrever.\n(link completo disponível na bio do @conteste.info)",
+          "image_path": null,
+          "hashtags": [
+            "ContesteInfo InscriçõesAbertas Oportunidades",
+            "Cultura"
+          ],
+          "status": "pending"
+        },
+        "twitter": {
+          "text": "🎨 Fundação Casa de Rui Barbosa abre 21 bolsas de pesquisa em Cultura, de R$ 1,7 mil a R$ 3,1 mil\n\n📍 Nacional\n🗓️ Até 31/08/2026\n\n🔗 https://www.gov.br/casaruibarbosa/pt-br/acesso-a-i...\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Cultura",
+          "status": "pending"
+        },
+        "linkedin": {
+          "text": "🎯 Cultura | OPORTUNIDADE\n\nFundação Casa de Rui Barbosa abre 21 bolsas de pesquisa em Cultura, de R$ 1,7 mil a R$ 3,1 mil\n\n📋 Concurso público seleciona pesquisadores para o Programa de Incentivo à Produção do Conhecimento Técnico e Científico na Área da Cultura (PIPC), com bolsas mensais entre R$ 1.700 e R$ 3.100.\n\n📍 Local: Nacional\n📅 Prazo: Até 31/08/2026\n🎯 Vagas: 21\n\n🔗 Saiba mais: https://www.gov.br/casaruibarbosa/pt-br/acesso-a-informacao/licitacoes-contratos-selecoes_publicas/selecoes_publicas/concurso-de-bolsas/pdfs/2026-pipc/edital-pipc-portal.pdf\n\nFonte: Fundação Casa de Rui Barbosa\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Cultura\n\nℹ️ As informações são apresentadas para facilitar o acesso à oportunidade. Sempre confirme requisitos, prazos e condições diretamente na fonte oficial.",
+          "status": "pending"
+        }
+      },
+      "external_post_ids": {}
+    },
+    {
+      "id": "cultura-rio-premio-acoes-locais-2026-08-16",
+      "opportunity_id": "cultura-rio-premio-acoes-locais",
+      "opportunity_title": "Rio de Janeiro abre Edital Prêmio Ações Locais para projetos culturais nos territórios",
+      "category": "cultura",
+      "created_at": "2026-08-16T17:36:39-03:00",
+      "scheduled_at": null,
+      "published_at": null,
+      "status": "draft",
+      "platforms": {
+        "instagram": {
+          "caption": "🎨 #Cultura | INSCRIÇÕES ABERTAS\n\n📌 Rio de Janeiro abre Edital Prêmio Ações Locais para projetos culturais nos territórios\n\n💡 Secretaria Municipal de Cultura do Rio premia iniciativas culturais realizadas em bairros e territórios da cidade; inscrições prorrogadas até 8 de setembro.\n\n📍 Rio de Janeiro, RJ\n🗓️ Até 08/09/2026\n\n🔗 Link na bio ou: https://cultura.prefeitura.rio/edital-premio-acoes...\n📎 Fonte: Secretaria Municipal de Cultura do Rio de Janeiro\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Cultura\n\n⚠️ Sempre confirme as informações diretamente na fonte oficial antes de se inscrever.\n(link completo disponível na bio do @conteste.info)",
+          "image_path": null,
+          "hashtags": [
+            "ContesteInfo InscriçõesAbertas Oportunidades",
+            "Cultura"
+          ],
+          "status": "pending"
+        },
+        "twitter": {
+          "text": "🎨 Rio de Janeiro abre Edital Prêmio Ações Locais para projetos culturais nos territórios\n\n📍 Rio de Janeiro, RJ\n🗓️ Até 08/09/2026\n\n🔗 https://cultura.prefeitura.rio/edital-premio-acoes-locais/\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Cultura",
+          "status": "pending"
+        },
+        "linkedin": {
+          "text": "🎯 Cultura | OPORTUNIDADE\n\nRio de Janeiro abre Edital Prêmio Ações Locais para projetos culturais nos territórios\n\n📋 Secretaria Municipal de Cultura do Rio premia iniciativas culturais realizadas em bairros e territórios da cidade; inscrições prorrogadas até 8 de setembro.\n\n📍 Local: Rio de Janeiro, RJ\n📅 Prazo: Até 08/09/2026\n\n🔗 Saiba mais: https://cultura.prefeitura.rio/edital-premio-acoes-locais/\n\nFonte: Secretaria Municipal de Cultura do Rio de Janeiro\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Cultura\n\nℹ️ As informações são apresentadas para facilitar o acesso à oportunidade. Sempre confirme requisitos, prazos e condições diretamente na fonte oficial.",
+          "status": "pending"
+        }
+      },
+      "external_post_ids": {}
+    },
+    {
+      "id": "educacao-ifrj-especializacao-tecnologias-educacionais-2026-08-16",
+      "opportunity_id": "educacao-ifrj-especializacao-tecnologias-educacionais",
+      "opportunity_title": "IFRJ abre 50 vagas em pós-graduação de Tecnologias Educacionais e EaD",
+      "category": "educacao",
+      "created_at": "2026-08-16T17:36:39-03:00",
+      "scheduled_at": null,
+      "published_at": null,
+      "status": "draft",
+      "platforms": {
+        "instagram": {
+          "caption": "📚 #Educação | INSCRIÇÕES ABERTAS\n\n📌 IFRJ abre 50 vagas em pós-graduação de Tecnologias Educacionais e EaD\n\n💡 Edital nº 60/2026 oferece curso de especialização lato sensu com inscrições até 11 de setembro; candidatos de baixa renda podem pedir isenção da taxa.\n\n📍 Rio de Janeiro, RJ\n🗓️ Até 11/09/2026\n🎯 50 vagas\n\n🔗 Link na bio ou: https://www.ifrj.edu.br/cursos-pos-graduacao/lato-...\n📎 Fonte: Instituto Federal do Rio de Janeiro (IFRJ)\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Educação\n\n⚠️ Sempre confirme as informações diretamente na fonte oficial antes de se inscrever.\n(link completo disponível na bio do @conteste.info)",
+          "image_path": null,
+          "hashtags": [
+            "ContesteInfo InscriçõesAbertas Oportunidades",
+            "Educação"
+          ],
+          "status": "pending"
+        },
+        "twitter": {
+          "text": "📚 IFRJ abre 50 vagas em pós-graduação de Tecnologias Educacionais e EaD\n\n📍 Rio de Janeiro, RJ\n🗓️ Até 11/09/2026\n\n🔗 https://www.ifrj.edu.br/cursos-pos-graduacao/lato-sensu/teead\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Educação",
+          "status": "pending"
+        },
+        "linkedin": {
+          "text": "🎯 Educação | OPORTUNIDADE\n\nIFRJ abre 50 vagas em pós-graduação de Tecnologias Educacionais e EaD\n\n📋 Edital nº 60/2026 oferece curso de especialização lato sensu com inscrições até 11 de setembro; candidatos de baixa renda podem pedir isenção da taxa.\n\n📍 Local: Rio de Janeiro, RJ\n📅 Prazo: Até 11/09/2026\n🎯 Vagas: 50\n\n🔗 Saiba mais: https://www.ifrj.edu.br/cursos-pos-graduacao/lato-sensu/teead\n\nFonte: Instituto Federal do Rio de Janeiro (IFRJ)\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Educação\n\nℹ️ As informações são apresentadas para facilitar o acesso à oportunidade. Sempre confirme requisitos, prazos e condições diretamente na fonte oficial.",
+          "status": "pending"
+        }
+      },
+      "external_post_ids": {}
+    },
+    {
+      "id": "educacao-mccall-macbain-scholarship-2026-08-16",
+      "opportunity_id": "educacao-mccall-macbain-scholarship",
+      "opportunity_title": "McCall MacBain Scholarship oferece bolsa integral de mestrado na McGill University, no Canadá",
+      "category": "educacao",
+      "created_at": "2026-08-16T17:36:39-03:00",
+      "scheduled_at": null,
+      "published_at": null,
+      "status": "draft",
+      "platforms": {
+        "instagram": {
+          "caption": "📚 #Educação | INSCRIÇÕES ABERTAS\n\n📌 McCall MacBain Scholarship oferece bolsa integral de mestrado na McGill University, no Canadá\n\n💡 Programa seleciona até 30 bolsistas internacionais para mestrado na McGill, com mensalidade, taxas e estipêndio mensal cobertos; inscrição para candidatos de universidades fora do Canadá/EUA encerra em 19 de agosto.\n\n📍 Montreal, Canadá\n🗓️ ⚠️ 3 dia(s) - 19/08/2026\n💰 Gratuito\n\n🔗 Link na bio ou: https://mccallmacbainscholars.org/apply/...\n📎 Fonte: McCall MacBain Scholars\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Educação\n\n⚠️ Sempre confirme as informações diretamente na fonte oficial antes de se inscrever.\n(link completo disponível na bio do @conteste.info)",
+          "image_path": null,
+          "hashtags": [
+            "ContesteInfo InscriçõesAbertas Oportunidades",
+            "Educação"
+          ],
+          "status": "pending"
+        },
+        "twitter": {
+          "text": "📚 McCall MacBain Scholarship oferece bolsa integral de mestrado na McGill University, no Canadá\n\n📍 Montreal, Canadá\n🗓️ ⚠️ 3 dia(s) - 19/08/2026\n\n🔗 https://mccallmacbainscholars.org/apply/\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Educação",
+          "status": "pending"
+        },
+        "linkedin": {
+          "text": "🎯 Educação | OPORTUNIDADE\n\nMcCall MacBain Scholarship oferece bolsa integral de mestrado na McGill University, no Canadá\n\n📋 Programa seleciona até 30 bolsistas internacionais para mestrado na McGill, com mensalidade, taxas e estipêndio mensal cobertos; inscrição para candidatos de universidades fora do Canadá/EUA encerra em 19 de agosto.\n\n📍 Local: Montreal, Canadá\n📅 Prazo: ⚠️ 3 dia(s) - 19/08/2026\n💰 Gratuito\n\n🔗 Saiba mais: https://mccallmacbainscholars.org/apply/\n\nFonte: McCall MacBain Scholars\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Educação\n\nℹ️ As informações são apresentadas para facilitar o acesso à oportunidade. Sempre confirme requisitos, prazos e condições diretamente na fonte oficial.",
+          "status": "pending"
+        }
+      },
+      "external_post_ids": {}
+    },
+    {
+      "id": "esportes-maratona-criciuma-2026-2026-08-16",
+      "opportunity_id": "esportes-maratona-criciuma-2026",
+      "opportunity_title": "Maratona de Criciúma 2026 abre inscrições para provas de 5km a 42km",
+      "category": "esportes",
+      "created_at": "2026-08-16T17:36:39-03:00",
+      "scheduled_at": null,
+      "published_at": null,
+      "status": "draft",
+      "platforms": {
+        "instagram": {
+          "caption": "⚽ #Esportes | INSCRIÇÕES ABERTAS\n\n📌 Maratona de Criciúma 2026 abre inscrições para provas de 5km a 42km\n\n💡 Prova reúne até 2,5 mil atletas em Santa Catarina no dia 27 de setembro, com percursos de 5km, 10km, 21km e 42km; inscrições até 11 de setembro ou até esgotar vagas.\n\n📍 Criciúma, SC\n🗓️ Até 11/09/2026\n🎯 2500 vagas\n\n🔗 Link na bio ou: https://www.3lr.esp.br...\n📎 Fonte: 3LR Eventos Esportivos\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Esportes\n\n⚠️ Sempre confirme as informações diretamente na fonte oficial antes de se inscrever.\n(link completo disponível na bio do @conteste.info)",
+          "image_path": null,
+          "hashtags": [
+            "ContesteInfo InscriçõesAbertas Oportunidades",
+            "Esportes"
+          ],
+          "status": "pending"
+        },
+        "twitter": {
+          "text": "⚽ Maratona de Criciúma 2026 abre inscrições para provas de 5km a 42km\n\n📍 Criciúma, SC\n🗓️ Até 11/09/2026\n\n🔗 https://www.3lr.esp.br\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Esportes",
+          "status": "pending"
+        },
+        "linkedin": {
+          "text": "🎯 Esportes | OPORTUNIDADE\n\nMaratona de Criciúma 2026 abre inscrições para provas de 5km a 42km\n\n📋 Prova reúne até 2,5 mil atletas em Santa Catarina no dia 27 de setembro, com percursos de 5km, 10km, 21km e 42km; inscrições até 11 de setembro ou até esgotar vagas.\n\n📍 Local: Criciúma, SC\n📅 Prazo: Até 11/09/2026\n🎯 Vagas: 2500\n\n🔗 Saiba mais: https://www.3lr.esp.br\n\nFonte: 3LR Eventos Esportivos\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Esportes\n\nℹ️ As informações são apresentadas para facilitar o acesso à oportunidade. Sempre confirme requisitos, prazos e condições diretamente na fonte oficial.",
+          "status": "pending"
+        }
+      },
+      "external_post_ids": {}
+    },
+    {
+      "id": "trabalho-embu-das-artes-concurso-003-2026-08-16",
+      "opportunity_id": "trabalho-embu-das-artes-concurso-003",
+      "opportunity_title": "Prefeitura de Embu das Artes (SP) abre concurso com salários até R$ 9,7 mil",
+      "category": "trabalho",
+      "created_at": "2026-08-16T17:36:39-03:00",
+      "scheduled_at": null,
+      "published_at": null,
+      "status": "draft",
+      "platforms": {
+        "instagram": {
+          "caption": "💼 #Trabalho | INSCRIÇÕES ABERTAS\n\n📌 Prefeitura de Embu das Artes (SP) abre concurso com salários até R$ 9,7 mil\n\n💡 Concurso Público nº 003/2026 oferece vagas de níveis fundamental, médio, técnico e superior, com remuneração de R$ 1.816,52 a R$ 9.745,00; inscrições até 8 de outubro.\n\n📍 Embu das Artes, SP\n🗓️ Até 08/10/2026\n💰 R$ 1.816,52 a R$ 9.745,00\n\n🔗 Link na bio ou: https://app.inepam.org.br/concurso/concursoPaginaI...\n📎 Fonte: Prefeitura de Embu das Artes / INEPAM\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Trabalho\n\n⚠️ Sempre confirme as informações diretamente na fonte oficial antes de se inscrever.\n(link completo disponível na bio do @conteste.info)",
+          "image_path": null,
+          "hashtags": [
+            "ContesteInfo InscriçõesAbertas Oportunidades",
+            "Trabalho"
+          ],
+          "status": "pending"
+        },
+        "twitter": {
+          "text": "💼 Prefeitura de Embu das Artes (SP) abre concurso com salários até R$ 9,7 mil\n\n📍 Embu das Artes, SP\n🗓️ Até 08/10/2026\n\n🔗 https://app.inepam.org.br/concurso/concursoPaginaInterna.do?idConcurso=26&idInstituicao=14\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Trabalho",
+          "status": "pending"
+        },
+        "linkedin": {
+          "text": "🎯 Trabalho | OPORTUNIDADE\n\nPrefeitura de Embu das Artes (SP) abre concurso com salários até R$ 9,7 mil\n\n📋 Concurso Público nº 003/2026 oferece vagas de níveis fundamental, médio, técnico e superior, com remuneração de R$ 1.816,52 a R$ 9.745,00; inscrições até 8 de outubro.\n\n📍 Local: Embu das Artes, SP\n📅 Prazo: Até 08/10/2026\n\n🔗 Saiba mais: https://app.inepam.org.br/concurso/concursoPaginaInterna.do?idConcurso=26&idInstituicao=14\n\nFonte: Prefeitura de Embu das Artes / INEPAM\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Trabalho\n\nℹ️ As informações são apresentadas para facilitar o acesso à oportunidade. Sempre confirme requisitos, prazos e condições diretamente na fonte oficial.",
+          "status": "pending"
+        }
+      },
+      "external_post_ids": {}
+    },
+    {
+      "id": "trabalho-cra-rj-concurso-2026-08-16",
+      "opportunity_id": "trabalho-cra-rj-concurso",
+      "opportunity_title": "Concurso CRA-RJ abre 84 vagas com salários de até R$ 6,3 mil",
+      "category": "trabalho",
+      "created_at": "2026-08-16T17:36:39-03:00",
+      "scheduled_at": null,
+      "published_at": null,
+      "status": "draft",
+      "platforms": {
+        "instagram": {
+          "caption": "💼 #Trabalho | INSCRIÇÕES ABERTAS\n\n📌 Concurso CRA-RJ abre 84 vagas com salários de até R$ 6,3 mil\n\n💡 Conselho Regional de Administração do Rio de Janeiro oferece 4 vagas imediatas e 80 para cadastro de reserva, níveis médio e superior; inscrições de 20/08 a 15/09 pelo site do IADES.\n\n📍 Rio de Janeiro, RJ\n🗓️ Até 15/09/2026\n💰 R$ 2.437,00 a R$ 6.369,00\n🎯 84 vagas\n\n🔗 Link na bio ou: https://www.iades.com.br/inscricao/ProcessoSeletiv...\n📎 Fonte: CRA-RJ / IADES\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Trabalho\n\n⚠️ Sempre confirme as informações diretamente na fonte oficial antes de se inscrever.\n(link completo disponível na bio do @conteste.info)",
+          "image_path": null,
+          "hashtags": [
+            "ContesteInfo InscriçõesAbertas Oportunidades",
+            "Trabalho"
+          ],
+          "status": "pending"
+        },
+        "twitter": {
+          "text": "💼 Concurso CRA-RJ abre 84 vagas com salários de até R$ 6,3 mil\n\n📍 Rio de Janeiro, RJ\n🗓️ Até 15/09/2026\n\n🔗 https://www.iades.com.br/inscricao/ProcessoSeletivo.aspx?id=d64c363d35\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Trabalho",
+          "status": "pending"
+        },
+        "linkedin": {
+          "text": "🎯 Trabalho | OPORTUNIDADE\n\nConcurso CRA-RJ abre 84 vagas com salários de até R$ 6,3 mil\n\n📋 Conselho Regional de Administração do Rio de Janeiro oferece 4 vagas imediatas e 80 para cadastro de reserva, níveis médio e superior; inscrições de 20/08 a 15/09 pelo site do IADES.\n\n📍 Local: Rio de Janeiro, RJ\n📅 Prazo: Até 15/09/2026\n🎯 Vagas: 84\n\n🔗 Saiba mais: https://www.iades.com.br/inscricao/ProcessoSeletivo.aspx?id=d64c363d35\n\nFonte: CRA-RJ / IADES\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Trabalho\n\nℹ️ As informações são apresentadas para facilitar o acesso à oportunidade. Sempre confirme requisitos, prazos e condições diretamente na fonte oficial.",
+          "status": "pending"
+        }
+      },
+      "external_post_ids": {}
+    },
+    {
+      "id": "trabalho-unesp-franca-professor-substituto-2026-08-16",
+      "opportunity_id": "trabalho-unesp-franca-professor-substituto",
+      "opportunity_title": "UNESP abre concurso para professor substituto no campus de Franca (SP)",
+      "category": "trabalho",
+      "created_at": "2026-08-16T17:36:39-03:00",
+      "scheduled_at": null,
+      "published_at": null,
+      "status": "draft",
+      "platforms": {
+        "instagram": {
+          "caption": "💼 #Trabalho | INSCRIÇÕES ABERTAS\n\n📌 UNESP abre concurso para professor substituto no campus de Franca (SP)\n\n💡 Edital 153/2026-FCHS/CF seleciona professor substituto na Faculdade de Ciências Humanas e Sociais; inscrições de 17 a 31 de agosto pelo site da Unesp.\n\n📍 Franca, SP\n🗓️ Até 31/08/2026\n\n🔗 Link na bio ou: https://inscricoes.unesp.br/concurso/6084...\n📎 Fonte: Universidade Estadual Paulista (UNESP)\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Trabalho\n\n⚠️ Sempre confirme as informações diretamente na fonte oficial antes de se inscrever.\n(link completo disponível na bio do @conteste.info)",
+          "image_path": null,
+          "hashtags": [
+            "ContesteInfo InscriçõesAbertas Oportunidades",
+            "Trabalho"
+          ],
+          "status": "pending"
+        },
+        "twitter": {
+          "text": "💼 UNESP abre concurso para professor substituto no campus de Franca (SP)\n\n📍 Franca, SP\n🗓️ Até 31/08/2026\n\n🔗 https://inscricoes.unesp.br/concurso/6084\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Trabalho",
+          "status": "pending"
+        },
+        "linkedin": {
+          "text": "🎯 Trabalho | OPORTUNIDADE\n\nUNESP abre concurso para professor substituto no campus de Franca (SP)\n\n📋 Edital 153/2026-FCHS/CF seleciona professor substituto na Faculdade de Ciências Humanas e Sociais; inscrições de 17 a 31 de agosto pelo site da Unesp.\n\n📍 Local: Franca, SP\n📅 Prazo: Até 31/08/2026\n\n🔗 Saiba mais: https://inscricoes.unesp.br/concurso/6084\n\nFonte: Universidade Estadual Paulista (UNESP)\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Trabalho\n\nℹ️ As informações são apresentadas para facilitar o acesso à oportunidade. Sempre confirme requisitos, prazos e condições diretamente na fonte oficial.",
+          "status": "pending"
+        }
+      },
+      "external_post_ids": {}
+    },
+    {
+      "id": "trabalho-tractian-sales-trainee-2027-2026-08-16",
+      "opportunity_id": "trabalho-tractian-sales-trainee-2027",
+      "opportunity_title": "Tractian abre Sales Trainee Program 2027 com salário de R$ 9.700 + comissões",
+      "category": "trabalho",
+      "created_at": "2026-08-16T17:36:39-03:00",
+      "scheduled_at": null,
+      "published_at": null,
+      "status": "draft",
+      "platforms": {
+        "instagram": {
+          "caption": "💼 #Trabalho | INSCRIÇÕES ABERTAS\n\n📌 Tractian abre Sales Trainee Program 2027 com salário de R$ 9.700 + comissões\n\n💡 Programa forma trainees em vendas técnicas industriais, com remuneração mínima de R$ 9.700/mês (podendo chegar a R$ 19.000 com comissões); inscrições até 21 de agosto.\n\n📍 São Paulo, SP\n🗓️ Até 21/08/2026\n💰 R$ 9.700,00 fixo + comissões (média R$ 13.000, teto R$ 19.000)\n\n🔗 Link na bio ou: https://careers.tractian.com/sales-trainee...\n📎 Fonte: Tractian\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Trabalho\n\n⚠️ Sempre confirme as informações diretamente na fonte oficial antes de se inscrever.\n(link completo disponível na bio do @conteste.info)",
+          "image_path": null,
+          "hashtags": [
+            "ContesteInfo InscriçõesAbertas Oportunidades",
+            "Trabalho"
+          ],
+          "status": "pending"
+        },
+        "twitter": {
+          "text": "💼 Tractian abre Sales Trainee Program 2027 com salário de R$ 9.700 + comissões\n\n📍 São Paulo, SP\n🗓️ Até 21/08/2026\n\n🔗 https://careers.tractian.com/sales-trainee\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Trabalho",
+          "status": "pending"
+        },
+        "linkedin": {
+          "text": "🎯 Trabalho | OPORTUNIDADE\n\nTractian abre Sales Trainee Program 2027 com salário de R$ 9.700 + comissões\n\n📋 Programa forma trainees em vendas técnicas industriais, com remuneração mínima de R$ 9.700/mês (podendo chegar a R$ 19.000 com comissões); inscrições até 21 de agosto.\n\n📍 Local: São Paulo, SP\n📅 Prazo: Até 21/08/2026\n\n🔗 Saiba mais: https://careers.tractian.com/sales-trainee\n\nFonte: Tractian\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Trabalho\n\nℹ️ As informações são apresentadas para facilitar o acesso à oportunidade. Sempre confirme requisitos, prazos e condições diretamente na fonte oficial.",
+          "status": "pending"
+        }
+      },
+      "external_post_ids": {}
+    },
+    {
+      "id": "trabalho-ciee-estagio-jovem-aprendiz-2026-08-16",
+      "opportunity_id": "trabalho-ciee-estagio-jovem-aprendiz",
+      "opportunity_title": "CIEE oferece vagas contínuas de estágio e Jovem Aprendiz em todo o Brasil",
+      "category": "trabalho",
+      "created_at": "2026-08-16T17:36:39-03:00",
+      "scheduled_at": null,
+      "published_at": null,
+      "status": "draft",
+      "platforms": {
+        "instagram": {
+          "caption": "💼 #Trabalho | INSCRIÇÕES ABERTAS\n\n📌 CIEE oferece vagas contínuas de estágio e Jovem Aprendiz em todo o Brasil\n\n💡 Portal do CIEE reúne vagas de estágio, Jovem Aprendiz e primeiro emprego para estudantes e jovens de 14 a 24 anos, com cadastro totalmente online e gratuito.\n\n📍 Nacional\n🗓️ Vagas contínuas\n💰 Gratuito\n\n🔗 Link na bio ou: https://portal.ciee.org.br/quero-uma-vaga/...\n📎 Fonte: CIEE - Centro de Integração Empresa-Escola\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Trabalho\n\n⚠️ Sempre confirme as informações diretamente na fonte oficial antes de se inscrever.\n(link completo disponível na bio do @conteste.info)",
+          "image_path": null,
+          "hashtags": [
+            "ContesteInfo InscriçõesAbertas Oportunidades",
+            "Trabalho"
+          ],
+          "status": "pending"
+        },
+        "twitter": {
+          "text": "💼 CIEE oferece vagas contínuas de estágio e Jovem Aprendiz em todo o Brasil\n\n📍 Nacional\n🗓️ Vagas contínuas\n\n🔗 https://portal.ciee.org.br/quero-uma-vaga/\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Trabalho",
+          "status": "pending"
+        },
+        "linkedin": {
+          "text": "🎯 Trabalho | OPORTUNIDADE\n\nCIEE oferece vagas contínuas de estágio e Jovem Aprendiz em todo o Brasil\n\n📋 Portal do CIEE reúne vagas de estágio, Jovem Aprendiz e primeiro emprego para estudantes e jovens de 14 a 24 anos, com cadastro totalmente online e gratuito.\n\n📍 Local: Nacional\n📅 Prazo: Vagas contínuas\n💰 Gratuito\n\n🔗 Saiba mais: https://portal.ciee.org.br/quero-uma-vaga/\n\nFonte: CIEE - Centro de Integração Empresa-Escola\n\n#ContesteInfo #InscriçõesAbertas #Oportunidades #Trabalho\n\nℹ️ As informações são apresentadas para facilitar o acesso à oportunidade. Sempre confirme requisitos, prazos e condições diretamente na fonte oficial.",
           "status": "pending"
         }
       },
