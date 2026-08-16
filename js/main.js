@@ -32,7 +32,7 @@ const state = {
 document.addEventListener('DOMContentLoaded', function() {
     initMobileMenu();
     initScrollEffects();
-    initNewsletterForm();
+    initPremiumLink();
     initScrollAnimations();
     initOpportunities();
     initSearchAndFilters();
@@ -94,55 +94,24 @@ function initScrollEffects() {
 }
 
 /**
- * Integração com Buttondown (https://buttondown.com).
- * 1. Crie uma conta gratuita em https://buttondown.com
+ * Assinatura premium via Buttondown (https://buttondown.com), que tem suporte
+ * nativo a assinantes pagantes (Stripe): checkout, cobrança recorrente anual e
+ * envio das edições marcadas como "premium" só para quem pagou.
+ * 1. Configure a conta em https://buttondown.com e ative "Premium subscriptions"
+ *    nas configurações, conectando uma conta Stripe e definindo o preço anual (R$ 19,90).
  * 2. Troque BUTTONDOWN_USERNAME abaixo pelo seu usuário Buttondown.
- * Até lá, o formulário funciona em modo simulado (não envia e-mails de verdade).
+ * Até lá, o botão "Assinar Premium" fica com um link de exemplo (não funcional).
  */
-function initNewsletterForm() {
-    const form = document.getElementById('newsletterForm');
-    if (!form) return;
+function initPremiumLink() {
+    const link = document.getElementById('premiumSubscribeLink');
+    if (!link) return;
 
     const isConfigured = CONFIG.BUTTONDOWN_USERNAME !== 'SEU_USUARIO_BUTTONDOWN';
-    if (isConfigured) {
-        form.action = 'https://buttondown.com/api/emails/embed-subscribe/' + CONFIG.BUTTONDOWN_USERNAME;
-    } else {
-        console.info('[CONTESTE.INFO] Newsletter em modo simulado. Configure BUTTONDOWN_USERNAME em js/main.js para ativar o envio real.');
+    link.href = 'https://buttondown.com/' + CONFIG.BUTTONDOWN_USERNAME;
+
+    if (!isConfigured) {
+        console.info('[CONTESTE.INFO] Assinatura premium em modo exemplo. Configure BUTTONDOWN_USERNAME em js/main.js para ativar o link real.');
     }
-
-    form.addEventListener('submit', function(e) {
-        const emailInput = this.querySelector('input[type="email"]');
-        const email = emailInput.value.trim();
-        const button = this.querySelector('button');
-
-        if (!isValidEmail(email)) {
-            e.preventDefault();
-            showNotification('Por favor, digite um e-mail válido.', 'error');
-            emailInput.focus();
-            return;
-        }
-
-        if (!isConfigured) {
-            e.preventDefault();
-            button.disabled = true;
-            button.textContent = 'Enviando...';
-
-            setTimeout(function() {
-                showNotification('Inscrição realizada com sucesso!', 'success');
-                form.reset();
-                button.disabled = false;
-                button.textContent = 'Inscrever-se';
-            }, 1500);
-            return;
-        }
-
-        showNotification('Quase lá! Confira seu e-mail para confirmar a inscrição.', 'success');
-    });
-}
-
-function isValidEmail(email) {
-    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    return emailRegex.test(email);
 }
 
 function showNotification(message, type = 'info') {
@@ -659,11 +628,18 @@ const TRANSLATIONS = {
             inicio: "Início",
             veja_mais: "VEJA MAIS →"
         },
-        newsletter: {
-            title: "Receba oportunidades no seu e-mail",
-            text: "Cadastre-se para receber editais, bolsas, cursos gratuitos, concursos e vagas de Cultura, Educação, Esportes e Trabalho.",
-            placeholder: "Digite seu e-mail",
-            button: "Inscrever-se"
+        plans: {
+            title: "Duas formas de aproveitar o Conteste.info",
+            subtitle: "Use o site gratuitamente e busque por conta própria, ou assine a newsletter premium e receba tudo pronto no seu e-mail.",
+            free_badge: "Gratuito",
+            free_price: "R$ 0",
+            free_features: ["Acesso completo ao site", "Busca e filtros por categoria", "Atualizado todos os dias", "Você mesmo busca as oportunidades"],
+            free_cta: "Explorar oportunidades",
+            premium_badge: "Premium",
+            premium_price: "R$ 19,90",
+            premium_period: "/ano",
+            premium_features: ["Newsletter com curadoria pronta no seu e-mail", "Sem precisar buscar: as oportunidades chegam até você", "Material de apoio exclusivo: provas anteriores de concursos", "Avisos de prazos que estão terminando"],
+            premium_cta: "Assinar Premium"
         },
         footer: {
             description: "Seu portal de oportunidades: editais, bolsas, cursos gratuitos, concursos e vagas em Cultura, Educação, Esportes e Trabalho.",
@@ -706,11 +682,18 @@ const TRANSLATIONS = {
             inicio: "Home",
             veja_mais: "SEE MORE →"
         },
-        newsletter: {
-            title: "Receive opportunities in your email",
-            text: "Subscribe to receive grants, scholarships, free courses, competitions and job openings in Culture, Education, Sports and Work.",
-            placeholder: "Enter your email",
-            button: "Subscribe"
+        plans: {
+            title: "Two ways to use Conteste.info",
+            subtitle: "Use the site for free and search on your own, or subscribe to the premium newsletter and get everything ready in your inbox.",
+            free_badge: "Free",
+            free_price: "$0",
+            free_features: ["Full access to the site", "Search and filters by category", "Updated every day", "You search for opportunities yourself"],
+            free_cta: "Explore opportunities",
+            premium_badge: "Premium",
+            premium_price: "R$ 19.90",
+            premium_period: "/year",
+            premium_features: ["Curated newsletter delivered to your inbox", "No searching needed: opportunities come to you", "Exclusive study material: past exam papers", "Alerts for deadlines about to close"],
+            premium_cta: "Subscribe Premium"
         },
         footer: {
             description: "Your opportunities portal: grants, scholarships, free courses, competitions and jobs in Culture, Education, Sports and Work.",
@@ -753,11 +736,18 @@ const TRANSLATIONS = {
             inicio: "Inicio",
             veja_mais: "VER MÁS →"
         },
-        newsletter: {
-            title: "Recibe oportunidades en tu email",
-            text: "Suscríbete para recibir convocatorias, becas, cursos gratuitos, oposiciones y ofertas de empleo en Cultura, Educación, Deportes y Trabajo.",
-            placeholder: "Ingresa tu email",
-            button: "Suscribirse"
+        plans: {
+            title: "Dos formas de aprovechar Conteste.info",
+            subtitle: "Usa el sitio gratis y busca por tu cuenta, o suscríbete al boletín premium y recibe todo listo en tu correo.",
+            free_badge: "Gratuito",
+            free_price: "R$ 0",
+            free_features: ["Acceso completo al sitio", "Búsqueda y filtros por categoría", "Actualizado todos los días", "Tú mismo buscas las oportunidades"],
+            free_cta: "Explorar oportunidades",
+            premium_badge: "Premium",
+            premium_price: "R$ 19,90",
+            premium_period: "/año",
+            premium_features: ["Boletín con curaduría lista en tu correo", "Sin necesidad de buscar: las oportunidades llegan a ti", "Material de apoyo exclusivo: exámenes anteriores", "Avisos de plazos que están por vencer"],
+            premium_cta: "Suscribirse Premium"
         },
         footer: {
             description: "Tu portal de oportunidades: convocatorias, becas, cursos gratuitos, oposiciones y empleos en Cultura, Educación, Deportes y Trabajo.",
@@ -917,18 +907,43 @@ function applyTranslations(lang) {
         link.textContent = t.nav.veja_mais;
     });
     
-    // Newsletter
-    const newsletterTitle = document.querySelector('.newsletter-title');
-    if (newsletterTitle) newsletterTitle.textContent = t.newsletter.title;
-    
-    const newsletterText = document.querySelector('.newsletter-text');
-    if (newsletterText) newsletterText.textContent = t.newsletter.text;
-    
-    const newsletterInput = document.querySelector('.newsletter-input');
-    if (newsletterInput) newsletterInput.placeholder = t.newsletter.placeholder;
-    
-    const newsletterBtn = document.querySelector('.newsletter-form button');
-    if (newsletterBtn) newsletterBtn.textContent = t.newsletter.button;
+    // Planos
+    const plansTitle = document.querySelector('.plans-title');
+    if (plansTitle) plansTitle.textContent = t.plans.title;
+
+    const plansSubtitle = document.querySelector('.plans-subtitle');
+    if (plansSubtitle) plansSubtitle.textContent = t.plans.subtitle;
+
+    const planCards = document.querySelectorAll('.plan-card');
+    if (planCards.length === 2) {
+        const [freeCard, premiumCard] = planCards;
+
+        const freeBadge = freeCard.querySelector('.plan-badge');
+        if (freeBadge) freeBadge.textContent = t.plans.free_badge;
+        const freePrice = freeCard.querySelector('.plan-price');
+        if (freePrice) freePrice.textContent = t.plans.free_price;
+        freeCard.querySelectorAll('.plan-features li').forEach((li, i) => {
+            if (t.plans.free_features[i]) li.textContent = t.plans.free_features[i];
+        });
+        const freeCta = freeCard.querySelector('.plan-cta');
+        if (freeCta) freeCta.textContent = t.plans.free_cta;
+
+        const premiumBadge = premiumCard.querySelector('.plan-badge');
+        if (premiumBadge) premiumBadge.textContent = t.plans.premium_badge;
+        const premiumPrice = premiumCard.querySelector('.plan-price');
+        if (premiumPrice) {
+            premiumPrice.textContent = t.plans.premium_price;
+            const period = document.createElement('span');
+            period.className = 'plan-period';
+            period.textContent = t.plans.premium_period;
+            premiumPrice.appendChild(period);
+        }
+        premiumCard.querySelectorAll('.plan-features li').forEach((li, i) => {
+            if (t.plans.premium_features[i]) li.textContent = t.plans.premium_features[i];
+        });
+        const premiumCta = premiumCard.querySelector('.plan-cta');
+        if (premiumCta) premiumCta.textContent = t.plans.premium_cta;
+    }
     
     // Footer
     const footerDesc = document.querySelector('.footer-description');
