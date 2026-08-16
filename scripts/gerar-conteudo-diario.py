@@ -9,6 +9,7 @@ Reexecute sempre que data/oportunidades.json for atualizado com uma nova pesquis
 import json
 import os
 import re
+import time
 import urllib.request
 from datetime import date
 
@@ -26,16 +27,24 @@ def load_opportunities():
         return json.load(f)["opportunities"]
 
 
-def download_image(url, dest_path):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=20) as resp:
-        ext = os.path.splitext(url.split("?")[0])[1].lower()
-        if ext not in (".jpg", ".jpeg", ".png", ".webp", ".svg", ".gif"):
-            ext = ".jpg"
-        path = dest_path + ext
-        with open(path, "wb") as out:
-            out.write(resp.read())
-        return os.path.basename(path)
+def download_image(url, dest_path, retries=3, backoff_seconds=4):
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+    last_error = None
+    for attempt in range(retries):
+        if attempt > 0:
+            time.sleep(backoff_seconds)
+        try:
+            with urllib.request.urlopen(req, timeout=20) as resp:
+                ext = os.path.splitext(url.split("?")[0])[1].lower()
+                if ext not in (".jpg", ".jpeg", ".png", ".webp", ".svg", ".gif"):
+                    ext = ".jpg"
+                path = dest_path + ext
+                with open(path, "wb") as out:
+                    out.write(resp.read())
+                return os.path.basename(path)
+        except Exception as e:
+            last_error = e
+    raise last_error
 
 
 def build_caption(item):

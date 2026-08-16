@@ -176,7 +176,9 @@ function initOpportunities() {
             return res.json();
         })
         .then(function(data) {
-            const all = Array.isArray(data.opportunities) ? data.opportunities : [];
+            const all = (Array.isArray(data.opportunities) ? data.opportunities : []).slice().sort(function(a, b) {
+                return (b.added_at || '').localeCompare(a.added_at || '');
+            });
             sections.forEach(function(section) {
                 const grid = section.querySelector('.news-grid');
                 if (!grid) return;
