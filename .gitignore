@@ -1,0 +1,17 @@
+# ============================================================
+# CONTESTE.INFO — Arquivos INTERNOS (nao vao para o site)
+# Como o deploy automatico GitHub -> Hostinger publica o
+# conteudo do repositorio, tudo aqui fica de fora do site.
+# ============================================================
+/scripts/
+/relatorios/
+/publicacoes/
+/social-media/
+/README.md
+/data/lotes/
+
+# Sistema / cache
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
