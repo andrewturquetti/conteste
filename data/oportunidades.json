@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T02:22:49-03:00",
+  "generated_at": "2026-11-02T02:36:55-03:00",
   "opportunities": [
     {
       "id": "trabalho-tce-go-concurso-2026",
@@ -27,7 +27,10 @@
       "last_seen_date": "2026-11-02",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T02:22:49-03:00",
-      "verified_at": "2026-11-02T02:19:02-03:00"
+      "verified_at": "2026-11-02T02:19:02-03:00",
+      "social_label": "CONCURSOS",
+      "social_keyword": "TCE-GO",
+      "social_subtitle": "Tribunal de Contas de Goiás · GO"
     },
     {
       "id": "cultura-sp-sonhar-o-mundo-2026",
@@ -56,7 +59,10 @@
       "last_seen_date": "2026-11-02",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T02:22:49-03:00",
-      "verified_at": "2026-11-02T02:19:02-03:00"
+      "verified_at": "2026-11-02T02:19:02-03:00",
+      "social_label": "CULTURA",
+      "social_keyword": "MUSEUS",
+      "social_subtitle": "Sonhar o Mundo 2026 · SP"
     },
     {
       "id": "esportes-sesc-olimpico-2027-df",
@@ -85,7 +91,10 @@
       "last_seen_date": "2026-11-02",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T02:22:49-03:00",
-      "verified_at": "2026-11-02T02:19:02-03:00"
+      "verified_at": "2026-11-02T02:19:02-03:00",
+      "social_label": "ESPORTES",
+      "social_keyword": "SESC",
+      "social_subtitle": "Sesc Olímpico 2027 · DF"
     },
     {
       "id": "educacao-senac-ead-tecnicos-psg",
@@ -115,7 +124,10 @@
       "last_seen_date": "2026-11-02",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T02:22:49-03:00",
-      "verified_at": "2026-11-02T02:19:02-03:00"
+      "verified_at": "2026-11-02T02:19:02-03:00",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "SENAC",
+      "social_subtitle": "Cursos técnicos EAD gratuitos"
     },
     {
       "id": "cultura-santa-rosa-pnab-ciclo-2",
@@ -145,7 +157,10 @@
       "last_seen_date": "2026-11-02",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T02:22:49-03:00",
-      "verified_at": "2026-11-02T02:19:02-03:00"
+      "verified_at": "2026-11-02T02:19:02-03:00",
+      "social_label": "CULTURA",
+      "social_keyword": "PNAB",
+      "social_subtitle": "Editais Aldir Blanc · Santa Rosa, RS"
     },
     {
       "id": "trabalho-prefeitura-curitiba-concurso-2026",
@@ -173,7 +188,10 @@
       "last_seen_date": "2026-11-02",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T02:22:49-03:00",
-      "verified_at": "2026-11-02T02:19:02-03:00"
+      "verified_at": "2026-11-02T02:19:02-03:00",
+      "social_label": "CONCURSOS",
+      "social_keyword": "CURITIBA",
+      "social_subtitle": "Concurso da Prefeitura · 348 vagas"
     },
     {
       "id": "trabalho-pm-pe-bombeiros-2026",
@@ -202,7 +220,10 @@
       "last_seen_date": "2026-11-02",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T02:22:49-03:00",
-      "verified_at": "2026-11-02T02:19:02-03:00"
+      "verified_at": "2026-11-02T02:19:02-03:00",
+      "social_label": "CONCURSOS",
+      "social_keyword": "PM-PE",
+      "social_subtitle": "Polícia Militar e Bombeiros · PE"
     },
     {
       "id": "educacao-ifrj-cursos-tecnicos-2027",
@@ -231,7 +252,10 @@
       "last_seen_date": "2026-11-02",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T02:22:49-03:00",
-      "verified_at": "2026-11-02T02:19:02-03:00"
+      "verified_at": "2026-11-02T02:19:02-03:00",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "IFRJ",
+      "social_subtitle": "Cursos técnicos gratuitos · RJ"
     },
     {
       "id": "educacao-cetam-ead-qualificacao",
@@ -261,7 +285,10 @@
       "last_seen_date": "2026-11-02",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T02:22:49-03:00",
-      "verified_at": "2026-11-02T02:19:02-03:00"
+      "verified_at": "2026-11-02T02:19:02-03:00",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "CETAM",
+      "social_subtitle": "50.150 vagas EaD gratuitas · AM"
     },
     {
       "id": "trabalho-cgu-auditor-2026",
@@ -290,7 +317,10 @@
       "last_seen_date": "2026-11-02",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T02:22:49-03:00",
-      "verified_at": "2026-11-02T02:19:02-03:00"
+      "verified_at": "2026-11-02T02:19:02-03:00",
+      "social_label": "CONCURSOS",
+      "social_keyword": "CGU",
+      "social_subtitle": "Auditor federal · R$ 20 mil"
     },
     {
       "id": "cultura-piracicaba-55-sac-2026",
@@ -319,7 +349,10 @@
       "last_seen_date": "2026-11-02",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T02:22:49-03:00",
-      "verified_at": "2026-11-02T02:19:02-03:00"
+      "verified_at": "2026-11-02T02:19:02-03:00",
+      "social_label": "CULTURA",
+      "social_keyword": "ARTE",
+      "social_subtitle": "55º Salão de Arte Contemporânea · SP"
     },
     {
       "id": "esportes-vila-velha-nucleos-esportivos",
@@ -360,7 +393,10 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-02"
+      "last_seen_date": "2026-11-02",
+      "social_label": "ESPORTES",
+      "social_keyword": "VILA VELHA",
+      "social_subtitle": "Núcleos esportivos gratuitos · ES"
     },
     {
       "id": "esportes-sao-jose-pinhais-handebol",
@@ -401,7 +437,10 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-02"
+      "last_seen_date": "2026-11-02",
+      "social_label": "ESPORTES",
+      "social_keyword": "HANDEBOL",
+      "social_subtitle": "100 vagas gratuitas · São José dos Pinhais, PR"
     },
     {
       "id": "trabalho-salvador-jovem-aprendiz",
@@ -443,7 +482,10 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-02"
+      "last_seen_date": "2026-11-02",
+      "social_label": "TRABALHO",
+      "social_keyword": "JOVEM APRENDIZ",
+      "social_subtitle": "Vagas em Salvador · BA"
     },
     {
       "id": "esportes-ponta-grossa-educa-esportes",
@@ -484,7 +526,10 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-02"
+      "last_seen_date": "2026-11-02",
+      "social_label": "ESPORTES",
+      "social_keyword": "PONTA GROSSA",
+      "social_subtitle": "50 vagas gratuitas · PR"
     },
     {
       "id": "cultura-minc-biblioteca-cultura-viva",
@@ -525,7 +570,10 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-02"
+      "last_seen_date": "2026-11-02",
+      "social_label": "CULTURA",
+      "social_keyword": "BIBLIOTECAS",
+      "social_subtitle": "Pontos de Cultura · Nacional"
     },
     {
       "id": "esportes-marica-comunidades-em-acao",
@@ -566,7 +614,10 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-02"
+      "last_seen_date": "2026-11-02",
+      "social_label": "ESPORTES",
+      "social_keyword": "MARICÁ",
+      "social_subtitle": "Judô, capoeira e samba raiz · RJ"
     },
     {
       "id": "educacao-ifrs-cursos-online",
@@ -607,7 +658,10 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-02"
+      "last_seen_date": "2026-11-02",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "IFRS",
+      "social_subtitle": "200+ cursos online gratuitos"
     },
     {
       "id": "cultura-funarte-aberta",
@@ -648,7 +702,10 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-02"
+      "last_seen_date": "2026-11-02",
+      "social_label": "CULTURA",
+      "social_keyword": "FUNARTE",
+      "social_subtitle": "Espaços culturais gratuitos"
     },
     {
       "id": "esportes-cuiaba-bom-de-esporte",
@@ -689,7 +746,10 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-02"
+      "last_seen_date": "2026-11-02",
+      "social_label": "ESPORTES",
+      "social_keyword": "CUIABÁ",
+      "social_subtitle": "2,6 mil vagas gratuitas · MT"
     },
     {
       "id": "esportes-cariacica-vagas-gratuitas",
@@ -730,7 +790,10 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-02"
+      "last_seen_date": "2026-11-02",
+      "social_label": "ESPORTES",
+      "social_keyword": "CARIACICA",
+      "social_subtitle": "Vagas esportivas gratuitas · ES"
     },
     {
       "id": "trabalho-ciee-estagio-jovem-aprendiz",
@@ -772,7 +835,10 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-02"
+      "last_seen_date": "2026-11-02",
+      "social_label": "TRABALHO",
+      "social_keyword": "CIEE",
+      "social_subtitle": "Estágio e Jovem Aprendiz"
     }
   ],
   "version": "1.2.0",
