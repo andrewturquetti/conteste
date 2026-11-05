@@ -24,7 +24,7 @@
         "url": "https://conteste.info/"
     }
     </script>
-    <link rel="stylesheet" href="css/style.css?v=3.0.0">
+    <link rel="stylesheet" href="css/style.css?v=4.3.0">
     <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
 </head>
 <body data-view="home">
@@ -41,13 +41,14 @@
             <nav class="nav" id="nav" aria-label="Navegação principal">
                 <ul class="nav-list">
                     <li><a href="index.html" class="nav-link active">Início</a></li>
-                    <li><a href="cultura.html" class="nav-link">Cultura</a></li>
-                    <li><a href="educacao.html" class="nav-link">Educação</a></li>
-                    <li><a href="esportes.html" class="nav-link">Esportes</a></li>
-                    <li><a href="trabalho.html" class="nav-link">Trabalho</a></li>
-                    <li><a href="#planos" class="nav-link nav-link--premium">Premium</a></li>
+                    <li><a href="#cultura" class="nav-link">Cultura</a></li>
+                    <li><a href="#educacao" class="nav-link">Educação</a></li>
+                    <li><a href="#esportes" class="nav-link">Esportes</a></li>
+                    <li><a href="#trabalho" class="nav-link">Trabalho</a></li>
+                    <li><a href="#assinaTopo" class="nav-link nav-link--premium">Premium</a></li>
                 </ul>
             </nav>
+            <span class="header-live" id="headerLive"></span>
         </div>
     </header>
 
@@ -56,57 +57,60 @@
             <div class="container">
                 <div class="hero-content">
                     <span class="hero-eyebrow">Portal diário de oportunidades</span>
-                    <h1 class="hero-title">Inscrições <span class="highlight">abertas</span> hoje</h1>
-                    <p class="hero-subtitle">Editais, bolsas, cursos gratuitos, concursos e vagas em Cultura, Educação, Esportes e Trabalho — atualizado todos os dias, com link direto para a fonte oficial.</p>
+                    <h1 class="hero-title">Portal de Oportunidades</h1>
+                    <p class="hero-subtitle"><strong>Cultura, Educação, Esportes &amp; Trabalho.</strong><br>
+                    Arraste, filtre por categoria e salve o que interessa. Toda publicação leva direto para a página oficial da oportunidade em destaque.</p>
                     <a href="#oportunidades" class="btn btn-primary">Ver oportunidades</a>
                 </div>
             </div>
         </section>
 
-        <section class="sections" id="oportunidades">
+        <section class="assina" id="assinaTopo">
             <div class="container">
-                <div class="updated-bar" id="updatedBar"></div>
-                <div class="daybar" id="dayBar"></div>
-                <div id="categoryPreviews"></div>
+                <div class="in">
+                    <div class="txt">
+                        <strong>Não perca o prazo</strong>
+                        <span>Assine o Portal Conteste por apenas R$ 9,90 por mês e receba diariamente todas as oportunidades disponíveis, diretamente no seu e-mail e whatsapp.</span>
+                    </div>
+                    <form class="form" id="formTopo" novalidate>
+                        <span class="canal" role="group" aria-label="Como você quer receber">
+                            <button type="button" id="cEmail" class="on" aria-pressed="true">E-mail</button>
+                            <button type="button" id="cWhats" aria-pressed="false">WhatsApp</button>
+                        </span>
+                        <input id="campoTopo" type="email" placeholder="Seu melhor e-mail" aria-label="Seu e-mail" autocomplete="email">
+                        <button class="btn btn-primary" type="submit">Assinar</button>
+                    </form>
+                </div>
+                <p class="micro" id="microTopo">Sem spam &middot; cancele quando quiser &middot; você recebe só o que está com inscrição aberta</p>
             </div>
         </section>
 
-        <section class="plans" id="planos">
+        <div class="searchbar" id="searchbar"></div>
+
+        <section class="sections" id="oportunidades">
             <div class="container">
-                <div class="plans-head">
-                    <h2 class="plans-title">Apoie o CONTESTE.INFO</h2>
-                    <p class="plans-subtitle">O acesso às oportunidades é gratuito. O plano Premium mantém o portal no ar e entrega vantagens exclusivas.</p>
-                </div>
-                <div class="plans-grid">
-                    <div class="plan-card">
-                        <span class="plan-name">Gratuito</span>
-                        <span class="plan-price">R$ 0<span class="plan-period">/sempre</span></span>
-                        <ul class="plan-features">
-                            <li>Acesso a todas as oportunidades abertas</li>
-                            <li>Atualização diária</li>
-                            <li>Filtros por categoria e por dia</li>
-                        </ul>
-                        <a href="#oportunidades" class="btn btn-secondary plan-cta">Ver oportunidades</a>
-                    </div>
-                    <div class="plan-card plan-card--featured">
-                        <span class="plan-name">Premium</span>
-                        <span class="plan-price">R$ 19,90<span class="plan-period">/ano</span></span>
-                        <ul class="plan-features">
-                            <li>Newsletter com o resumo do dia</li>
-                            <li>Alertas de prazos que estão terminando</li>
-                            <li>Apoia a curadoria diária e o portal</li>
-                        </ul>
-                        <a href="https://buttondown.com/SEU_USUARIO_BUTTONDOWN" class="btn btn-primary plan-cta" id="premiumSubscribeLink" target="_blank" rel="noopener">Assinar Premium</a>
-                    </div>
-                </div>
+                <div class="filters" id="filters"></div>
+                <div class="news-grid" id="listGrid"></div>
             </div>
         </section>
+
+
+        <div class="container">
+            <section class="sobre" id="sobre">
+                <h2>Sobre o Conteste</h2>
+                <p>O Conteste é uma startup de tecnologia e informação comprometida com a democratização do acesso às oportunidades e a promoção do desenvolvimento pessoal e social.</p>
+                <p>Diariamente, identificamos, verificamos e organizamos oportunidades de Trabalho, Educação, Esportes e Cultura, reunindo informações relevantes, prazos de inscrição e links diretos para as fontes oficiais.</p>
+                <p>Acreditamos que o acesso à informação de qualidade é um instrumento de emancipação. Por isso, valorizamos a liberdade de trabalho, o acesso à educação, o incentivo ao esporte e o fortalecimento da cultura como caminhos para a autonomia, a inclusão e a transformação social.</p>
+                <p>O propósito é simples: tornar a informação acessível, confiável e útil, para que cada pessoa possa reconhecer oportunidades e construir seus próprios caminhos.</p>
+                <p class="slogan">Conteste.info — Informação para o próximo passo.</p>
+            </section>
+        </div>
 
         <section class="newsletter">
             <div class="container">
                 <div class="newsletter-content">
-                    <h2 class="newsletter-title">Receba as oportunidades por e-mail</h2>
-                    <p class="newsletter-text">Cadastre-se para receber editais, bolsas, cursos gratuitos, concursos e vagas com inscrições abertas.</p>
+                    <h2 class="newsletter-title">Não perca o prazo</h2>
+                    <p class="newsletter-text">Assine o Portal Conteste por apenas R$ 9,90 por mês e receba diariamente todas as oportunidades disponíveis, diretamente no seu e-mail e whatsapp.</p>
                     <form class="newsletter-form" id="newsletterForm" method="post" target="_blank">
                         <input type="email" name="email" class="newsletter-input" placeholder="Digite seu e-mail" required aria-label="Seu e-mail">
                         <input type="hidden" name="embed" value="1">
@@ -123,6 +127,7 @@
                 <div class="footer-brand">
                     <a href="index.html" class="logo"><span class="logo-text">CONTESTE</span><span class="logo-dot">.INFO</span></a>
                     <p class="footer-description">Portal diário de oportunidades: editais, bolsas, cursos gratuitos, concursos e vagas em Cultura, Educação, Esportes e Trabalho.</p>
+                    <p class="footer-slogan">Informação para o próximo passo.</p>
                 </div>
                 <div class="footer-links">
                     <h2 class="footer-title">Categorias</h2>
@@ -136,18 +141,18 @@
                 <div class="footer-links">
                     <h2 class="footer-title">Institucional</h2>
                     <ul>
-                        <li><a href="#">Sobre nós</a></li>
-                        <li><a href="#">Política de privacidade</a></li>
-                        <li><a href="#">Termos de uso</a></li>
+                        <li><a href="#sobre">Sobre nós</a></li>
+                        <li><span class="footer-off" title="Em breve">Política de privacidade</span></li>
+                        <li><span class="footer-off" title="Em breve">Termos de uso</span></li>
                     </ul>
                 </div>
                 <div class="footer-contact">
                     <h2 class="footer-title">Contato</h2>
                     <p><a href="mailto:contato@conteste.info">contato@conteste.info</a></p>
                     <div class="social-links">
-                        <a href="#" aria-label="Facebook"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
-                        <a href="#" aria-label="Twitter"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"/></svg></a>
-                        <a href="#" aria-label="Instagram"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg></a>
+                        <span class="social-off" title="Em breve" aria-label="Facebook (em breve)"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></span>
+                        <span class="social-off" title="Em breve" aria-label="Twitter (em breve)"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"/></svg></span>
+                        <a href="https://instagram.com/conteste.info" target="_blank" rel="noopener" aria-label="Instagram do Conteste"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg></a>
                     </div>
                 </div>
             </div>
@@ -158,7 +163,7 @@
         </div>
     </footer>
 
-    <script src="js/main.js?v=3.0.0"></script>
+    <script src="js/main.js?v=4.3.0"></script>
 </body>
 </html>
 

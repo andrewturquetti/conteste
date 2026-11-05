@@ -4,7 +4,7 @@
    ============================================ */
 
 :root {
-    --color-black: #000000;
+    --color-black: #0D0D0D;
     --color-gray-900: #111111;
     --color-gray-800: #222222;
     --color-gray-700: #333333;
@@ -44,6 +44,17 @@
 
     --container-max: 1200px;
     --container-padding: 1.5rem;
+
+    /* ---- Identidade oficial (scripts/gerar-imagens-sociais.py) ---- */
+    --ink: #0D0D0D;
+    --gray-2: #989898;
+    --line-dark: #303030;
+    --box: #1A1A1A;
+    --cat-trabalho: #F2C200;  --cat-trabalho-t: #8A6D00;
+    --cat-educacao: #4A90D9;  --cat-educacao-t: #1F5FA0;
+    --cat-esportes: #2E9E5B;  --cat-esportes-t: #1E7A45;
+    --cat-cultura: #1F6E7F;   --cat-cultura-t: #1F6E7F;
+    --font-black: 'Arial Black', Arial, system-ui, sans-serif;
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -110,7 +121,6 @@ input, select { font-family: inherit; font-size: 1rem; }
     color: var(--color-gray-500);
 }
 .hero-title { font-family: var(--font-display); font-size: clamp(2rem, 5vw, 3rem); line-height: 1.1; letter-spacing: -0.02em; color: var(--color-black); }
-.hero-title .highlight { border-bottom: 4px solid var(--color-black); }
 .hero-subtitle { margin: var(--spacing-lg) 0; font-size: 1.125rem; color: var(--color-gray-600); max-width: 620px; }
 
 .btn { display: inline-block; padding: 0.75rem 1.5rem; font-size: 0.9rem; font-weight: 600; border-radius: var(--radius-lg); transition: var(--transition-fast); }
@@ -326,6 +336,136 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
     .nav-list { flex-direction: column; align-items: stretch; gap: 0; padding: var(--spacing-md) var(--container-padding); }
     .nav-link { display: block; padding: 0.75rem 0; border-bottom: none; }
     .footer-grid { grid-template-columns: 1fr; gap: var(--spacing-lg); }
+}
+
+/* ============================================
+   IDENTIDADE v2 - padrao dos anexos (cores por area)
+   ============================================ */
+
+/* --- Barra de busca (fixa) --- */
+.searchbar {
+    position: sticky; top: 68px; z-index: 900;
+    background: rgba(255,255,255,.97); backdrop-filter: blur(10px);
+    border-bottom: var(--border-thin) solid var(--color-gray-200); padding: 0.75rem 0;
+}
+.searchbar .srow { display: flex; gap: 0.625rem; align-items: center; flex-wrap: wrap; }
+.sfield {
+    display: flex; align-items: center; gap: 0.625rem; flex: 1 1 320px;
+    background: var(--color-white); border: 2px solid var(--ink);
+    border-radius: var(--radius-full); padding: 0.5rem 1rem;
+}
+.sfield svg { width: 18px; height: 18px; flex: 0 0 18px; color: var(--color-gray-500); }
+.sfield input { border: 0; outline: 0; flex: 1; font-size: 1rem; font-family: inherit; background: transparent; }
+.sfield input::-webkit-search-cancel-button { display: none; }
+.searchbar .clear {
+    border: 0; background: var(--color-gray-100); color: var(--color-gray-600);
+    border-radius: var(--radius-full); padding: 0.3rem 0.75rem; font-size: 0.75rem; font-weight: 700; cursor: pointer;
+}
+.searchbar .clear:hover { background: var(--ink); color: var(--color-white); }
+.searchbar .sel {
+    border: 2px solid var(--color-gray-200); background: var(--color-white);
+    border-radius: var(--radius-full); padding: 0.65rem 0.875rem;
+    font-size: 0.88rem; font-weight: 600; font-family: inherit;
+}
+.searchbar .sres { font-size: 0.82rem; color: var(--color-gray-600); font-weight: 600; }
+.searchbar .sres b { color: var(--ink); }
+.quick { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 0.625rem; }
+.quick button {
+    border: 1px dashed var(--color-gray-300); background: var(--color-white); color: var(--color-gray-600);
+    border-radius: var(--radius-full); padding: 0.3rem 0.7rem; font-size: 0.78rem; font-weight: 600;
+    cursor: pointer; font-family: inherit;
+}
+.quick button:hover { border-style: solid; border-color: var(--ink); color: var(--ink); }
+
+/* --- Faixa de assinatura (topo) --- */
+.assina {
+    background: var(--color-white); border-top: 3px solid var(--cat-trabalho);
+    border-bottom: var(--border-thin) solid var(--color-gray-200);
+}
+.assina .in { display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 1.125rem; align-items: center; padding: 0.9rem 0 0.6rem; }
+.assina .txt strong { display: block; font-size: 1.03rem; letter-spacing: -0.01em; color: var(--ink); }
+.assina .txt span { display: block; font-size: 0.85rem; color: var(--color-gray-600); margin-top: 0.2rem; }
+.assina .form { display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap; justify-content: flex-end; }
+.canal { display: inline-flex; background: var(--color-gray-100); border-radius: var(--radius-full); padding: 0.2rem; }
+.canal button {
+    border: 0; background: transparent; border-radius: var(--radius-full); padding: 0.45rem 0.8rem;
+    font-size: 0.78rem; font-weight: 700; color: var(--color-gray-600); cursor: pointer; font-family: inherit;
+}
+.canal button.on { background: var(--ink); color: var(--color-white); }
+.assina input {
+    flex: 1 1 160px; min-width: 150px; padding: 0.7rem 0.9rem;
+    border-radius: var(--radius-full); border: 2px solid var(--color-gray-200);
+    font-family: inherit; font-size: 0.9rem;
+}
+.assina input:focus { outline: 0; border-color: var(--ink); }
+.assina .micro { font-size: 0.72rem; color: var(--color-gray-500); padding-bottom: 0.8rem; }
+.assina .micro.ok { color: #1E7A45; font-weight: 700; }
+
+/* --- Cores por area (padrao dos anexos) --- */
+.cat-trabalho { --c: var(--cat-trabalho); --ct: var(--cat-trabalho-t); }
+.cat-educacao { --c: var(--cat-educacao); --ct: var(--cat-educacao-t); }
+.cat-esportes { --c: var(--cat-esportes); --ct: var(--cat-esportes-t); }
+.cat-cultura  { --c: var(--cat-cultura);  --ct: var(--cat-cultura-t); }
+
+/* --- Card v2: barra da area, etiqueta sem fundo, link textual --- */
+.card { position: relative; padding-top: calc(var(--spacing-lg) + 0.25rem); }
+.card::before {
+    content: ""; position: absolute; top: 0; left: 0; right: 0; height: 4px;
+    background: var(--c, var(--color-black)); border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+}
+.card:hover { border-color: var(--c, var(--color-black)); }
+.card-cat { color: var(--ct, var(--color-gray-600)); font-weight: 800; letter-spacing: 0.14em; }
+.card-kick { font-size: 0.64rem; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--gray-2); }
+.card-eixos { padding-top: 0.25rem; border-top: var(--border-thin) dashed var(--color-gray-200); margin-top: 0.25rem; }
+.card-eixos .meta-k { flex: 0 0 5.75rem; color: var(--ct, var(--color-gray-500)); }
+.card-meta .dias { font-weight: 700; color: var(--color-gray-500); }
+.card-meta .dias.warn { color: #B45309; }
+.card-meta .dias.urg { color: #DC2626; }
+.card-cta { color: var(--ct, var(--color-black)); font-weight: 800; }
+.card-cta:hover { color: var(--ct, var(--color-black)); text-decoration: underline; }
+.card-status.status-open { color: var(--ct, var(--color-black)); }
+mark { background: #FEF08A; color: inherit; border-radius: 3px; padding: 0 2px; }
+
+/* contagem e linha por area nas secoes da home */
+.category-section { --c: var(--color-black); }
+#trabalho { --c: var(--cat-trabalho); }
+#educacao { --c: var(--cat-educacao); }
+#esportes { --c: var(--cat-esportes); }
+#cultura  { --c: var(--cat-cultura); }
+.category-section .category-header { border-bottom-color: var(--c, var(--color-black)); }
+.category-count { background: var(--c, var(--color-black)); color: var(--color-white); }
+#trabalho .category-count { color: var(--ink); }
+
+/* --- Sobre o Conteste --- */
+.sobre {
+    background: var(--color-white); border: var(--border-thin) solid var(--color-gray-200);
+    border-left: 4px solid var(--cat-trabalho); border-radius: var(--radius-lg);
+    padding: var(--spacing-xl); margin: var(--spacing-2xl) 0;
+}
+.sobre h2 {
+    font-family: var(--font-black); font-size: 1rem; letter-spacing: 0.02em;
+    text-transform: uppercase; color: var(--ink); margin-bottom: 0.75rem;
+}
+.sobre p { font-size: 0.9rem; color: var(--color-gray-600); margin-bottom: 0.625rem; max-width: 820px; line-height: 1.62; }
+.sobre p:last-child { margin-bottom: 0; }
+.sobre .slogan { font-weight: 800; color: var(--ink); }
+.footer-slogan { margin-top: 0.5rem; font-size: 0.82rem; font-weight: 700; color: var(--ink); }
+.social-off, .footer-off { color: var(--color-gray-400); cursor: default; }
+.social-off svg { opacity: 0.55; }
+.footer-links .footer-off { font-size: 0.9rem; }
+
+/* --- Cabecalho: "atualizado hoje" --- */
+.header-live { display: inline-flex; align-items: center; gap: 0.4rem; font-size: 0.78rem; color: var(--color-gray-500); white-space: nowrap; }
+.header-live .updated-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--cat-esportes); }
+@media (max-width: 900px) { .header-live { display: none; } }
+
+/* --- Responsivo da v2 --- */
+@media (max-width: 900px) {
+    .assina .in { grid-template-columns: 1fr; gap: 0.75rem; }
+    .assina .form { justify-content: flex-start; }
+}
+@media (max-width: 768px) {
+    .searchbar { position: static; }
 }
 
 @media (max-width: 520px) {
