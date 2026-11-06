@@ -1,6 +1,448 @@
 {
-  "generated_at": "2026-11-06T00:57:28-03:00",
+  "generated_at": "2026-11-06T13:47:29-03:00",
   "opportunities": [
+    {
+      "id": "trabalho-votorantim-sp-gestao-escolar-5-vagas-2026",
+      "category": "trabalho",
+      "title": "Votorantim (SP) abre 5 vagas para Coordenador Pedagógico e Diretor de Escola",
+      "short_description": "A Prefeitura de Votorantim (SP) abriu o concurso público 02/2026 com 5 vagas e cadastro de reserva para Coordenador Pedagógico (4 vagas) e Diretor de Escola (1 vaga), com salários de R$ 6.701,85 e R$ 8.377,33. As inscrições vão até 16/11/2026 e a taxa é de R$ 92,00.",
+      "deadline": "16/11/2026",
+      "deadline_date": "2026-11-16",
+      "official_link": "https://www.avancasp.org.br/informacoes/286/",
+      "source_name": "Avança SP - banca do concurso da Prefeitura de Votorantim/SP",
+      "source_type": "primary",
+      "location": "Votorantim, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Votorantim",
+      "is_free": false,
+      "tags": [
+        "trabalho",
+        "concurso",
+        "municipal"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-06",
+      "social_label": "TRABALHO",
+      "social_keyword": "VOTORANTIM",
+      "social_subtitle": "5 vagas de gestão escolar · Votorantim, SP",
+      "kw": [
+        "vaga",
+        "inscricoes"
+      ],
+      "tipo": [
+        "Concurso público"
+      ],
+      "first_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-06",
+      "created_at": "2026-11-06T13:47:29-03:00",
+      "updated_at": "2026-11-06T13:47:29-03:00",
+      "verified_at": "2026-11-06T13:47:29-03:00"
+    },
+    {
+      "id": "trabalho-votorantim-sp-educacao-32-vagas-2026",
+      "category": "trabalho",
+      "title": "Votorantim (SP) abre 32 vagas para professores e auxiliares da Educação",
+      "short_description": "A Prefeitura de Votorantim (SP) abriu o concurso público 01/2026 com 32 vagas e cadastro de reserva para Auxiliar de Serviços Infantis, Inspetor de Alunos e professores PEB I e PEB II, com salários de R$ 1.899,72 a R$ 2.455,45 e hora-aula de R$ 27,38 a R$ 28,45. As inscrições vão até 16/11/2026.",
+      "deadline": "16/11/2026",
+      "deadline_date": "2026-11-16",
+      "official_link": "https://www.avancasp.org.br/informacoes/285/",
+      "source_name": "Avança SP - banca do concurso da Prefeitura de Votorantim/SP",
+      "source_type": "primary",
+      "location": "Votorantim, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Votorantim",
+      "is_free": false,
+      "tags": [
+        "trabalho",
+        "concurso",
+        "municipal"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-06",
+      "social_label": "TRABALHO",
+      "social_keyword": "VOTORANTIM",
+      "social_subtitle": "32 vagas · Votorantim, SP",
+      "kw": [
+        "vaga",
+        "inscricoes"
+      ],
+      "tipo": [
+        "Concurso público"
+      ],
+      "first_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-06",
+      "created_at": "2026-11-06T13:47:29-03:00",
+      "updated_at": "2026-11-06T13:47:29-03:00",
+      "verified_at": "2026-11-06T13:47:29-03:00"
+    },
+    {
+      "id": "educacao-uniregistral-tecnologia-registral-100-vagas-2026",
+      "category": "educacao",
+      "title": "Uniregistral abre 100 vagas em curso superior de Serviços Notariais e Registrais",
+      "short_description": "O Instituto de Educação Superior e Pesquisa Uniregistral abriu o vestibular 10/2026 com 100 vagas no Curso Superior de Tecnologia em Serviços Notariais e Registrais, em São Paulo (SP). As inscrições vão até 09/11/2026, a taxa é de R$ 150,00 e a prova está prevista para 20/12/2026.",
+      "deadline": "09/11/2026",
+      "deadline_date": "2026-11-09",
+      "official_link": "https://www.avancasp.org.br/informacoes/267/",
+      "source_name": "Avança SP - banca do vestibular do Instituto Uniregistral",
+      "source_type": "primary",
+      "location": "São Paulo, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "São Paulo",
+      "is_free": false,
+      "tags": [
+        "educacao",
+        "graduacao",
+        "vestibular",
+        "tecnologo"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-06",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "UNIREGISTRAL",
+      "social_subtitle": "100 vagas · São Paulo, SP",
+      "kw": [
+        "curso",
+        "vaga",
+        "inscricoes"
+      ],
+      "nivel": [
+        "Graduação"
+      ],
+      "first_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-06",
+      "created_at": "2026-11-06T13:47:29-03:00",
+      "updated_at": "2026-11-06T13:47:29-03:00",
+      "verified_at": "2026-11-06T13:47:29-03:00"
+    },
+    {
+      "id": "trabalho-trabalha-brasil-portal-vagas",
+      "category": "trabalho",
+      "title": "Trabalha Brasil reúne mais de 4,8 milhões de vagas de emprego, segundo o portal",
+      "short_description": "Segundo o próprio portal, o Trabalha Brasil reúne 4.806.111 vagas atualizadas todos os dias e mais de 60 mil empresas contratando, com candidatura gratuita e envio de currículo sem custo para qualquer vaga, em todas as regiões do país.",
+      "deadline": "Vagas contínuas",
+      "deadline_date": null,
+      "official_link": "https://www.trabalhabrasil.com.br/",
+      "source_name": "Trabalha Brasil",
+      "source_type": "primary",
+      "location": "Nacional",
+      "country": "Brasil",
+      "state": null,
+      "city": null,
+      "is_free": true,
+      "tags": [
+        "trabalho",
+        "emprego",
+        "vagas continuas"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-06",
+      "social_label": "TRABALHO",
+      "social_keyword": "TRABALHA BRASIL",
+      "social_subtitle": "4,8 milhões de vagas · segundo o portal",
+      "kw": [
+        "vaga",
+        "inscricoes",
+        "gratuito",
+        "brasil"
+      ],
+      "tipo": [
+        "Processo seletivo"
+      ],
+      "first_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-06",
+      "created_at": "2026-11-06T13:47:29-03:00",
+      "updated_at": "2026-11-06T13:47:29-03:00",
+      "verified_at": "2026-11-06T13:47:29-03:00"
+    },
+    {
+      "id": "trabalho-super-estagios-156-vagas",
+      "category": "trabalho",
+      "title": "Super Estágios tem 156 vagas de estágio abertas agora em empresas como Banco do Brasil",
+      "short_description": "O portal da Super Estágios lista 156 vagas abertas em 3 empresas, entre elas Banco do Brasil, Rôgga e Grupo Super, para estudantes de nível médio, técnico e superior. O cadastro é 100% gratuito para o estudante e as vagas são renovadas todos os dias.",
+      "deadline": "Vagas contínuas",
+      "deadline_date": null,
+      "official_link": "https://www.superestagios.com.br/",
+      "source_name": "Super Estágios",
+      "source_type": "primary",
+      "location": "Nacional",
+      "country": "Brasil",
+      "state": null,
+      "city": null,
+      "is_free": true,
+      "tags": [
+        "trabalho",
+        "estagio",
+        "vagas continuas"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-06",
+      "social_label": "TRABALHO",
+      "social_keyword": "SUPER ESTÁGIOS",
+      "social_subtitle": "156 vagas de estágio · Brasil",
+      "kw": [
+        "vaga",
+        "inscricoes",
+        "gratuito",
+        "brasil"
+      ],
+      "tipo": [
+        "Estágio"
+      ],
+      "first_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-06",
+      "created_at": "2026-11-06T13:47:29-03:00",
+      "updated_at": "2026-11-06T13:47:29-03:00",
+      "verified_at": "2026-11-06T13:47:29-03:00"
+    },
+    {
+      "id": "educacao-santa-casa-sp-vestibular-2027-1438-vagas",
+      "category": "educacao",
+      "title": "Santa Casa de São Paulo abre 1.438 vagas em vestibular para 21 cursos de saúde e tecnologia",
+      "short_description": "A Faculdade de Ciências Médicas da Santa Casa de São Paulo abriu o vestibular do 1º semestre de 2027 com 1.438 vagas em cursos como Biomedicina, Enfermagem, Farmácia, Odontologia, Psicologia e Sistemas da Informação. As inscrições vão até 17/11/2026 e a taxa é de R$ 68,00.",
+      "deadline": "17/11/2026",
+      "deadline_date": "2026-11-17",
+      "official_link": "https://www.ibamsp-concursos.org.br/informacoes/207/",
+      "source_name": "IBAM - banca do vestibular da Faculdade de Ciências Médicas da Santa Casa de São Paulo",
+      "source_type": "primary",
+      "location": "São Paulo, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "São Paulo",
+      "is_free": false,
+      "tags": [
+        "educacao",
+        "graduacao",
+        "vestibular"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-06",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "SANTA CASA SP",
+      "social_subtitle": "1.438 vagas · São Paulo, SP",
+      "kw": [
+        "curso",
+        "vaga",
+        "inscricoes"
+      ],
+      "nivel": [
+        "Graduação"
+      ],
+      "first_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-06",
+      "created_at": "2026-11-06T13:47:29-03:00",
+      "updated_at": "2026-11-06T13:47:29-03:00",
+      "verified_at": "2026-11-06T13:47:29-03:00"
+    },
+    {
+      "id": "trabalho-louveira-sp-8-vagas-2026",
+      "category": "trabalho",
+      "title": "Louveira (SP) abre 8 vagas em concurso com salários de até R$ 8,7 mil",
+      "short_description": "A Prefeitura de Louveira (SP) abriu o concurso público 01/2026 com 8 vagas e cadastro de reserva para Assistente Jurídico, Contador, Escriturário e Fiscal Municipal, com salários de R$ 2.802,00 a R$ 8.738,00. As inscrições vão até 16/11/2026 e a taxa vai de R$ 58,00 a R$ 95,00.",
+      "deadline": "16/11/2026",
+      "deadline_date": "2026-11-16",
+      "official_link": "https://www.avancasp.org.br/informacoes/287/",
+      "source_name": "Avança SP - banca do concurso da Prefeitura de Louveira/SP",
+      "source_type": "primary",
+      "location": "Louveira, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Louveira",
+      "is_free": false,
+      "tags": [
+        "trabalho",
+        "concurso",
+        "municipal"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-06",
+      "social_label": "TRABALHO",
+      "social_keyword": "LOUVEIRA",
+      "social_subtitle": "8 vagas · Louveira, SP",
+      "kw": [
+        "vaga",
+        "inscricoes"
+      ],
+      "tipo": [
+        "Concurso público"
+      ],
+      "first_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-06",
+      "created_at": "2026-11-06T13:47:29-03:00",
+      "updated_at": "2026-11-06T13:47:29-03:00",
+      "verified_at": "2026-11-06T13:47:29-03:00"
+    },
+    {
+      "id": "trabalho-louveira-sp-professores-11-vagas-2026",
+      "category": "trabalho",
+      "title": "Louveira (SP) abre 11 vagas para professores com salários de até R$ 5,5 mil",
+      "short_description": "A Prefeitura de Louveira (SP) abriu o concurso público 02/2026 com 11 vagas e cadastro de reserva para Professor de Artes, Educação Física, Ensino Básico e Inglês, com salários de R$ 4.655,00 a R$ 5.534,00. As inscrições vão até 16/11/2026 e a taxa é de R$ 95,00.",
+      "deadline": "16/11/2026",
+      "deadline_date": "2026-11-16",
+      "official_link": "https://www.avancasp.org.br/informacoes/288/",
+      "source_name": "Avança SP - banca do concurso da Prefeitura de Louveira/SP",
+      "source_type": "primary",
+      "location": "Louveira, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Louveira",
+      "is_free": false,
+      "tags": [
+        "trabalho",
+        "concurso",
+        "municipal"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-06",
+      "social_label": "TRABALHO",
+      "social_keyword": "LOUVEIRA",
+      "social_subtitle": "11 vagas de professor · Louveira, SP",
+      "kw": [
+        "vaga",
+        "inscricoes"
+      ],
+      "tipo": [
+        "Concurso público"
+      ],
+      "first_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-06",
+      "created_at": "2026-11-06T13:47:29-03:00",
+      "updated_at": "2026-11-06T13:47:29-03:00",
+      "verified_at": "2026-11-06T13:47:29-03:00"
+    },
+    {
+      "id": "trabalho-cubatao-sp-procurador-juridico-2026",
+      "category": "trabalho",
+      "title": "Cubatão (SP) abre vaga para Procurador Jurídico com salário de R$ 5,5 mil",
+      "short_description": "A Prefeitura de Cubatão (SP) abriu o concurso público 03/2026 com 1 vaga para Procurador Jurídico I, de nível superior, carga de 40 horas e vencimento de R$ 5.565,00. As inscrições vão até 03/12/2026 e a taxa é de R$ 118,00.",
+      "deadline": "03/12/2026",
+      "deadline_date": "2026-12-03",
+      "official_link": "https://www.ibamsp-concursos.org.br/informacoes/209/",
+      "source_name": "IBAM - banca do concurso da Prefeitura de Cubatão/SP",
+      "source_type": "primary",
+      "location": "Cubatão, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Cubatão",
+      "is_free": false,
+      "tags": [
+        "trabalho",
+        "concurso",
+        "municipal"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-06",
+      "social_label": "TRABALHO",
+      "social_keyword": "CUBATÃO",
+      "social_subtitle": "1 vaga · Cubatão, SP",
+      "kw": [
+        "vaga",
+        "inscricoes"
+      ],
+      "tipo": [
+        "Concurso público"
+      ],
+      "area": [
+        "Jurídica"
+      ],
+      "first_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-06",
+      "created_at": "2026-11-06T13:47:29-03:00",
+      "updated_at": "2026-11-06T13:47:29-03:00",
+      "verified_at": "2026-11-06T13:47:29-03:00"
+    },
+    {
+      "id": "trabalho-cubatao-sp-19-vagas-2026",
+      "category": "trabalho",
+      "title": "Cubatão (SP) abre 19 vagas e cadastro de reserva com salários de até R$ 5,5 mil",
+      "short_description": "A Prefeitura de Cubatão (SP) abriu o concurso público 04/2026 com 19 vagas e cadastro de reserva em 13 cargos, entre eles Analista de Recursos Humanos, Fonoaudiólogo, Nutricionista, Enfermeiro e Técnico de Defesa Civil, com vencimentos de R$ 3.577,49 a R$ 5.565,00. As inscrições vão até 03/12/2026, com taxa de R$ 77,00 a R$ 96,00.",
+      "deadline": "03/12/2026",
+      "deadline_date": "2026-12-03",
+      "official_link": "https://www.ibamsp-concursos.org.br/informacoes/210/",
+      "source_name": "IBAM - banca do concurso da Prefeitura de Cubatão/SP",
+      "source_type": "primary",
+      "location": "Cubatão, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Cubatão",
+      "is_free": false,
+      "tags": [
+        "trabalho",
+        "concurso",
+        "municipal"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-06",
+      "social_label": "TRABALHO",
+      "social_keyword": "CUBATÃO",
+      "social_subtitle": "19 vagas · Cubatão, SP",
+      "kw": [
+        "vaga",
+        "inscricoes"
+      ],
+      "tipo": [
+        "Concurso público"
+      ],
+      "first_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-06",
+      "created_at": "2026-11-06T13:47:29-03:00",
+      "updated_at": "2026-11-06T13:47:29-03:00",
+      "verified_at": "2026-11-06T13:47:29-03:00"
+    },
+    {
+      "id": "trabalho-cabreuva-sp-guarda-municipal-2-vagas-2026",
+      "category": "trabalho",
+      "title": "Cabreúva (SP) abre 2 vagas para Guarda Municipal com salário de R$ 3,8 mil",
+      "short_description": "A Prefeitura de Cabreúva (SP) abriu o concurso público 02/2026 com 2 vagas e cadastro de reserva para Guarda Municipal, de nível médio, com salário de R$ 3.846,34. As inscrições vão até 09/11/2026, a taxa é de R$ 74,00 e a prova está prevista para 17/01/2027.",
+      "deadline": "09/11/2026",
+      "deadline_date": "2026-11-09",
+      "official_link": "https://www.avancasp.org.br/informacoes/284/",
+      "source_name": "Avança SP - banca do concurso da Prefeitura de Cabreúva/SP",
+      "source_type": "primary",
+      "location": "Cabreúva, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Cabreúva",
+      "is_free": false,
+      "tags": [
+        "trabalho",
+        "concurso",
+        "municipal"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-06",
+      "social_label": "TRABALHO",
+      "social_keyword": "CABREÚVA",
+      "social_subtitle": "2 vagas · Cabreúva, SP",
+      "kw": [
+        "vaga",
+        "inscricoes"
+      ],
+      "tipo": [
+        "Concurso público"
+      ],
+      "area": [
+        "Segurança"
+      ],
+      "first_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-06",
+      "created_at": "2026-11-06T13:47:29-03:00",
+      "updated_at": "2026-11-06T13:47:29-03:00",
+      "verified_at": "2026-11-06T13:47:29-03:00"
+    },
     {
       "id": "educacao-unifesp-workshop-cosmologia-150-vagas",
       "category": "educacao",
@@ -4748,11 +5190,11 @@
   ],
   "version": "1.2.0",
   "last_updated": "2026-08-16T20:59:30-03:00",
-  "total": 111,
+  "total": 122,
   "counts": {
     "cultura": 12,
-    "educacao": 20,
+    "educacao": 22,
     "esportes": 27,
-    "trabalho": 52
+    "trabalho": 61
   }
 }
