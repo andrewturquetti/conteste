@@ -1,6 +1,288 @@
 {
-  "generated_at": "2026-11-06T13:47:29-03:00",
+  "generated_at": "2026-11-11T03:43:19-03:00",
   "opportunities": [
+    {
+      "id": "educacao-uern-especializacao-saude-familia-170-vagas-2026",
+      "category": "educacao",
+      "title": "UERN abre 170 vagas em especialização gratuita a distância em Saúde da Família",
+      "short_description": "A Diretoria de Educação a Distância da UERN abriu 170 vagas na especialização gratuita em Saúde da Família, na modalidade a distância e financiada pela UAB, com 450 horas e 18 meses de duração. Podem se inscrever graduados em Odontologia, Enfermagem, Medicina, Serviço Social, Farmácia, Fisioterapia, Psicologia, Nutrição e outras áreas da saúde; 70% das vagas são reservadas a servidores da Estratégia Saúde da Família. Inscrições de 04/11 a 18/11/2026, com polos em Açu, Caraúbas, Canguaretama, Natal e Mossoró.",
+      "deadline": "18/11/2026",
+      "deadline_date": "2026-11-18",
+      "official_link": "https://dead.uern.br/2026/11/especializacao-em-saude-da-familia-com-inscricao-aberta/",
+      "source_name": "Universidade do Estado do Rio Grande do Norte (UERN) - DEaD, edital 167",
+      "source_type": "primary",
+      "location": "Mossoró, RN",
+      "country": "Brasil",
+      "state": "RN",
+      "city": "Mossoró",
+      "is_free": true,
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "especializacao",
+        "saude"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-11",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "UERN",
+      "social_subtitle": "170 vagas gratuitas · RN",
+      "kw": [
+        "curso",
+        "vaga",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "custo": [
+        "Gratuito"
+      ],
+      "first_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-11",
+      "created_at": "2026-11-11T03:43:19-03:00",
+      "updated_at": "2026-11-11T03:43:19-03:00",
+      "verified_at": "2026-11-11T03:43:19-03:00"
+    },
+    {
+      "id": "trabalho-nova-odessa-sp-guarda-municipal-2026",
+      "category": "trabalho",
+      "title": "Nova Odessa (SP) abre concurso para Guarda Municipal com salário de R$ 3.788",
+      "short_description": "A Prefeitura de Nova Odessa (SP) abriu o concurso público 01/2026 com 6 vagas e cadastro de reserva para Guarda Municipal - 3ª Classe, cargo de nível médio com salário de R$ 3.788,37 para jornada de 40 horas ou escala 12x36. As inscrições vão de 06/11 a 07/12/2026, a taxa é de R$ 72,00 e a prova está prevista para 31/01/2027. O edital foi retificado em 09/11.",
+      "deadline": "07/12/2026",
+      "deadline_date": "2026-12-07",
+      "official_link": "https://www.avancasp.org.br/informacoes/290/",
+      "source_name": "Avança SP - banca do concurso da Prefeitura de Nova Odessa/SP",
+      "source_type": "primary",
+      "location": "Nova Odessa, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Nova Odessa",
+      "is_free": false,
+      "tags": [
+        "trabalho",
+        "concurso",
+        "seguranca-publica"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-11",
+      "social_label": "TRABALHO",
+      "social_keyword": "NOVA ODESSA",
+      "social_subtitle": "6 vagas de guarda municipal · Nova Odessa, SP",
+      "kw": [
+        "vaga",
+        "inscricoes"
+      ],
+      "tipo": [
+        "Concurso público"
+      ],
+      "first_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-11",
+      "created_at": "2026-11-11T03:43:19-03:00",
+      "updated_at": "2026-11-11T03:43:19-03:00",
+      "verified_at": "2026-11-11T03:43:19-03:00"
+    },
+    {
+      "id": "educacao-ifsp-cursos-tecnicos-2027-3255-vagas",
+      "category": "educacao",
+      "title": "IFSP abre 3.255 vagas em cursos técnicos gratuitos; inscrições até 18/11",
+      "short_description": "O Instituto Federal de São Paulo (IFSP) abriu o processo seletivo 2027/1 dos cursos técnicos concomitantes e subsequentes ao ensino médio, com 3.255 vagas gratuitas em 78 ofertas de campi e polos, incluindo opções a distância. As inscrições vão até 18/11/2026, a taxa é de R$ 30,00. A isenção pode ser pedida até 11/11 e o pagamento da taxa vai até 19/11, conforme o edital 192/2026.",
+      "deadline": "18/11/2026",
+      "deadline_date": "2026-11-18",
+      "official_link": "https://processoseletivo.ifsp.edu.br/tecnicos-2027-1/",
+      "source_name": "Instituto Federal de São Paulo (IFSP) - Edital 192/2026",
+      "source_type": "primary",
+      "location": "São Paulo",
+      "country": "Brasil",
+      "state": "SP",
+      "city": null,
+      "is_free": false,
+      "tags": [
+        "educacao",
+        "curso-tecnico",
+        "processo-seletivo"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-11",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "IFSP",
+      "social_subtitle": "3.255 vagas técnicas gratuitas · SP",
+      "kw": [
+        "curso",
+        "vaga",
+        "inscricoes"
+      ],
+      "nivel": [
+        "Curso técnico"
+      ],
+      "first_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-11",
+      "created_at": "2026-11-11T03:43:19-03:00",
+      "updated_at": "2026-11-11T03:43:19-03:00",
+      "verified_at": "2026-11-11T03:43:19-03:00"
+    },
+    {
+      "id": "trabalho-portel-pa-camara-27-vagas-2026",
+      "category": "trabalho",
+      "title": "Câmara de Portel (PA) abre concurso com 27 vagas e cadastro de reserva",
+      "short_description": "A Câmara Municipal de Portel (PA) abriu o concurso público 001/2026 com 27 vagas imediatas e cadastro de reserva para Assistente Administrativo, Assistente de Plenário, Vigilante, Guarda Legislativo, Técnico Legislativo, Advogado, Controlador Interno e Condutor Marítimo, entre outros cargos. As inscrições vão de 10/11 a 29/11/2026, com isenção da taxa até 13/11. O edital foi retificado em 09/11.",
+      "deadline": "29/11/2026",
+      "deadline_date": "2026-11-29",
+      "official_link": "https://www.institutovicentenelson.com.br/informacoes/106/",
+      "source_name": "Instituto Vicente Nelson - banca do concurso da Câmara Municipal de Portel/PA",
+      "source_type": "primary",
+      "location": "Portel, PA",
+      "country": "Brasil",
+      "state": "PA",
+      "city": "Portel",
+      "is_free": false,
+      "tags": [
+        "trabalho",
+        "concurso",
+        "legislativo"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-11",
+      "social_label": "TRABALHO",
+      "social_keyword": "PORTEL",
+      "social_subtitle": "27 vagas · Portel, PA",
+      "kw": [
+        "vaga",
+        "inscricoes"
+      ],
+      "tipo": [
+        "Concurso público"
+      ],
+      "first_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-11",
+      "created_at": "2026-11-11T03:43:19-03:00",
+      "updated_at": "2026-11-11T03:43:19-03:00",
+      "verified_at": "2026-11-11T03:43:19-03:00"
+    },
+    {
+      "id": "trabalho-cerquilho-sp-35-vagas-2026",
+      "category": "trabalho",
+      "title": "Cerquilho (SP) abre concurso com 35 vagas e salários de até R$ 5 mil",
+      "short_description": "A Prefeitura de Cerquilho (SP) abriu o concurso público 01/2026 com 35 vagas e cadastro de reserva para Auxiliar de Limpeza, Merendeira Servente, Operário de Serviços Gerais, Coveiro, Agente Comunitário de Saúde, Fonoaudiólogo e Terapeuta Ocupacional. Os salários vão de R$ 1.660,20 a R$ 5.078,62. As inscrições vão de 06/11 a 07/12/2026, as taxas vão de R$ 55,00 a R$ 86,00 e a prova está prevista para 24/01/2027.",
+      "deadline": "07/12/2026",
+      "deadline_date": "2026-12-07",
+      "official_link": "https://www.avancasp.org.br/informacoes/289/",
+      "source_name": "Avança SP - banca do concurso da Prefeitura de Cerquilho/SP",
+      "source_type": "primary",
+      "location": "Cerquilho, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Cerquilho",
+      "is_free": false,
+      "tags": [
+        "trabalho",
+        "concurso",
+        "municipal"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-11",
+      "social_label": "TRABALHO",
+      "social_keyword": "CERQUILHO",
+      "social_subtitle": "35 vagas · Cerquilho, SP",
+      "kw": [
+        "vaga",
+        "inscricoes"
+      ],
+      "tipo": [
+        "Concurso público"
+      ],
+      "first_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-11",
+      "created_at": "2026-11-11T03:43:19-03:00",
+      "updated_at": "2026-11-11T03:43:19-03:00",
+      "verified_at": "2026-11-11T03:43:19-03:00"
+    },
+    {
+      "id": "trabalho-canto-do-buriti-pi-209-vagas-2026",
+      "category": "trabalho",
+      "title": "Canto do Buriti (PI) abre concurso com 209 vagas em todos os níveis",
+      "short_description": "A Prefeitura de Canto do Buriti (PI) abriu o concurso público 001/2026 com 209 vagas para cargos de nível fundamental, médio e superior, como Agente Comunitário de Saúde, Motorista, Vigia, Eletricista e Auxiliar de Serviços Gerais, além de 45 vagas para professores. As inscrições vão até 26/11/2026; os pedidos de isenção da taxa se encerraram em 31/10. O edital foi retificado em 26 e 29/10.",
+      "deadline": "26/11/2026",
+      "deadline_date": "2026-11-26",
+      "official_link": "https://www.institutovicentenelson.com.br/informacoes/105/",
+      "source_name": "Instituto Vicente Nelson - banca do concurso da Prefeitura de Canto do Buriti/PI",
+      "source_type": "primary",
+      "location": "Canto do Buriti, PI",
+      "country": "Brasil",
+      "state": "PI",
+      "city": "Canto do Buriti",
+      "is_free": false,
+      "tags": [
+        "trabalho",
+        "concurso",
+        "municipal"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-11",
+      "social_label": "TRABALHO",
+      "social_keyword": "CANTO DO BURITI",
+      "social_subtitle": "209 vagas · Canto do Buriti, PI",
+      "kw": [
+        "vaga",
+        "inscricoes"
+      ],
+      "tipo": [
+        "Concurso público"
+      ],
+      "first_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-11",
+      "created_at": "2026-11-11T03:43:19-03:00",
+      "updated_at": "2026-11-11T03:43:19-03:00",
+      "verified_at": "2026-11-11T03:43:19-03:00"
+    },
+    {
+      "id": "educacao-butantan-especializacao-uma-so-saude-2027",
+      "category": "educacao",
+      "title": "Butantan abre especialização em Uma Só Saúde com bolsa de R$ 1.650",
+      "short_description": "A Escola Superior do Instituto Butantan (ESIB) abriu o processo seletivo 2027 da especialização em Uma Só Saúde, com 960 horas, seis meses de duração e bolsa de R$ 1.650 por mês da Secretaria de Estado da Saúde de São Paulo. As aulas são presenciais, de segunda a sexta, das 8h30 às 17h. Podem concorrer graduados em Medicina Veterinária, Biologia, Enfermagem, Farmácia, Biomedicina, Nutrição, Psicologia e outras áreas da saúde e do meio ambiente. Inscrições até 26/11/2026, com taxa de R$ 105,80.",
+      "deadline": "26/11/2026",
+      "deadline_date": "2026-11-26",
+      "official_link": "https://escolasuperior.butantan.gov.br/especializacao/especializacao-uma-so-saude",
+      "source_name": "Escola Superior do Instituto Butantan (ESIB)",
+      "source_type": "primary",
+      "location": "São Paulo, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "São Paulo",
+      "is_free": false,
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "especializacao",
+        "bolsa"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-11",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "BUTANTAN",
+      "social_subtitle": "Bolsa de R$ 1.650 · São Paulo, SP",
+      "kw": [
+        "curso",
+        "vaga",
+        "inscricoes"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "first_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-11",
+      "created_at": "2026-11-11T03:43:19-03:00",
+      "updated_at": "2026-11-11T03:43:19-03:00",
+      "verified_at": "2026-11-11T03:43:19-03:00"
+    },
     {
       "id": "trabalho-votorantim-sp-gestao-escolar-5-vagas-2026",
       "category": "trabalho",
@@ -35,7 +317,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -74,48 +356,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-06T13:47:29-03:00",
-      "updated_at": "2026-11-06T13:47:29-03:00",
-      "verified_at": "2026-11-06T13:47:29-03:00"
-    },
-    {
-      "id": "educacao-uniregistral-tecnologia-registral-100-vagas-2026",
-      "category": "educacao",
-      "title": "Uniregistral abre 100 vagas em curso superior de Serviços Notariais e Registrais",
-      "short_description": "O Instituto de Educação Superior e Pesquisa Uniregistral abriu o vestibular 10/2026 com 100 vagas no Curso Superior de Tecnologia em Serviços Notariais e Registrais, em São Paulo (SP). As inscrições vão até 09/11/2026, a taxa é de R$ 150,00 e a prova está prevista para 20/12/2026.",
-      "deadline": "09/11/2026",
-      "deadline_date": "2026-11-09",
-      "official_link": "https://www.avancasp.org.br/informacoes/267/",
-      "source_name": "Avança SP - banca do vestibular do Instituto Uniregistral",
-      "source_type": "primary",
-      "location": "São Paulo, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "São Paulo",
-      "is_free": false,
-      "tags": [
-        "educacao",
-        "graduacao",
-        "vestibular",
-        "tecnologo"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-06",
-      "social_label": "EDUCAÇÃO",
-      "social_keyword": "UNIREGISTRAL",
-      "social_subtitle": "100 vagas · São Paulo, SP",
-      "kw": [
-        "curso",
-        "vaga",
-        "inscricoes"
-      ],
-      "nivel": [
-        "Graduação"
-      ],
-      "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -156,7 +397,7 @@
         "Processo seletivo"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -197,7 +438,7 @@
         "Estágio"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -237,7 +478,7 @@
         "Graduação"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -276,7 +517,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -315,7 +556,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -357,7 +598,7 @@
         "Jurídica"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -396,49 +637,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-06T13:47:29-03:00",
-      "updated_at": "2026-11-06T13:47:29-03:00",
-      "verified_at": "2026-11-06T13:47:29-03:00"
-    },
-    {
-      "id": "trabalho-cabreuva-sp-guarda-municipal-2-vagas-2026",
-      "category": "trabalho",
-      "title": "Cabreúva (SP) abre 2 vagas para Guarda Municipal com salário de R$ 3,8 mil",
-      "short_description": "A Prefeitura de Cabreúva (SP) abriu o concurso público 02/2026 com 2 vagas e cadastro de reserva para Guarda Municipal, de nível médio, com salário de R$ 3.846,34. As inscrições vão até 09/11/2026, a taxa é de R$ 74,00 e a prova está prevista para 17/01/2027.",
-      "deadline": "09/11/2026",
-      "deadline_date": "2026-11-09",
-      "official_link": "https://www.avancasp.org.br/informacoes/284/",
-      "source_name": "Avança SP - banca do concurso da Prefeitura de Cabreúva/SP",
-      "source_type": "primary",
-      "location": "Cabreúva, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "Cabreúva",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "municipal"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-06",
-      "social_label": "TRABALHO",
-      "social_keyword": "CABREÚVA",
-      "social_subtitle": "2 vagas · Cabreúva, SP",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ],
-      "area": [
-        "Segurança"
-      ],
-      "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -483,7 +682,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -528,50 +727,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-06T00:56:48-03:00",
-      "updated_at": "2026-11-06T00:56:48-03:00",
-      "verified_at": "2026-11-06T00:56:48-03:00"
-    },
-    {
-      "id": "trabalho-marau-ba-acs-8-vagas-2026",
-      "category": "trabalho",
-      "title": "Maraú (BA) abre 8 vagas para agente comunitário de saúde",
-      "short_description": "A Prefeitura de Maraú (BA) abriu processo seletivo com 8 vagas imediatas e cadastro de reserva para Agente Comunitário de Saúde, de nível médio, distribuídas em unidades de saúde do município. As inscrições vão até 09/11/2026, pela plataforma Passaporte PDH.",
-      "deadline": "09/11/2026",
-      "deadline_date": "2026-11-09",
-      "official_link": "https://pdh.selecao.net.br/informacoes/88/",
-      "source_name": "Prefeitura Municipal de Maraú - BA (banca: Passaporte PDH)",
-      "source_type": "primary",
-      "location": "Maraú, BA",
-      "country": "Brasil",
-      "state": "BA",
-      "city": "Maraú",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "processo-seletivo",
-        "municipal",
-        "saude"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-05",
-      "social_label": "TRABALHO",
-      "social_keyword": "MARAÚ",
-      "social_subtitle": "8 vagas de ACS · BA",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Processo seletivo"
-      ],
-      "area": [
-        "Saúde"
-      ],
-      "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -610,48 +766,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-06T00:56:48-03:00",
-      "updated_at": "2026-11-06T00:56:48-03:00",
-      "verified_at": "2026-11-06T00:56:48-03:00"
-    },
-    {
-      "id": "trabalho-itabaiana-se-educacao-38-vagas-2026",
-      "category": "trabalho",
-      "title": "Itabaiana (SE) abre 38 vagas na Educação com salários de até R$ 4,5 mil",
-      "short_description": "A Prefeitura de Itabaiana (SE) abriu processo seletivo simplificado com 38 vagas imediatas e cadastro de reserva em 14 cargos da Educação, com salários de R$ 1.621,00 a R$ 4.514,95. As inscrições são gratuitas e presenciais, na Associação Atlética de Itabaiana, até 06/11/2026 para os níveis fundamental e médio.",
-      "deadline": "06/11/2026",
-      "deadline_date": "2026-11-06",
-      "official_link": "https://itabaiana.se.gov.br/",
-      "source_name": "Prefeitura Municipal de Itabaiana - SE (Secretaria Municipal de Educação)",
-      "source_type": "primary",
-      "location": "Itabaiana, SE",
-      "country": "Brasil",
-      "state": "SE",
-      "city": "Itabaiana",
-      "is_free": true,
-      "tags": [
-        "trabalho",
-        "processo-seletivo",
-        "municipal",
-        "educacao"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-05",
-      "social_label": "TRABALHO",
-      "social_keyword": "ITABAIANA",
-      "social_subtitle": "38 vagas · SE",
-      "kw": [
-        "vaga",
-        "inscricoes",
-        "gratuito"
-      ],
-      "tipo": [
-        "Processo seletivo"
-      ],
-      "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -695,57 +810,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-06T00:56:48-03:00",
-      "updated_at": "2026-11-06T00:56:48-03:00",
-      "verified_at": "2026-11-06T00:56:48-03:00"
-    },
-    {
-      "id": "educacao-if-baiano-1327-vagas-tecnicos-ead-2027",
-      "category": "educacao",
-      "title": "IF Baiano abre 1.327 vagas em cursos técnicos gratuitos EaD",
-      "short_description": "O Instituto Federal Baiano abriu 1.327 vagas em cinco cursos técnicos subsequentes EaD, gratuitos, para ingresso em 2027: Informática, Secretaria Escolar, Redes de Computadores, Multimeios Didáticos e Vendas. A seleção é por ordem de inscrição, sem prova, e as inscrições vão até 08/11/2026.",
-      "deadline": "08/11/2026",
-      "deadline_date": "2026-11-08",
-      "official_link": "https://ifbaiano.edu.br/portal/",
-      "source_name": "Instituto Federal Baiano (IF Baiano) - Edital 27/2026",
-      "source_type": "primary",
-      "location": "Senhor do Bonfim e polos, BA",
-      "country": "Brasil",
-      "state": "BA",
-      "city": "Senhor do Bonfim",
-      "is_free": true,
-      "tags": [
-        "educacao",
-        "curso-tecnico",
-        "ead"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-05",
-      "social_label": "EDUCAÇÃO",
-      "social_keyword": "IF BAIANO",
-      "social_subtitle": "1.327 vagas técnicas EaD · BA",
-      "kw": [
-        "curso",
-        "vaga",
-        "inscricoes",
-        "gratuito"
-      ],
-      "nivel": [
-        "Curso técnico"
-      ],
-      "areaEstudo": [
-        "Tecnologia"
-      ],
-      "mod": [
-        "EaD"
-      ],
-      "custo": [
-        "Gratuito"
-      ],
-      "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -786,50 +851,7 @@
         "Processo seletivo"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-06T00:56:48-03:00",
-      "updated_at": "2026-11-06T00:56:48-03:00",
-      "verified_at": "2026-11-06T00:56:48-03:00"
-    },
-    {
-      "id": "trabalho-camara-tibau-do-sul-rn-8-vagas-2026",
-      "category": "trabalho",
-      "title": "Câmara de Tibau do Sul (RN) abre concurso com 8 vagas",
-      "short_description": "A Câmara Municipal de Tibau do Sul (RN) abriu concurso público com 8 vagas imediatas em sete cargos de níveis fundamental, médio e superior, com salários de R$ 1.621 a R$ 3.000 e jornada de 30 horas semanais. As inscrições terminam em 06/11/2026, pela banca Facet Concursos.",
-      "deadline": "06/11/2026",
-      "deadline_date": "2026-11-06",
-      "official_link": "https://facetconcursos.selecao.net.br/informacoes/50/",
-      "source_name": "Câmara Municipal de Tibau do Sul - RN (banca: Facet Concursos)",
-      "source_type": "primary",
-      "location": "Tibau do Sul, RN",
-      "country": "Brasil",
-      "state": "RN",
-      "city": "Tibau do Sul",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "municipal",
-        "legislativo"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-05",
-      "social_label": "TRABALHO",
-      "social_keyword": "TIBAU DO SUL",
-      "social_subtitle": "8 vagas · RN",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ],
-      "area": [
-        "Legislativa"
-      ],
-      "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -872,7 +894,7 @@
         "Legislativa"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -915,7 +937,7 @@
         "Legislativa"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -954,50 +976,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-06T00:56:48-03:00",
-      "updated_at": "2026-11-06T00:56:48-03:00",
-      "verified_at": "2026-11-06T00:56:48-03:00"
-    },
-    {
-      "id": "trabalho-consan-ba-4-vagas-2026",
-      "category": "trabalho",
-      "title": "CONSAN (BA) reabre inscrições para 4 vagas na saúde",
-      "short_description": "O Consórcio Público Interfederativo de Saúde da Chapada Norte (CONSAN), em Jacobina (BA), reabriu as inscrições do processo seletivo com 4 vagas para Assistente Administrativo, Técnico em Enfermagem e Assessor Técnico, com salários de até R$ 4.730,85. Prazo até 06/11/2026, pelo Instituto DOM.",
-      "deadline": "06/11/2026",
-      "deadline_date": "2026-11-06",
-      "official_link": "https://institutodom.selecao.net.br/informacoes/93/",
-      "source_name": "CONSAN - Consórcio Público Interfederativo de Saúde da Chapada Norte (banca: Instituto DOM)",
-      "source_type": "primary",
-      "location": "Jacobina, BA",
-      "country": "Brasil",
-      "state": "BA",
-      "city": "Jacobina",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "processo-seletivo",
-        "consorcio-publico",
-        "saude"
-      ],
-      "status": "extended",
-      "reliability_level": "A",
-      "published_date": "2026-11-05",
-      "social_label": "TRABALHO",
-      "social_keyword": "CONSAN",
-      "social_subtitle": "4 vagas · BA",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Processo seletivo"
-      ],
-      "area": [
-        "Saúde"
-      ],
-      "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -1036,172 +1015,10 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
-    },
-    {
-      "id": "trabalho-alto-santo-ce-concurso-ambiental-2026",
-      "category": "trabalho",
-      "title": "Alto Santo (CE) reabre concurso com 4 vagas e 12 de cadastro de reserva",
-      "short_description": "A Prefeitura de Alto Santo (CE) reabriu as inscrições do concurso público com 4 vagas imediatas e 12 de cadastro de reserva para a área ambiental, em nível superior, com salário de R$ 3.000,00. Inscrições até 10/11/2026 pela banca Consulpam, com taxa de R$ 140,00 e prova em 06/12/2026.",
-      "deadline": "10/11/2026",
-      "deadline_date": "2026-11-10",
-      "official_link": "https://www.consulpam.com.br/index.php?menu=concursos&acao=ver&id=883",
-      "source_name": "Prefeitura Municipal de Alto Santo - CE (banca: Consulpam)",
-      "source_type": "primary",
-      "location": "Alto Santo, CE",
-      "country": "Brasil",
-      "state": "CE",
-      "city": "Alto Santo",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "municipal",
-        "ambiental"
-      ],
-      "status": "extended",
-      "reliability_level": "A",
-      "published_date": "2026-11-05",
-      "social_label": "TRABALHO",
-      "social_keyword": "ALTO SANTO",
-      "social_subtitle": "4 vagas + 12 CR · CE",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ],
-      "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-06T00:56:48-03:00",
-      "updated_at": "2026-11-06T00:56:48-03:00",
-      "verified_at": "2026-11-06T00:56:48-03:00"
-    },
-    {
-      "id": "trabalho-sao-joao-do-piaui-590-vagas-2026",
-      "category": "trabalho",
-      "title": "São João do Piauí abre 590 vagas com salários de até R$ 16,8 mil",
-      "short_description": "A Prefeitura de São João do Piauí (PI) abriu processos seletivos com 590 vagas de níveis fundamental, médio, técnico e superior, com salários de até R$ 16.800,00, além de 80 vagas para agentes comunitários de saúde e de endemias. As inscrições terminam em 09/11/2026 (editais principais) e em 15/11/2026 (agentes), pela banca Consulpam.",
-      "deadline": "09/11/2026",
-      "deadline_date": "2026-11-09",
-      "official_link": "https://www.consulpam.com.br/",
-      "source_name": "Prefeitura de São João do Piauí - PI (banca: Consulpam)",
-      "source_type": "primary",
-      "location": "São João do Piauí, PI",
-      "country": "Brasil",
-      "state": "PI",
-      "city": "São João do Piauí",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "processo-seletivo",
-        "municipal"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-04",
-      "social_label": "TRABALHO",
-      "social_keyword": "SÃO JOÃO DO PIAUÍ",
-      "social_subtitle": "590 vagas · PI",
-      "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-04T19:47:43-03:00",
-      "updated_at": "2026-11-04T19:47:43-03:00",
-      "verified_at": "2026-11-04T19:47:43-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Processo seletivo"
-      ]
-    },
-    {
-      "id": "trabalho-marinha-oficiais-temporarios-2026",
-      "category": "trabalho",
-      "title": "Marinha abre mais de 370 vagas para Oficiais temporários",
-      "short_description": "A Marinha do Brasil está com inscrições abertas até 10/11/2026 para o Serviço Militar Voluntário de Oficiais temporários, com mais de 370 vagas de nível superior distribuídas em diversos Distritos Navais do país. A remuneração inicial passa de R$ 9 mil e as inscrições são feitas pelo portal oficial de concursos da Marinha.",
-      "deadline": "10/11/2026",
-      "deadline_date": "2026-11-10",
-      "official_link": "https://concursos.marinha.mil.br/",
-      "source_name": "Marinha do Brasil - Serviço Militar Voluntário de Oficiais",
-      "source_type": "primary",
-      "location": "Nacional (Brasil)",
-      "country": "Brasil",
-      "state": null,
-      "city": null,
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "militar",
-        "oficial"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-04",
-      "social_label": "TRABALHO",
-      "social_keyword": "MARINHA",
-      "social_subtitle": "+370 vagas de oficial · Brasil",
-      "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-04T19:47:43-03:00",
-      "updated_at": "2026-11-04T19:47:43-03:00",
-      "verified_at": "2026-11-04T19:47:43-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes",
-        "brasil"
-      ],
-      "tipo": [
-        "Concurso público"
-      ],
-      "area": [
-        "Militar"
-      ]
-    },
-    {
-      "id": "trabalho-marechal-floriano-es-100-vagas-2026",
-      "category": "trabalho",
-      "title": "Marechal Floriano abre 100 vagas em processo seletivo",
-      "short_description": "A Prefeitura de Marechal Floriano (ES) está com 100 vagas abertas em processo seletivo de níveis fundamental, médio, técnico e superior, com salários de até R$ 3.200,00. As inscrições terminam em 06/11/2026 e os editais estão na página oficial do processo seletivo da prefeitura.",
-      "deadline": "06/11/2026",
-      "deadline_date": "2026-11-06",
-      "official_link": "https://www.marechalfloriano.es.gov.br/processo-seletivo-2/",
-      "source_name": "Prefeitura de Marechal Floriano - ES",
-      "source_type": "primary",
-      "location": "Marechal Floriano, ES",
-      "country": "Brasil",
-      "state": "ES",
-      "city": "Marechal Floriano",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "processo-seletivo",
-        "municipal"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-04",
-      "social_label": "TRABALHO",
-      "social_keyword": "MARECHAL FLORIANO",
-      "social_subtitle": "100 vagas · ES",
-      "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-04T19:47:43-03:00",
-      "updated_at": "2026-11-04T19:47:43-03:00",
-      "verified_at": "2026-11-04T19:47:43-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Processo seletivo"
-      ]
     },
     {
       "id": "trabalho-luis-eduardo-magalhaes-ba-2355-vagas-2026",
@@ -1230,7 +1047,7 @@
       "social_keyword": "LEM",
       "social_subtitle": "2.355 vagas · BA",
       "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-04T19:47:43-03:00",
       "updated_at": "2026-11-04T19:47:43-03:00",
       "verified_at": "2026-11-04T19:47:43-03:00",
@@ -1269,7 +1086,7 @@
       "social_keyword": "JAGUARIBE",
       "social_subtitle": "183 vagas · CE",
       "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-04T19:47:43-03:00",
       "updated_at": "2026-11-04T19:47:43-03:00",
       "verified_at": "2026-11-04T19:47:43-03:00",
@@ -1308,7 +1125,7 @@
       "social_keyword": "GROAÍRAS",
       "social_subtitle": "72 vagas · CE",
       "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-04T19:47:43-03:00",
       "updated_at": "2026-11-04T19:47:43-03:00",
       "verified_at": "2026-11-04T19:47:43-03:00",
@@ -1318,84 +1135,6 @@
       ],
       "tipo": [
         "Concurso público"
-      ]
-    },
-    {
-      "id": "trabalho-firmino-alves-ba-285-vagas-2026",
-      "category": "trabalho",
-      "title": "Firmino Alves abre concursos com 285 vagas e salários de até R$ 8 mil",
-      "short_description": "A Prefeitura de Firmino Alves (BA) publicou dois editais que somam 285 vagas — 210 imediatas e as demais para cadastro de reserva — em cargos de níveis fundamental, médio, técnico e superior, com salários de até R$ 8.000,00. As inscrições terminam em 09/11/2026 e o edital está no site oficial da prefeitura.",
-      "deadline": "09/11/2026",
-      "deadline_date": "2026-11-09",
-      "official_link": "https://www.firminoalves.ba.gov.br/",
-      "source_name": "Prefeitura de Firmino Alves - BA",
-      "source_type": "primary",
-      "location": "Firmino Alves, BA",
-      "country": "Brasil",
-      "state": "BA",
-      "city": "Firmino Alves",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "municipal"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-04",
-      "social_label": "TRABALHO",
-      "social_keyword": "FIRMINO ALVES",
-      "social_subtitle": "285 vagas · BA",
-      "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-04T19:47:43-03:00",
-      "updated_at": "2026-11-04T19:47:43-03:00",
-      "verified_at": "2026-11-04T19:47:43-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ]
-    },
-    {
-      "id": "trabalho-dores-do-rio-preto-es-176-vagas-2026",
-      "category": "trabalho",
-      "title": "Dores do Rio Preto abre 176 vagas com salários de até R$ 17 mil",
-      "short_description": "A Prefeitura de Dores do Rio Preto (ES) está com 176 vagas abertas em processos seletivos de níveis fundamental, médio, técnico e superior, com salários de até R$ 17.087,37. As inscrições terminam em 10/11/2026 e os editais estão na página oficial de processos seletivos da prefeitura.",
-      "deadline": "10/11/2026",
-      "deadline_date": "2026-11-10",
-      "official_link": "https://www.pmdrp.es.gov.br/processos-seletivos",
-      "source_name": "Prefeitura de Dores do Rio Preto - ES",
-      "source_type": "primary",
-      "location": "Dores do Rio Preto, ES",
-      "country": "Brasil",
-      "state": "ES",
-      "city": "Dores do Rio Preto",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "processo-seletivo",
-        "municipal"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-04",
-      "social_label": "TRABALHO",
-      "social_keyword": "DORES DO RIO PRETO",
-      "social_subtitle": "176 vagas · ES",
-      "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-04T19:47:43-03:00",
-      "updated_at": "2026-11-04T19:47:43-03:00",
-      "verified_at": "2026-11-04T19:47:43-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Processo seletivo"
       ]
     },
     {
@@ -1425,7 +1164,7 @@
       "social_keyword": "DPE-SP",
       "social_subtitle": "70 vagas de defensor · SP",
       "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-04T19:47:43-03:00",
       "updated_at": "2026-11-04T19:47:43-03:00",
       "verified_at": "2026-11-04T19:47:43-03:00",
@@ -1467,124 +1206,7 @@
       "social_keyword": "CATU",
       "social_subtitle": "190 vagas · BA",
       "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-04T19:47:43-03:00",
-      "updated_at": "2026-11-04T19:47:43-03:00",
-      "verified_at": "2026-11-04T19:47:43-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ]
-    },
-    {
-      "id": "trabalho-cro-se-83-vagas-2026",
-      "category": "trabalho",
-      "title": "CRO-SE prorroga concurso com 83 vagas e salários de até R$ 4,5 mil",
-      "short_description": "O Conselho Regional de Odontologia de Sergipe (CRO-SE) prorrogou até 06/11/2026 as inscrições do concurso público com 83 vagas de níveis médio e superior, com salários de até R$ 4.504,61, em cargos como fiscal, assistente administrativo e técnico. O edital e o aviso de prorrogação estão no site oficial do conselho.",
-      "deadline": "06/11/2026",
-      "deadline_date": "2026-11-06",
-      "official_link": "https://crose.org.br/noticia/729/cro-se-prorroga-inscricoes-para-o-concurso-publico-ate-06-de-novembro",
-      "source_name": "Conselho Regional de Odontologia de Sergipe (CRO-SE)",
-      "source_type": "primary",
-      "location": "Sergipe",
-      "country": "Brasil",
-      "state": "SE",
-      "city": null,
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "conselho-profissional"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-04",
-      "social_label": "TRABALHO",
-      "social_keyword": "CRO-SE",
-      "social_subtitle": "83 vagas · SE",
-      "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-04T19:47:43-03:00",
-      "updated_at": "2026-11-04T19:47:43-03:00",
-      "verified_at": "2026-11-04T19:47:43-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ]
-    },
-    {
-      "id": "trabalho-aracatu-ba-245-vagas-2026",
-      "category": "trabalho",
-      "title": "Aracatu abre concurso com 245 vagas e salários de até R$ 2.565",
-      "short_description": "A Prefeitura de Aracatu (BA) abriu concurso público com 245 vagas de níveis fundamental, médio e superior em cargos das áreas de saúde, educação e administração, com salários de até R$ 2.565,32. As inscrições terminam em 09/11/2026 e o edital está publicado no site oficial da prefeitura.",
-      "deadline": "09/11/2026",
-      "deadline_date": "2026-11-09",
-      "official_link": "https://aracatu.ba.gov.br/",
-      "source_name": "Prefeitura de Aracatu - BA",
-      "source_type": "primary",
-      "location": "Aracatu, BA",
-      "country": "Brasil",
-      "state": "BA",
-      "city": "Aracatu",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "municipal"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-04",
-      "social_label": "TRABALHO",
-      "social_keyword": "ARACATU",
-      "social_subtitle": "245 vagas · BA",
-      "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-04T19:47:43-03:00",
-      "updated_at": "2026-11-04T19:47:43-03:00",
-      "verified_at": "2026-11-04T19:47:43-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ]
-    },
-    {
-      "id": "trabalho-aracati-ce-127-vagas-2026",
-      "category": "trabalho",
-      "title": "Aracati abre concurso com 127 vagas e salários de até R$ 5.431",
-      "short_description": "A Prefeitura de Aracati (CE) abriu concurso público com 127 vagas de níveis fundamental, médio e superior, com salários de até R$ 5.431,00, além de 60 vagas para agentes comunitários de saúde, agente de endemias e intérprete de Libras. As inscrições terminam em 06/11/2026 e são feitas pela banca FCPC (UFC).",
-      "deadline": "06/11/2026",
-      "deadline_date": "2026-11-06",
-      "official_link": "https://aracati.ce.gov.br/processoseletivo.php",
-      "source_name": "Prefeitura de Aracati - CE (banca: FCPC/UFC)",
-      "source_type": "primary",
-      "location": "Aracati, CE",
-      "country": "Brasil",
-      "state": "CE",
-      "city": "Aracati",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "municipal"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-04",
-      "social_label": "TRABALHO",
-      "social_keyword": "ARACATI",
-      "social_subtitle": "127 vagas · CE",
-      "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-04T19:47:43-03:00",
       "updated_at": "2026-11-04T19:47:43-03:00",
       "verified_at": "2026-11-04T19:47:43-03:00",
@@ -1624,7 +1246,7 @@
       "social_keyword": "UFMS",
       "social_subtitle": "300 vagas EaD gratuitas · MS",
       "first_seen_date": "2026-11-03",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-03T11:47:34-03:00",
       "updated_at": "2026-11-03T11:47:34-03:00",
       "verified_at": "2026-11-03T11:47:34-03:00",
@@ -1668,7 +1290,7 @@
       "social_keyword": "UERJ",
       "social_subtitle": "940 vagas gratuitas · RJ",
       "first_seen_date": "2026-11-03",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-03T11:47:34-03:00",
       "updated_at": "2026-11-03T11:47:34-03:00",
       "verified_at": "2026-11-03T11:47:34-03:00",
@@ -1710,7 +1332,7 @@
       "social_keyword": "CONQUISTA",
       "social_subtitle": "80 vagas gratuitas · BA",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -1726,86 +1348,6 @@
       ],
       "formato": [
         "Aulas e projeto social"
-      ]
-    },
-    {
-      "id": "esportes-unoeste-run-2026-guaruja",
-      "category": "esportes",
-      "title": "Unoeste Run 2026 terá percursos de 5 km e 10 km no Guarujá",
-      "short_description": "A Unoeste Run 2026 será realizada em 08/11/2026 no Guarujá (SP), com provas de 5 km e 10 km abertas a corredores de diferentes níveis. Inscrições pagas pela plataforma Minhas Inscrições.",
-      "deadline": "08/11/2026",
-      "deadline_date": "2026-11-08",
-      "official_link": "https://minhasinscricoes.com.br/pt-br/ClickEventos/Redirecionar?origem=1&keycode=cbd923cf-9442-4acf-b0ef-22e510f1c1dc",
-      "source_name": "Minhas Inscrições (organização Unoeste Run)",
-      "source_type": "secondary",
-      "location": "Guarujá, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "Guarujá",
-      "is_free": false,
-      "tags": [
-        "esportes",
-        "corrida-de-rua"
-      ],
-      "status": "open",
-      "reliability_level": "B",
-      "published_date": "2026-11-02",
-      "social_label": "ESPORTES",
-      "social_keyword": "UNOESTE RUN",
-      "social_subtitle": "5 km e 10 km · 08/11 no Guarujá/SP",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T16:26:22-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "inscricoes"
-      ],
-      "modEsporte": [
-        "Corrida de rua"
-      ]
-    },
-    {
-      "id": "esportes-ultramaratona-fenix-2026",
-      "category": "esportes",
-      "title": "Ultramaratona Fênix 2026 reúne corredores em São Bernardo do Campo",
-      "short_description": "A Ultramaratona Fênix 2026 acontece em 07/11/2026 em São Bernardo do Campo (SP), com provas de longa distância para corredores experientes. As inscrições são pagas e feitas pela plataforma Minhas Inscrições, com vagas limitadas.",
-      "deadline": "07/11/2026",
-      "deadline_date": "2026-11-07",
-      "official_link": "https://minhasinscricoes.com.br/pt-br/ClickEventos/Redirecionar?origem=1&keycode=e07e4d59-83ef-40c5-b41c-30df68c6969f",
-      "source_name": "Minhas Inscrições (organização da Ultramaratona Fênix)",
-      "source_type": "secondary",
-      "location": "São Bernardo do Campo, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "São Bernardo do Campo",
-      "is_free": false,
-      "tags": [
-        "esportes",
-        "corrida-de-rua",
-        "ultramaratona"
-      ],
-      "status": "open",
-      "reliability_level": "B",
-      "published_date": "2026-11-02",
-      "social_label": "ESPORTES",
-      "social_keyword": "FÊNIX",
-      "social_subtitle": "Ultramaratona · 07/11 em SBC/SP",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T16:26:22-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "inscricoes"
-      ],
-      "modEsporte": [
-        "Corrida de rua",
-        "Ultramaratona"
       ]
     },
     {
@@ -1835,7 +1377,7 @@
       "social_keyword": "USP",
       "social_subtitle": "1.610 vagas gratuitas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -1847,51 +1389,6 @@
       ],
       "custo": [
         "Gratuito"
-      ]
-    },
-    {
-      "id": "educacao-ufu-especializacao-empreendedorismo",
-      "category": "educacao",
-      "title": "UFU abre especialização gratuita a distância para educadores",
-      "short_description": "Especialização gratuita e 100% a distância em Projetos de Empreendedorismo e Inovação para Educadores, ofertada pela Universidade Federal de Uberlândia (UFU) via Universidade Aberta do Brasil, com 360 horas e 18 meses de duração. Para quem já concluiu curso superior; seleção por análise curricular. Inscrições pelo formulário oficial até 06/11/2026.",
-      "deadline": "06/11/2026",
-      "deadline_date": "2026-11-06",
-      "official_link": "https://cead.ufu.br/processo-seletivo/2026/10/selecao-candidatos-especializacao-projetos-empreendedorismo-inovacao-educadores",
-      "source_name": "Universidade Federal de Uberlândia (UFU) - CEaD",
-      "source_type": "primary",
-      "location": "Online (nacional)",
-      "country": "Brasil",
-      "state": "MG",
-      "city": null,
-      "is_free": true,
-      "tags": [
-        "educacao",
-        "pos-graduacao",
-        "ead"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-02",
-      "social_label": "EDUCAÇÃO",
-      "social_keyword": "UFU",
-      "social_subtitle": "Especialização gratuita · EaD",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T12:21:36-03:00",
-      "updated_at": "2026-11-02T17:34:27-03:00",
-      "verified_at": "2026-11-02T12:21:36-03:00",
-      "kw": [
-        "curso",
-        "vaga",
-        "inscricoes",
-        "gratuito",
-        "brasil"
-      ],
-      "mod": [
-        "EaD"
-      ],
-      "nivel": [
-        "Pós-graduação"
       ]
     },
     {
@@ -1922,7 +1419,7 @@
       "social_keyword": "UFMS",
       "social_subtitle": "10 mil vagas online · MS",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -1938,45 +1435,6 @@
       ],
       "custo": [
         "Gratuito"
-      ]
-    },
-    {
-      "id": "trabalho-ufba-tecnicos-administrativos-2026",
-      "category": "trabalho",
-      "title": "UFBA prorroga concurso com 139 vagas para técnicos administrativos",
-      "short_description": "A Universidade Federal da Bahia prorrogou até 06/11/2026 as inscrições do concurso público para 139 vagas de técnicos administrativos em cargos de níveis médio, técnico e superior, com salários iniciais que variam de R$ 3.181,39 a R$ 5.215,39, além de benefícios.",
-      "deadline": "06/11/2026",
-      "deadline_date": "2026-11-06",
-      "official_link": "https://concursos.ufba.br/",
-      "source_name": "Universidade Federal da Bahia (UFBA)",
-      "source_type": "primary",
-      "location": "Bahia",
-      "country": "Brasil",
-      "state": "BA",
-      "city": null,
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "federal"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-02",
-      "social_label": "TRABALHO",
-      "social_keyword": "UFBA",
-      "social_subtitle": "139 vagas · BA",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T12:21:36-03:00",
-      "updated_at": "2026-11-02T12:21:36-03:00",
-      "verified_at": "2026-11-02T12:21:36-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
       ]
     },
     {
@@ -2006,7 +1464,7 @@
       "social_keyword": "TRT4",
       "social_subtitle": "Técnicos e analistas · RS",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2048,7 +1506,7 @@
       "social_keyword": "TRF3",
       "social_subtitle": "11 vagas · R$ 20 mil",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -2090,7 +1548,7 @@
       "social_keyword": "TJSP",
       "social_subtitle": "132 vagas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2132,7 +1590,7 @@
       "social_keyword": "TJPB",
       "social_subtitle": "50 vagas · R$ 7,5 mil",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -2145,44 +1603,6 @@
       ],
       "area": [
         "Judiciária"
-      ]
-    },
-    {
-      "id": "trabalho-tce-go-concurso-2026",
-      "category": "trabalho",
-      "title": "TCE-GO abre concurso com 16 vagas e salário de R$ 11.862,19",
-      "short_description": "Tribunal de Contas do Estado de Goiás seleciona 16 servidores (banca FCC), com inscrições até 06/11/2026 (taxa de R$ 100) e prova em 17/01/2027, em Goiânia. Boleto pode ser pago até 09/11/2026.",
-      "deadline": "06/11/2026",
-      "deadline_date": "2026-11-06",
-      "official_link": "https://www.concursosfcc.com.br/concursos/tcego125/index.html",
-      "source_name": "Tribunal de Contas do Estado de Goiás (TCE-GO) - banca FCC",
-      "source_type": "secondary",
-      "location": "Goiânia, GO",
-      "country": "Brasil",
-      "state": "GO",
-      "city": "Goiânia",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso"
-      ],
-      "status": "open",
-      "reliability_level": "B",
-      "published_date": "2026-11-02",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T02:19:02-03:00",
-      "updated_at": "2026-11-02T02:22:49-03:00",
-      "verified_at": "2026-11-02T02:19:02-03:00",
-      "social_label": "CONCURSOS",
-      "social_keyword": "TCE-GO",
-      "social_subtitle": "Tribunal de Contas de Goiás · GO",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
       ]
     },
     {
@@ -2212,7 +1632,7 @@
       "social_keyword": "SÃO GONÇALO",
       "social_subtitle": "101 vagas · RJ",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2254,7 +1674,7 @@
       "social_keyword": "SUZANO",
       "social_subtitle": "303 vagas de futsal · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -2269,49 +1689,6 @@
       ],
       "formato": [
         "Aulas e projeto social"
-      ]
-    },
-    {
-      "id": "esportes-sprint-triathlon-santa-cecilia-2026",
-      "category": "esportes",
-      "title": "Sprint Triathlon Santa Cecília 2026 abre inscrições para a 4ª etapa",
-      "short_description": "Quarta etapa do Sprint Triathlon Santa Cecília, em Guarujá (SP), no dia 08/11/2026. Inscrições abertas pela plataforma Minhas Inscrições, com vagas limitadas. Evento com taxa de inscrição, voltado a atletas de triathlon e iniciantes na modalidade.",
-      "deadline": "08/11/2026",
-      "deadline_date": "2026-11-08",
-      "official_link": "https://minhasinscricoes.com.br/pt-br/ClickEventos/Redirecionar?origem=1&keycode=86489eca-de54-4775-868f-294a48b6cf77",
-      "source_name": "Minhas Inscrições - Sprint Triathlon Santa Cecília 2026",
-      "source_type": "secondary",
-      "location": "Guarujá, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "Guarujá",
-      "is_free": false,
-      "tags": [
-        "esportes",
-        "triathlon",
-        "evento"
-      ],
-      "status": "open",
-      "reliability_level": "B",
-      "published_date": "2026-11-02",
-      "social_label": "ESPORTES",
-      "social_keyword": "TRIATHLON",
-      "social_subtitle": "Sprint 4ª etapa · Guarujá/SP",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T12:21:36-03:00",
-      "updated_at": "2026-11-02T12:21:36-03:00",
-      "verified_at": "2026-11-02T12:21:36-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "inscricoes"
-      ],
-      "modEsporte": [
-        "Triathlon"
-      ],
-      "formato": [
-        "Evento"
       ]
     },
     {
@@ -2338,7 +1715,7 @@
       "reliability_level": "A",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -2383,7 +1760,7 @@
       "reliability_level": "A",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -2398,45 +1775,6 @@
       ],
       "formato": [
         "Seletiva"
-      ]
-    },
-    {
-      "id": "educacao-serpro-evento-ia-gratuito",
-      "category": "educacao",
-      "title": "Serpro abre inscrições para evento gratuito de Inteligência Artificial",
-      "short_description": "O Serpro promove um evento online e gratuito de Inteligência Artificial, com certificado, entre 04 e 06/11/2026. A programação é aberta ao público e voltada a quem quer entender aplicações práticas de IA no setor público e no mercado.",
-      "deadline": "06/11/2026",
-      "deadline_date": "2026-11-06",
-      "official_link": "https://campanhas.serpro.gov.br/semana-de-ia-serpro/",
-      "source_name": "Serpro - Semana de Inteligência Artificial",
-      "source_type": "primary",
-      "location": "Online (nacional)",
-      "country": "Brasil",
-      "state": null,
-      "city": null,
-      "is_free": true,
-      "tags": [
-        "educacao",
-        "evento-gratuito",
-        "inteligencia-artificial"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-02",
-      "social_label": "EDUCAÇÃO",
-      "social_keyword": "SERPRO IA",
-      "social_subtitle": "Evento gratuito · 04 a 06/11",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T17:34:27-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "curso",
-        "vaga",
-        "inscricoes",
-        "gratuito",
-        "brasil"
       ]
     },
     {
@@ -2464,7 +1802,7 @@
       "reliability_level": "A",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -2514,7 +1852,7 @@
       "social_keyword": "SETEC",
       "social_subtitle": "39 vagas · Campinas/SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2554,7 +1892,7 @@
       "social_keyword": "RORAINÓPOLIS",
       "social_subtitle": "R$ 240 mil em 2 editais · RR",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2596,7 +1934,7 @@
       "social_keyword": "SANTA LUZIA",
       "social_subtitle": "Concurso público · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2634,7 +1972,7 @@
       "social_keyword": "PARAGUAÇU",
       "social_subtitle": "Concurso público · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2672,7 +2010,7 @@
       "social_keyword": "MATÃO",
       "social_subtitle": "28 vagas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2710,7 +2048,7 @@
       "social_keyword": "CONTAGEM",
       "social_subtitle": "272 vagas · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2749,7 +2087,7 @@
       "social_keyword": "PORTO VELHO",
       "social_subtitle": "2.098 vagas na saúde · RO",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2762,52 +2100,6 @@
       ],
       "area": [
         "Saúde"
-      ]
-    },
-    {
-      "id": "cultura-porto-seguro-pnab-ciclo-2",
-      "category": "cultura",
-      "title": "Porto Seguro abre 6 editais da PNAB Ciclo 2 para projetos culturais",
-      "short_description": "A Prefeitura de Porto Seguro (BA) abriu seis editais da Política Nacional Aldir Blanc (PNAB Ciclo 2): Cria (produção cultural, mostras e patrimônio), Circula (difusão), Audiovisual e Cultura Digital, Patrocínio a Eventos Culturais Consolidados, Credenciamento de Músicos e Bandas e Manutenção de Espaços Culturais. Inscrições gratuitas até 08/11/2026.",
-      "deadline": "08/11/2026",
-      "deadline_date": "2026-11-08",
-      "official_link": "https://edital.portoseguro.ba.gov.br/",
-      "source_name": "Prefeitura de Porto Seguro/BA - Portal de Editais",
-      "source_type": "primary",
-      "location": "Porto Seguro, BA",
-      "country": "Brasil",
-      "state": "BA",
-      "city": "Porto Seguro",
-      "is_free": true,
-      "tags": [
-        "cultura",
-        "edital",
-        "aldir-blanc",
-        "audiovisual"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-02",
-      "social_label": "CULTURA",
-      "social_keyword": "PORTO SEGURO",
-      "social_subtitle": "6 editais da Pnab · BA",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T17:34:27-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "edital",
-        "inscricoes",
-        "gratuito"
-      ],
-      "ling": [
-        "Audiovisual"
-      ],
-      "tipoEdital": [
-        "Edital"
       ]
     },
     {
@@ -2838,7 +2130,7 @@
       "social_keyword": "PORTO ALEGRE",
       "social_subtitle": "Esporte gratuito · 6 a 17 anos",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2883,7 +2175,7 @@
       "social_keyword": "PC-PE",
       "social_subtitle": "1.315 vagas · PE",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2896,98 +2188,6 @@
       ],
       "area": [
         "Segurança"
-      ]
-    },
-    {
-      "id": "cultura-pelotas-pnab-povos-tradicionais",
-      "category": "cultura",
-      "title": "Pelotas premia quilombolas e indígenas com R$ 10.457 cada",
-      "short_description": "Edital nº 013/2026 da Pnab Ciclo 2 reconhece trajetórias culturais de sete representantes de comunidades quilombolas (5 vagas) e indígenas (2) de Pelotas (RS), com prêmio de R$ 10.457,14 cada (R$ 73,2 mil no total) e sem contrapartida nem prestação de contas. Inscrições gratuitas de 27/10 a 10/11/2026 pela plataforma Aqui Tem Cultura.",
-      "deadline": "10/11/2026",
-      "deadline_date": "2026-11-10",
-      "official_link": "https://culteditais.cultura.gov.br/oportunidade/12962/",
-      "source_name": "Prefeitura de Pelotas - Secretaria de Cultura (Secult)",
-      "source_type": "primary",
-      "location": "Pelotas, RS",
-      "country": "Brasil",
-      "state": "RS",
-      "city": "Pelotas",
-      "is_free": true,
-      "tags": [
-        "cultura",
-        "edital",
-        "premiacao",
-        "povos-tradicionais"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-02",
-      "social_label": "CULTURA",
-      "social_keyword": "QUILOMBOLAS",
-      "social_subtitle": "Prêmio Pnab · Pelotas/RS",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T12:21:36-03:00",
-      "updated_at": "2026-11-02T12:21:36-03:00",
-      "verified_at": "2026-11-02T12:21:36-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "edital",
-        "inscricoes",
-        "gratuito"
-      ],
-      "ling": [
-        "Manifestações e povos tradicionais"
-      ],
-      "tipoEdital": [
-        "Premiação",
-        "Edital"
-      ]
-    },
-    {
-      "id": "cultura-pelotas-pnab-roteiros-audiovisuais",
-      "category": "cultura",
-      "title": "Pelotas abre edital de R$ 180 mil para roteiros audiovisuais",
-      "short_description": "Edital nº 012/2026 da Política Nacional Aldir Blanc (Pnab Ciclo 2), da Secretaria de Cultura de Pelotas (RS), seleciona seis roteiros de curta, longa ou série (ficção, documentário, animação ou híbrido), com até R$ 30 mil por projeto. Inscrições gratuitas de 27/10 a 10/11/2026 pela plataforma Aqui Tem Cultura.",
-      "deadline": "10/11/2026",
-      "deadline_date": "2026-11-10",
-      "official_link": "https://sai4.pelotas.com.br/arquivos/71ca8cf0c0b5749937bc091b3adc01f6.pdf",
-      "source_name": "Prefeitura de Pelotas - Secretaria de Cultura (Secult)",
-      "source_type": "primary",
-      "location": "Pelotas, RS",
-      "country": "Brasil",
-      "state": "RS",
-      "city": "Pelotas",
-      "is_free": true,
-      "tags": [
-        "cultura",
-        "edital",
-        "audiovisual"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-02",
-      "social_label": "CULTURA",
-      "social_keyword": "PELOTAS",
-      "social_subtitle": "Roteiros audiovisuais · RS",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T12:21:36-03:00",
-      "updated_at": "2026-11-02T12:21:36-03:00",
-      "verified_at": "2026-11-02T12:21:36-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "edital",
-        "inscricoes",
-        "gratuito"
-      ],
-      "ling": [
-        "Audiovisual"
-      ],
-      "tipoEdital": [
-        "Edital"
       ]
     },
     {
@@ -3017,7 +2217,7 @@
       "social_keyword": "PMPE",
       "social_subtitle": "Soldados e oficiais · PE",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -3059,7 +2259,7 @@
       "social_keyword": "PMMG",
       "social_subtitle": "90 vagas de oficial · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -3098,7 +2298,7 @@
       "reliability_level": "B",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T02:22:49-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -3114,85 +2314,6 @@
       ],
       "area": [
         "Militar"
-      ]
-    },
-    {
-      "id": "esportes-missao-selvagem-kamikaze-run-2026",
-      "category": "esportes",
-      "title": "Missão Selvagem Kamikaze Run reúne obstáculos em São Paulo",
-      "short_description": "A Missão Selvagem Kamikaze Run será realizada em 07/11/2026 em São Paulo (SP), com percurso de obstáculos e desafios de resistência para os participantes. Inscrições pagas pela plataforma Minhas Inscrições.",
-      "deadline": "07/11/2026",
-      "deadline_date": "2026-11-07",
-      "official_link": "https://minhasinscricoes.com.br/pt-br/ClickEventos/Redirecionar?origem=1&keycode=60e10707-e71a-411e-b0e8-28ec37f4246a",
-      "source_name": "Minhas Inscrições (organização Missão Selvagem Kamikaze Run)",
-      "source_type": "secondary",
-      "location": "São Paulo, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "São Paulo",
-      "is_free": false,
-      "tags": [
-        "esportes",
-        "corrida-de-rua",
-        "obstaculos"
-      ],
-      "status": "open",
-      "reliability_level": "B",
-      "published_date": "2026-11-02",
-      "social_label": "ESPORTES",
-      "social_keyword": "KAMIKAZE RUN",
-      "social_subtitle": "Corrida com obstáculos · 07/11",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T16:26:22-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "inscricoes"
-      ],
-      "modEsporte": [
-        "Corrida de rua",
-        "Corrida de obstáculos"
-      ]
-    },
-    {
-      "id": "trabalho-mgs-processo-seletivo-2026",
-      "category": "trabalho",
-      "title": "MGS abre processo seletivo com 643 vagas em MG e no DF",
-      "short_description": "A Minas Gerais Administração e Serviços S.A. (MGS) oferece 643 vagas de níveis fundamental, médio e técnico, com salários de até R$ 3.911,17, para atuação em Minas Gerais e no Distrito Federal. A seleção é organizada pelo IBFC. Inscrições até 09/11/2026, com taxa de inscrição.",
-      "deadline": "09/11/2026",
-      "deadline_date": "2026-11-09",
-      "official_link": "https://www.mgs.srv.br/processos-seletivos",
-      "source_name": "Minas Gerais Administração e Serviços S.A. (MGS) - banca IBFC",
-      "source_type": "primary",
-      "location": "Minas Gerais e Distrito Federal",
-      "country": "Brasil",
-      "state": "MG",
-      "city": null,
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "processo-seletivo"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-02",
-      "social_label": "TRABALHO",
-      "social_keyword": "MGS",
-      "social_subtitle": "643 vagas · MG e DF",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T12:21:36-03:00",
-      "updated_at": "2026-11-02T12:21:36-03:00",
-      "verified_at": "2026-11-02T12:21:36-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Processo seletivo"
       ]
     },
     {
@@ -3223,7 +2344,7 @@
       "social_keyword": "REDES CORDIAIS",
       "social_subtitle": "5 mil vagas gratuitas · online",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -3239,91 +2360,6 @@
       ],
       "custo": [
         "Gratuito"
-      ]
-    },
-    {
-      "id": "educacao-df-jornada-mulher-trabalhadora",
-      "category": "educacao",
-      "title": "Jornada da Mulher Trabalhadora abre 420 vagas em cursos gratuitos no DF",
-      "short_description": "Projeto da Secretaria de Desenvolvimento Econômico do DF oferece 420 vagas gratuitas em cursos de beleza (alongamento de unhas, extensão de cílios e trancista) para mulheres em vulnerabilidade social, no Itapoã e em Sobradinho II. Inscrições até 08/11/2026.",
-      "deadline": "08/11/2026",
-      "deadline_date": "2026-11-08",
-      "official_link": "https://sedet.df.gov.br/",
-      "source_name": "Governo do Distrito Federal - SEDET (Trabalho e Renda)",
-      "source_type": "primary",
-      "location": "Distrito Federal",
-      "country": "Brasil",
-      "state": "DF",
-      "city": null,
-      "is_free": true,
-      "tags": [
-        "educacao",
-        "curso-gratuito",
-        "mulheres"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-02",
-      "social_label": "EDUCAÇÃO",
-      "social_keyword": "MULHER",
-      "social_subtitle": "420 vagas gratuitas · DF",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T02:47:49-03:00",
-      "updated_at": "2026-11-02T17:34:27-03:00",
-      "verified_at": "2026-11-02T02:47:49-03:00",
-      "kw": [
-        "curso",
-        "vaga",
-        "inscricoes",
-        "gratuito"
-      ],
-      "custo": [
-        "Gratuito"
-      ]
-    },
-    {
-      "id": "cultura-jequitiba-pnab-premiacao-festival",
-      "category": "cultura",
-      "title": "Jequitibá prorroga editais culturais até 9 de novembro",
-      "short_description": "A Prefeitura de Jequitibá (MG) prorrogou até 09/11/2026 as inscrições de dois editais: o nº 01/2026 - Premiação Cultural, que reconhece trajetórias, obras e iniciativas artísticas com recursos da Política Nacional Aldir Blanc (PNAB), e o nº 02/2026 - Festival Cultural na Zona Rural, que seleciona um projeto de circuito de difusão artística nas comunidades rurais. Inscrições gratuitas pelo portal da prefeitura.",
-      "deadline": "09/11/2026",
-      "deadline_date": "2026-11-09",
-      "official_link": "https://jequitiba.mg.gov.br/Noticia/prefeitura-de-jequitiba-prorroga-prazos-dos-editais-da-pnab-2026",
-      "source_name": "Prefeitura de Jequitibá/MG",
-      "source_type": "primary",
-      "location": "Jequitibá, MG",
-      "country": "Brasil",
-      "state": "MG",
-      "city": "Jequitibá",
-      "is_free": true,
-      "tags": [
-        "cultura",
-        "edital",
-        "aldir-blanc",
-        "premiacao"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-02",
-      "social_label": "CULTURA",
-      "social_keyword": "JEQUITIBÁ",
-      "social_subtitle": "Prêmio e festival · MG",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T17:34:27-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "edital",
-        "inscricoes",
-        "gratuito"
-      ],
-      "tipoEdital": [
-        "Premiação",
-        "Edital"
       ]
     },
     {
@@ -3352,7 +2388,7 @@
       "social_keyword": "INB",
       "social_subtitle": "Cadastro de reserva · R$ 8,3 mil",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -3392,7 +2428,7 @@
       "social_keyword": "IFRN",
       "social_subtitle": "470 vagas gratuitas · RN",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -3434,7 +2470,7 @@
       "social_keyword": "IFRJ",
       "social_subtitle": "Curso gratuito EaD · RJ",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -3476,7 +2512,7 @@
       "reliability_level": "A",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -3490,46 +2526,6 @@
       ],
       "nivel": [
         "Curso técnico"
-      ]
-    },
-    {
-      "id": "educacao-ifnmg-processo-seletivo-2027",
-      "category": "educacao",
-      "title": "IFNMG abre 315 vagas em 13 cursos superiores gratuitos",
-      "short_description": "O Processo Seletivo 2027/1 do Instituto Federal do Norte de Minas Gerais oferece 315 vagas em 13 cursos superiores gratuitos nos campi Januária, Montes Claros, Pirapora, Porteirinha e Salinas (engenharias, computação, administração e medicina veterinária). Seleção por provas objetivas e redação, organizada pela Fundatec, com metade das vagas para egressos de escola pública. Inscrições até 06/11/2026, com taxa de R$ 10.",
-      "deadline": "06/11/2026",
-      "deadline_date": "2026-11-06",
-      "official_link": "https://www.fundatec.org.br/portal/concursos/index_concursos.php?concurso=1141",
-      "source_name": "Fundatec - banca do Processo Seletivo 2027 do IFNMG",
-      "source_type": "primary",
-      "location": "Norte de Minas Gerais",
-      "country": "Brasil",
-      "state": "MG",
-      "city": null,
-      "is_free": false,
-      "tags": [
-        "educacao",
-        "vestibular",
-        "graduacao"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-02",
-      "social_label": "EDUCAÇÃO",
-      "social_keyword": "IFNMG",
-      "social_subtitle": "315 vagas gratuitas · MG",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T12:21:36-03:00",
-      "updated_at": "2026-11-02T17:34:27-03:00",
-      "verified_at": "2026-11-02T12:21:36-03:00",
-      "kw": [
-        "curso",
-        "vaga",
-        "inscricoes"
-      ],
-      "nivel": [
-        "Graduação"
       ]
     },
     {
@@ -3559,7 +2555,7 @@
       "social_keyword": "GIL ALVES",
       "social_subtitle": "183 vagas · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -3600,7 +2596,7 @@
       "social_keyword": "GUARAREMA",
       "social_subtitle": "Aulas gratuitas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T02:47:49-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:47:49-03:00",
@@ -3642,7 +2638,7 @@
       "social_keyword": "GOIÁS",
       "social_subtitle": "R$ 30 milhões · audiovisual",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -3688,7 +2684,7 @@
       "social_keyword": "NEUROEDUCAÇÃO",
       "social_subtitle": "5 mil vagas gratuitas · online",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -3704,50 +2700,6 @@
       ],
       "custo": [
         "Gratuito"
-      ]
-    },
-    {
-      "id": "esportes-favela-champions-2026",
-      "category": "esportes",
-      "title": "Favela Champions 2026 abre inscrições gratuitas em 5 modalidades",
-      "short_description": "Segunda edição do maior evento esportivo da Luta pela Paz reúne boxe, judô, muay-thai, jiu-jítsu e luta livre esportiva, nos dias 21 e 22/11 no Upper Arena (Flamengo, RJ). Inscrições gratuitas até 06/11/2026.",
-      "deadline": "06/11/2026",
-      "deadline_date": "2026-11-06",
-      "official_link": "https://lutapelapaz.org/2026/10/28/estao-abertas-as-inscricoes-para-o-favela-champions-2026/",
-      "source_name": "Luta pela Paz",
-      "source_type": "primary",
-      "location": "Rio de Janeiro, RJ",
-      "country": "Brasil",
-      "state": "RJ",
-      "city": "Rio de Janeiro",
-      "is_free": true,
-      "tags": [
-        "esportes",
-        "competicao",
-        "artes-marciais"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-02",
-      "social_label": "ESPORTES",
-      "social_keyword": "FAVELA",
-      "social_subtitle": "Champions 2026 · RJ",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T02:47:49-03:00",
-      "updated_at": "2026-11-02T02:47:49-03:00",
-      "verified_at": "2026-11-02T02:47:49-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "inscricoes",
-        "gratuito"
-      ],
-      "modEsporte": [
-        "Artes marciais"
-      ],
-      "formato": [
-        "Competição"
       ]
     },
     {
@@ -3778,7 +2730,7 @@
       "social_keyword": "FATECS",
       "social_subtitle": "Graduações gratuitas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -3823,7 +2775,7 @@
       "social_keyword": "DOIS LAJEADOS",
       "social_subtitle": "Chamamento Pnab · RS",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -3866,7 +2818,7 @@
       "social_keyword": "DPE-PB",
       "social_subtitle": "Concurso público · PB",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -3908,7 +2860,7 @@
       "social_keyword": "CÂMARA",
       "social_subtitle": "184 vagas · R$ 32 mil",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -3950,7 +2902,7 @@
       "social_keyword": "MOSSORÓ",
       "social_subtitle": "24 vagas · RN",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -3963,327 +2915,6 @@
       ],
       "area": [
         "Legislativa"
-      ]
-    },
-    {
-      "id": "trabalho-camara-boituva-7-vagas-2026",
-      "category": "trabalho",
-      "title": "Câmara de Boituva abre concurso com até R$ 8.595 de salário",
-      "short_description": "A Câmara Municipal de Boituva (SP) abriu concurso público com 7 vagas em cargos de níveis fundamental, médio, técnico e superior, com salários de até R$ 8.595,15. As inscrições vão até 09/11/2026.",
-      "deadline": "09/11/2026",
-      "deadline_date": "2026-11-09",
-      "official_link": "https://www.institutomais.org.br/",
-      "source_name": "Instituto Mais - banca do concurso da Câmara Municipal de Boituva/SP",
-      "source_type": "primary",
-      "location": "Boituva, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "Boituva",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "legislativo"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-02",
-      "social_label": "TRABALHO",
-      "social_keyword": "BOITUVA",
-      "social_subtitle": "7 vagas · SP",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T17:34:27-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ],
-      "area": [
-        "Legislativa"
-      ]
-    },
-    {
-      "id": "esportes-vozes-que-nao-se-calam-2026",
-      "category": "esportes",
-      "title": "Corrida Vozes que não se calam ocupa o Parque do Tietê",
-      "short_description": "A corrida Vozes que não se calam será realizada em 08/11/2026 no Parque do Tietê, na cidade de São Paulo, unindo prática esportiva e mobilização social. Inscrições pagas pela plataforma Minhas Inscrições.",
-      "deadline": "08/11/2026",
-      "deadline_date": "2026-11-08",
-      "official_link": "https://minhasinscricoes.com.br/pt-br/ClickEventos/Redirecionar?origem=1&keycode=6e3602ad-7e0c-4024-b181-1cd658d52b70",
-      "source_name": "Minhas Inscrições (organização Vozes que não se calam)",
-      "source_type": "secondary",
-      "location": "São Paulo, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "São Paulo",
-      "is_free": false,
-      "tags": [
-        "esportes",
-        "corrida-de-rua"
-      ],
-      "status": "open",
-      "reliability_level": "B",
-      "published_date": "2026-11-02",
-      "social_label": "ESPORTES",
-      "social_keyword": "VOZES",
-      "social_subtitle": "Corrida · 08/11 no Pq. do Tietê/SP",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T16:26:22-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "inscricoes"
-      ],
-      "modEsporte": [
-        "Corrida de rua"
-      ]
-    },
-    {
-      "id": "esportes-caveiras-pico-do-urubu-2026",
-      "category": "esportes",
-      "title": "Corrida Caveiras no Pico do Urubu chega à 7ª edição em Mogi",
-      "short_description": "A 7ª edição da corrida Caveiras no Pico do Urubu será realizada em 07/11/2026 em Mogi das Cruzes (SP), com percurso de trilha e subida no Pico do Urubu. Inscrições pagas pela plataforma Minhas Inscrições.",
-      "deadline": "07/11/2026",
-      "deadline_date": "2026-11-07",
-      "official_link": "https://minhasinscricoes.com.br/pt-br/ClickEventos/Redirecionar?origem=1&keycode=cd15bd5e-451c-4f75-860b-42ed8758dc33",
-      "source_name": "Minhas Inscrições (organização Caveiras no Pico do Urubu)",
-      "source_type": "secondary",
-      "location": "Mogi das Cruzes, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "Mogi das Cruzes",
-      "is_free": false,
-      "tags": [
-        "esportes",
-        "corrida-de-rua",
-        "trilha"
-      ],
-      "status": "open",
-      "reliability_level": "B",
-      "published_date": "2026-11-02",
-      "social_label": "ESPORTES",
-      "social_keyword": "PICO DO URUBU",
-      "social_subtitle": "7ª edição · 07/11 em Mogi/SP",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T16:26:22-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "inscricoes"
-      ],
-      "modEsporte": [
-        "Corrida de rua",
-        "Trilha"
-      ]
-    },
-    {
-      "id": "esportes-autismo-em-movimento-2026",
-      "category": "esportes",
-      "title": "Corrida Autismo em Movimento acontece em São Paulo",
-      "short_description": "A corrida Autismo em Movimento será realizada em 07/11/2026 na cidade de São Paulo, com o objetivo de promover inclusão e conscientização sobre o transtorno do espectro autista por meio do esporte. Inscrições pagas pela plataforma Minhas Inscrições.",
-      "deadline": "07/11/2026",
-      "deadline_date": "2026-11-07",
-      "official_link": "https://minhasinscricoes.com.br/pt-br/ClickEventos/Redirecionar?origem=1&keycode=4020ccee-c18e-4697-8315-7df28f1819ed",
-      "source_name": "Minhas Inscrições (organização Autismo em Movimento)",
-      "source_type": "secondary",
-      "location": "São Paulo, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "São Paulo",
-      "is_free": false,
-      "tags": [
-        "esportes",
-        "corrida-de-rua",
-        "inclusao"
-      ],
-      "status": "open",
-      "reliability_level": "B",
-      "published_date": "2026-11-02",
-      "social_label": "ESPORTES",
-      "social_keyword": "AUTISMO",
-      "social_subtitle": "Corrida · 07/11 em São Paulo/SP",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T16:26:22-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "inscricoes"
-      ],
-      "modEsporte": [
-        "Corrida de rua"
-      ],
-      "faixa": [
-        "Inclusão"
-      ]
-    },
-    {
-      "id": "esportes-corre-burrao-2026",
-      "category": "esportes",
-      "title": "Corre Burrão 2026 leva corrida de rua a Taubaté",
-      "short_description": "O Corre Burrão 2026 será realizado em 08/11/2026 em Taubaté (SP), com percursos de corrida de rua para adultos e categorias de base. Inscrições pagas pela plataforma Minhas Inscrições.",
-      "deadline": "08/11/2026",
-      "deadline_date": "2026-11-08",
-      "official_link": "https://minhasinscricoes.com.br/pt-br/ClickEventos/Redirecionar?origem=1&keycode=5f08fe3e-d0fd-4ef7-838d-91954efc5132",
-      "source_name": "Minhas Inscrições (organização Corre Burrão)",
-      "source_type": "secondary",
-      "location": "Taubaté, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "Taubaté",
-      "is_free": false,
-      "tags": [
-        "esportes",
-        "corrida-de-rua"
-      ],
-      "status": "open",
-      "reliability_level": "B",
-      "published_date": "2026-11-02",
-      "social_label": "ESPORTES",
-      "social_keyword": "CORRE BURRÃO",
-      "social_subtitle": "Corrida · 08/11 em Taubaté/SP",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T16:26:22-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "inscricoes"
-      ],
-      "modEsporte": [
-        "Corrida de rua"
-      ]
-    },
-    {
-      "id": "trabalho-creci-es-concurso-2026",
-      "category": "trabalho",
-      "title": "CRECI-ES abre concurso público com salários de até R$ 8.250",
-      "short_description": "O Conselho Regional de Corretores de Imóveis do Espírito Santo (CRECI-ES) abriu concurso público com vagas em cargos de níveis médio e superior e salários de até R$ 8.250,00. Inscrições até 10/11/2026.",
-      "deadline": "10/11/2026",
-      "deadline_date": "2026-11-10",
-      "official_link": "https://www.quadrix.org.br/",
-      "source_name": "QUADRIX - banca do concurso do CRECI-ES (13ª Região)",
-      "source_type": "primary",
-      "location": "Espírito Santo",
-      "country": "Brasil",
-      "state": "ES",
-      "city": null,
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "conselho-profissional"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-02",
-      "social_label": "TRABALHO",
-      "social_keyword": "CRECI-ES",
-      "social_subtitle": "Concurso público · ES",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T17:34:27-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ]
-    },
-    {
-      "id": "esportes-beerfest-run-2026-braganca-paulista",
-      "category": "esportes",
-      "title": "Beerfest Run 2026 corre em Bragança Paulista",
-      "short_description": "O Beerfest Run 2026 será realizado em 07/11/2026 em Bragança Paulista (SP), com percurso de corrida de rua e programação festiva para os participantes. Inscrições pagas pela plataforma Minhas Inscrições.",
-      "deadline": "07/11/2026",
-      "deadline_date": "2026-11-07",
-      "official_link": "https://minhasinscricoes.com.br/pt-br/ClickEventos/Redirecionar?origem=1&keycode=a80773c6-6d00-472e-8848-1e342a42c98c",
-      "source_name": "Minhas Inscrições (organização Beerfest Run)",
-      "source_type": "secondary",
-      "location": "Bragança Paulista, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "Bragança Paulista",
-      "is_free": false,
-      "tags": [
-        "esportes",
-        "corrida-de-rua"
-      ],
-      "status": "open",
-      "reliability_level": "B",
-      "published_date": "2026-11-02",
-      "social_label": "ESPORTES",
-      "social_keyword": "BEERFEST RUN",
-      "social_subtitle": "Corrida · 07/11 em Bragança/SP",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T16:26:22-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "inscricoes"
-      ],
-      "modEsporte": [
-        "Corrida de rua"
-      ]
-    },
-    {
-      "id": "esportes-beer-run-2026-santo-andre",
-      "category": "esportes",
-      "title": "Beer Run 2026 combina corrida e cerveja em Santo André",
-      "short_description": "O Beer Run 2026 será realizado em 07/11/2026 em Santo André (SP), unindo corrida de rua e celebração com cerveja artesanal ao final do percurso. Inscrições pagas pela plataforma Minhas Inscrições.",
-      "deadline": "07/11/2026",
-      "deadline_date": "2026-11-07",
-      "official_link": "https://minhasinscricoes.com.br/pt-br/ClickEventos/Redirecionar?origem=1&keycode=f86a8dcb-4303-4f5c-89a0-4766eac87ef2",
-      "source_name": "Minhas Inscrições (organização Beer Run)",
-      "source_type": "secondary",
-      "location": "Santo André, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "Santo André",
-      "is_free": false,
-      "tags": [
-        "esportes",
-        "corrida-de-rua"
-      ],
-      "status": "open",
-      "reliability_level": "B",
-      "published_date": "2026-11-02",
-      "social_label": "ESPORTES",
-      "social_keyword": "BEER RUN",
-      "social_subtitle": "Corrida · 07/11 em Santo André/SP",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T16:26:22-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "inscricoes"
-      ],
-      "modEsporte": [
-        "Corrida de rua"
       ]
     },
     {
@@ -4313,7 +2944,7 @@
       "social_keyword": "BANESTES",
       "social_subtitle": "Cadastro de reserva · ES",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -4326,135 +2957,6 @@
       ],
       "area": [
         "Bancária"
-      ]
-    },
-    {
-      "id": "cultura-amapa-audiovisual-arranjos-regionais",
-      "category": "cultura",
-      "title": "Amapá abre edital de R$ 2,9 milhões para 34 projetos de audiovisual",
-      "short_description": "O Governo do Amapá abriu inscrições para o edital de R$ 2,9 milhões do setor audiovisual, com recursos do Programa Arranjos Regionais, que vai selecionar 34 projetos em 13 categorias: curtas de ficção e documentário, desenvolvimento de longas e séries, festivais, cineclubes, exibição, formação profissional, pesquisa e webséries infantis. Inscrições gratuitas até 10/11/2026, às 23h45, pelo sistema SEIIC no site da Secult-AP.",
-      "deadline": "10/11/2026",
-      "deadline_date": "2026-11-10",
-      "official_link": "https://secult.portal.ap.gov.br/",
-      "source_name": "Governo do Amapá - Secretaria de Estado da Cultura (Secult-AP)",
-      "source_type": "primary",
-      "location": "Amapá",
-      "country": "Brasil",
-      "state": "AP",
-      "city": null,
-      "is_free": true,
-      "tags": [
-        "cultura",
-        "edital",
-        "audiovisual",
-        "arranjos-regionais"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-02",
-      "social_label": "CULTURA",
-      "social_keyword": "AMAPÁ",
-      "social_subtitle": "R$ 2,9 mi para 34 projetos · AP",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T17:34:27-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "edital",
-        "inscricoes",
-        "gratuito"
-      ],
-      "ling": [
-        "Audiovisual",
-        "Música"
-      ],
-      "tipoEdital": [
-        "Edital"
-      ]
-    },
-    {
-      "id": "esportes-apae-run-2026-sao-caetano",
-      "category": "esportes",
-      "title": "APAE Run 2026 abre inscrições para corrida em São Caetano do Sul",
-      "short_description": "Corrida de rua da APAE de São Caetano do Sul (SP), marcada para 08/11/2026. Inscrições abertas pela plataforma Minhas Inscrições, com vagas limitadas e preenchidas por ordem de confirmação. Evento com taxa de inscrição; a renda apoia a instituição.",
-      "deadline": "08/11/2026",
-      "deadline_date": "2026-11-08",
-      "official_link": "https://minhasinscricoes.com.br/pt-br/ClickEventos/Redirecionar?origem=1&keycode=3aa21094-8570-45c3-b2cf-48bdbfd25f07",
-      "source_name": "Minhas Inscrições - APAE Run 2026",
-      "source_type": "secondary",
-      "location": "São Caetano do Sul, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "São Caetano do Sul",
-      "is_free": false,
-      "tags": [
-        "esportes",
-        "corrida-de-rua",
-        "evento"
-      ],
-      "status": "open",
-      "reliability_level": "B",
-      "published_date": "2026-11-02",
-      "social_label": "ESPORTES",
-      "social_keyword": "APAE RUN",
-      "social_subtitle": "Corrida de rua · SCS/SP",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T12:21:36-03:00",
-      "updated_at": "2026-11-02T12:21:36-03:00",
-      "verified_at": "2026-11-02T12:21:36-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "inscricoes"
-      ],
-      "modEsporte": [
-        "Corrida de rua"
-      ],
-      "formato": [
-        "Evento"
-      ]
-    },
-    {
-      "id": "esportes-corrida-17-bpmi-2026",
-      "category": "esportes",
-      "title": "7ª Corrida do 17º BPMI é realizada em São José do Rio Preto",
-      "short_description": "A 7ª Corrida do 17º Batalhão de Polícia Militar do Interior (BPMI) será realizada em 08/11/2026 em São José do Rio Preto (SP), com percursos de corrida de rua abertos à comunidade. Inscrições pagas pela plataforma Minhas Inscrições.",
-      "deadline": "08/11/2026",
-      "deadline_date": "2026-11-08",
-      "official_link": "https://minhasinscricoes.com.br/pt-br/ClickEventos/Redirecionar?origem=1&keycode=8344abee-8984-436d-a73f-47add615dbbb",
-      "source_name": "Minhas Inscrições (organização 17º BPMI)",
-      "source_type": "secondary",
-      "location": "São José do Rio Preto, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "São José do Rio Preto",
-      "is_free": false,
-      "tags": [
-        "esportes",
-        "corrida-de-rua"
-      ],
-      "status": "open",
-      "reliability_level": "B",
-      "published_date": "2026-11-02",
-      "social_label": "ESPORTES",
-      "social_keyword": "17 BPMI",
-      "social_subtitle": "7ª edição · 08/11 em Rio Preto/SP",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T16:26:22-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "inscricoes"
-      ],
-      "modEsporte": [
-        "Corrida de rua"
       ]
     },
     {
@@ -4481,7 +2983,7 @@
       "reliability_level": "A",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T02:22:49-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -4500,127 +3002,6 @@
       ],
       "tipoEdital": [
         "Premiação"
-      ]
-    },
-    {
-      "id": "esportes-corrida-kids-anhanguera-2026",
-      "category": "esportes",
-      "title": "4ª Corrida Kids Anhanguera abre inscrições para crianças em Osasco",
-      "short_description": "A 4ª Corrida Kids Anhanguera será realizada em 07/11/2026 em Osasco (SP), com percursos adaptados por faixa etária para crianças e adolescentes. Inscrições pagas pela plataforma Minhas Inscrições.",
-      "deadline": "07/11/2026",
-      "deadline_date": "2026-11-07",
-      "official_link": "https://minhasinscricoes.com.br/pt-br/ClickEventos/Redirecionar?origem=1&keycode=ab24b84c-e4d8-4e4f-9eb0-373529488a1a",
-      "source_name": "Minhas Inscrições (organização Corrida Kids Anhanguera)",
-      "source_type": "secondary",
-      "location": "Osasco, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "Osasco",
-      "is_free": false,
-      "tags": [
-        "esportes",
-        "corrida-de-rua",
-        "criancas"
-      ],
-      "status": "open",
-      "reliability_level": "B",
-      "published_date": "2026-11-02",
-      "social_label": "ESPORTES",
-      "social_keyword": "KIDS",
-      "social_subtitle": "4ª edição · 07/11 em Osasco/SP",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T16:26:22-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "inscricoes"
-      ],
-      "modEsporte": [
-        "Corrida de rua"
-      ],
-      "faixa": [
-        "Kids"
-      ]
-    },
-    {
-      "id": "esportes-corrida-da-padroeira-igarata-2026",
-      "category": "esportes",
-      "title": "2ª Corrida da Padroeira acontece em Igaratá",
-      "short_description": "A 2ª Corrida da Padroeira será realizada em 08/11/2026 em Igaratá (SP), com percursos de corrida de rua para diferentes faixas de idade. Inscrições pagas pela plataforma Minhas Inscrições.",
-      "deadline": "08/11/2026",
-      "deadline_date": "2026-11-08",
-      "official_link": "https://minhasinscricoes.com.br/pt-br/ClickEventos/Redirecionar?origem=1&keycode=17c30ca6-fcc3-4297-b9d1-059f3b430ed6",
-      "source_name": "Minhas Inscrições (organização Corrida da Padroeira)",
-      "source_type": "secondary",
-      "location": "Igaratá, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "Igaratá",
-      "is_free": false,
-      "tags": [
-        "esportes",
-        "corrida-de-rua"
-      ],
-      "status": "open",
-      "reliability_level": "B",
-      "published_date": "2026-11-02",
-      "social_label": "ESPORTES",
-      "social_keyword": "PADROEIRA",
-      "social_subtitle": "2ª edição · 08/11 em Igaratá/SP",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T16:26:22-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "inscricoes"
-      ],
-      "modEsporte": [
-        "Corrida de rua"
-      ]
-    },
-    {
-      "id": "esportes-egs-run-2026-crateus",
-      "category": "esportes",
-      "title": "1ª EGS Run leva corrida de rua a Crateús, no Ceará",
-      "short_description": "A 1ª EGS Run será realizada em 07/11/2026 em Crateús (CE), primeira edição do evento na cidade, com percursos de corrida de rua para diferentes níveis de corredores. Inscrições pagas pela plataforma Minhas Inscrições.",
-      "deadline": "07/11/2026",
-      "deadline_date": "2026-11-07",
-      "official_link": "https://minhasinscricoes.com.br/pt-br/ClickEventos/Redirecionar?origem=1&keycode=370d62f1-1255-4b3a-8473-54c1a7c79a02",
-      "source_name": "Minhas Inscrições (organização EGS Run)",
-      "source_type": "secondary",
-      "location": "Crateús, CE",
-      "country": "Brasil",
-      "state": "CE",
-      "city": "Crateús",
-      "is_free": false,
-      "tags": [
-        "esportes",
-        "corrida-de-rua"
-      ],
-      "status": "open",
-      "reliability_level": "B",
-      "published_date": "2026-11-02",
-      "social_label": "ESPORTES",
-      "social_keyword": "EGS RUN",
-      "social_subtitle": "1ª edição · 07/11 em Crateús/CE",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-06",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T16:26:22-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "inscricoes"
-      ],
-      "modEsporte": [
-        "Corrida de rua"
       ]
     },
     {
@@ -4662,7 +3043,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "social_label": "ESPORTES",
       "social_keyword": "VILA VELHA",
       "social_subtitle": "Núcleos esportivos gratuitos · ES",
@@ -4712,7 +3093,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "social_label": "ESPORTES",
       "social_keyword": "HANDEBOL",
       "social_subtitle": "100 vagas gratuitas · São José dos Pinhais, PR",
@@ -4763,7 +3144,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "social_label": "TRABALHO",
       "social_keyword": "JOVEM APRENDIZ",
       "social_subtitle": "Vagas em Salvador · BA",
@@ -4811,7 +3192,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "social_label": "ESPORTES",
       "social_keyword": "PONTA GROSSA",
       "social_subtitle": "50 vagas gratuitas · PR",
@@ -4861,7 +3242,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "social_label": "CULTURA",
       "social_keyword": "BIBLIOTECAS",
       "social_subtitle": "Pontos de Cultura · Nacional",
@@ -4915,7 +3296,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "social_label": "ESPORTES",
       "social_keyword": "MARICÁ",
       "social_subtitle": "Judô, capoeira e samba raiz · RJ",
@@ -4965,7 +3346,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "social_label": "EDUCAÇÃO",
       "social_keyword": "IFRS",
       "social_subtitle": "200+ cursos online gratuitos",
@@ -5019,7 +3400,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "social_label": "CULTURA",
       "social_keyword": "FUNARTE",
       "social_subtitle": "Espaços culturais gratuitos",
@@ -5071,7 +3452,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "social_label": "ESPORTES",
       "social_keyword": "CUIABÁ",
       "social_subtitle": "2,6 mil vagas gratuitas · MT",
@@ -5121,7 +3502,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "social_label": "ESPORTES",
       "social_keyword": "CARIACICA",
       "social_subtitle": "Vagas esportivas gratuitas · ES",
@@ -5172,7 +3553,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-06",
+      "last_seen_date": "2026-11-11",
       "social_label": "TRABALHO",
       "social_keyword": "CIEE",
       "social_subtitle": "Estágio e Jovem Aprendiz",
@@ -5190,11 +3571,11 @@
   ],
   "version": "1.2.0",
   "last_updated": "2026-08-16T20:59:30-03:00",
-  "total": 122,
+  "total": 83,
   "counts": {
-    "cultura": 12,
-    "educacao": 22,
-    "esportes": 27,
-    "trabalho": 61
+    "cultura": 7,
+    "educacao": 19,
+    "esportes": 11,
+    "trabalho": 46
   }
 }
