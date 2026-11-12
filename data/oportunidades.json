@@ -1,6 +1,266 @@
 {
-  "generated_at": "2026-11-11T03:43:19-03:00",
+  "generated_at": "2026-11-12T13:09:33-03:00",
   "opportunities": [
+    {
+      "id": "trabalho-suzano-sp-concurso-2026",
+      "category": "trabalho",
+      "title": "Suzano (SP) abre concurso com salários de até R$ 12 mil",
+      "short_description": "A Prefeitura de Suzano (SP) abriu concurso público para vagas imediatas e cadastro de reserva em cargos de nível fundamental, médio e superior, como Professor de Educação Básica I (30 vagas), Médico Pediatra Plantonista (2 vagas), Médico Urologista (1 vaga), Procurador Jurídico e Diretor de Escola (cadastro de reserva). As inscrições vão de 29/10 a 25/11/2026 pelo site da banca Nosso Rumo, com taxas de R$ 60,93 a R$ 106,62 (isenção encerrada em 30/10). A prova objetiva está prevista para 13/12/2026, com prova prática e avaliação de títulos para parte dos cargos.",
+      "deadline": "25/11/2026",
+      "deadline_date": "2026-11-25",
+      "official_link": "https://www.nossorumo.org.br/",
+      "source_name": "Nosso Rumo - banca do concurso da Prefeitura de Suzano/SP",
+      "source_type": "primary",
+      "location": "Suzano, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Suzano",
+      "is_free": false,
+      "tags": [
+        "trabalho",
+        "concurso",
+        "municipal"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-12",
+      "social_label": "TRABALHO",
+      "social_keyword": "SUZANO",
+      "social_subtitle": "Concurso com salários de até R$ 12 mil · SP",
+      "kw": [
+        "vaga",
+        "inscricoes"
+      ],
+      "tipo": [
+        "Concurso público"
+      ],
+      "first_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-12",
+      "created_at": "2026-11-12T13:09:33-03:00",
+      "updated_at": "2026-11-12T13:09:33-03:00",
+      "verified_at": "2026-11-12T13:09:33-03:00"
+    },
+    {
+      "id": "educacao-ifsp-logistica-operacoes-suzano-2027",
+      "category": "educacao",
+      "title": "IFSP Suzano recebe inscrições até 14/11 para especialização gratuita em Logística",
+      "short_description": "O IFSP (campus Suzano) recebe inscrições até as 23h59 de 14/11/2026 para o processo seletivo da especialização gratuita em Logística e Operações, com ingresso no primeiro semestre de 2027. A inscrição é feita por formulário eletrônico no site do campus, que também divulga o edital e os critérios de seleção.",
+      "deadline": "14/11/2026",
+      "deadline_date": "2026-11-14",
+      "official_link": "https://enquetes.szn.ifsp.edu.br/index.php/873766",
+      "source_name": "Instituto Federal de São Paulo (IFSP) - campus Suzano",
+      "source_type": "primary",
+      "location": "Suzano, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Suzano",
+      "is_free": true,
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "especializacao"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-12",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "IFSP",
+      "social_subtitle": "Especialização gratuita · Suzano, SP",
+      "kw": [
+        "curso",
+        "vaga",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "custo": [
+        "Gratuito"
+      ],
+      "first_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-12",
+      "created_at": "2026-11-12T13:09:33-03:00",
+      "updated_at": "2026-11-12T13:09:33-03:00",
+      "verified_at": "2026-11-12T13:09:33-03:00"
+    },
+    {
+      "id": "educacao-ifsc-lideranca-inovacao-organizacional-gaspar-2027",
+      "category": "educacao",
+      "title": "IFSC oferece 50 vagas em especialização gratuita em Liderança e Inovação",
+      "short_description": "O IFSC (campus Gaspar) está com inscrições abertas até 23/11/2026 para a especialização gratuita em Liderança para a Inovação Organizacional, com 50 vagas e início no primeiro semestre de 2027. Podem se candidatar graduados em qualquer área reconhecida pelo MEC. A seleção é por sorteio eletrônico, e a inscrição é feita pelo sistema de ingresso do IFSC, conforme o edital 22/2027-1.",
+      "deadline": "23/11/2026",
+      "deadline_date": "2026-11-23",
+      "official_link": "https://www.ifsc.edu.br/documents/d/ingresso/edital_22_lideranca_inovacao_organizacional_2027_1_gaspar",
+      "source_name": "Instituto Federal de Santa Catarina (IFSC) - edital 22/2027-1, campus Gaspar",
+      "source_type": "primary",
+      "location": "Gaspar, SC",
+      "country": "Brasil",
+      "state": "SC",
+      "city": "Gaspar",
+      "is_free": true,
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "especializacao"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-12",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "IFSC",
+      "social_subtitle": "50 vagas gratuitas · Gaspar, SC",
+      "kw": [
+        "curso",
+        "vaga",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "custo": [
+        "Gratuito"
+      ],
+      "first_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-12",
+      "created_at": "2026-11-12T13:09:33-03:00",
+      "updated_at": "2026-11-12T13:09:33-03:00",
+      "verified_at": "2026-11-12T13:09:33-03:00"
+    },
+    {
+      "id": "educacao-ifsc-educacao-ciencias-matematica-jaragua-2027",
+      "category": "educacao",
+      "title": "IFSC abre 40 vagas em especialização gratuita em Educação em Ciências e Matemática",
+      "short_description": "O IFSC (campus Jaraguá do Sul - Centro) recebe inscrições de 03 a 23/11/2026 para a especialização gratuita em Educação em Ciências e Matemática, com 40 vagas e ingresso em 2027. A inscrição tem duas etapas: o passo 1 é on-line pelo sistema de ingresso do IFSC e o passo 2 é o envio de documentos até 27/11/2026. As aulas são on-line, aos sábados, a partir de fevereiro de 2027 (edital 19/2027-1).",
+      "deadline": "23/11/2026",
+      "deadline_date": "2026-11-23",
+      "official_link": "https://www.ifsc.edu.br/documents/d/ingresso/edital_19_educacao_ciencias_matematica_2027_1_jaragua_sul_centro",
+      "source_name": "Instituto Federal de Santa Catarina (IFSC) - edital 19/2027-1, campus Jaraguá do Sul - Centro",
+      "source_type": "primary",
+      "location": "Online",
+      "country": "Brasil",
+      "state": "SC",
+      "city": null,
+      "is_free": true,
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "especializacao"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-12",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "IFSC",
+      "social_subtitle": "40 vagas gratuitas · Aulas aos sábados",
+      "kw": [
+        "curso",
+        "vaga",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "custo": [
+        "Gratuito"
+      ],
+      "first_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-12",
+      "created_at": "2026-11-12T13:09:33-03:00",
+      "updated_at": "2026-11-12T13:09:33-03:00",
+      "verified_at": "2026-11-12T13:09:33-03:00"
+    },
+    {
+      "id": "educacao-ifsc-ensino-linguas-estrangeiras-garopaba-2027",
+      "category": "educacao",
+      "title": "IFSC abre 100 vagas em especialização gratuita para professores de idiomas",
+      "short_description": "O IFSC (campus Garopaba) recebe inscrições até 23/11/2026 para a especialização gratuita em Ensino de Línguas Estrangeiras na Educação Básica, com 100 vagas: 50 para Ensino de Inglês e 50 para Ensino de Espanhol. O curso é 100% online, com ingresso no primeiro semestre de 2027, e é voltado a professores da educação básica. A inscrição é feita pelo sistema de ingresso do IFSC, conforme o edital 20/2027-1.",
+      "deadline": "23/11/2026",
+      "deadline_date": "2026-11-23",
+      "official_link": "https://www.ifsc.edu.br/documents/d/ingresso/edital_20_ensino_le_educacao_basica_2027_1_garopaba",
+      "source_name": "Instituto Federal de Santa Catarina (IFSC) - edital 20/2027-1, campus Garopaba",
+      "source_type": "primary",
+      "location": "Online",
+      "country": "Brasil",
+      "state": "SC",
+      "city": null,
+      "is_free": true,
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "especializacao",
+        "idiomas"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-12",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "IFSC",
+      "social_subtitle": "100 vagas gratuitas · Curso 100% online",
+      "kw": [
+        "curso",
+        "vaga",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "custo": [
+        "Gratuito"
+      ],
+      "first_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-12",
+      "created_at": "2026-11-12T13:09:33-03:00",
+      "updated_at": "2026-11-12T13:09:33-03:00",
+      "verified_at": "2026-11-12T13:09:33-03:00"
+    },
+    {
+      "id": "educacao-egov-df-cursos-online-2026",
+      "category": "educacao",
+      "title": "Escola de Governo do DF abre cursos gratuitos online de IA e finanças pessoais",
+      "short_description": "A Escola de Governo do Distrito Federal (Egov) abriu a última oferta de 2026 de cursos gratuitos a distância, com temas como inteligência artificial, finanças pessoais, LGPD e outros. As pré-inscrições vão até 23/11/2026, e a relação completa de cursos, carga horária, público-alvo e formulários está na página de pré-inscrição EAD da escola.",
+      "deadline": "23/11/2026",
+      "deadline_date": "2026-11-23",
+      "official_link": "https://www.egov.df.gov.br/inscricoes-ead",
+      "source_name": "Escola de Governo do Distrito Federal (Egov)",
+      "source_type": "primary",
+      "location": "Online",
+      "country": "Brasil",
+      "state": "DF",
+      "city": null,
+      "is_free": true,
+      "tags": [
+        "educacao",
+        "curso-livre",
+        "online"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-12",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "EGOV DF",
+      "social_subtitle": "Cursos gratuitos online · Inscrições até 23/11",
+      "kw": [
+        "curso",
+        "inscricoes",
+        "gratuito",
+        "online"
+      ],
+      "nivel": [
+        "Curso livre"
+      ],
+      "custo": [
+        "Gratuito"
+      ],
+      "first_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-12",
+      "created_at": "2026-11-12T13:09:33-03:00",
+      "updated_at": "2026-11-12T13:09:33-03:00",
+      "verified_at": "2026-11-12T13:09:33-03:00"
+    },
     {
       "id": "educacao-uern-especializacao-saude-familia-170-vagas-2026",
       "category": "educacao",
@@ -41,7 +301,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -80,7 +340,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -120,7 +380,7 @@
         "Curso técnico"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -159,7 +419,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -198,7 +458,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -237,7 +497,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -278,7 +538,7 @@
         "Pós-graduação"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -317,7 +577,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -356,7 +616,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -364,25 +624,25 @@
     {
       "id": "trabalho-trabalha-brasil-portal-vagas",
       "category": "trabalho",
-      "title": "Trabalha Brasil reúne mais de 4,8 milhões de vagas de emprego, segundo o portal",
-      "short_description": "Segundo o próprio portal, o Trabalha Brasil reúne 4.806.111 vagas atualizadas todos os dias e mais de 60 mil empresas contratando, com candidatura gratuita e envio de currículo sem custo para qualquer vaga, em todas as regiões do país.",
+      "title": "Trabalha Brasil reúne mais de 2 milhões de vagas de emprego, segundo o portal",
+      "short_description": "O Trabalha Brasil, portal de empregos com atuação em todo o país, informa reunir mais de 2 milhões de vagas de trabalho e mais de 60 mil empresas cadastradas, com busca por cargo e cidade. As vagas mudam diariamente e não há prazo de inscrição: o candidato faz um cadastro único e se candidata às oportunidades abertas no momento.",
       "deadline": "Vagas contínuas",
       "deadline_date": null,
       "official_link": "https://www.trabalhabrasil.com.br/",
       "source_name": "Trabalha Brasil",
       "source_type": "primary",
-      "location": "Nacional",
+      "location": "Brasil",
       "country": "Brasil",
       "state": null,
       "city": null,
       "is_free": true,
       "tags": [
         "trabalho",
-        "emprego",
-        "vagas continuas"
+        "vagas",
+        "portal"
       ],
       "status": "open",
-      "reliability_level": "A",
+      "reliability_level": "B",
       "published_date": "2026-11-06",
       "social_label": "TRABALHO",
       "social_keyword": "TRABALHA BRASIL",
@@ -397,10 +657,10 @@
         "Processo seletivo"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-11",
-      "created_at": "2026-11-06T13:47:29-03:00",
-      "updated_at": "2026-11-06T13:47:29-03:00",
-      "verified_at": "2026-11-06T13:47:29-03:00"
+      "last_seen_date": "2026-11-12",
+      "created_at": "2026-11-12T13:09:33-03:00",
+      "updated_at": "2026-11-12T13:09:33-03:00",
+      "verified_at": "2026-11-12T13:09:33-03:00"
     },
     {
       "id": "trabalho-super-estagios-156-vagas",
@@ -438,7 +698,7 @@
         "Estágio"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -478,7 +738,7 @@
         "Graduação"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -517,7 +777,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -556,7 +816,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -598,7 +858,7 @@
         "Jurídica"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -637,55 +897,10 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
-    },
-    {
-      "id": "educacao-unifesp-workshop-cosmologia-150-vagas",
-      "category": "educacao",
-      "title": "Unifesp abre 150 vagas em workshop gratuito online de Cosmologia e Astrofísica",
-      "short_description": "A Universidade Federal de São Paulo (Unifesp) abriu 150 vagas para o XII Workshop de Cosmologia e Astrofísica, evento online e gratuito que acontece em 11/11/2026, com palestras e mesa-redonda sobre gravitação, cosmologia e inteligência artificial. Inscrições até 11/11/2026 ou até o preenchimento das vagas.",
-      "deadline": "11/11/2026",
-      "deadline_date": "2026-11-11",
-      "official_link": "https://siex.siiu.unifesp.br/catalogo-siex/31679/mais-info",
-      "source_name": "Universidade Federal de São Paulo (Unifesp)",
-      "source_type": "primary",
-      "location": "Online",
-      "country": "Brasil",
-      "state": null,
-      "city": null,
-      "is_free": true,
-      "tags": [
-        "educacao",
-        "evento",
-        "online",
-        "astronomia"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-05",
-      "social_label": "EDUCAÇÃO",
-      "social_keyword": "UNIFESP",
-      "social_subtitle": "150 vagas · online e gratuito",
-      "kw": [
-        "evento",
-        "vaga",
-        "inscricoes",
-        "gratuito"
-      ],
-      "mod": [
-        "Online"
-      ],
-      "custo": [
-        "Gratuito"
-      ],
-      "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-11",
-      "created_at": "2026-11-06T00:56:48-03:00",
-      "updated_at": "2026-11-06T00:56:48-03:00",
-      "verified_at": "2026-11-06T00:56:48-03:00"
     },
     {
       "id": "educacao-ufopa-psr-2027-2088-vagas",
@@ -727,7 +942,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -766,7 +981,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -810,7 +1025,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -851,7 +1066,7 @@
         "Processo seletivo"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -894,7 +1109,7 @@
         "Legislativa"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -937,7 +1152,7 @@
         "Legislativa"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -976,46 +1191,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-11",
-      "created_at": "2026-11-06T00:56:48-03:00",
-      "updated_at": "2026-11-06T00:56:48-03:00",
-      "verified_at": "2026-11-06T00:56:48-03:00"
-    },
-    {
-      "id": "trabalho-saeb-ba-eppgg-50-vagas-2026",
-      "category": "trabalho",
-      "title": "Bahia abre 50 vagas para Gestor Governamental com salário de até R$ 10,8 mil",
-      "short_description": "A Secretaria da Administração do Estado da Bahia (SAEB) abriu concurso público com 50 vagas para o cargo de Especialista em Políticas Públicas e Gestão Governamental, de nível superior, com remuneração de até R$ 10.860,62. As inscrições vão até 11/11/2026.",
-      "deadline": "11/11/2026",
-      "deadline_date": "2026-11-11",
-      "official_link": "https://servidores.rhbahia.ba.gov.br/concursos/listar/Inscri%C3%A7%C3%B5es%20Abertas",
-      "source_name": "SAEB - Secretaria da Administração do Estado da Bahia (RH Bahia)",
-      "source_type": "primary",
-      "location": "Salvador, BA",
-      "country": "Brasil",
-      "state": "BA",
-      "city": "Salvador",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "estadual"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-05",
-      "social_label": "TRABALHO",
-      "social_keyword": "SAEB-BA",
-      "social_subtitle": "50 vagas · Salvador, BA",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ],
-      "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -1047,7 +1223,7 @@
       "social_keyword": "LEM",
       "social_subtitle": "2.355 vagas · BA",
       "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-04T19:47:43-03:00",
       "updated_at": "2026-11-04T19:47:43-03:00",
       "verified_at": "2026-11-04T19:47:43-03:00",
@@ -1057,45 +1233,6 @@
       ],
       "tipo": [
         "Processo seletivo"
-      ]
-    },
-    {
-      "id": "trabalho-jaguaribe-ce-183-vagas-2026",
-      "category": "trabalho",
-      "title": "Jaguaribe reabre concurso com 183 vagas e salários de até R$ 12,9 mil",
-      "short_description": "A Prefeitura de Jaguaribe (CE) reabriu as inscrições do concurso público com 183 vagas de níveis fundamental, médio, técnico e superior, com salários de até R$ 12.948,01. O novo prazo termina em 11/11/2026 e o edital com o aviso de reabertura está no site oficial da prefeitura.",
-      "deadline": "11/11/2026",
-      "deadline_date": "2026-11-11",
-      "official_link": "https://jaguaribe.ce.gov.br/",
-      "source_name": "Prefeitura de Jaguaribe - CE",
-      "source_type": "primary",
-      "location": "Jaguaribe, CE",
-      "country": "Brasil",
-      "state": "CE",
-      "city": "Jaguaribe",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "municipal"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-04",
-      "social_label": "TRABALHO",
-      "social_keyword": "JAGUARIBE",
-      "social_subtitle": "183 vagas · CE",
-      "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-11",
-      "created_at": "2026-11-04T19:47:43-03:00",
-      "updated_at": "2026-11-04T19:47:43-03:00",
-      "verified_at": "2026-11-04T19:47:43-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
       ]
     },
     {
@@ -1125,7 +1262,7 @@
       "social_keyword": "GROAÍRAS",
       "social_subtitle": "72 vagas · CE",
       "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-04T19:47:43-03:00",
       "updated_at": "2026-11-04T19:47:43-03:00",
       "verified_at": "2026-11-04T19:47:43-03:00",
@@ -1135,48 +1272,6 @@
       ],
       "tipo": [
         "Concurso público"
-      ]
-    },
-    {
-      "id": "trabalho-defensoria-sp-defensor-2026",
-      "category": "trabalho",
-      "title": "Defensoria de SP abre concurso com 70 vagas de defensor",
-      "short_description": "A Defensoria Pública do Estado de São Paulo está com inscrições abertas até 11/11/2026 para o concurso de Defensor Público, com 70 vagas e salário inicial de cerca de R$ 29,7 mil. A seleção é organizada pela Fundação Carlos Chagas (FCC) e exige bacharelado em Direito e três anos de prática jurídica.",
-      "deadline": "11/11/2026",
-      "deadline_date": "2026-11-11",
-      "official_link": "https://www.defensoria.sp.def.br/noticias/-/noticia/7606050/defensoria-publica-de-sp-segue-com-inscricoes-abertas-para-concurso-com-70-vagas-e-salario-inicial-de-r-29-7-mil",
-      "source_name": "Defensoria Pública do Estado de São Paulo (banca: FCC)",
-      "source_type": "primary",
-      "location": "São Paulo",
-      "country": "Brasil",
-      "state": "SP",
-      "city": null,
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "juridico"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-04",
-      "social_label": "TRABALHO",
-      "social_keyword": "DPE-SP",
-      "social_subtitle": "70 vagas de defensor · SP",
-      "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-11",
-      "created_at": "2026-11-04T19:47:43-03:00",
-      "updated_at": "2026-11-04T19:47:43-03:00",
-      "verified_at": "2026-11-04T19:47:43-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ],
-      "area": [
-        "Jurídica"
       ]
     },
     {
@@ -1206,7 +1301,7 @@
       "social_keyword": "CATU",
       "social_subtitle": "190 vagas · BA",
       "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-04T19:47:43-03:00",
       "updated_at": "2026-11-04T19:47:43-03:00",
       "verified_at": "2026-11-04T19:47:43-03:00",
@@ -1246,7 +1341,7 @@
       "social_keyword": "UFMS",
       "social_subtitle": "300 vagas EaD gratuitas · MS",
       "first_seen_date": "2026-11-03",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-03T11:47:34-03:00",
       "updated_at": "2026-11-03T11:47:34-03:00",
       "verified_at": "2026-11-03T11:47:34-03:00",
@@ -1290,7 +1385,7 @@
       "social_keyword": "UERJ",
       "social_subtitle": "940 vagas gratuitas · RJ",
       "first_seen_date": "2026-11-03",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-03T11:47:34-03:00",
       "updated_at": "2026-11-03T11:47:34-03:00",
       "verified_at": "2026-11-03T11:47:34-03:00",
@@ -1332,7 +1427,7 @@
       "social_keyword": "CONQUISTA",
       "social_subtitle": "80 vagas gratuitas · BA",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -1377,7 +1472,7 @@
       "social_keyword": "USP",
       "social_subtitle": "1.610 vagas gratuitas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -1419,7 +1514,7 @@
       "social_keyword": "UFMS",
       "social_subtitle": "10 mil vagas online · MS",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -1464,7 +1559,7 @@
       "social_keyword": "TRT4",
       "social_subtitle": "Técnicos e analistas · RS",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -1506,7 +1601,7 @@
       "social_keyword": "TRF3",
       "social_subtitle": "11 vagas · R$ 20 mil",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -1548,7 +1643,7 @@
       "social_keyword": "TJSP",
       "social_subtitle": "132 vagas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -1590,7 +1685,7 @@
       "social_keyword": "TJPB",
       "social_subtitle": "50 vagas · R$ 7,5 mil",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -1632,7 +1727,7 @@
       "social_keyword": "SÃO GONÇALO",
       "social_subtitle": "101 vagas · RJ",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -1674,7 +1769,7 @@
       "social_keyword": "SUZANO",
       "social_subtitle": "303 vagas de futsal · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -1715,7 +1810,7 @@
       "reliability_level": "A",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -1760,7 +1855,7 @@
       "reliability_level": "A",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -1802,7 +1897,7 @@
       "reliability_level": "A",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -1852,7 +1947,7 @@
       "social_keyword": "SETEC",
       "social_subtitle": "39 vagas · Campinas/SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -1892,7 +1987,7 @@
       "social_keyword": "RORAINÓPOLIS",
       "social_subtitle": "R$ 240 mil em 2 editais · RR",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -1934,7 +2029,7 @@
       "social_keyword": "SANTA LUZIA",
       "social_subtitle": "Concurso público · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -1972,7 +2067,7 @@
       "social_keyword": "PARAGUAÇU",
       "social_subtitle": "Concurso público · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2010,7 +2105,7 @@
       "social_keyword": "MATÃO",
       "social_subtitle": "28 vagas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2048,7 +2143,7 @@
       "social_keyword": "CONTAGEM",
       "social_subtitle": "272 vagas · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2058,48 +2153,6 @@
       ],
       "tipo": [
         "Concurso público"
-      ]
-    },
-    {
-      "id": "trabalho-porto-velho-saude-2098-vagas-2026",
-      "category": "trabalho",
-      "title": "Porto Velho abre 2.098 vagas na saúde com até R$ 9.828",
-      "short_description": "A Prefeitura de Porto Velho (RO) recebe até 11/11/2026 as inscrições do concurso da Secretaria Municipal de Saúde (Semusa), com 2.098 vagas entre imediatas e cadastro de reserva para níveis fundamental, médio, técnico e superior. A remuneração vai de R$ 1.287,57 a R$ 9.828,19, em regime estatutário, com prova objetiva prevista para 13/12/2026.",
-      "deadline": "11/11/2026",
-      "deadline_date": "2026-11-11",
-      "official_link": "https://novo.ibgpconcursos.com.br/concurso.jsp?cod=790",
-      "source_name": "IBGP Concursos - concurso da Secretaria Municipal de Saúde de Porto Velho/RO",
-      "source_type": "primary",
-      "location": "Porto Velho, RO",
-      "country": "Brasil",
-      "state": "RO",
-      "city": "Porto Velho",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "saude"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-02",
-      "social_label": "TRABALHO",
-      "social_keyword": "PORTO VELHO",
-      "social_subtitle": "2.098 vagas na saúde · RO",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T17:34:27-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ],
-      "area": [
-        "Saúde"
       ]
     },
     {
@@ -2130,7 +2183,7 @@
       "social_keyword": "PORTO ALEGRE",
       "social_subtitle": "Esporte gratuito · 6 a 17 anos",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2175,7 +2228,7 @@
       "social_keyword": "PC-PE",
       "social_subtitle": "1.315 vagas · PE",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2217,7 +2270,7 @@
       "social_keyword": "PMPE",
       "social_subtitle": "Soldados e oficiais · PE",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2259,7 +2312,7 @@
       "social_keyword": "PMMG",
       "social_subtitle": "90 vagas de oficial · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2298,7 +2351,7 @@
       "reliability_level": "B",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T02:22:49-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -2344,7 +2397,7 @@
       "social_keyword": "REDES CORDIAIS",
       "social_subtitle": "5 mil vagas gratuitas · online",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2360,45 +2413,6 @@
       ],
       "custo": [
         "Gratuito"
-      ]
-    },
-    {
-      "id": "trabalho-inb-concurso-2026",
-      "category": "trabalho",
-      "title": "INB abre concurso com cadastro de reserva e salários de até R$ 8.374",
-      "short_description": "As Indústrias Nucleares do Brasil (INB) abriram concurso para formação de cadastro de reserva em cargos de nível médio, técnico e superior - entre eles administrador, advogado, analista de sistemas, contador, engenheiro e enfermeiro do trabalho - nas unidades de Caetité (BA), Caldas (MG), Resende (RJ) e Rio de Janeiro (RJ). Salários de R$ 3.452,00 a R$ 8.374,00. Inscrições até 11/11/2026, pela banca FGV.",
-      "deadline": "11/11/2026",
-      "deadline_date": "2026-11-11",
-      "official_link": "https://conhecimento.fgv.br/processoseletivo/inb2026",
-      "source_name": "Indústrias Nucleares do Brasil (INB) - banca FGV",
-      "source_type": "secondary",
-      "location": "Nacional (BA, MG e RJ)",
-      "country": "Brasil",
-      "state": null,
-      "city": null,
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso"
-      ],
-      "status": "open",
-      "reliability_level": "B",
-      "published_date": "2026-11-02",
-      "social_label": "TRABALHO",
-      "social_keyword": "INB",
-      "social_subtitle": "Cadastro de reserva · R$ 8,3 mil",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
-      "created_at": "2026-11-02T12:21:36-03:00",
-      "updated_at": "2026-11-02T12:21:36-03:00",
-      "verified_at": "2026-11-02T12:21:36-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes",
-        "brasil"
-      ],
-      "tipo": [
-        "Concurso público"
       ]
     },
     {
@@ -2428,7 +2442,7 @@
       "social_keyword": "IFRN",
       "social_subtitle": "470 vagas gratuitas · RN",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2470,7 +2484,7 @@
       "social_keyword": "IFRJ",
       "social_subtitle": "Curso gratuito EaD · RJ",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -2512,7 +2526,7 @@
       "reliability_level": "A",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -2555,7 +2569,7 @@
       "social_keyword": "GIL ALVES",
       "social_subtitle": "183 vagas · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2596,7 +2610,7 @@
       "social_keyword": "GUARAREMA",
       "social_subtitle": "Aulas gratuitas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T02:47:49-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:47:49-03:00",
@@ -2638,7 +2652,7 @@
       "social_keyword": "GOIÁS",
       "social_subtitle": "R$ 30 milhões · audiovisual",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2684,7 +2698,7 @@
       "social_keyword": "NEUROEDUCAÇÃO",
       "social_subtitle": "5 mil vagas gratuitas · online",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2730,7 +2744,7 @@
       "social_keyword": "FATECS",
       "social_subtitle": "Graduações gratuitas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2775,7 +2789,7 @@
       "social_keyword": "DOIS LAJEADOS",
       "social_subtitle": "Chamamento Pnab · RS",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2818,7 +2832,7 @@
       "social_keyword": "DPE-PB",
       "social_subtitle": "Concurso público · PB",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2860,7 +2874,7 @@
       "social_keyword": "CÂMARA",
       "social_subtitle": "184 vagas · R$ 32 mil",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -2902,7 +2916,7 @@
       "social_keyword": "MOSSORÓ",
       "social_subtitle": "24 vagas · RN",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2944,7 +2958,7 @@
       "social_keyword": "BANESTES",
       "social_subtitle": "Cadastro de reserva · ES",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2983,7 +2997,7 @@
       "reliability_level": "A",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T02:22:49-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -3043,7 +3057,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "social_label": "ESPORTES",
       "social_keyword": "VILA VELHA",
       "social_subtitle": "Núcleos esportivos gratuitos · ES",
@@ -3093,7 +3107,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "social_label": "ESPORTES",
       "social_keyword": "HANDEBOL",
       "social_subtitle": "100 vagas gratuitas · São José dos Pinhais, PR",
@@ -3144,7 +3158,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "social_label": "TRABALHO",
       "social_keyword": "JOVEM APRENDIZ",
       "social_subtitle": "Vagas em Salvador · BA",
@@ -3192,7 +3206,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "social_label": "ESPORTES",
       "social_keyword": "PONTA GROSSA",
       "social_subtitle": "50 vagas gratuitas · PR",
@@ -3242,7 +3256,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "social_label": "CULTURA",
       "social_keyword": "BIBLIOTECAS",
       "social_subtitle": "Pontos de Cultura · Nacional",
@@ -3296,7 +3310,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "social_label": "ESPORTES",
       "social_keyword": "MARICÁ",
       "social_subtitle": "Judô, capoeira e samba raiz · RJ",
@@ -3346,7 +3360,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "social_label": "EDUCAÇÃO",
       "social_keyword": "IFRS",
       "social_subtitle": "200+ cursos online gratuitos",
@@ -3400,7 +3414,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "social_label": "CULTURA",
       "social_keyword": "FUNARTE",
       "social_subtitle": "Espaços culturais gratuitos",
@@ -3452,7 +3466,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "social_label": "ESPORTES",
       "social_keyword": "CUIABÁ",
       "social_subtitle": "2,6 mil vagas gratuitas · MT",
@@ -3502,7 +3516,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "social_label": "ESPORTES",
       "social_keyword": "CARIACICA",
       "social_subtitle": "Vagas esportivas gratuitas · ES",
@@ -3553,7 +3567,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-11",
+      "last_seen_date": "2026-11-12",
       "social_label": "TRABALHO",
       "social_keyword": "CIEE",
       "social_subtitle": "Estágio e Jovem Aprendiz",
@@ -3574,8 +3588,8 @@
   "total": 83,
   "counts": {
     "cultura": 7,
-    "educacao": 19,
+    "educacao": 23,
     "esportes": 11,
-    "trabalho": 46
+    "trabalho": 42
   }
 }
