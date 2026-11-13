@@ -1,14 +1,13 @@
 /**
  * CONTESTE.INFO - JavaScript principal
  * Portal diario de inscricoes abertas (Cultura, Educacao, Esportes, Trabalho).
- * Sem imagens, sem dependencias externas, com navegacao por dia.
+ * Sem imagens, sem dependencias externas. A lista mostra apenas oportunidades
+ * com inscricoes abertas e a busca filtra por prefixo em todos os campos.
  */
 'use strict';
 
 const CONFIG = {
   DATA_URL: 'data/oportunidades.json',
-  ITEMS_PER_PAGE: 12,
-  TOP_PER_CATEGORY: 4,
   /* Palavras em destaque na busca (taxonomia do portal) */
   SUGESTOES: ['Vaga', 'Evento', 'Curso', 'Atividade', 'Brasil', 'Inscrições', 'Gratuito'],
   /* Kickers por area - iguais aos das imagens sociais */
@@ -36,20 +35,15 @@ const CONFIG = {
 const state = {
   all: [],
   generatedAt: null,
-  view: 'home',
   category: null,
-  page: 1,
   search: '',
-  status: 'open',
   isFree: false,
-  sort: 'deadline',
-  day: 'all'
+  sort: 'deadline'
 };
 
 document.addEventListener('DOMContentLoaded', init);
 
 function init() {
-  state.view = 'home';
   state.category = categoriaDoHash();
 
   initMobileMenu();
@@ -59,7 +53,6 @@ function init() {
   initCopiarPix();
   window.addEventListener('hashchange', function () {
     state.category = categoriaDoHash();
-    state.page = 1;
     const sel = document.getElementById('catSelect');
     if (sel) sel.value = state.category || 'todos';
     renderList();
@@ -92,7 +85,6 @@ function renderSearchBar() {
   if (!el || el.dataset.ready) return;
   el.dataset.ready = '1';
 
-  const temInfo = !!document.getElementById('resultsInfo');
   const cats = CONFIG.CATEGORIES.map(function (c) {
     return '<option value="' + c.key + '">' + c.label + '</option>';
   }).join('');
@@ -104,13 +96,11 @@ function renderSearchBar() {
           '<input id="searchInput" type="search" autocomplete="off" placeholder="Busque por cargo, \u00e1rea, modalidade, linguagem, cidade ou \u00f3rg\u00e3o\u2026" aria-label="Buscar oportunidades">' +
           '<button class="clear" id="clearSearch" type="button" hidden>Limpar</button>' +
         '</label>' +
-        (state.view === 'category' ? '' :
-          '<select class="sel" id="catSelect" aria-label="Filtrar por categoria">' +
-            '<option value="todos">Todas as categorias</option>' + cats +
-          '</select>') +
+        '<select class="sel" id="catSelect" aria-label="Filtrar por categoria">' +
+          '<option value="todos">Todas as categorias</option>' + cats +
+        '</select>' +
       '</div>' +
-      (temInfo ? '' :
-        '<div class="srow" id="resRow" style="margin-top:0.5rem" hidden><span class="sres" id="searchRes"></span></div>') +
+      '<div class="srow" id="resRow" style="margin-top:0.5rem" hidden><span class="sres" id="searchRes"></span></div>' +
       '<div class="quick" id="quick">' +
         CONFIG.SUGESTOES.map(function (s) {
           return '<button type="button" data-q="' + s + '">' + s + '</button>';
@@ -122,23 +112,27 @@ function renderSearchBar() {
   const clearBtn = document.getElementById('clearSearch');
 
   function aplicaBusca(valor) {
-    input.value = valor;
+    const anterior = state.search;
     state.search = valor;
-    state.page = 1;
     clearBtn.hidden = !valor;
-    if (state.view === 'category') renderList(); else renderCategoryPreviews();
+    /* a lista e redesenhada a cada tecla: o que aparece na tela e exatamente o que o contador diz */
+    renderList();
     atualizaContadorBusca();
+    if (!anterior && valor) revelaResultados();
   }
 
-  input.addEventListener('input', debounce(function () { aplicaBusca(input.value.trim()); }, 150));
-  clearBtn.addEventListener('click', function () { aplicaBusca(''); input.focus(); });
+  input.addEventListener('input', debounce(function () { aplicaBusca(input.value.trim()); }, 60));
+  input.addEventListener('keydown', function (e) {
+    if (e.key === 'Enter') { e.preventDefault(); aplicaBusca(input.value.trim()); }
+    else if (e.key === 'Escape') { input.value = ''; aplicaBusca(''); }
+  });
+  clearBtn.addEventListener('click', function () { input.value = ''; aplicaBusca(''); input.focus(); });
 
   const sel = document.getElementById('catSelect');
   if (sel) {
     sel.value = state.category || 'todos';
     sel.addEventListener('change', function () {
       state.category = this.value === 'todos' ? null : this.value;
-      state.page = 1;
       if (history.replaceState) {
         history.replaceState(null, '', state.category ? '#' + state.category : location.pathname + location.search);
       }
@@ -149,10 +143,36 @@ function renderSearchBar() {
 
   el.querySelectorAll('#quick button').forEach(function (b) {
     b.addEventListener('click', function () {
+      input.value = b.dataset.q;
       aplicaBusca(b.dataset.q);
-      window.scrollTo({ top: 0, behavior: 'smooth' });
+      revelaResultados();
     });
   });
+}
+
+/* Leva a lista de resultados para a area visivel (uma vez por busca) */
+function revelaResultados() {
+  const secao = document.getElementById('oportunidades');
+  if (!secao) return;
+  const r = secao.getBoundingClientRect();
+  /* ja esta na tela: nao mexe no scroll */
+  if (r.top > 0 && r.top < window.innerHeight * 0.55) return;
+  const barra = document.getElementById('searchbar');
+  const alturaBarra = barra ? barra.offsetHeight : 0;
+  const topoFixo = window.innerWidth > 768 ? 68 : 8;
+  const y = window.pageYOffset + r.top - alturaBarra - topoFixo;
+  window.scrollTo({ top: Math.max(y, 0), behavior: 'smooth' });
+}
+
+/* Volta a lista completa: usado pelo botao Limpar e pelo vazio da busca */
+function limpaBusca() {
+  state.search = '';
+  const campo = document.getElementById('searchInput');
+  if (campo) campo.value = '';
+  const limpar = document.getElementById('clearSearch');
+  if (limpar) limpar.hidden = true;
+  renderList();
+  atualizaContadorBusca();
 }
 
 function atualizaContadorBusca() {
@@ -216,7 +236,7 @@ async function loadData() {
     renderPage();
   } catch (err) {
     console.error(err);
-    const target = document.getElementById('categoryPreviews') || document.getElementById('listGrid');
+    const target = document.getElementById('listGrid');
     if (target) target.innerHTML = '<p class="empty">N\u00e3o foi poss\u00edvel carregar as oportunidades. Recarregue a p\u00e1gina.</p>';
   }
 }
@@ -224,10 +244,13 @@ async function loadData() {
 function normalize(item) {
   const pub = (item.published_date || item.created_at || '').slice(0, 10);
   const dl = item.deadline_date || null;
-  return Object.assign({}, item, {
+  const obj = Object.assign({}, item, {
     published_date: pub,
     daysLeft: dl ? daysBetween(todayISO(), dl) : null
   });
+  /* indice de busca montado uma unica vez por item, nao a cada tecla */
+  obj._blob = blobItem(obj);
+  return obj;
 }
 
 function todayISO() {
@@ -239,76 +262,9 @@ function todayISO() {
 /* Renderizacao                                                        */
 /* ------------------------------------------------------------------ */
 function renderPage() {
-  renderUpdatedBar();
-  renderDayBar();
   renderHeaderLive();
   renderFilters();
   renderList();
-}
-
-function renderUpdatedBar() {
-  const el = document.getElementById('updatedBar');
-  if (!el) return;
-  const openCount = state.all.filter(isOpen).length;
-  const when = state.generatedAt ? formatDate(state.generatedAt.slice(0, 10)) : 'hoje';
-  el.innerHTML = '<span class="updated-dot" aria-hidden="true"></span>' +
-    '<span>Atualizado em <strong>' + when + '</strong></span>' +
-    '<span class="updated-sep">\u00b7</span>' +
-    '<span><strong>' + openCount + '</strong> oportunidades abertas</span>';
-}
-
-function openDates() {
-  const map = {};
-  state.all.filter(isOpen).forEach(function (i) {
-    if (!i.published_date) return;
-    map[i.published_date] = (map[i.published_date] || 0) + 1;
-  });
-  return Object.keys(map).sort().reverse().map(function (d) {
-    return { date: d, count: map[d] };
-  });
-}
-
-function renderDayBar() {
-  const el = document.getElementById('dayBar');
-  if (!el) return;
-  const dates = openDates();
-  if (dates.length <= 1) { el.innerHTML = ''; return; }
-
-  const opts = ['<option value="all">Todas as datas</option>'].concat(
-    dates.map(function (d) {
-      return '<option value="' + d.date + '">' + formatDate(d.date) + ' (' + d.count + ')</option>';
-    })
-  ).join('');
-
-  el.innerHTML =
-    '<label class="daybar-label" for="daySelect">Filtrar por dia:</label>' +
-    '<select id="daySelect" class="daybar-select">' + opts + '</select>';
-  const sel = document.getElementById('daySelect');
-  sel.value = state.day;
-  sel.addEventListener('change', function () {
-    state.day = this.value;
-    state.page = 1;
-    if (state.view === 'category') renderList();
-    else renderCategoryPreviews();
-  });
-}
-
-function renderCategoryPreviews() {
-  const el = document.getElementById('categoryPreviews');
-  if (!el) return;
-  el.innerHTML = CONFIG.CATEGORIES.map(function (cat) {
-    const items = filtered({ category: cat.key, ignoreCategory: true });
-    const cards = items.slice(0, CONFIG.TOP_PER_CATEGORY).map(cardHTML).join('');
-    const body = cards || '<p class="empty">Nenhuma oportunidade em aberto no momento.</p>';
-    return '<section class="category-section" id="' + cat.key + '">' +
-        '<div class="category-header">' +
-          '<h2 class="category-title"><span class="category-emoji">' + cat.emoji + '</span> ' + cat.label +
-            ' <span class="category-count">' + items.length + '</span></h2>' +
-          '<a href="' + cat.key + '.html" class="see-more">Veja mais \u2192</a>' +
-        '</div>' +
-        '<div class="news-grid">' + body + '</div>' +
-      '</section>';
-  }).join('');
 }
 
 function renderFilters() {
@@ -317,12 +273,7 @@ function renderFilters() {
   el.dataset.ready = '1';
   el.innerHTML =
     '<div class="filters-row">' +
-      '<select id="statusFilter" class="filter-select" aria-label="Situa\u00e7\u00e3o">' +
-        '<option value="open">Inscri\u00e7\u00f5es abertas</option>' +
-        '<option value="continuous">Vagas cont\u00ednuas</option>' +
-        '<option value="all">Todas as situa\u00e7\u00f5es</option>' +
-        '<option value="closed">Encerradas</option>' +
-      '</select>' +
+      '<span class="filters-note" id="filtersCount"></span>' +
       '<select id="sortFilter" class="filter-select" aria-label="Ordenar">' +
         '<option value="deadline">Fecha primeiro</option>' +
         '<option value="newest">Mais recentes</option>' +
@@ -332,25 +283,18 @@ function renderFilters() {
       '<button type="button" id="clearFilters" class="filter-clear">Limpar</button>' +
     '</div>';
 
-  document.getElementById('statusFilter').addEventListener('change', function () {
-    state.status = this.value; state.page = 1; renderList();
-  });
   document.getElementById('sortFilter').addEventListener('change', function () {
-    state.sort = this.value; state.page = 1; renderList();
+    state.sort = this.value; renderList();
   });
   document.getElementById('freeFilter').addEventListener('change', function () {
-    state.isFree = this.checked; state.page = 1; renderList();
+    state.isFree = this.checked; renderList();
   });
   document.getElementById('clearFilters').addEventListener('click', function () {
-    state.search = ''; state.status = 'open'; state.sort = 'deadline'; state.isFree = false; state.day = 'all'; state.page = 1;
-    const campoBusca = document.getElementById('searchInput');
-    if (campoBusca) campoBusca.value = '';
-    const limpar = document.getElementById('clearSearch');
-    if (limpar) limpar.hidden = true;
-    document.getElementById('statusFilter').value = 'open';
+    state.sort = 'deadline';
+    state.isFree = false;
     document.getElementById('sortFilter').value = 'deadline';
     document.getElementById('freeFilter').checked = false;
-    renderDayBar(); renderList(); atualizaContadorBusca();
+    limpaBusca();
   });
 }
 
@@ -358,34 +302,35 @@ function renderList() {
   const grid = document.getElementById('listGrid');
   if (!grid) return;
 
+  const ts = termosBusca();
   const items = filtered({});
-  grid.innerHTML = items.length
-    ? items.map(cardHTML).join('')
-    : '<p class="empty">Nenhuma oportunidade encontrada com os filtros atuais. Tente limpar a busca.</p>';
+  const cat = CONFIG.CATEGORIES.filter(function (c) { return c.key === state.category; })[0];
 
-  const info = document.getElementById('resultsInfo');
-  if (info) info.textContent = items.length + ' oportunidade(s) encontrada(s)';
-}
+  if (items.length) {
+    grid.innerHTML = items.map(cardHTML).join('');
+  } else if (ts.length) {
+    grid.innerHTML = '<div class="empty-block">' +
+        '<p class="empty">Nenhuma oportunidade aberta encontrada para \u201c' + escapeHtml(state.search) + '\u201d.</p>' +
+        '<button type="button" class="filter-clear" id="limparBuscaVazia">Limpar busca</button>' +
+      '</div>';
+    const btn = document.getElementById('limparBuscaVazia');
+    if (btn) {
+      btn.addEventListener('click', function () {
+        limpaBusca();
+        const campo = document.getElementById('searchInput');
+        if (campo) campo.focus();
+      });
+    }
+  } else {
+    grid.innerHTML = '<p class="empty">Nenhuma oportunidade aberta no momento' +
+      (cat ? ' em ' + cat.label : '') + '. Novas inscri\u00e7\u00f5es entram todos os dias.</p>';
+  }
 
-function paginationHTML(pages) {
-  let out = '<button type="button" class="page-btn" data-page="prev"' + (state.page === 1 ? ' disabled' : '') + '>\u2190 Anterior</button>';
-  out += '<span class="page-info">P\u00e1gina ' + state.page + ' de ' + pages + '</span>';
-  out += '<button type="button" class="page-btn" data-page="next"' + (state.page === pages ? ' disabled' : '') + '>Pr\u00f3xima \u2192</button>';
-  return out;
-}
-
-function bindPagination() {
-  const pager = document.getElementById('pagination');
-  if (!pager) return;
-  pager.querySelectorAll('.page-btn').forEach(function (btn) {
-    btn.addEventListener('click', function () {
-      if (this.dataset.page === 'prev' && state.page > 1) state.page--;
-      if (this.dataset.page === 'next') state.page++;
-      renderList();
-      const top = document.getElementById('oportunidades');
-      if (top) top.scrollIntoView({ behavior: 'smooth' });
-    });
-  });
+  const contador = document.getElementById('filtersCount');
+  if (contador) {
+    contador.textContent = items.length + (items.length === 1 ? ' oportunidade aberta' : ' oportunidades abertas') +
+      (cat ? ' em ' + cat.label : '');
+  }
 }
 
 /* ------------------------------------------------------------------ */
@@ -398,7 +343,9 @@ function cardHTML(item) {
   const badges = [];
   if (isNew(item)) badges.push('<span class="badge badge-new">Novo</span>');
   if (item.daysLeft !== null && item.daysLeft >= 0 && item.daysLeft <= 3) {
-    badges.push('<span class="badge badge-soon">Encerra em ' + item.daysLeft + (item.daysLeft === 1 ? ' dia' : ' dias') + '</span>');
+    const quando = item.daysLeft === 0 ? 'hoje'
+      : (item.daysLeft === 1 ? 'em 1 dia' : 'em ' + item.daysLeft + ' dias');
+    badges.push('<span class="badge badge-soon">Encerra ' + quando + '</span>');
   }
   if (item.is_free === true) badges.push('<span class="badge badge-free">Gratuito</span>');
 
@@ -435,15 +382,15 @@ function cardHTML(item) {
     '</article>';
 }
 
+/* O site lista apenas oportunidades com inscricoes abertas (nada de encerradas) */
 function filtered(opts) {
   opts = opts || {};
-  const cat = opts.ignoreCategory ? opts.category : (opts.category || state.category);
+  const cat = opts.category || state.category;
+  const ts = termosBusca();
   const out = state.all.filter(function (i) {
+    if (!isOpen(i)) return false;
     if (cat && i.category !== cat) return false;
-    if (state.day !== 'all' && i.published_date !== state.day) return false;
-    if (state.search && !matchesSearch(i)) return false;
-    if (state.status === 'open') { if (!isOpen(i)) return false; }
-    else if (state.status !== 'all' && i.status !== state.status) return false;
+    if (ts.length && !matchesSearch(i, ts)) return false;
     if (state.isFree && i.is_free !== true) return false;
     return true;
   });
@@ -468,15 +415,64 @@ function normaliza(s) { return semAcento(s).toLowerCase(); }
 const STOPWORDS = ['de', 'da', 'do', 'das', 'dos', 'e', 'em', 'no', 'na', 'nos', 'nas',
   'a', 'o', 'as', 'os', 'um', 'uma', 'para', 'por', 'com', 'ao', 'aos', 'se', 'que', 'ate', 'the', 'of'];
 
+/* Termos da busca em cache: recalcula so quando o texto muda */
+let termosCache = { chave: null, lista: [] };
+
 function termosBusca() {
-  return normaliza(state.search).split(/\s+/).filter(function (t) {
+  if (termosCache.chave === state.search) return termosCache.lista;
+  const lista = normaliza(state.search).split(/\s+/).filter(function (t) {
     return t.length > 0 && STOPWORDS.indexOf(t) < 0;
   });
+  termosCache = { chave: state.search, lista: lista };
+  return lista;
+}
+
+/* 27 unidades da federacao: "SP" acha "Sao Paulo" e o nome acha a sigla */
+const UF_NOME = {
+  AC: 'Acre', AL: 'Alagoas', AP: 'Amap\u00e1', AM: 'Amazonas', BA: 'Bahia', CE: 'Cear\u00e1',
+  DF: 'Distrito Federal', ES: 'Esp\u00edrito Santo', GO: 'Goi\u00e1s', MA: 'Maranh\u00e3o',
+  MT: 'Mato Grosso', MS: 'Mato Grosso do Sul', MG: 'Minas Gerais', PA: 'Par\u00e1',
+  PB: 'Para\u00edba', PR: 'Paran\u00e1', PE: 'Pernambuco', PI: 'Piau\u00ed', RJ: 'Rio de Janeiro',
+  RN: 'Rio Grande do Norte', RS: 'Rio Grande do Sul', RO: 'Rond\u00f4nia', RR: 'Roraima',
+  SC: 'Santa Catarina', SP: 'S\u00e3o Paulo', SE: 'Sergipe', TO: 'Tocantins'
+};
+
+const MESES = ['janeiro', 'fevereiro', 'mar\u00e7o', 'abril', 'maio', 'junho', 'julho',
+  'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'];
+
+function ufTexto(uf) {
+  const s = String(uf || '').trim().toUpperCase();
+  return UF_NOME[s] ? s + ' ' + UF_NOME[s] : s;
+}
+
+/* Todas as formas de data que o visitante costuma digitar */
+function datasTexto(i) {
+  const out = [];
+  [i.published_date, i.deadline_date].forEach(function (iso) {
+    const s = String(iso || '').slice(0, 10);
+    const p = s.split('-');
+    if (p.length !== 3 || !p[0] || !p[1] || !p[2]) return;
+    const mes = MESES[Number(p[1]) - 1] || '';
+    out.push(s);                              /* 2026-11-03 */
+    out.push(p[2] + '/' + p[1] + '/' + p[0]); /* 03/11/2026 */
+    out.push(p[2] + '/' + p[1]);              /* 03/11 */
+    out.push(mes);                            /* novembro */
+    out.push(p[2] + ' ' + mes);               /* 03 novembro */
+  });
+  return out.join(' ');
+}
+
+/* Dominio do link oficial: "pciconcursos" acha a oportunidade */
+function dominio(url) {
+  const m = String(url || '').match(/^https?:\/\/([^/?#]+)/i);
+  return m ? m[1].replace(/^www\./i, '') : '';
 }
 
 function blobItem(i) {
   const partes = [i.title, i.short_description, i.source_name, i.location, i.deadline,
-    i.category, (i.tags || []).join(' '), (i.kw || []).join(' ')];
+    i.category, i.country, (i.tags || []).join(' '), (i.kw || []).join(' '),
+    ufTexto(i.state), datasTexto(i), dominio(i.official_link),
+    i.is_free === true ? 'gratuito gratuita gratis' : ''];
   (EIXOS[i.category] || []).forEach(function (k) {
     const v = i[k];
     if (v) partes.push([].concat(v).join(' '));
@@ -492,11 +488,11 @@ function casaTermo(blob, t) {
   return new RegExp('(^|[^0-9a-z])' + seguro).test(blob);
 }
 
-function matchesSearch(i) {
-  const ts = termosBusca();
-  if (!ts.length) return true;
-  const b = blobItem(i);
-  return ts.every(function (t) { return casaTermo(b, t); });
+function matchesSearch(i, ts) {
+  const termos = ts || termosBusca();
+  if (!termos.length) return true;
+  const b = i._blob || blobItem(i);
+  return termos.every(function (t) { return casaTermo(b, t); });
 }
 
 /* Realce dos termos digitados (marca amarela) */

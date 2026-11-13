@@ -144,23 +144,11 @@ input, select { font-family: inherit; font-size: 1rem; }
 .updated-dot { width: 8px; height: 8px; border-radius: var(--radius-full); background: var(--color-black); }
 .updated-sep { color: var(--color-gray-400); }
 
-/* Navegacao por dia */
-.daybar {
-    display: flex; align-items: center; gap: var(--spacing-sm);
-    margin-bottom: var(--spacing-lg);
-}
-.daybar:empty { display: none; }
-.daybar-label { font-size: 0.85rem; font-weight: 600; color: var(--color-gray-600); }
-.daybar-select {
-    padding: 0.5rem 0.75rem; font-size: 0.9rem;
-    border: var(--border-thin) solid var(--color-gray-300); border-radius: var(--radius-lg);
-    background: var(--color-white); color: var(--color-black);
-}
-.daybar-select:focus { outline: 2px solid var(--color-black); outline-offset: 1px; }
-
 /* Filtros */
 .filters { margin-bottom: var(--spacing-md); }
 .filters-row { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); align-items: center; }
+.filters-note { margin-right: auto; font-size: 0.85rem; font-weight: 600; color: var(--color-gray-600); }
+.empty-block { grid-column: 1 / -1; display: flex; flex-direction: column; align-items: flex-start; gap: var(--spacing-sm); }
 .filter-input {
     flex: 1 1 260px; padding: 0.625rem 0.875rem;
     border: var(--border-thin) solid var(--color-gray-300); border-radius: var(--radius-lg);
@@ -238,16 +226,7 @@ input, select { font-family: inherit; font-size: 1rem; }
 .card-cta { font-size: 0.85rem; font-weight: 700; white-space: nowrap; }
 .card-cta:hover { color: var(--color-gray-600); }
 
-/* Resultados e paginacao */
-.results-info { font-size: 0.85rem; color: var(--color-gray-500); margin-bottom: var(--spacing-md); }
-.pagination { display: flex; align-items: center; justify-content: center; gap: var(--spacing-md); margin-top: var(--spacing-2xl); }
-.page-btn {
-    padding: 0.5rem 1rem; font-size: 0.85rem; font-weight: 600;
-    border: var(--border-thin) solid var(--color-black); border-radius: var(--radius-lg);
-}
-.page-btn:hover:not(:disabled) { background: var(--color-black); color: var(--color-white); }
-.page-btn:disabled { opacity: 0.35; cursor: not-allowed; }
-.page-info { font-size: 0.85rem; color: var(--color-gray-600); }
+/* Lista de resultados */
 .empty { padding: var(--spacing-xl) 0; color: var(--color-gray-500); font-style: italic; }
 
 /* Pagina de categoria (cabecalho) */
