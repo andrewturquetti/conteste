@@ -24,7 +24,7 @@
         "url": "https://conteste.info/"
     }
     </script>
-    <link rel="stylesheet" href="css/style.css?v=4.3.0">
+    <link rel="stylesheet" href="css/style.css?v=4.4.0">
     <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
 </head>
 <body data-view="home">
@@ -45,7 +45,7 @@
                     <li><a href="#educacao" class="nav-link">Educação</a></li>
                     <li><a href="#esportes" class="nav-link">Esportes</a></li>
                     <li><a href="#trabalho" class="nav-link">Trabalho</a></li>
-                    <li><a href="#assinaTopo" class="nav-link nav-link--premium">Premium</a></li>
+                    <li><a href="#assinaTopo" class="nav-link nav-link--premium">Assinatura mensal</a></li>
                 </ul>
             </nav>
             <span class="header-live" id="headerLive"></span>
@@ -69,19 +69,22 @@
             <div class="container">
                 <div class="in">
                     <div class="txt">
-                        <strong>Não perca o prazo</strong>
-                        <span>Assine o Portal Conteste por apenas R$ 9,90 por mês e receba diariamente todas as oportunidades disponíveis, diretamente no seu e-mail e whatsapp.</span>
+                        <strong>Assinatura mensal &middot; R$ 9,90</strong>
+                        <span>Receba diariamente todas as oportunidades disponíveis, diretamente no seu e-mail e WhatsApp.</span>
                     </div>
-                    <form class="form" id="formTopo" novalidate>
-                        <span class="canal" role="group" aria-label="Como você quer receber">
-                            <button type="button" id="cEmail" class="on" aria-pressed="true">E-mail</button>
-                            <button type="button" id="cWhats" aria-pressed="false">WhatsApp</button>
-                        </span>
-                        <input id="campoTopo" type="email" placeholder="Seu melhor e-mail" aria-label="Seu e-mail" autocomplete="email">
-                        <button class="btn btn-primary" type="submit">Assinar</button>
-                    </form>
+                    <div class="pix">
+                        <div class="pix-dados">
+                            <span class="pix-rotulo">PIX (CNPJ)</span>
+                            <code>64.046.908/0001-19</code>
+                            <button type="button" class="btn btn-primary" data-pix="64046908000119">Copiar chave</button>
+                        </div>
+                        <figure class="pix-qr">
+                            <img src="assets/qr-pix.jpeg" alt="QR Code PIX da assinatura mensal do Conteste — CNPJ 64.046.908/0001-19" width="150" height="150">
+                            <figcaption>Escaneie com o app do seu banco</figcaption>
+                        </figure>
+                    </div>
                 </div>
-                <p class="micro" id="microTopo">Sem spam &middot; cancele quando quiser &middot; você recebe só o que está com inscrição aberta</p>
+                <p class="micro">Depois de pagar, envie o comprovante para <a href="mailto:contato@conteste.info?subject=Comprovante%20assinatura%20Conteste">contato@conteste.info</a> para liberar a assinatura.</p>
             </div>
         </section>
 
@@ -109,13 +112,19 @@
         <section class="newsletter">
             <div class="container">
                 <div class="newsletter-content">
-                    <h2 class="newsletter-title">Não perca o prazo</h2>
-                    <p class="newsletter-text">Assine o Portal Conteste por apenas R$ 9,90 por mês e receba diariamente todas as oportunidades disponíveis, diretamente no seu e-mail e whatsapp.</p>
-                    <form class="newsletter-form" id="newsletterForm" method="post" target="_blank">
-                        <input type="email" name="email" class="newsletter-input" placeholder="Digite seu e-mail" required aria-label="Seu e-mail">
-                        <input type="hidden" name="embed" value="1">
-                        <button type="submit" class="btn btn-secondary">Inscrever-se</button>
-                    </form>
+                    <h2 class="newsletter-title">Assinatura mensal — R$ 9,90</h2>
+                    <p class="newsletter-text">Pague por PIX (CNPJ) e envie o comprovante para <a href="mailto:contato@conteste.info?subject=Comprovante%20assinatura%20Conteste">contato@conteste.info</a>. Você recebe diariamente todas as oportunidades disponíveis, no seu e-mail e WhatsApp.</p>
+                    <div class="pix pix--centro">
+                        <div class="pix-dados">
+                            <span class="pix-rotulo">PIX (CNPJ)</span>
+                            <code>64.046.908/0001-19</code>
+                            <button type="button" class="btn btn-primary" data-pix="64046908000119">Copiar chave</button>
+                        </div>
+                        <figure class="pix-qr">
+                            <img src="assets/qr-pix.jpeg" alt="QR Code PIX da assinatura mensal do Conteste — CNPJ 64.046.908/0001-19" width="150" height="150">
+                            <figcaption>Escaneie com o app do seu banco</figcaption>
+                        </figure>
+                    </div>
                 </div>
             </div>
         </section>
@@ -157,13 +166,13 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2026 CONTESTE.INFO - CNPJ 53.679.035/0001-65 - Todos os direitos reservados.</p>
+                <p>&copy; 2026 CONTESTE.INFO - CNPJ 64.046.908/0001-19 - Todos os direitos reservados.</p>
                 <p class="footer-legal">Confirme sempre as informações diretamente na fonte oficial antes de se inscrever.</p>
             </div>
         </div>
     </footer>
 
-    <script src="js/main.js?v=4.3.0"></script>
+    <script src="js/main.js?v=4.4.0"></script>
 </body>
 </html>
 

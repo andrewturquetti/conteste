@@ -276,15 +276,9 @@ input, select { font-family: inherit; font-size: 1rem; }
 
 /* Newsletter */
 .newsletter { padding: var(--spacing-3xl) 0; background: var(--color-gray-100); border-top: var(--border-thin) solid var(--color-gray-200); }
-.newsletter-content { max-width: 640px; margin: 0 auto; text-align: center; }
+.newsletter-content { max-width: 760px; margin: 0 auto; text-align: center; }
 .newsletter-title { font-family: var(--font-display); font-size: clamp(1.5rem, 3.5vw, 2rem); color: var(--color-black); }
-.newsletter-text { margin: var(--spacing-md) 0 var(--spacing-lg); color: var(--color-gray-600); }
-.newsletter-form { display: flex; gap: var(--spacing-sm); flex-wrap: wrap; justify-content: center; }
-.newsletter-input {
-    flex: 1 1 260px; max-width: 340px; padding: 0.75rem 1rem;
-    border: var(--border-thin) solid var(--color-gray-300); border-radius: var(--radius-lg);
-}
-.newsletter-input:focus { outline: 2px solid var(--color-black); outline-offset: 1px; }
+.newsletter-text { margin: var(--spacing-md) 0 0; color: var(--color-gray-600); max-width: 620px; margin-left: auto; margin-right: auto; }
 
 /* Footer */
 .footer { padding: var(--spacing-2xl) 0 var(--spacing-lg); border-top: var(--border-thin) solid var(--color-gray-200); }
@@ -382,24 +376,28 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
     background: var(--color-white); border-top: 3px solid var(--cat-trabalho);
     border-bottom: var(--border-thin) solid var(--color-gray-200);
 }
-.assina .in { display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 1.125rem; align-items: center; padding: 0.9rem 0 0.6rem; }
+.assina .in { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 1.125rem; align-items: center; padding: 0.9rem 0 0.6rem; }
 .assina .txt strong { display: block; font-size: 1.03rem; letter-spacing: -0.01em; color: var(--ink); }
 .assina .txt span { display: block; font-size: 0.85rem; color: var(--color-gray-600); margin-top: 0.2rem; }
-.assina .form { display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap; justify-content: flex-end; }
-.canal { display: inline-flex; background: var(--color-gray-100); border-radius: var(--radius-full); padding: 0.2rem; }
-.canal button {
-    border: 0; background: transparent; border-radius: var(--radius-full); padding: 0.45rem 0.8rem;
-    font-size: 0.78rem; font-weight: 700; color: var(--color-gray-600); cursor: pointer; font-family: inherit;
+/* Assinatura mensal por PIX */
+.pix { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: flex-end; }
+.pix--centro { justify-content: center; margin-top: var(--spacing-lg); }
+.pix-dados { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; }
+.pix-rotulo { font-size: 0.78rem; font-weight: 700; color: var(--color-gray-600); }
+.pix code {
+    font-family: inherit; font-weight: 800; font-size: 1rem; letter-spacing: 0.02em; color: var(--ink);
+    background: var(--color-white); border: 2px solid var(--ink); border-radius: var(--radius-full);
+    padding: 0.4rem 0.9rem; white-space: nowrap;
 }
-.canal button.on { background: var(--ink); color: var(--color-white); }
-.assina input {
-    flex: 1 1 160px; min-width: 150px; padding: 0.7rem 0.9rem;
-    border-radius: var(--radius-full); border: 2px solid var(--color-gray-200);
-    font-family: inherit; font-size: 0.9rem;
+.pix .btn { padding: 0.5rem 1.05rem; font-size: 0.82rem; cursor: pointer; font-family: inherit; }
+.pix-qr { margin: 0; text-align: center; }
+.pix-qr img {
+    display: block; width: 150px; height: 150px; margin: 0 auto 0.25rem;
+    background: var(--color-white); border: 2px solid var(--ink); border-radius: var(--radius-lg); padding: 4px;
 }
-.assina input:focus { outline: 0; border-color: var(--ink); }
-.assina .micro { font-size: 0.72rem; color: var(--color-gray-500); padding-bottom: 0.8rem; }
-.assina .micro.ok { color: #1E7A45; font-weight: 700; }
+.pix-qr figcaption { font-size: 0.7rem; font-weight: 600; color: var(--color-gray-600); }
+.assina .micro { font-size: 0.8rem; color: var(--color-gray-600); padding-bottom: 0.8rem; }
+.assina .micro a, .newsletter-text a { font-weight: 700; color: var(--ink); text-decoration: underline; }
 
 /* --- Cores por area (padrao dos anexos) --- */
 .cat-trabalho { --c: var(--cat-trabalho); --ct: var(--cat-trabalho-t); }
@@ -462,7 +460,8 @@ mark { background: #FEF08A; color: inherit; border-radius: 3px; padding: 0 2px; 
 /* --- Responsivo da v2 --- */
 @media (max-width: 900px) {
     .assina .in { grid-template-columns: 1fr; gap: 0.75rem; }
-    .assina .form { justify-content: flex-start; }
+    .pix { justify-content: flex-start; }
+    .pix--centro .pix-dados { justify-content: center; width: 100%; }
 }
 @media (max-width: 768px) {
     .searchbar { position: static; }

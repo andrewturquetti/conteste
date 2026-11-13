@@ -10,6 +10,9 @@
 /README.md
 /data/lotes/
 
+# QR Code original (o site usa a copia em assets/qr-pix.jpeg)
+/QR Code.jpeg
+
 # Sistema / cache
 __pycache__/
 *.pyc

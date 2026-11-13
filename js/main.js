@@ -9,7 +9,6 @@ const CONFIG = {
   DATA_URL: 'data/oportunidades.json',
   ITEMS_PER_PAGE: 12,
   TOP_PER_CATEGORY: 4,
-  BUTTONDOWN_USERNAME: 'SEU_USUARIO_BUTTONDOWN',
   /* Palavras em destaque na busca (taxonomia do portal) */
   SUGESTOES: ['Vaga', 'Evento', 'Curso', 'Atividade', 'Brasil', 'Inscrições', 'Gratuito'],
   /* Kickers por area - iguais aos das imagens sociais */
@@ -56,9 +55,8 @@ function init() {
   initMobileMenu();
   initScrollEffects();
   initScrollAnimations();
-  initPremiumLink();
   renderSearchBar();
-  initAssina();
+  initCopiarPix();
   window.addEventListener('hashchange', function () {
     state.category = categoriaDoHash();
     state.page = 1;
@@ -170,45 +168,38 @@ function atualizaContadorBusca() {
 }
 
 /* ------------------------------------------------------------------ */
-/* Faixa de assinatura (topo): alternancia de canal + envio            */
+/* Assinatura mensal: botao que copia a chave PIX                      */
 /* ------------------------------------------------------------------ */
-function initAssina() {
-  const campo = document.getElementById('campoTopo');
-  const cEmail = document.getElementById('cEmail');
-  const cWhats = document.getElementById('cWhats');
-  const micro = document.getElementById('microTopo');
-  if (!campo || !cEmail || !cWhats) return;
-
-  function canal(qual) {
-    const email = qual === 'email';
-    cEmail.classList.toggle('on', email);
-    cWhats.classList.toggle('on', !email);
-    cEmail.setAttribute('aria-pressed', email ? 'true' : 'false');
-    cWhats.setAttribute('aria-pressed', email ? 'false' : 'true');
-    campo.type = email ? 'email' : 'tel';
-    campo.placeholder = email ? 'Seu melhor e-mail' : 'WhatsApp com DDD';
-    campo.value = '';
-    campo.focus();
-  }
-  cEmail.addEventListener('click', function () { canal('email'); });
-  cWhats.addEventListener('click', function () { canal('whats'); });
-
-  const form = document.getElementById('formTopo');
-  if (!form) return;
-  form.addEventListener('submit', function (e) {
-    e.preventDefault();
-    const v = campo.value.trim();
-    if (!v) {
-      micro.classList.remove('ok');
-      micro.style.color = '#DC2626';
-      micro.textContent = 'Digite seu ' + (campo.type === 'email' ? 'e-mail' : 'WhatsApp com DDD') + ' para assinar.';
-      campo.focus();
-      return;
+function initCopiarPix() {
+  document.addEventListener('click', function (e) {
+    const btn = e.target && e.target.closest ? e.target.closest('[data-pix]') : null;
+    if (!btn) return;
+    const chave = btn.getAttribute('data-pix');
+    if (!chave) return;
+    if (!btn.getAttribute('data-rotulo')) btn.setAttribute('data-rotulo', btn.textContent);
+    const rotulo = btn.getAttribute('data-rotulo');
+    const feito = function () {
+      btn.textContent = 'Chave copiada!';
+      setTimeout(function () { btn.textContent = rotulo; }, 2500);
+    };
+    const reserva = function () {
+      const ta = document.createElement('textarea');
+      ta.value = chave;
+      ta.setAttribute('readonly', '');
+      ta.style.position = 'fixed';
+      ta.style.opacity = '0';
+      document.body.appendChild(ta);
+      ta.select();
+      let ok = false;
+      try { ok = document.execCommand('copy'); } catch (err) { ok = false; }
+      document.body.removeChild(ta);
+      if (ok) feito();
+    };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(chave).then(feito, reserva);
+    } else {
+      reserva();
     }
-    micro.classList.add('ok');
-    micro.style.color = '';
-    micro.textContent = 'Pronto! Vamos te avisar das oportunidades abertas.';
-    campo.value = '';
   });
 }
 
@@ -656,18 +647,6 @@ function initScrollAnimations() {
     });
   }, { threshold: 0.12 });
   targets.forEach(function (el) { obs.observe(el); });
-}
-
-function initPremiumLink() {
-  const el = document.getElementById('premiumSubscribeLink');
-  const user = CONFIG.BUTTONDOWN_USERNAME;
-  if (el && user && user !== 'SEU_USUARIO_BUTTONDOWN') {
-    el.href = 'https://buttondown.com/' + user;
-  }
-  const form = document.getElementById('newsletterForm');
-  if (form && user && user !== 'SEU_USUARIO_BUTTONDOWN') {
-    form.action = 'https://buttondown.com/api/emails/embed-subscribe/' + user;
-  }
 }
 
 
