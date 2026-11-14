@@ -1,6 +1,823 @@
 {
-  "generated_at": "2026-11-12T13:09:33-03:00",
+  "generated_at": "2026-11-13T19:50:19-03:00",
   "opportunities": [
+    {
+      "id": "educacao-senar-pe-cursos-tecnicos-2027",
+      "category": "educacao",
+      "title": "Senar-PE abre 80 vagas em cursos técnicos gratuitos para 2027",
+      "short_description": "O Senar-PE está com inscrições até 24/11/2026 para 80 vagas em cursos técnicos gratuitos da Rede e-Tec Brasil, com ingresso no primeiro semestre de 2027: Zootecnia em Bezerros (25 vagas), Segurança do Trabalho no Agro em Belém do São Francisco (30) e Fruticultura em Petrolina (25). As formações combinam atividades a distância com pelo menos 20% de aulas presenciais obrigatórias. Podem se inscrever pessoas com Ensino Médio completo, com prioridade para produtores rurais e trabalhadores do campo. Inscrições gratuitas pelo portal Senar e-Tec.",
+      "deadline": "24/11/2026",
+      "deadline_date": "2026-11-24",
+      "official_link": "https://etec.senar.org.br/processo-seletivo",
+      "source_name": "Senar - Rede e-Tec Brasil, processo seletivo 2027/1",
+      "source_type": "primary",
+      "location": "Pernambuco",
+      "country": "Brasil",
+      "state": "PE",
+      "city": null,
+      "is_free": true,
+      "tags": [
+        "educacao",
+        "tecnico",
+        "gratuito",
+        "agro"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-13",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "SENAR",
+      "social_subtitle": "80 vagas gratuitas · PE",
+      "kw": [
+        "curso",
+        "vaga",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Técnico"
+      ],
+      "custo": [
+        "Gratuito"
+      ],
+      "first_seen_date": "2026-11-13",
+      "last_seen_date": "2026-11-13",
+      "created_at": "2026-11-13T19:50:19-03:00",
+      "updated_at": "2026-11-13T19:50:19-03:00",
+      "verified_at": "2026-11-13T19:50:19-03:00"
+    },
+    {
+      "id": "educacao-senai-sp-vestibular-graduacao-2027",
+      "category": "educacao",
+      "title": "Senai-SP abre vestibular 2027 para cursos de graduação",
+      "short_description": "O Senai-SP está com inscrições até 30/11/2026, às 21h, no vestibular para cursos superiores de graduação com ingresso no primeiro semestre de 2027, nas áreas de tecnologia da informação, automação, engenharia, gestão industrial e alimentos. A seleção pode ser feita por prova digital presencial (20 questões e redação) ou pelo aproveitamento das notas do Enem desde 2016. Diferentemente dos cursos técnicos gratuitos, as graduações são pagas: taxa de inscrição de R$ 60,00 mais mensalidade.",
+      "deadline": "30/11/2026",
+      "deadline_date": "2026-11-30",
+      "official_link": "https://www.sp.senai.br/processoseletivo",
+      "source_name": "Senai-SP - Processo Seletivo de Cursos Superiores 2027",
+      "source_type": "primary",
+      "location": "São Paulo",
+      "country": "Brasil",
+      "state": "SP",
+      "city": null,
+      "is_free": false,
+      "tags": [
+        "educacao",
+        "vestibular",
+        "graduacao"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-13",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "SENAI",
+      "social_subtitle": "Vestibular 2027 · Graduação",
+      "kw": [
+        "curso",
+        "vaga",
+        "inscricoes",
+        "vestibular"
+      ],
+      "nivel": [
+        "Graduação"
+      ],
+      "custo": [
+        "Pago"
+      ],
+      "first_seen_date": "2026-11-13",
+      "last_seen_date": "2026-11-13",
+      "created_at": "2026-11-13T19:50:19-03:00",
+      "updated_at": "2026-11-13T19:50:19-03:00",
+      "verified_at": "2026-11-13T19:50:19-03:00"
+    },
+    {
+      "id": "trabalho-quedas-do-iguacu-pr-concurso-2026",
+      "category": "trabalho",
+      "title": "Quedas do Iguaçu (PR) abre concurso com 70 vagas para Professor",
+      "short_description": "A Prefeitura de Quedas do Iguaçu (PR) está com inscrições abertas até 25/11/2026 no concurso público com vagas imediatas e cadastro de reserva em cargos de nível médio, técnico e superior. São 70 vagas para Professor, 40 para Professor de Educação Infantil, 12 para Professor de Educação Física, 8 para Psicólogo, 4 para Assistente Social, além de Técnico em Enfermagem, Enfermeiro, Médico Ginecologista e Obstetra, Fonoaudiólogo e Terapeuta Ocupacional. Salários de R$ 1.684,22 a R$ 11.998,88, taxas de R$ 100,00 a R$ 120,00 e prova em 13/12/2026. Inscrições pela Unioeste.",
+      "deadline": "25/11/2026",
+      "deadline_date": "2026-11-25",
+      "official_link": "https://concursos.unioeste.br/concursos/publicacoes/PREFEITURA+MUNICIPAL+DE+QUEDAS+DO+IGUA%C3%87U/175",
+      "source_name": "Unioeste - concurso da Prefeitura de Quedas do Iguaçu/PR",
+      "source_type": "primary",
+      "location": "Quedas do Iguaçu, PR",
+      "country": "Brasil",
+      "state": "PR",
+      "city": "Quedas do Iguaçu",
+      "is_free": false,
+      "tags": [
+        "trabalho",
+        "concurso",
+        "municipal",
+        "educacao"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-13",
+      "social_label": "TRABALHO",
+      "social_keyword": "QUEDAS DO IGUAÇU",
+      "social_subtitle": "70 vagas de Professor · PR",
+      "kw": [
+        "vaga",
+        "inscricoes",
+        "concurso",
+        "professor"
+      ],
+      "tipo": [
+        "Concurso público"
+      ],
+      "first_seen_date": "2026-11-13",
+      "last_seen_date": "2026-11-13",
+      "created_at": "2026-11-13T19:50:19-03:00",
+      "updated_at": "2026-11-13T19:50:19-03:00",
+      "verified_at": "2026-11-13T19:50:19-03:00"
+    },
+    {
+      "id": "trabalho-praia-grande-sp-concurso-2026",
+      "category": "trabalho",
+      "title": "Praia Grande (SP) abre concurso para 23 vagas de professores",
+      "short_description": "A Prefeitura de Praia Grande (SP) abriu o Concurso Público 003/2026 para 23 vagas de nível superior na Educação, com inscrições de 12/11 a 10/12/2026 pelo IBAM. São 10 vagas para Professor Adjunto I (Educação Infantil e anos iniciais, R$ 4.974,64) e 13 para Professor III em Ciências Físicas e Biológicas, Educação Especial (DI), Educação Física, Geografia, História, Educação Artística, Inglês, Língua Portuguesa e Matemática (R$ 6.573,49), todas com jornada de 30 horas semanais. Taxa de R$ 96,00 e isenção de 12 a 18/11.",
+      "deadline": "10/12/2026",
+      "deadline_date": "2026-12-10",
+      "official_link": "https://www.ibamsp-concursos.org.br/informacoes/212/",
+      "source_name": "IBAM-SP - Concurso Público 003/2026 da Prefeitura de Praia Grande/SP",
+      "source_type": "primary",
+      "location": "Praia Grande, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Praia Grande",
+      "is_free": false,
+      "tags": [
+        "trabalho",
+        "concurso",
+        "municipal",
+        "educacao"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-13",
+      "social_label": "TRABALHO",
+      "social_keyword": "PRAIA GRANDE",
+      "social_subtitle": "23 vagas de professor · SP",
+      "kw": [
+        "vaga",
+        "inscricoes",
+        "concurso",
+        "professor"
+      ],
+      "tipo": [
+        "Concurso público"
+      ],
+      "first_seen_date": "2026-11-13",
+      "last_seen_date": "2026-11-13",
+      "created_at": "2026-11-13T19:50:19-03:00",
+      "updated_at": "2026-11-13T19:50:19-03:00",
+      "verified_at": "2026-11-13T19:50:19-03:00"
+    },
+    {
+      "id": "cultura-pelotas-pnab-ciclo-2-2026",
+      "category": "cultura",
+      "title": "Pelotas (RS) prorroga editais da PNAB com R$ 253 mil para cultura",
+      "short_description": "A Prefeitura de Pelotas (RS) prorrogou até 16/11/2026 as inscrições de dois editais da Política Nacional Aldir Blanc (PNAB) – Ciclo 2. O Edital 012/2026 apoia seis projetos de Desenvolvimento de Roteiros Audiovisuais, com R$ 180 mil no total e até R$ 30 mil por projeto. O Edital 013/2026 concede sete prêmios de R$ 10.457,14 a representantes de comunidades quilombolas (5) e povos indígenas (2), somando R$ 73,2 mil. As inscrições são feitas pela plataforma Aqui Tem Cultura.",
+      "deadline": "16/11/2026",
+      "deadline_date": "2026-11-16",
+      "official_link": "https://www.pelotas.com.br/noticia/prefeitura-prorroga-prazo-de-inscricoes-de-dois-editais-da-pnab-pelotas",
+      "source_name": "Prefeitura de Pelotas/RS - Secretaria de Cultura, editais PNAB Ciclo 2",
+      "source_type": "primary",
+      "location": "Pelotas, RS",
+      "country": "Brasil",
+      "state": "RS",
+      "city": "Pelotas",
+      "is_free": true,
+      "tags": [
+        "cultura",
+        "edital",
+        "pnab",
+        "audiovisual"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-13",
+      "social_label": "CULTURA",
+      "social_keyword": "PNAB",
+      "social_subtitle": "2 editais · R$ 253 mil · Pelotas, RS",
+      "kw": [
+        "edital",
+        "inscricoes",
+        "cultura"
+      ],
+      "first_seen_date": "2026-11-13",
+      "last_seen_date": "2026-11-13",
+      "created_at": "2026-11-13T19:50:19-03:00",
+      "updated_at": "2026-11-13T19:50:19-03:00",
+      "verified_at": "2026-11-13T19:50:19-03:00"
+    },
+    {
+      "id": "educacao-mma-cursos-ambientais-2026",
+      "category": "educacao",
+      "title": "Ministério do Meio Ambiente abre cursos gratuitos online de gestão ambiental",
+      "short_description": "O Ministério do Meio Ambiente e Mudança do Clima (MMA) está com inscrições abertas em cinco cursos gratuitos e totalmente online na plataforma Educamb: Gestão Pública Inovadora para Cidadania e Sustentabilidade (40h), A3P – Agenda Ambiental na Administração Pública (20h), A3P – Ressoa (10h), Cadastro Nacional de Unidades de Conservação (30h) e Aplicação do Sistema de Análise e Monitoramento de Gestão – SAMGe (40h). As inscrições vão até 14 ou 15/12/2026, conforme o curso.",
+      "deadline": "15/12/2026",
+      "deadline_date": "2026-12-15",
+      "official_link": "https://educamb.mma.gov.br/",
+      "source_name": "Ministério do Meio Ambiente e Mudança do Clima - plataforma Educamb",
+      "source_type": "primary",
+      "location": "Online",
+      "country": "Brasil",
+      "state": null,
+      "city": null,
+      "is_free": true,
+      "tags": [
+        "educacao",
+        "curso",
+        "gratuito",
+        "meio ambiente"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-13",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "MMA",
+      "social_subtitle": "5 cursos gratuitos online",
+      "kw": [
+        "curso",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Curso livre"
+      ],
+      "custo": [
+        "Gratuito"
+      ],
+      "first_seen_date": "2026-11-13",
+      "last_seen_date": "2026-11-13",
+      "created_at": "2026-11-13T19:50:19-03:00",
+      "updated_at": "2026-11-13T19:50:19-03:00",
+      "verified_at": "2026-11-13T19:50:19-03:00"
+    },
+    {
+      "id": "esportes-marilia-22-modalidades-2026",
+      "category": "esportes",
+      "title": "Marília (SP) abre vagas gratuitas em 22 modalidades esportivas",
+      "short_description": "A Prefeitura de Marília (SP), por meio da Secretaria de Esportes, Lazer e Juventude, abriu vagas remanescentes no Projeto Social Esportivo, com 22 modalidades gratuitas para crianças, jovens, adultos e idosos: alongamento, atletismo, badminton, basquete, capoeira, circuito cross, dança, futebol, futsal, ginástica funcional, handebol, jiu-jitsu, judô, karatê, natação, passinhos de flashback, skate, taekwondo, tênis de mesa, voleibol, voleibol adaptado e xadrez. As inscrições são feitas por WhatsApp ou presencialmente no Ginásio Neusa Galetti e no Cemesc Zona Sul; a grade completa está em esporte.marilia.sp.gov.br.",
+      "deadline": null,
+      "deadline_date": null,
+      "official_link": "http://www.marilia.sp.gov.br/portal/noticias/0/3/17752/secretaria-de-esportes-abre-vagas-gratuitas-em-22-modalidades-para-transformar-a-rotina-dos-marilienses",
+      "source_name": "Prefeitura de Marília/SP - Secretaria de Esportes, Lazer e Juventude",
+      "source_type": "primary",
+      "location": "Marília, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Marília",
+      "is_free": true,
+      "tags": [
+        "esportes",
+        "projeto social",
+        "gratuito"
+      ],
+      "status": "continuous",
+      "reliability_level": "A",
+      "published_date": "2026-11-13",
+      "social_label": "ESPORTES",
+      "social_keyword": "MARÍLIA",
+      "social_subtitle": "22 modalidades gratuitas · SP",
+      "kw": [
+        "vaga",
+        "inscricoes",
+        "gratuito"
+      ],
+      "first_seen_date": "2026-11-13",
+      "last_seen_date": "2026-11-13",
+      "created_at": "2026-11-13T19:50:19-03:00",
+      "updated_at": "2026-11-13T19:50:19-03:00",
+      "verified_at": "2026-11-13T19:50:19-03:00"
+    },
+    {
+      "id": "educacao-mec-ia-pratica-docente",
+      "category": "educacao",
+      "title": "MEC oferece curso gratuito de IA na prática docente para professores",
+      "short_description": "O Ministério da Educação (MEC) disponibiliza na plataforma Avamec o curso gratuito IA na Prática Docente: Uso Ético, Criativo e Pedagógico, para o Ensino Fundamental, com 80 horas e certificação. A formação é autoinstrucional, 100% a distância, e aborda fundamentos de IA, letramento digital, vieses e o uso de IA generativa no planejamento de aulas e materiais. É voltada a professores dos anos finais do Ensino Fundamental, coordenadores, estudantes de licenciatura e demais profissionais da educação, sem limite de vagas nem data única de início.",
+      "deadline": null,
+      "deadline_date": null,
+      "official_link": "https://avamec.mec.gov.br/",
+      "source_name": "Ministério da Educação (MEC) - plataforma Avamec",
+      "source_type": "primary",
+      "location": "Online",
+      "country": "Brasil",
+      "state": null,
+      "city": null,
+      "is_free": true,
+      "tags": [
+        "educacao",
+        "curso",
+        "gratuito",
+        "inteligencia artificial"
+      ],
+      "status": "continuous",
+      "reliability_level": "A",
+      "published_date": "2026-11-13",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "MEC",
+      "social_subtitle": "Curso gratuito de 80h · IA na docência",
+      "kw": [
+        "curso",
+        "gratuito",
+        "formacao"
+      ],
+      "nivel": [
+        "Curso livre"
+      ],
+      "custo": [
+        "Gratuito"
+      ],
+      "first_seen_date": "2026-11-13",
+      "last_seen_date": "2026-11-13",
+      "created_at": "2026-11-13T19:50:19-03:00",
+      "updated_at": "2026-11-13T19:50:19-03:00",
+      "verified_at": "2026-11-13T19:50:19-03:00"
+    },
+    {
+      "id": "trabalho-leme-sp-concurso-2026",
+      "category": "trabalho",
+      "title": "Leme (SP) abre concurso com salários de até R$ 13.359",
+      "short_description": "A Prefeitura de Leme (SP) está com inscrições abertas até 30/11/2026 no Concurso Público 02/2026, que oferece vagas e cadastro de reserva em cargos de nível alfabetizado, fundamental, médio, técnico e superior. Entre as oportunidades estão Técnico em Enfermagem, Técnico em Segurança do Trabalho, Topógrafo, Advogado do SUAS, Analista de Tecnologia da Informação, Enfermeiro, Engenheiro Agrimensor, Fiscal de Rendas e médicos de diversas especialidades. Salários de R$ 2.065,11 a R$ 13.359,44, taxas de R$ 32,00 a R$ 80,00 e provas previstas para 20/12/2026. Inscrições pela banca INDEPAC.",
+      "deadline": "30/11/2026",
+      "deadline_date": "2026-11-30",
+      "official_link": "https://indepac.selecao.net.br/informacoes/121/",
+      "source_name": "INDEPAC - Concurso Público 02/2026 da Prefeitura de Leme/SP",
+      "source_type": "primary",
+      "location": "Leme, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Leme",
+      "is_free": false,
+      "tags": [
+        "trabalho",
+        "concurso",
+        "municipal"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-13",
+      "social_label": "TRABALHO",
+      "social_keyword": "LEME",
+      "social_subtitle": "Concurso com salários de até R$ 13 mil · SP",
+      "kw": [
+        "vaga",
+        "inscricoes",
+        "concurso"
+      ],
+      "tipo": [
+        "Concurso público"
+      ],
+      "first_seen_date": "2026-11-13",
+      "last_seen_date": "2026-11-13",
+      "created_at": "2026-11-13T19:50:19-03:00",
+      "updated_at": "2026-11-13T19:50:19-03:00",
+      "verified_at": "2026-11-13T19:50:19-03:00"
+    },
+    {
+      "id": "trabalho-lages-sc-saude-processo-seletivo-2026",
+      "category": "trabalho",
+      "title": "Lages (SC) abre processo seletivo na Saúde com salários de até R$ 5.883",
+      "short_description": "A Prefeitura de Lages (SC) abriu o Processo Seletivo 03/2026 para vagas imediatas e cadastro de reserva na Secretaria Municipal de Saúde, com inscrições até 16/11/2026 pelo IBAM. As oportunidades incluem Educador Físico (2 vagas), Enfermeiro (2), Enfermeiro Especialista em Saúde Mental (1), Nutricionista (2), Terapeuta Ocupacional (1), Técnico em Enfermagem (2), Técnico em Enfermagem Socorrista (4) e Motorista Socorrista, além de cadastro de reserva em cargos de nível superior. Salários de R$ 1.877,64 a R$ 5.883,29, taxas de R$ 90,00 a R$ 120,00 e prova em 06/12/2026.",
+      "deadline": "16/11/2026",
+      "deadline_date": "2026-11-16",
+      "official_link": "https://www.ibam-concursos.org.br/?status=1",
+      "source_name": "IBAM - Processo Seletivo 03/2026 da Prefeitura de Lages/SC",
+      "source_type": "primary",
+      "location": "Lages, SC",
+      "country": "Brasil",
+      "state": "SC",
+      "city": "Lages",
+      "is_free": false,
+      "tags": [
+        "trabalho",
+        "processo seletivo",
+        "municipal",
+        "saude"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-13",
+      "social_label": "TRABALHO",
+      "social_keyword": "LAGES",
+      "social_subtitle": "Saúde · até R$ 5.883 · SC",
+      "kw": [
+        "vaga",
+        "inscricoes",
+        "saude"
+      ],
+      "tipo": [
+        "Processo seletivo"
+      ],
+      "first_seen_date": "2026-11-13",
+      "last_seen_date": "2026-11-13",
+      "created_at": "2026-11-13T19:50:19-03:00",
+      "updated_at": "2026-11-13T19:50:19-03:00",
+      "verified_at": "2026-11-13T19:50:19-03:00"
+    },
+    {
+      "id": "educacao-ifsertaopb-cursos-tecnicos-2027",
+      "category": "educacao",
+      "title": "IFSertãoPB abre 160 vagas em cursos técnicos gratuitos integrados ao Ensino Médio",
+      "short_description": "O IFSertãoPB (Campus Cajazeiras) está com inscrições até 15/11/2026 para 160 vagas em cursos técnicos gratuitos integrados ao Ensino Médio, com ingresso em 2027: Técnico em Edificações, Eletromecânica e Informática (40 vagas cada, turno da manhã) e Mecânica (40 vagas, tarde). A seleção é por prova objetiva em 13/12/2026, com taxa de R$ 50,00 (isenção já encerrada). Inscrições pela plataforma da Funcern, conforme o Edital 150/2026.",
+      "deadline": "15/11/2026",
+      "deadline_date": "2026-11-15",
+      "official_link": "https://www.funcern.br/concursos/ifsertaopb-ingresso-2027-1/",
+      "source_name": "Funcern - Edital 150/2026 do IFSertãoPB, Campus Cajazeiras",
+      "source_type": "primary",
+      "location": "Cajazeiras, PB",
+      "country": "Brasil",
+      "state": "PB",
+      "city": "Cajazeiras",
+      "is_free": false,
+      "tags": [
+        "educacao",
+        "tecnico",
+        "gratuito",
+        "ensino medio"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-13",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "IFSERTÃOPB",
+      "social_subtitle": "160 vagas técnicas · PB",
+      "kw": [
+        "curso",
+        "vaga",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Técnico"
+      ],
+      "custo": [
+        "Gratuito (taxa de R$ 50)"
+      ],
+      "first_seen_date": "2026-11-13",
+      "last_seen_date": "2026-11-13",
+      "created_at": "2026-11-13T19:50:19-03:00",
+      "updated_at": "2026-11-13T19:50:19-03:00",
+      "verified_at": "2026-11-13T19:50:19-03:00"
+    },
+    {
+      "id": "educacao-ifsp-sao-carlos-educacao-ciencia-tecnologia-2027",
+      "category": "educacao",
+      "title": "IFSP São Carlos abre 30 vagas em especialização gratuita em Educação, Ciência e Tecnologia",
+      "short_description": "O IFSP (campus São Carlos) está com inscrições até 22/11/2026 para a especialização gratuita e presencial em Educação, Ciência, Tecnologia e Sociedade, com 30 vagas e ingresso no primeiro semestre de 2027. As aulas serão às terças e sextas-feiras, à noite, com 420 horas de carga horária (60 delas para o TCC). Podem se inscrever graduados em qualquer área reconhecida pelo MEC; a seleção inclui carta de interesse.",
+      "deadline": "22/11/2026",
+      "deadline_date": "2026-11-22",
+      "official_link": "https://scl.ifsp.edu.br/",
+      "source_name": "IFSP - campus São Carlos, especialização 2027",
+      "source_type": "primary",
+      "location": "São Carlos, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "São Carlos",
+      "is_free": true,
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "especializacao",
+        "gratuito"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-13",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "IFSP",
+      "social_subtitle": "30 vagas gratuitas · São Carlos, SP",
+      "kw": [
+        "curso",
+        "vaga",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "custo": [
+        "Gratuito"
+      ],
+      "first_seen_date": "2026-11-13",
+      "last_seen_date": "2026-11-13",
+      "created_at": "2026-11-13T19:50:19-03:00",
+      "updated_at": "2026-11-13T19:50:19-03:00",
+      "verified_at": "2026-11-13T19:50:19-03:00"
+    },
+    {
+      "id": "educacao-ifsp-pirituba-gestao-projetos-2027",
+      "category": "educacao",
+      "title": "IFSP Pirituba abre 40 vagas em especialização gratuita em Gestão de Projetos",
+      "short_description": "O IFSP (campus São Paulo Pirituba) está com inscrições até 29/11/2026 para a especialização gratuita em Gestão de Projetos, com 40 vagas presenciais e aulas noturnas. Podem participar graduados de qualquer área reconhecida pelo MEC; a seleção usa o Teste ANPAD (resultados válidos por dois anos), e o curso é gratuito, embora o teste possa ter taxa própria cobrada pela ANPAD.",
+      "deadline": "29/11/2026",
+      "deadline_date": "2026-11-29",
+      "official_link": "https://ptb.ifsp.edu.br/index.php/publicacoes-institucionais/item/2175-inscricoes-abertas-ate-29-11-pos-graduacao-especializacao-em-gestao-de-projetos",
+      "source_name": "IFSP - campus São Paulo Pirituba, especialização 2027",
+      "source_type": "primary",
+      "location": "São Paulo, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "São Paulo",
+      "is_free": true,
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "especializacao",
+        "gratuito",
+        "gestao"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-13",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "IFSP",
+      "social_subtitle": "40 vagas gratuitas · Pirituba",
+      "kw": [
+        "curso",
+        "vaga",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "custo": [
+        "Gratuito"
+      ],
+      "first_seen_date": "2026-11-13",
+      "last_seen_date": "2026-11-13",
+      "created_at": "2026-11-13T19:50:19-03:00",
+      "updated_at": "2026-11-13T19:50:19-03:00",
+      "verified_at": "2026-11-13T19:50:19-03:00"
+    },
+    {
+      "id": "educacao-ifsp-braganca-gestao-ti-2027",
+      "category": "educacao",
+      "title": "IFSP Bragança Paulista oferece 20 vagas em especialização gratuita de Gestão de TI",
+      "short_description": "O IFSP (campus Bragança Paulista) recebe inscrições de 26/10 a 30/11/2026 para a especialização gratuita em Gestão Estratégica de Tecnologia da Informação, com 20 vagas presenciais no período noturno (segundas e quartas, das 19h às 22h35) e 420 horas de carga horária. A seleção é por análise de currículo, sem taxa de inscrição nem mensalidade.",
+      "deadline": "30/11/2026",
+      "deadline_date": "2026-11-30",
+      "official_link": "https://bra.ifsp.edu.br/ultimas-noticias/6296-pos-gratuita-gestao-ti-2sem2027-1",
+      "source_name": "IFSP - campus Bragança Paulista, especialização 2027",
+      "source_type": "primary",
+      "location": "Bragança Paulista, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Bragança Paulista",
+      "is_free": true,
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "especializacao",
+        "gratuito",
+        "tecnologia"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-13",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "IFSP",
+      "social_subtitle": "20 vagas gratuitas · Bragança Paulista",
+      "kw": [
+        "curso",
+        "vaga",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "custo": [
+        "Gratuito"
+      ],
+      "first_seen_date": "2026-11-13",
+      "last_seen_date": "2026-11-13",
+      "created_at": "2026-11-13T19:50:19-03:00",
+      "updated_at": "2026-11-13T19:50:19-03:00",
+      "verified_at": "2026-11-13T19:50:19-03:00"
+    },
+    {
+      "id": "educacao-ifsp-birigui-ciencias-matematica-2027",
+      "category": "educacao",
+      "title": "IFSP Birigui abre 30 vagas em especialização gratuita de Ciências e Matemática",
+      "short_description": "O IFSP (campus Birigui) recebe inscrições até 23/11/2026 para a especialização gratuita em Ensino de Ciências da Natureza e Matemática, com 30 vagas e ingresso no primeiro semestre de 2027. O curso é ofertado na modalidade EaD, com 25% da carga horária presencial em encontros quinzenais aos sábados. Podem se candidatar graduados que atendam aos requisitos do edital; a seleção é por análise curricular e não há taxa de inscrição.",
+      "deadline": "23/11/2026",
+      "deadline_date": "2026-11-23",
+      "official_link": "https://portalpadrao.ifsp.edu.br/bri/index.php/informativos/4081-processo-seletivo-da-pos-graduacao-lato-sensu-especializacao-em-ensino-de-ciencias-da-natureza-e-matematica-2027",
+      "source_name": "IFSP - campus Birigui, especialização 2027",
+      "source_type": "primary",
+      "location": "Birigui, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Birigui",
+      "is_free": true,
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "especializacao",
+        "gratuito"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-13",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "IFSP",
+      "social_subtitle": "30 vagas gratuitas · Birigui, SP",
+      "kw": [
+        "curso",
+        "vaga",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "custo": [
+        "Gratuito"
+      ],
+      "first_seen_date": "2026-11-13",
+      "last_seen_date": "2026-11-13",
+      "created_at": "2026-11-13T19:50:19-03:00",
+      "updated_at": "2026-11-13T19:50:19-03:00",
+      "verified_at": "2026-11-13T19:50:19-03:00"
+    },
+    {
+      "id": "educacao-ifpb-gestao-publica-ead-2027",
+      "category": "educacao",
+      "title": "IFPB abre 150 vagas em especialização gratuita EaD em Gestão Pública",
+      "short_description": "O IFPB (Campus João Pessoa) recebe inscrições de 09 a 16/11/2026 para a especialização gratuita em Gestão Pública na modalidade a distância, pelo programa Universidade Aberta do Brasil (UAB), com 150 vagas. O curso tem encontros presenciais obrigatórios nos polos de Araruna, Itaporanga, Lucena, Mari e Taperoá, e o início está previsto para dezembro de 2026. Podem se inscrever graduados em qualquer área reconhecida pelo MEC.",
+      "deadline": "16/11/2026",
+      "deadline_date": "2026-11-16",
+      "official_link": "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/479/",
+      "source_name": "IFPB - Edital 19/2026, Especialização em Gestão Pública EaD",
+      "source_type": "primary",
+      "location": "João Pessoa, PB",
+      "country": "Brasil",
+      "state": "PB",
+      "city": "João Pessoa",
+      "is_free": true,
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "especializacao",
+        "gratuito",
+        "ead"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-13",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "IFPB",
+      "social_subtitle": "150 vagas gratuitas · EaD",
+      "kw": [
+        "curso",
+        "vaga",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "custo": [
+        "Gratuito"
+      ],
+      "first_seen_date": "2026-11-13",
+      "last_seen_date": "2026-11-13",
+      "created_at": "2026-11-13T19:50:19-03:00",
+      "updated_at": "2026-11-13T19:50:19-03:00",
+      "verified_at": "2026-11-13T19:50:19-03:00"
+    },
+    {
+      "id": "educacao-ifap-profuncionario-vagas-remanescentes-2026",
+      "category": "educacao",
+      "title": "IFAP prorroga inscrições para 61 vagas em cursos técnicos EaD gratuitos",
+      "short_description": "O IFAP prorrogou até 15/11/2026 as inscrições da chamada pública do Profuncionário (Retificação nº 2 do Edital 16/2026), com 61 vagas remanescentes em cursos técnicos gratuitos EaD para profissionais da educação básica pública. As vagas estão em Macapá (Infraestrutura Escolar e Multimeios Didáticos), Santana (Multimeios Didáticos e Secretaria Escolar) e Porto Grande (Secretaria Escolar), com atividades semipresenciais obrigatórias. Não há prova: a classificação segue a ordem de inscrição. A seleção é restrita a servidores da educação.",
+      "deadline": "15/11/2026",
+      "deadline_date": "2026-11-15",
+      "official_link": "https://concursopublico.ifap.edu.br/concurso/",
+      "source_name": "IFAP - Edital 16/2026 (Profuncionário), Retificação nº 2",
+      "source_type": "primary",
+      "location": "Macapá, AP",
+      "country": "Brasil",
+      "state": "AP",
+      "city": "Macapá",
+      "is_free": true,
+      "tags": [
+        "educacao",
+        "tecnico",
+        "gratuito",
+        "ead"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-13",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "IFAP",
+      "social_subtitle": "61 vagas gratuitas EaD · AP",
+      "kw": [
+        "curso",
+        "vaga",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Técnico"
+      ],
+      "custo": [
+        "Gratuito"
+      ],
+      "first_seen_date": "2026-11-13",
+      "last_seen_date": "2026-11-13",
+      "created_at": "2026-11-13T19:50:19-03:00",
+      "updated_at": "2026-11-13T19:50:19-03:00",
+      "verified_at": "2026-11-13T19:50:19-03:00"
+    },
+    {
+      "id": "trabalho-estiva-gerbi-sp-processo-seletivo-2026",
+      "category": "trabalho",
+      "title": "Estiva Gerbi (SP) abre processo seletivo com vagas na Educação",
+      "short_description": "A Prefeitura de Estiva Gerbi (SP) abriu o Processo Seletivo 01/2026 para vagas imediatas e cadastro de reserva na Educação, com inscrições de 11/11 a 07/12/2026 pela banca Avança SP. Há oportunidades para Auxiliar de Desenvolvimento Infantil (R$ 3.890,27, 44h), Cuidador de Creche (R$ 1.621,00, 44h) e Professor de Educação Básica I e II em Artes, Ciências, Educação Física, Geografia, História, Informática, Inglês, Português e Matemática (R$ 15,90 a R$ 17,92 por hora/aula, 30h). Taxas de R$ 87,00 a R$ 99,00, isenção até 16/11 e prova prevista para 10/01/2027.",
+      "deadline": "07/12/2026",
+      "deadline_date": "2026-12-07",
+      "official_link": "https://www.avancasp.org.br/informacoes/291/",
+      "source_name": "Avança SP - Processo Seletivo 01/2026 da Prefeitura de Estiva Gerbi/SP",
+      "source_type": "primary",
+      "location": "Estiva Gerbi, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Estiva Gerbi",
+      "is_free": false,
+      "tags": [
+        "trabalho",
+        "processo seletivo",
+        "municipal",
+        "educacao"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-13",
+      "social_label": "TRABALHO",
+      "social_keyword": "ESTIVA GERBI",
+      "social_subtitle": "Processo seletivo na Educação · SP",
+      "kw": [
+        "vaga",
+        "inscricoes",
+        "professor"
+      ],
+      "tipo": [
+        "Processo seletivo"
+      ],
+      "first_seen_date": "2026-11-13",
+      "last_seen_date": "2026-11-13",
+      "created_at": "2026-11-13T19:50:19-03:00",
+      "updated_at": "2026-11-13T19:50:19-03:00",
+      "verified_at": "2026-11-13T19:50:19-03:00"
+    },
+    {
+      "id": "trabalho-cubatao-sp-assistente-social-2026",
+      "category": "trabalho",
+      "title": "Cubatão (SP) abre concurso para Assistente Social",
+      "short_description": "A Prefeitura de Cubatão (SP) abriu o Concurso Público 05/2026 para Assistente Social, com cadastro de reserva e salário de R$ 5.565,00 para jornada de 30 horas semanais. As inscrições vão de 10/11 a 17/12/2026 pelo IBAM, com taxa de R$ 96,00 e pedidos de isenção em 11 e 12/11.",
+      "deadline": "17/12/2026",
+      "deadline_date": "2026-12-17",
+      "official_link": "https://www.ibamsp-concursos.org.br/informacoes/211/",
+      "source_name": "IBAM-SP - Concurso Público 05/2026 da Prefeitura de Cubatão/SP",
+      "source_type": "primary",
+      "location": "Cubatão, SP",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Cubatão",
+      "is_free": false,
+      "tags": [
+        "trabalho",
+        "concurso",
+        "municipal",
+        "assistencia social"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-13",
+      "social_label": "TRABALHO",
+      "social_keyword": "CUBATÃO",
+      "social_subtitle": "Assistente Social · R$ 5,5 mil",
+      "kw": [
+        "vaga",
+        "inscricoes",
+        "concurso"
+      ],
+      "tipo": [
+        "Concurso público"
+      ],
+      "first_seen_date": "2026-11-13",
+      "last_seen_date": "2026-11-13",
+      "created_at": "2026-11-13T19:50:19-03:00",
+      "updated_at": "2026-11-13T19:50:19-03:00",
+      "verified_at": "2026-11-13T19:50:19-03:00"
+    },
     {
       "id": "trabalho-suzano-sp-concurso-2026",
       "category": "trabalho",
@@ -35,7 +852,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-12",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-12T13:09:33-03:00",
       "updated_at": "2026-11-12T13:09:33-03:00",
       "verified_at": "2026-11-12T13:09:33-03:00"
@@ -79,7 +896,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-12",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-12T13:09:33-03:00",
       "updated_at": "2026-11-12T13:09:33-03:00",
       "verified_at": "2026-11-12T13:09:33-03:00"
@@ -123,7 +940,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-12",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-12T13:09:33-03:00",
       "updated_at": "2026-11-12T13:09:33-03:00",
       "verified_at": "2026-11-12T13:09:33-03:00"
@@ -167,7 +984,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-12",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-12T13:09:33-03:00",
       "updated_at": "2026-11-12T13:09:33-03:00",
       "verified_at": "2026-11-12T13:09:33-03:00"
@@ -212,7 +1029,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-12",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-12T13:09:33-03:00",
       "updated_at": "2026-11-12T13:09:33-03:00",
       "verified_at": "2026-11-12T13:09:33-03:00"
@@ -256,7 +1073,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-12",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-12T13:09:33-03:00",
       "updated_at": "2026-11-12T13:09:33-03:00",
       "verified_at": "2026-11-12T13:09:33-03:00"
@@ -301,7 +1118,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -340,7 +1157,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -380,7 +1197,7 @@
         "Curso técnico"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -419,7 +1236,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -458,7 +1275,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -497,7 +1314,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -538,7 +1355,7 @@
         "Pós-graduação"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -577,7 +1394,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -616,7 +1433,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -657,7 +1474,7 @@
         "Processo seletivo"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-12T13:09:33-03:00",
       "updated_at": "2026-11-12T13:09:33-03:00",
       "verified_at": "2026-11-12T13:09:33-03:00"
@@ -698,7 +1515,7 @@
         "Estágio"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -738,7 +1555,7 @@
         "Graduação"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -777,7 +1594,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -816,7 +1633,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -858,7 +1675,7 @@
         "Jurídica"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -897,7 +1714,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -942,7 +1759,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -981,7 +1798,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -1025,7 +1842,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -1066,7 +1883,7 @@
         "Processo seletivo"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -1109,50 +1926,7 @@
         "Legislativa"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-12",
-      "created_at": "2026-11-06T00:56:48-03:00",
-      "updated_at": "2026-11-06T00:56:48-03:00",
-      "verified_at": "2026-11-06T00:56:48-03:00"
-    },
-    {
-      "id": "trabalho-camara-camocim-ce-11-vagas-2026",
-      "category": "trabalho",
-      "title": "Câmara de Camocim (CE) abre concurso com 11 vagas",
-      "short_description": "A Câmara Municipal de Camocim (CE) abriu concurso público com 11 vagas em cinco cargos de níveis fundamental, médio e superior, como recepcionista, agente administrativo, técnico legislativo e psicólogo, com salários de até R$ 3.800,00. Inscrições até 12/11/2026 pela banca Inbrasp.",
-      "deadline": "12/11/2026",
-      "deadline_date": "2026-11-12",
-      "official_link": "https://inbrasp.org/index.php?acao=ver&id=729&menu=concursos",
-      "source_name": "Câmara Municipal de Camocim - CE (banca: Inbrasp)",
-      "source_type": "primary",
-      "location": "Camocim, CE",
-      "country": "Brasil",
-      "state": "CE",
-      "city": "Camocim",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "municipal",
-        "legislativo"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-05",
-      "social_label": "TRABALHO",
-      "social_keyword": "CAMOCIM",
-      "social_subtitle": "11 vagas · CE",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ],
-      "area": [
-        "Legislativa"
-      ],
-      "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -1191,7 +1965,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -1223,7 +1997,7 @@
       "social_keyword": "LEM",
       "social_subtitle": "2.355 vagas · BA",
       "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-04T19:47:43-03:00",
       "updated_at": "2026-11-04T19:47:43-03:00",
       "verified_at": "2026-11-04T19:47:43-03:00",
@@ -1262,7 +2036,7 @@
       "social_keyword": "GROAÍRAS",
       "social_subtitle": "72 vagas · CE",
       "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-04T19:47:43-03:00",
       "updated_at": "2026-11-04T19:47:43-03:00",
       "verified_at": "2026-11-04T19:47:43-03:00",
@@ -1272,89 +2046,6 @@
       ],
       "tipo": [
         "Concurso público"
-      ]
-    },
-    {
-      "id": "trabalho-catu-ba-190-vagas-2026",
-      "category": "trabalho",
-      "title": "Catu prorroga concurso com 190 vagas para níveis médio e superior",
-      "short_description": "A Prefeitura de Catu (BA) prorrogou até 12/11/2026 as inscrições do concurso público com 190 vagas de níveis médio e superior, com salários de até R$ 4.690,16. O aviso de prorrogação e o edital estão publicados na página oficial de avisos da prefeitura.",
-      "deadline": "12/11/2026",
-      "deadline_date": "2026-11-12",
-      "official_link": "https://www.catu.ba.gov.br/avisos/",
-      "source_name": "Prefeitura de Catu - BA",
-      "source_type": "primary",
-      "location": "Catu, BA",
-      "country": "Brasil",
-      "state": "BA",
-      "city": "Catu",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "municipal"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-04",
-      "social_label": "TRABALHO",
-      "social_keyword": "CATU",
-      "social_subtitle": "190 vagas · BA",
-      "first_seen_date": "2026-11-04",
-      "last_seen_date": "2026-11-12",
-      "created_at": "2026-11-04T19:47:43-03:00",
-      "updated_at": "2026-11-04T19:47:43-03:00",
-      "verified_at": "2026-11-04T19:47:43-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ]
-    },
-    {
-      "id": "educacao-ufms-300-vagas-ads-ead",
-      "category": "educacao",
-      "title": "UFMS abre 300 vagas em graduação EaD gratuita de tecnologia",
-      "short_description": "O Vestibular UFMS 2027 oferece 300 vagas gratuitas na graduação EaD em Análise e Desenvolvimento de Sistemas, com 30 vagas por polo em dez cidades de Mato Grosso do Sul (Aquidauana, Campo Grande, Chapadão do Sul, Corumbá, Coxim, Naviraí, Nova Andradina, Paranaíba, Ponta Porã e Três Lagoas). Inscrições até 12/11/2026, taxa de R$ 100; prova objetiva e redação em 06/12/2026.",
-      "deadline": "12/11/2026",
-      "deadline_date": "2026-11-12",
-      "official_link": "https://ingresso.ufms.br/",
-      "source_name": "Universidade Federal de Mato Grosso do Sul (UFMS)",
-      "source_type": "primary",
-      "location": "Mato Grosso do Sul",
-      "country": "Brasil",
-      "state": "MS",
-      "city": null,
-      "is_free": false,
-      "tags": [
-        "educacao",
-        "vestibular",
-        "graduacao",
-        "tecnologia"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-03",
-      "social_label": "EDUCAÇÃO",
-      "social_keyword": "UFMS",
-      "social_subtitle": "300 vagas EaD gratuitas · MS",
-      "first_seen_date": "2026-11-03",
-      "last_seen_date": "2026-11-12",
-      "created_at": "2026-11-03T11:47:34-03:00",
-      "updated_at": "2026-11-03T11:47:34-03:00",
-      "verified_at": "2026-11-03T11:47:34-03:00",
-      "kw": [
-        "curso",
-        "vaga",
-        "inscricoes"
-      ],
-      "nivel": [
-        "Graduação"
-      ],
-      "areaEstudo": [
-        "Tecnologia"
       ]
     },
     {
@@ -1385,7 +2076,7 @@
       "social_keyword": "UERJ",
       "social_subtitle": "940 vagas gratuitas · RJ",
       "first_seen_date": "2026-11-03",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-03T11:47:34-03:00",
       "updated_at": "2026-11-03T11:47:34-03:00",
       "verified_at": "2026-11-03T11:47:34-03:00",
@@ -1427,7 +2118,7 @@
       "social_keyword": "CONQUISTA",
       "social_subtitle": "80 vagas gratuitas · BA",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -1472,7 +2163,7 @@
       "social_keyword": "USP",
       "social_subtitle": "1.610 vagas gratuitas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -1514,7 +2205,7 @@
       "social_keyword": "UFMS",
       "social_subtitle": "10 mil vagas online · MS",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -1559,7 +2250,7 @@
       "social_keyword": "TRT4",
       "social_subtitle": "Técnicos e analistas · RS",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -1601,7 +2292,7 @@
       "social_keyword": "TRF3",
       "social_subtitle": "11 vagas · R$ 20 mil",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -1643,7 +2334,7 @@
       "social_keyword": "TJSP",
       "social_subtitle": "132 vagas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -1685,7 +2376,7 @@
       "social_keyword": "TJPB",
       "social_subtitle": "50 vagas · R$ 7,5 mil",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -1727,7 +2418,7 @@
       "social_keyword": "SÃO GONÇALO",
       "social_subtitle": "101 vagas · RJ",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -1769,7 +2460,7 @@
       "social_keyword": "SUZANO",
       "social_subtitle": "303 vagas de futsal · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -1810,7 +2501,7 @@
       "reliability_level": "A",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -1855,7 +2546,7 @@
       "reliability_level": "A",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -1897,7 +2588,7 @@
       "reliability_level": "A",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -1947,7 +2638,7 @@
       "social_keyword": "SETEC",
       "social_subtitle": "39 vagas · Campinas/SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -1957,50 +2648,6 @@
       ],
       "tipo": [
         "Concurso público"
-      ]
-    },
-    {
-      "id": "cultura-rorainopolis-pnab-ciclo-2",
-      "category": "cultura",
-      "title": "Rorainópolis abre editais da Aldir Blanc com mais de R$ 240 mil",
-      "short_description": "A Prefeitura de Rorainópolis (RR), por meio da Secretaria Municipal de Esporte, Cultura e Lazer, abriu as inscrições de dois editais da Lei Aldir Blanc 2026 - PNAB Ciclo 2: um de apoio financeiro e outro de premiação, somando mais de R$ 240 mil para artistas, coletivos e instituições culturais do município. Inscrições gratuitas de 21/10 a 12/11/2026.",
-      "deadline": "12/11/2026",
-      "deadline_date": "2026-11-12",
-      "official_link": "https://rorainopolis.rr.gov.br/noticias/2026-10-20-inscricoes-abertas-lei-aldir-blanc-rorainopolis-2026-pnab-cilco-02",
-      "source_name": "Prefeitura de Rorainópolis - Secretaria Municipal de Esporte, Cultura e Lazer",
-      "source_type": "primary",
-      "location": "Rorainópolis, RR",
-      "country": "Brasil",
-      "state": "RR",
-      "city": "Rorainópolis",
-      "is_free": true,
-      "tags": [
-        "cultura",
-        "edital",
-        "aldir-blanc",
-        "premiacao"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-02",
-      "social_label": "CULTURA",
-      "social_keyword": "RORAINÓPOLIS",
-      "social_subtitle": "R$ 240 mil em 2 editais · RR",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T16:26:22-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "evento",
-        "atividade",
-        "edital",
-        "inscricoes",
-        "gratuito"
-      ],
-      "tipoEdital": [
-        "Premiação",
-        "Edital"
       ]
     },
     {
@@ -2029,7 +2676,7 @@
       "social_keyword": "SANTA LUZIA",
       "social_subtitle": "Concurso público · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2067,7 +2714,7 @@
       "social_keyword": "PARAGUAÇU",
       "social_subtitle": "Concurso público · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2105,7 +2752,7 @@
       "social_keyword": "MATÃO",
       "social_subtitle": "28 vagas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2143,7 +2790,7 @@
       "social_keyword": "CONTAGEM",
       "social_subtitle": "272 vagas · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2183,7 +2830,7 @@
       "social_keyword": "PORTO ALEGRE",
       "social_subtitle": "Esporte gratuito · 6 a 17 anos",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2228,7 +2875,7 @@
       "social_keyword": "PC-PE",
       "social_subtitle": "1.315 vagas · PE",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2270,7 +2917,7 @@
       "social_keyword": "PMPE",
       "social_subtitle": "Soldados e oficiais · PE",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2312,7 +2959,7 @@
       "social_keyword": "PMMG",
       "social_subtitle": "90 vagas de oficial · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2351,7 +2998,7 @@
       "reliability_level": "B",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T02:22:49-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -2397,7 +3044,7 @@
       "social_keyword": "REDES CORDIAIS",
       "social_subtitle": "5 mil vagas gratuitas · online",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2442,7 +3089,7 @@
       "social_keyword": "IFRN",
       "social_subtitle": "470 vagas gratuitas · RN",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2484,7 +3131,7 @@
       "social_keyword": "IFRJ",
       "social_subtitle": "Curso gratuito EaD · RJ",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -2526,7 +3173,7 @@
       "reliability_level": "A",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -2569,7 +3216,7 @@
       "social_keyword": "GIL ALVES",
       "social_subtitle": "183 vagas · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2610,7 +3257,7 @@
       "social_keyword": "GUARAREMA",
       "social_subtitle": "Aulas gratuitas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T02:47:49-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:47:49-03:00",
@@ -2652,7 +3299,7 @@
       "social_keyword": "GOIÁS",
       "social_subtitle": "R$ 30 milhões · audiovisual",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2698,7 +3345,7 @@
       "social_keyword": "NEUROEDUCAÇÃO",
       "social_subtitle": "5 mil vagas gratuitas · online",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2744,7 +3391,7 @@
       "social_keyword": "FATECS",
       "social_subtitle": "Graduações gratuitas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2789,7 +3436,7 @@
       "social_keyword": "DOIS LAJEADOS",
       "social_subtitle": "Chamamento Pnab · RS",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2832,7 +3479,7 @@
       "social_keyword": "DPE-PB",
       "social_subtitle": "Concurso público · PB",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2874,52 +3521,10 @@
       "social_keyword": "CÂMARA",
       "social_subtitle": "184 vagas · R$ 32 mil",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ],
-      "area": [
-        "Legislativa"
-      ]
-    },
-    {
-      "id": "trabalho-camara-mossoro-24-vagas-2026",
-      "category": "trabalho",
-      "title": "Câmara de Mossoró abre 24 vagas com salários de até R$ 8.810",
-      "short_description": "A Câmara Municipal de Mossoró (RN) abriu concurso público com 24 vagas em cargos de níveis médio, técnico e superior e salários de até R$ 8.810,69. As inscrições seguem até 12/11/2026.",
-      "deadline": "12/11/2026",
-      "deadline_date": "2026-11-12",
-      "official_link": "https://www.comperve.ufrn.br/",
-      "source_name": "COMPERVE/UFRN - banca do concurso da Câmara Municipal de Mossoró/RN",
-      "source_type": "primary",
-      "location": "Mossoró, RN",
-      "country": "Brasil",
-      "state": "RN",
-      "city": "Mossoró",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "legislativo"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-02",
-      "social_label": "TRABALHO",
-      "social_keyword": "MOSSORÓ",
-      "social_subtitle": "24 vagas · RN",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T17:34:27-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
       "kw": [
         "vaga",
         "inscricoes"
@@ -2958,7 +3563,7 @@
       "social_keyword": "BANESTES",
       "social_subtitle": "Cadastro de reserva · ES",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -2997,7 +3602,7 @@
       "reliability_level": "A",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T02:22:49-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -3057,7 +3662,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "social_label": "ESPORTES",
       "social_keyword": "VILA VELHA",
       "social_subtitle": "Núcleos esportivos gratuitos · ES",
@@ -3107,7 +3712,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "social_label": "ESPORTES",
       "social_keyword": "HANDEBOL",
       "social_subtitle": "100 vagas gratuitas · São José dos Pinhais, PR",
@@ -3158,7 +3763,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "social_label": "TRABALHO",
       "social_keyword": "JOVEM APRENDIZ",
       "social_subtitle": "Vagas em Salvador · BA",
@@ -3206,7 +3811,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "social_label": "ESPORTES",
       "social_keyword": "PONTA GROSSA",
       "social_subtitle": "50 vagas gratuitas · PR",
@@ -3256,7 +3861,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "social_label": "CULTURA",
       "social_keyword": "BIBLIOTECAS",
       "social_subtitle": "Pontos de Cultura · Nacional",
@@ -3310,7 +3915,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "social_label": "ESPORTES",
       "social_keyword": "MARICÁ",
       "social_subtitle": "Judô, capoeira e samba raiz · RJ",
@@ -3360,7 +3965,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "social_label": "EDUCAÇÃO",
       "social_keyword": "IFRS",
       "social_subtitle": "200+ cursos online gratuitos",
@@ -3414,7 +4019,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "social_label": "CULTURA",
       "social_keyword": "FUNARTE",
       "social_subtitle": "Espaços culturais gratuitos",
@@ -3466,7 +4071,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "social_label": "ESPORTES",
       "social_keyword": "CUIABÁ",
       "social_subtitle": "2,6 mil vagas gratuitas · MT",
@@ -3516,7 +4121,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "social_label": "ESPORTES",
       "social_keyword": "CARIACICA",
       "social_subtitle": "Vagas esportivas gratuitas · ES",
@@ -3567,7 +4172,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-12",
+      "last_seen_date": "2026-11-13",
       "social_label": "TRABALHO",
       "social_keyword": "CIEE",
       "social_subtitle": "Estágio e Jovem Aprendiz",
@@ -3585,11 +4190,11 @@
   ],
   "version": "1.2.0",
   "last_updated": "2026-08-16T20:59:30-03:00",
-  "total": 83,
+  "total": 97,
   "counts": {
     "cultura": 7,
-    "educacao": 23,
-    "esportes": 11,
-    "trabalho": 42
+    "educacao": 33,
+    "esportes": 12,
+    "trabalho": 45
   }
 }
