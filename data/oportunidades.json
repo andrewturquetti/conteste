@@ -432,7 +432,7 @@
       "country": "Brasil",
       "state": "PB",
       "city": "Cajazeiras",
-      "is_free": false,
+      "is_free": true,
       "tags": [
         "educacao",
         "tecnico",
@@ -455,7 +455,7 @@
         "Técnico"
       ],
       "custo": [
-        "Gratuito (taxa de R$ 50)"
+        "Gratuito"
       ],
       "first_seen_date": "2026-11-13",
       "last_seen_date": "2026-11-13",
