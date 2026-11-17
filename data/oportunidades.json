@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-11-17T15:33:49-03:00",
+  "generated_at": "2026-11-17T16:36:03-03:00",
   "opportunities": [
+    {
+      "id": "esportes-3x3-uog-league-sao-paulo-2026",
+      "category": "esportes",
+      "title": "UOG League de Basquete 3x3 tem etapa em São Paulo (SP)",
+      "short_description": "A UOG League de Basquete 3x3 está com inscrições abertas para a etapa de 29/11/2026 em São Paulo (SP). As equipes se inscrevem pela plataforma oficial FIBA 3x3, que reúne a página do evento, o regulamento e as informações da competição.",
+      "deadline": "29/11/2026",
+      "deadline_date": "2026-11-29",
+      "official_link": "https://play.fiba3x3.com/events/5394e6fc-e423-46a3-8460-344d6c29d705",
+      "source_name": "FIBA 3x3 - UOG League",
+      "source_type": "primary",
+      "location": "São Paulo (SP)",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "São Paulo",
+      "tags": [
+        "esportes",
+        "basquete",
+        "3x3",
+        "sao-paulo"
+      ],
+      "modEsporte": [
+        "Basquete 3x3"
+      ],
+      "formato": [
+        "Liga"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "UOG League",
+      "social_subtitle": "29/11 · São Paulo-SP",
+      "kw": [
+        "basquete",
+        "3x3",
+        "liga",
+        "inscricao"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T16:36:03-03:00",
+      "updated_at": "2026-11-17T16:36:03-03:00",
+      "verified_at": "2026-11-17T16:36:03-03:00"
+    },
     {
       "id": "educacao-ufac-especializacao-gestao-escolar-2027",
       "category": "educacao",
@@ -51,6 +95,138 @@
       "verified_at": "2026-11-17T11:33:15-03:00"
     },
     {
+      "id": "esportes-3x3-torneio-lib-campo-largo-2026",
+      "category": "esportes",
+      "title": "Torneio LIB de Basquete 3x3 acontece em Campo Largo (PR)",
+      "short_description": "O Torneio LIB de Basquete 3x3 está com inscrições abertas e será disputado em 28 e 29/11/2026 em Campo Largo (PR). As equipes se inscrevem pela plataforma oficial FIBA 3x3, que reúne a página do evento, o regulamento e as informações da competição.",
+      "deadline": "28/11/2026",
+      "deadline_date": "2026-11-28",
+      "official_link": "https://play.fiba3x3.com/events/0d280619-e163-4fe8-81d4-29ebe774252a",
+      "source_name": "FIBA 3x3 - Torneio LIB de Basquete 3x3",
+      "source_type": "primary",
+      "location": "Campo Largo (PR)",
+      "country": "Brasil",
+      "state": "PR",
+      "city": "Campo Largo",
+      "tags": [
+        "esportes",
+        "basquete",
+        "3x3",
+        "parana"
+      ],
+      "modEsporte": [
+        "Basquete 3x3"
+      ],
+      "formato": [
+        "Torneio"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "Torneio LIB 3x3",
+      "social_subtitle": "28 e 29/11 · Campo Largo-PR",
+      "kw": [
+        "basquete",
+        "3x3",
+        "torneio",
+        "inscricao"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T16:36:03-03:00",
+      "updated_at": "2026-11-17T16:36:03-03:00",
+      "verified_at": "2026-11-17T16:36:03-03:00"
+    },
+    {
+      "id": "esportes-3x3-torneio-interno-basquete-primavera-do-leste-2026",
+      "category": "esportes",
+      "title": "Torneio Interno de Basquete 3x3 abre inscrições em Primavera do Leste (MT)",
+      "short_description": "O Torneio Interno de Basquete 3x3 está com inscrições abertas em Primavera do Leste (MT), com jogos em 21/11/2026. As equipes se inscrevem pela plataforma oficial FIBA 3x3, que reúne a página do evento, o regulamento e as informações da competição.",
+      "deadline": "21/11/2026",
+      "deadline_date": "2026-11-21",
+      "official_link": "https://play.fiba3x3.com/events/62fc1f06-6027-465d-a4de-cfa9167122a0",
+      "source_name": "FIBA 3x3 - Torneio Interno de Basquete 3x3",
+      "source_type": "primary",
+      "location": "Primavera do Leste (MT)",
+      "country": "Brasil",
+      "state": "MT",
+      "city": "Primavera do Leste",
+      "tags": [
+        "esportes",
+        "basquete",
+        "3x3",
+        "mato-grosso"
+      ],
+      "modEsporte": [
+        "Basquete 3x3"
+      ],
+      "formato": [
+        "Torneio"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "Torneio Interno 3x3",
+      "social_subtitle": "21/11 · Primavera do Leste-MT",
+      "kw": [
+        "basquete",
+        "3x3",
+        "torneio",
+        "inscricao"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T16:36:03-03:00",
+      "updated_at": "2026-11-17T16:36:03-03:00",
+      "verified_at": "2026-11-17T16:36:03-03:00"
+    },
+    {
+      "id": "esportes-3x3-tier-one-etapa-2-caxias-do-sul-2026",
+      "category": "esportes",
+      "title": "TIER ONE de Basquete 3x3 tem 2ª etapa em Caxias do Sul (RS)",
+      "short_description": "O circuito TIER ONE de Basquete 3x3 está com inscrições abertas para a 2ª etapa, marcada para 13/12/2026 em Caxias do Sul (RS). As equipes se inscrevem pela plataforma oficial FIBA 3x3, que reúne a página do evento, o regulamento e as informações da competição.",
+      "deadline": "13/12/2026",
+      "deadline_date": "2026-12-13",
+      "official_link": "https://play.fiba3x3.com/events/44fe9ffe-cf5f-4f99-addd-37d25e400bbb",
+      "source_name": "FIBA 3x3 - TIER ONE - Etapa 2",
+      "source_type": "primary",
+      "location": "Caxias do Sul (RS)",
+      "country": "Brasil",
+      "state": "RS",
+      "city": "Caxias do Sul",
+      "tags": [
+        "esportes",
+        "basquete",
+        "3x3",
+        "rio-grande-do-sul"
+      ],
+      "modEsporte": [
+        "Basquete 3x3"
+      ],
+      "formato": [
+        "Torneio"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "TIER ONE 3x3",
+      "social_subtitle": "13/12 · Caxias do Sul-RS",
+      "kw": [
+        "basquete",
+        "3x3",
+        "torneio",
+        "inscricao"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T16:36:03-03:00",
+      "updated_at": "2026-11-17T16:36:03-03:00",
+      "verified_at": "2026-11-17T16:36:03-03:00"
+    },
+    {
       "id": "educacao-sao-jose-pinhais-qualifica-mulher-2026",
       "category": "educacao",
       "title": "São José dos Pinhais abre 200 vagas em cursos gratuitos para mulheres",
@@ -95,6 +271,50 @@
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
+    },
+    {
+      "id": "esportes-3x3-ruas-com-arte-passo-fundo-2026",
+      "category": "esportes",
+      "title": "Ruas com Arte 3x3 leva o basquete de rua a Passo Fundo (RS)",
+      "short_description": "O Ruas com Arte 3x3 está com inscrições abertas para o evento de 28/11/2026 em Passo Fundo (RS). As equipes se inscrevem pela plataforma oficial FIBA 3x3, que reúne a página do evento, o regulamento e as informações da competição.",
+      "deadline": "28/11/2026",
+      "deadline_date": "2026-11-28",
+      "official_link": "https://play.fiba3x3.com/events/8c8e3137-85c1-4fd2-9dab-d9c7f9cfce36",
+      "source_name": "FIBA 3x3 - Ruas com Arte 3x3",
+      "source_type": "primary",
+      "location": "Passo Fundo (RS)",
+      "country": "Brasil",
+      "state": "RS",
+      "city": "Passo Fundo",
+      "tags": [
+        "esportes",
+        "basquete",
+        "3x3",
+        "rio-grande-do-sul"
+      ],
+      "modEsporte": [
+        "Basquete 3x3"
+      ],
+      "formato": [
+        "Festival"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "Ruas com Arte 3x3",
+      "social_subtitle": "28/11 · Passo Fundo-RS",
+      "kw": [
+        "basquete",
+        "3x3",
+        "rua",
+        "inscricao"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T16:36:03-03:00",
+      "updated_at": "2026-11-17T16:36:03-03:00",
+      "verified_at": "2026-11-17T16:36:03-03:00"
     },
     {
       "id": "educacao-residencia-saude-df-565-vagas-2027",
@@ -143,6 +363,50 @@
       "verified_at": "2026-11-17T11:33:15-03:00"
     },
     {
+      "id": "esportes-3x3-play-it-festival-cup-itatiba-2026",
+      "category": "esportes",
+      "title": "Play It 3x3 Festival Cup reúne equipes em Itatiba (SP)",
+      "short_description": "O Play It 3x3 Festival Cup está com inscrições abertas e será disputado em 29 e 30/11/2026 em Itatiba (SP). As equipes se inscrevem pela plataforma oficial FIBA 3x3, que reúne a página do evento, o regulamento e as informações da competição.",
+      "deadline": "29/11/2026",
+      "deadline_date": "2026-11-29",
+      "official_link": "https://play.fiba3x3.com/events/1f2a8435-9bd8-42ca-90e6-252e1faa0b35",
+      "source_name": "FIBA 3x3 - Play It 3x3 Festival Cup",
+      "source_type": "primary",
+      "location": "Itatiba (SP)",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Itatiba",
+      "tags": [
+        "esportes",
+        "basquete",
+        "3x3",
+        "sao-paulo"
+      ],
+      "modEsporte": [
+        "Basquete 3x3"
+      ],
+      "formato": [
+        "Festival"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "Play It 3x3",
+      "social_subtitle": "29 e 30/11 · Itatiba-SP",
+      "kw": [
+        "basquete",
+        "3x3",
+        "festival",
+        "inscricao"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T16:36:03-03:00",
+      "updated_at": "2026-11-17T16:36:03-03:00",
+      "verified_at": "2026-11-17T16:36:03-03:00"
+    },
+    {
       "id": "trabalho-pit-piaui-professores-horistas-2026",
       "category": "trabalho",
       "title": "PIT prorroga até 22/11 as inscrições para seleção de professores horistas no Piauí",
@@ -179,6 +443,94 @@
       "created_at": "2026-11-17T15:33:49-03:00",
       "updated_at": "2026-11-17T15:33:49-03:00",
       "verified_at": "2026-11-17T15:33:49-03:00"
+    },
+    {
+      "id": "esportes-3x3-liga-metropolitana-etapa-v-indaiatuba-2026",
+      "category": "esportes",
+      "title": "Liga Metropolitana de Basquete 3x3 chega à 5ª etapa em Indaiatuba (SP)",
+      "short_description": "A Liga Metropolitana de Basquete 3x3 está com inscrições abertas para a 5ª etapa, marcada para 22/11/2026 em Indaiatuba (SP). As equipes se inscrevem pela plataforma oficial FIBA 3x3, que reúne a página do evento, o regulamento e as informações da competição.",
+      "deadline": "22/11/2026",
+      "deadline_date": "2026-11-22",
+      "official_link": "https://play.fiba3x3.com/events/32e05930-ce2f-447c-9039-1cdfb3c455a7",
+      "source_name": "FIBA 3x3 - Liga Metropolitana Basquete 3x3 - Etapa V",
+      "source_type": "primary",
+      "location": "Indaiatuba (SP)",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Indaiatuba",
+      "tags": [
+        "esportes",
+        "basquete",
+        "3x3",
+        "sao-paulo"
+      ],
+      "modEsporte": [
+        "Basquete 3x3"
+      ],
+      "formato": [
+        "Liga"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "Liga Metropolitana 3x3",
+      "social_subtitle": "22/11 · Indaiatuba-SP",
+      "kw": [
+        "basquete",
+        "3x3",
+        "liga",
+        "inscricao"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T16:36:03-03:00",
+      "updated_at": "2026-11-17T16:36:03-03:00",
+      "verified_at": "2026-11-17T16:36:03-03:00"
+    },
+    {
+      "id": "esportes-3x3-lba-aracaju-2026",
+      "category": "esportes",
+      "title": "LBA 3X3 2026 leva o basquete de rua a Aracaju (SE)",
+      "short_description": "A LBA 3X3 2026 está com inscrições abertas para o evento de 20/12/2026 em Aracaju (SE). As equipes se inscrevem pela plataforma oficial FIBA 3x3, que reúne a página do evento, o regulamento e as informações da competição.",
+      "deadline": "20/12/2026",
+      "deadline_date": "2026-12-20",
+      "official_link": "https://play.fiba3x3.com/events/8072b703-71e1-4762-befa-65ddbe0af22f",
+      "source_name": "FIBA 3x3 - LBA 3X3 2026",
+      "source_type": "primary",
+      "location": "Aracaju (SE)",
+      "country": "Brasil",
+      "state": "SE",
+      "city": "Aracaju",
+      "tags": [
+        "esportes",
+        "basquete",
+        "3x3",
+        "sergipe"
+      ],
+      "modEsporte": [
+        "Basquete 3x3"
+      ],
+      "formato": [
+        "Torneio"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "LBA 3x3",
+      "social_subtitle": "20/12 · Aracaju-SE",
+      "kw": [
+        "basquete",
+        "3x3",
+        "torneio",
+        "inscricao"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T16:36:03-03:00",
+      "updated_at": "2026-11-17T16:36:03-03:00",
+      "verified_at": "2026-11-17T16:36:03-03:00"
     },
     {
       "id": "esportes-js-fest-run-itabata-2026",
@@ -227,6 +579,138 @@
       "created_at": "2026-11-17T15:33:49-03:00",
       "updated_at": "2026-11-17T15:33:49-03:00",
       "verified_at": "2026-11-17T15:33:49-03:00"
+    },
+    {
+      "id": "esportes-3x3-jbl-festival-sao-paulo-2026",
+      "category": "esportes",
+      "title": "JBL Festival de Basquete 3x3 reúne equipes em São Paulo (SP)",
+      "short_description": "O JBL Festival de Basquete 3x3 está com inscrições abertas para o evento de 28/11/2026 em São Paulo (SP). As equipes se inscrevem pela plataforma oficial FIBA 3x3, que reúne a página do evento, o regulamento e as informações da competição.",
+      "deadline": "28/11/2026",
+      "deadline_date": "2026-11-28",
+      "official_link": "https://play.fiba3x3.com/events/d239caec-1a40-4ec6-936e-3373640fe35f",
+      "source_name": "FIBA 3x3 - JBL Festival de Basquete 3x3",
+      "source_type": "primary",
+      "location": "São Paulo (SP)",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "São Paulo",
+      "tags": [
+        "esportes",
+        "basquete",
+        "3x3",
+        "sao-paulo"
+      ],
+      "modEsporte": [
+        "Basquete 3x3"
+      ],
+      "formato": [
+        "Festival"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "JBL Festival 3x3",
+      "social_subtitle": "28/11 · São Paulo-SP",
+      "kw": [
+        "basquete",
+        "3x3",
+        "festival",
+        "inscricao"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T16:36:03-03:00",
+      "updated_at": "2026-11-17T16:36:03-03:00",
+      "verified_at": "2026-11-17T16:36:03-03:00"
+    },
+    {
+      "id": "esportes-3x3-intermunicipal-basketball-etapa-capital-2026",
+      "category": "esportes",
+      "title": "Intermunicipal de Basketball tem etapa capital de 3x3 em Macapá (AP)",
+      "short_description": "O Intermunicipal de Basketball - Etapa Capital está com inscrições abertas para o torneio de basquete 3x3 em Macapá (AP), marcado para 21/11/2026. As equipes se inscrevem pela plataforma oficial FIBA 3x3, que reúne a página do evento, o regulamento e as informações da competição.",
+      "deadline": "21/11/2026",
+      "deadline_date": "2026-11-21",
+      "official_link": "https://play.fiba3x3.com/events/1f37af10-c8c4-4de2-b62a-9e41d7ec24ea",
+      "source_name": "FIBA 3x3 - Intermunicipal de Basketball - Etapa Capital",
+      "source_type": "primary",
+      "location": "Macapá (AP)",
+      "country": "Brasil",
+      "state": "AP",
+      "city": "Macapá",
+      "tags": [
+        "esportes",
+        "basquete",
+        "3x3",
+        "amapa"
+      ],
+      "modEsporte": [
+        "Basquete 3x3"
+      ],
+      "formato": [
+        "Torneio"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "Intermunicipal 3x3",
+      "social_subtitle": "21/11 · Macapá-AP",
+      "kw": [
+        "basquete",
+        "3x3",
+        "torneio",
+        "inscricao"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T16:36:03-03:00",
+      "updated_at": "2026-11-17T16:36:03-03:00",
+      "verified_at": "2026-11-17T16:36:03-03:00"
+    },
+    {
+      "id": "esportes-3x3-inter-municipal-amapaense-etapa-final-macapa-2026",
+      "category": "esportes",
+      "title": "Inter-municipal Amapaense de Basquete 3x3 tem etapa final em Macapá (AP)",
+      "short_description": "O Inter-municipal Amapaense de Basquete 3x3 está com inscrições abertas para a etapa final, marcada para 28 e 29/11/2026 em Macapá (AP). As equipes se inscrevem pela plataforma oficial FIBA 3x3, que reúne a página do evento, o regulamento e as informações da competição.",
+      "deadline": "28/11/2026",
+      "deadline_date": "2026-11-28",
+      "official_link": "https://play.fiba3x3.com/events/791111a2-4151-40a9-a216-dc27303c9079",
+      "source_name": "FIBA 3x3 - Inter-municipal Amapaense de Basquete 3x3 - Etapa Final Macapá",
+      "source_type": "primary",
+      "location": "Macapá (AP)",
+      "country": "Brasil",
+      "state": "AP",
+      "city": "Macapá",
+      "tags": [
+        "esportes",
+        "basquete",
+        "3x3",
+        "amapa"
+      ],
+      "modEsporte": [
+        "Basquete 3x3"
+      ],
+      "formato": [
+        "Torneio"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "Amapaense 3x3",
+      "social_subtitle": "28 e 29/11 · Macapá-AP",
+      "kw": [
+        "basquete",
+        "3x3",
+        "torneio",
+        "inscricao"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T16:36:03-03:00",
+      "updated_at": "2026-11-17T16:36:03-03:00",
+      "verified_at": "2026-11-17T16:36:03-03:00"
     },
     {
       "id": "educacao-impa-tech-graduacao-matematica-tecnologia-2027",
@@ -506,6 +990,94 @@
       "verified_at": "2026-11-17T11:33:15-03:00"
     },
     {
+      "id": "esportes-3x3-hallowen-brasilia-2026",
+      "category": "esportes",
+      "title": "Hallowen 3x3 reúne equipes de basquete em Brasília (DF)",
+      "short_description": "O Hallowen 3x3 está com inscrições abertas e será disputado em 29 e 30/11/2026 em Brasília (DF). As equipes se inscrevem pela plataforma oficial FIBA 3x3, que reúne a página do evento, o regulamento e as informações da competição.",
+      "deadline": "29/11/2026",
+      "deadline_date": "2026-11-29",
+      "official_link": "https://play.fiba3x3.com/events/098e19e8-c9ca-44c2-9d2a-626d5b37478a",
+      "source_name": "FIBA 3x3 - Hallowen 3x3 - Brasília",
+      "source_type": "primary",
+      "location": "Brasília (DF)",
+      "country": "Brasil",
+      "state": "DF",
+      "city": "Brasília",
+      "tags": [
+        "esportes",
+        "basquete",
+        "3x3",
+        "distrito-federal"
+      ],
+      "modEsporte": [
+        "Basquete 3x3"
+      ],
+      "formato": [
+        "Torneio"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "Hallowen 3x3",
+      "social_subtitle": "29 e 30/11 · Brasília-DF",
+      "kw": [
+        "basquete",
+        "3x3",
+        "torneio",
+        "inscricao"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T16:36:03-03:00",
+      "updated_at": "2026-11-17T16:36:03-03:00",
+      "verified_at": "2026-11-17T16:36:03-03:00"
+    },
+    {
+      "id": "esportes-3x3-futuro-do-basquete-escolar-joao-pessoa-2026",
+      "category": "esportes",
+      "title": "Futuro do Basquete 3x3 Escolar abre inscrições em João Pessoa (PB)",
+      "short_description": "O projeto Futuro do Basquete 3x3 - Escolar está com inscrições abertas para o torneio de 28/11/2026 em João Pessoa (PB). As equipes se inscrevem pela plataforma oficial FIBA 3x3, que reúne a página do evento, o regulamento e as informações da competição.",
+      "deadline": "28/11/2026",
+      "deadline_date": "2026-11-28",
+      "official_link": "https://play.fiba3x3.com/events/e4e3d3a1-81b1-4f54-a145-b7ca24d72c25",
+      "source_name": "FIBA 3x3 - Futuro do Basquete 3x3 - Escolar",
+      "source_type": "primary",
+      "location": "João Pessoa (PB)",
+      "country": "Brasil",
+      "state": "PB",
+      "city": "João Pessoa",
+      "tags": [
+        "esportes",
+        "basquete",
+        "3x3",
+        "paraiba"
+      ],
+      "modEsporte": [
+        "Basquete 3x3"
+      ],
+      "formato": [
+        "Torneio"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "Futuro do Basquete",
+      "social_subtitle": "28/11 · João Pessoa-PB",
+      "kw": [
+        "basquete",
+        "3x3",
+        "escolar",
+        "inscricao"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T16:36:03-03:00",
+      "updated_at": "2026-11-17T16:36:03-03:00",
+      "verified_at": "2026-11-17T16:36:03-03:00"
+    },
+    {
       "id": "educacao-fortalecer-bh-cursos-gestao-mei-2026",
       "category": "educacao",
       "title": "Fortalecer BH oferece cursos gratuitos de gestão para MEIs e pequenos negócios",
@@ -596,6 +1168,270 @@
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
+    },
+    {
+      "id": "esportes-3x3-copa-sc-1-edicao-florianopolis-2026",
+      "category": "esportes",
+      "title": "Copa SC 3X3 estreia com 1ª edição em Florianópolis (SC)",
+      "short_description": "A Copa SC 3X3 está com inscrições abertas para a sua 1ª edição, marcada para 29/11/2026 em Florianópolis (SC). As equipes se inscrevem pela plataforma oficial FIBA 3x3, que reúne a página do evento, o regulamento e as informações da competição.",
+      "deadline": "29/11/2026",
+      "deadline_date": "2026-11-29",
+      "official_link": "https://play.fiba3x3.com/events/147913d1-607c-41ee-8fa9-e64df41c0975",
+      "source_name": "FIBA 3x3 - Copa SC 3X3 - 1ª Edição",
+      "source_type": "primary",
+      "location": "Florianópolis (SC)",
+      "country": "Brasil",
+      "state": "SC",
+      "city": "Florianópolis",
+      "tags": [
+        "esportes",
+        "basquete",
+        "3x3",
+        "santa-catarina"
+      ],
+      "modEsporte": [
+        "Basquete 3x3"
+      ],
+      "formato": [
+        "Torneio"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "Copa SC 3x3",
+      "social_subtitle": "29/11 · Florianópolis-SC",
+      "kw": [
+        "basquete",
+        "3x3",
+        "copa",
+        "inscricao"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T16:36:03-03:00",
+      "updated_at": "2026-11-17T16:36:03-03:00",
+      "verified_at": "2026-11-17T16:36:03-03:00"
+    },
+    {
+      "id": "esportes-3x3-copa-elite-natal-2026",
+      "category": "esportes",
+      "title": "Copa Elite 3x3 reúne equipes em Natal (RN)",
+      "short_description": "A Copa Elite 3x3 está com inscrições abertas para o torneio de 6/12/2026 em Natal (RN). As equipes se inscrevem pela plataforma oficial FIBA 3x3, que reúne a página do evento, o regulamento e as informações da competição.",
+      "deadline": "06/12/2026",
+      "deadline_date": "2026-12-06",
+      "official_link": "https://play.fiba3x3.com/events/9fdbbddb-7b39-4d88-9921-6f3f12edfd84",
+      "source_name": "FIBA 3x3 - Copa Elite 3x3",
+      "source_type": "primary",
+      "location": "Natal (RN)",
+      "country": "Brasil",
+      "state": "RN",
+      "city": "Natal",
+      "tags": [
+        "esportes",
+        "basquete",
+        "3x3",
+        "rio-grande-do-norte"
+      ],
+      "modEsporte": [
+        "Basquete 3x3"
+      ],
+      "formato": [
+        "Torneio"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "Copa Elite 3x3",
+      "social_subtitle": "6/12 · Natal-RN",
+      "kw": [
+        "basquete",
+        "3x3",
+        "copa",
+        "inscricao"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T16:36:03-03:00",
+      "updated_at": "2026-11-17T16:36:03-03:00",
+      "verified_at": "2026-11-17T16:36:03-03:00"
+    },
+    {
+      "id": "esportes-3x3-copa-cbc-caruaru-2026",
+      "category": "esportes",
+      "title": "Copa CBC de Basquete 3X3 abre inscrições em Caruaru (PE)",
+      "short_description": "A Copa CBC de Basquete 3X3 está com inscrições abertas para o torneio de 29/11/2026 em Caruaru (PE). As equipes se inscrevem pela plataforma oficial FIBA 3x3, que reúne a página do evento, o regulamento e as informações da competição.",
+      "deadline": "29/11/2026",
+      "deadline_date": "2026-11-29",
+      "official_link": "https://play.fiba3x3.com/events/40b6b716-267b-48a5-90a5-b3eef3482854",
+      "source_name": "FIBA 3x3 - Copa CBC Basquete 3X3",
+      "source_type": "primary",
+      "location": "Caruaru (PE)",
+      "country": "Brasil",
+      "state": "PE",
+      "city": "Caruaru",
+      "tags": [
+        "esportes",
+        "basquete",
+        "3x3",
+        "pernambuco"
+      ],
+      "modEsporte": [
+        "Basquete 3x3"
+      ],
+      "formato": [
+        "Torneio"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "Copa CBC 3x3",
+      "social_subtitle": "29/11 · Caruaru-PE",
+      "kw": [
+        "basquete",
+        "3x3",
+        "copa",
+        "inscricao"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T16:36:03-03:00",
+      "updated_at": "2026-11-17T16:36:03-03:00",
+      "verified_at": "2026-11-17T16:36:03-03:00"
+    },
+    {
+      "id": "esportes-3x3-copa-aabb-campina-grande-2026",
+      "category": "esportes",
+      "title": "Copa AABB de Basquete 3x3 acontece em Campina Grande (PB)",
+      "short_description": "A Copa AABB de Basquete 3x3 está com inscrições abertas e será disputada em 4 e 5/12/2026 em Campina Grande (PB). As equipes se inscrevem pela plataforma oficial FIBA 3x3, que reúne a página do evento, o regulamento e as informações da competição.",
+      "deadline": "04/12/2026",
+      "deadline_date": "2026-12-04",
+      "official_link": "https://play.fiba3x3.com/events/28bea3e8-30f1-443a-b5d2-30a1b7f38af9",
+      "source_name": "FIBA 3x3 - Copa AABB de Basquete 3x3",
+      "source_type": "primary",
+      "location": "Campina Grande (PB)",
+      "country": "Brasil",
+      "state": "PB",
+      "city": "Campina Grande",
+      "tags": [
+        "esportes",
+        "basquete",
+        "3x3",
+        "paraiba"
+      ],
+      "modEsporte": [
+        "Basquete 3x3"
+      ],
+      "formato": [
+        "Torneio"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "Copa AABB 3x3",
+      "social_subtitle": "4 e 5/12 · Campina Grande-PB",
+      "kw": [
+        "basquete",
+        "3x3",
+        "copa",
+        "inscricao"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T16:36:03-03:00",
+      "updated_at": "2026-11-17T16:36:03-03:00",
+      "verified_at": "2026-11-17T16:36:03-03:00"
+    },
+    {
+      "id": "esportes-3x3-circuito-roraimense-2-etapa-boa-vista-2026",
+      "category": "esportes",
+      "title": "Circuito Roraimense de Basquete 3x3 realiza 2ª etapa em Boa Vista (RR)",
+      "short_description": "O Circuito Roraimense Clniscan de Basquete 3x3 está com inscrições abertas para a 2ª etapa de 2026, marcada para 28 e 29/11/2026 em Boa Vista (RR). As equipes se inscrevem pela plataforma oficial FIBA 3x3, que reúne a página do evento, o regulamento e as informações da competição.",
+      "deadline": "28/11/2026",
+      "deadline_date": "2026-11-28",
+      "official_link": "https://play.fiba3x3.com/events/241f3686-87e0-48ee-9d25-4a43cccde092",
+      "source_name": "FIBA 3x3 - 2ª Etapa Circuito Roraimense Clniscan de Basquete 3x3 2026",
+      "source_type": "primary",
+      "location": "Boa Vista (RR)",
+      "country": "Brasil",
+      "state": "RR",
+      "city": "Boa Vista",
+      "tags": [
+        "esportes",
+        "basquete",
+        "3x3",
+        "roraima"
+      ],
+      "modEsporte": [
+        "Basquete 3x3"
+      ],
+      "formato": [
+        "Torneio"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "Circuito Roraimense 3x3",
+      "social_subtitle": "28 e 29/11 · Boa Vista-RR",
+      "kw": [
+        "basquete",
+        "3x3",
+        "circuito",
+        "inscricao"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T16:36:03-03:00",
+      "updated_at": "2026-11-17T16:36:03-03:00",
+      "verified_at": "2026-11-17T16:36:03-03:00"
+    },
+    {
+      "id": "esportes-3x3-campeonato-paulista-etapa-final-2026",
+      "category": "esportes",
+      "title": "Campeonato Paulista de Basquete 3x3 decide o título na etapa final em Diadema (SP)",
+      "short_description": "O Campeonato Paulista de Basquete 3x3 está com inscrições abertas para a etapa final de 2026, disputada entre 27 e 29/11/2026 em Diadema (SP). As equipes se inscrevem pela plataforma oficial FIBA 3x3, que reúne a página do evento, o regulamento e as informações da competição.",
+      "deadline": "27/11/2026",
+      "deadline_date": "2026-11-27",
+      "official_link": "https://play.fiba3x3.com/events/e59ae24e-b10f-419d-ac22-2911b7f6dad1",
+      "source_name": "FIBA 3x3 - Campeonato Paulista de Basquete 3x3 - Etapa Final 2026",
+      "source_type": "primary",
+      "location": "Diadema (SP)",
+      "country": "Brasil",
+      "state": "SP",
+      "city": "Diadema",
+      "tags": [
+        "esportes",
+        "basquete",
+        "3x3",
+        "sao-paulo"
+      ],
+      "modEsporte": [
+        "Basquete 3x3"
+      ],
+      "formato": [
+        "Torneio"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "Paulista 3x3",
+      "social_subtitle": "27 a 29/11 · Diadema-SP",
+      "kw": [
+        "basquete",
+        "3x3",
+        "campeonato",
+        "inscricao"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T16:36:03-03:00",
+      "updated_at": "2026-11-17T16:36:03-03:00",
+      "verified_at": "2026-11-17T16:36:03-03:00"
     },
     {
       "id": "trabalho-birigui-sp-concurso-2026",
@@ -4119,11 +4955,11 @@
   ],
   "version": "1.2.0",
   "last_updated": "2026-08-16T20:59:30-03:00",
-  "total": 94,
+  "total": 113,
   "counts": {
     "cultura": 4,
     "educacao": 35,
-    "esportes": 15,
+    "esportes": 34,
     "trabalho": 40
   }
 }
