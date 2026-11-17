@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T11:33:15-03:00",
+  "generated_at": "2026-11-17T15:33:49-03:00",
   "opportunities": [
     {
       "id": "educacao-ufac-especializacao-gestao-escolar-2027",
@@ -141,6 +141,92 @@
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
+    },
+    {
+      "id": "trabalho-pit-piaui-professores-horistas-2026",
+      "category": "trabalho",
+      "title": "PIT prorroga até 22/11 as inscrições para seleção de professores horistas no Piauí",
+      "short_description": "O PIT prorrogou até 22/11/2026 as inscrições da seleção de professores horistas no Piauí, por meio de errata ao Edital nº 16/2026. No novo cronograma, as inscrições vão de 9 a 22 de novembro; o deferimento das inscrições sai em 24/11, os recursos podem ser enviados em 25 e 26/11 e o deferimento final está previsto para 27/11. A prova didática passa a ser realizada no formato online, e a convocação indicará o local ou meio de realização.",
+      "deadline": "22/11/2026",
+      "deadline_date": "2026-11-22",
+      "official_link": "https://www.pi.gov.br/pit-prorroga-ate-22-de-novembro-as-inscricoes-para-selecao-de-professores-horistas-e-altera-prova-didatica-para-o-formato-online/",
+      "source_name": "Governo do Piauí - Edital 16/2026 (errata)",
+      "source_type": "primary",
+      "location": "Piauí",
+      "country": "Brasil",
+      "state": "PI",
+      "city": null,
+      "tags": [
+        "trabalho",
+        "selecao",
+        "professor",
+        "piaui"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "TRABALHO",
+      "social_keyword": "PIT",
+      "social_subtitle": "Inscrições até 22/11",
+      "kw": [
+        "selecao",
+        "inscricao",
+        "professor",
+        "vaga"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T15:33:49-03:00",
+      "updated_at": "2026-11-17T15:33:49-03:00",
+      "verified_at": "2026-11-17T15:33:49-03:00"
+    },
+    {
+      "id": "esportes-js-fest-run-itabata-2026",
+      "category": "esportes",
+      "title": "JS Fest Run abre inscrições para corrida de rua em Itabatã (BA)",
+      "short_description": "A JS Fest Run, corrida de rua em Itabatã, na Bahia, está com inscrições abertas para a prova de 13/12/2026, com largada prevista para as 8h na Avenida Cerejeira, nº 10. A organização oferece categorias de corrida e caminhada, com valores a partir de R$ 89,90, e as inscrições são feitas pela plataforma Sua Inscrição, que também disponibiliza o regulamento e as informações sobre kits e percurso.",
+      "deadline": "13/12/2026",
+      "deadline_date": "2026-12-13",
+      "official_link": "https://suainscricao.com/evento/js-fest-run",
+      "source_name": "Sua Inscrição - JS Fest Run",
+      "source_type": "primary",
+      "location": "Itabatã (BA)",
+      "country": "Brasil",
+      "state": "BA",
+      "city": "Itabatã",
+      "is_free": false,
+      "tags": [
+        "esportes",
+        "corrida",
+        "rua",
+        "bahia"
+      ],
+      "nivel": [
+        "Amador"
+      ],
+      "custo": [
+        "Pago"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "JS Fest Run",
+      "social_subtitle": "13/12 · Itabatã-BA",
+      "kw": [
+        "corrida",
+        "inscricao",
+        "prova",
+        "rua"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T15:33:49-03:00",
+      "updated_at": "2026-11-17T15:33:49-03:00",
+      "verified_at": "2026-11-17T15:33:49-03:00"
     },
     {
       "id": "educacao-impa-tech-graduacao-matematica-tecnologia-2027",
@@ -550,6 +636,140 @@
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
+    },
+    {
+      "id": "trabalho-cesgranrio-eppgg-bahia-2026",
+      "category": "trabalho",
+      "title": "Bahia prorroga inscrições do concurso de Especialista em Políticas Públicas e Gestão Governamental",
+      "short_description": "A Cesgranrio prorrogou até 18/11/2026 as inscrições do concurso para Especialista em Políticas Públicas e Gestão Governamental (EPPGG) do Estado da Bahia. As inscrições são feitas no portal da banca organizadora, que reúne o edital, o cronograma e as demais etapas da seleção. Quem quer seguir carreira no serviço público estadual deve conferir os requisitos, o conteúdo programático e o valor da taxa antes do encerramento do prazo.",
+      "deadline": "18/11/2026",
+      "deadline_date": "2026-11-18",
+      "official_link": "https://www.cesgranrio.org.br/inscricoes-abertas-para-concurso-de-especialista-em-politicas-publicas-e-gestao-governamental-da-bahia/",
+      "source_name": "Cesgranrio - Concurso EPPGG Bahia 2026",
+      "source_type": "primary",
+      "location": "Bahia",
+      "country": "Brasil",
+      "state": "BA",
+      "city": null,
+      "tags": [
+        "trabalho",
+        "concurso",
+        "servico-publico",
+        "bahia"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "TRABALHO",
+      "social_keyword": "EPPGG",
+      "social_subtitle": "Inscrições até 18/11",
+      "kw": [
+        "concurso",
+        "inscricao",
+        "vaga",
+        "servico-publico"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T15:33:49-03:00",
+      "updated_at": "2026-11-17T15:33:49-03:00",
+      "verified_at": "2026-11-17T15:33:49-03:00"
+    },
+    {
+      "id": "esportes-corrida-caminhada-natal-solidario-baixo-guandu-2026",
+      "category": "esportes",
+      "title": "6ª Corrida e Caminhada Natal Solidário será realizada em Baixo Guandu (ES)",
+      "short_description": "A 6ª Corrida e Caminhada Natal Solidário acontece em 13/12/2026, às 7h30, em Baixo Guandu, no Espírito Santo, com largada na Avenida Dez de Abril, nº 235. As inscrições estão abertas na plataforma Sua Inscrição, com valores a partir de R$ 30,00, e a organização Anjim Eventos informa que os kits serão entregues no mesmo endereço no dia da prova. O evento tem caráter solidário e reúne corredores e caminhantes.",
+      "deadline": "13/12/2026",
+      "deadline_date": "2026-12-13",
+      "official_link": "https://suainscricao.com/evento/6a-corrida-e-caminhada-natal-solidario",
+      "source_name": "Sua Inscrição - 6ª Corrida e Caminhada Natal Solidário",
+      "source_type": "primary",
+      "location": "Baixo Guandu (ES)",
+      "country": "Brasil",
+      "state": "ES",
+      "city": "Baixo Guandu",
+      "is_free": false,
+      "tags": [
+        "esportes",
+        "corrida",
+        "caminhada",
+        "espirito-santo"
+      ],
+      "nivel": [
+        "Amador"
+      ],
+      "custo": [
+        "Pago"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "Natal Solidário",
+      "social_subtitle": "13/12 · Baixo Guandu-ES",
+      "kw": [
+        "corrida",
+        "caminhada",
+        "inscricao",
+        "prova"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T15:33:49-03:00",
+      "updated_at": "2026-11-17T15:33:49-03:00",
+      "verified_at": "2026-11-17T15:33:49-03:00"
+    },
+    {
+      "id": "esportes-1-corrida-vila-valerio-2026",
+      "category": "esportes",
+      "title": "1ª Corrida de Vila Valério terá percurso de 6 km no Espírito Santo",
+      "short_description": "A 1ª Corrida de Vila Valério será realizada em 20/12/2026, às 6h30, em Vila Valério, no Espírito Santo, com concentração no Restaurante Toko Quente. A prova tem percurso oficial de 6 km e inscrições abertas na plataforma Sua Inscrição a partir de R$ 79,90, incluindo categoria para PCD. A realização é da equipe Corre Demais, e o regulamento completo está disponível na página do evento.",
+      "deadline": "20/12/2026",
+      "deadline_date": "2026-12-20",
+      "official_link": "https://suainscricao.com/evento/1o-corrida-de-vila-valerio",
+      "source_name": "Sua Inscrição - 1ª Corrida de Vila Valério",
+      "source_type": "primary",
+      "location": "Vila Valério (ES)",
+      "country": "Brasil",
+      "state": "ES",
+      "city": "Vila Valério",
+      "is_free": false,
+      "tags": [
+        "esportes",
+        "corrida",
+        "rua",
+        "espirito-santo"
+      ],
+      "nivel": [
+        "Amador"
+      ],
+      "custo": [
+        "Pago"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "status": "open",
+      "reliability_level": "A",
+      "published_date": "2026-11-17",
+      "social_label": "ESPORTES",
+      "social_keyword": "Vila Valério",
+      "social_subtitle": "20/12 · 6 km · ES",
+      "kw": [
+        "corrida",
+        "inscricao",
+        "prova",
+        "6km"
+      ],
+      "first_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-17",
+      "created_at": "2026-11-17T15:33:49-03:00",
+      "updated_at": "2026-11-17T15:33:49-03:00",
+      "verified_at": "2026-11-17T15:33:49-03:00"
     },
     {
       "id": "educacao-senar-pe-cursos-tecnicos-2027",
@@ -3899,11 +4119,11 @@
   ],
   "version": "1.2.0",
   "last_updated": "2026-08-16T20:59:30-03:00",
-  "total": 89,
+  "total": 94,
   "counts": {
     "cultura": 4,
     "educacao": 35,
-    "esportes": 12,
-    "trabalho": 38
+    "esportes": 15,
+    "trabalho": 40
   }
 }
