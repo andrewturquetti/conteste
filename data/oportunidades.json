@@ -1,6 +1,653 @@
 {
-  "generated_at": "2026-11-19T00:13:49-03:00",
+  "generated_at": "2026-11-19T19:46:08-03:00",
   "opportunities": [
+    {
+      "id": "cultura-uesc-museu-vitrine-artes-visuais-2026",
+      "category": "cultura",
+      "title": "Uesc seleciona obras de artes visuais para o Museu-Vitrine",
+      "short_description": "O Edital UESC nº 191/2026 seleciona peças, coleções e acervos de artes visuais de artistas sulbaianos para exposição no Museu-Vitrine das Artes Visuais da universidade. As inscrições são gratuitas e vão de 23/11 a 18/12/2026, exclusivamente por e-mail, com ficha de inscrição e documentação das obras.",
+      "deadline": "18/12/2026",
+      "deadline_date": "2026-12-18",
+      "official_link": "https://www2.uesc.br/publicacoes/editais/arquivo/2026/11/191_2026.pdf",
+      "source_name": "Uesc - Museu-Vitrine das Artes Visuais (Edital 191/2026)",
+      "location": "Ilhéus, BA",
+      "state": "BA",
+      "city": "Ilhéus",
+      "tags": [
+        "cultura",
+        "artes",
+        "artes-visuais",
+        "exposicao",
+        "gratuito"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-19",
+      "social_label": "CULTURA",
+      "social_keyword": "UESC",
+      "social_subtitle": "Obras para o Museu-Vitrine",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-19",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T19:46:08-03:00",
+      "updated_at": "2026-11-19T19:46:08-03:00",
+      "verified_at": "2026-11-19T19:46:08-03:00"
+    },
+    {
+      "id": "trabalho-uesc-cisoterra-equipe-formadora-pronera-2026",
+      "category": "trabalho",
+      "title": "Uesc seleciona equipe formadora do Pronera em Ciências Sociais da Terra",
+      "short_description": "O Edital 172/2026 do CisoTerra/Uesc, no âmbito do Pronera, seleciona a equipe formadora da Licenciatura em Ciências Sociais da Terra: professores orientadores, docentes colaboradores e monitores de acompanhamento acadêmico. As inscrições foram prorrogadas e seguem até 11/12/2026 pelo formulário do projeto.",
+      "deadline": "11/12/2026",
+      "deadline_date": "2026-12-11",
+      "official_link": "https://www.uesc.br/cisoterra/index.php?item=editais-selecao.php",
+      "source_name": "Uesc - CisoTerra/PRONERA (Edital 172/2026)",
+      "location": "Ilhéus, BA",
+      "state": "BA",
+      "city": "Ilhéus",
+      "tags": [
+        "trabalho",
+        "docencia",
+        "pronera",
+        "vagas"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-19",
+      "social_label": "TRABALHO",
+      "social_keyword": "UESC",
+      "social_subtitle": "Equipe formadora do Pronera",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-19",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T19:46:08-03:00",
+      "updated_at": "2026-11-19T19:46:08-03:00",
+      "verified_at": "2026-11-19T19:46:08-03:00"
+    },
+    {
+      "id": "educacao-uesc-ppgeca-engenharia-civil-ambiental-2027",
+      "category": "educacao",
+      "title": "Uesc abre mestrado em Engenharia Civil e Ambiental para 2027.1",
+      "short_description": "O PPGECA, programa associado Uesc/UFSB, abriu o processo seletivo 2027.1 do mestrado em Engenharia Civil e Ambiental (Edital 171/2026), com até 20 vagas por ano. As inscrições vão até 20/11/2026 e a seleção tem avaliação documental, prova escrita em 02/12/2026, anteprojeto de pesquisa, arguição e análise do currículo Lattes.",
+      "deadline": "20/11/2026",
+      "deadline_date": "2026-11-20",
+      "official_link": "https://www.uesc.br/ppgeca/index.php?item=conteudo_editais.php",
+      "source_name": "Uesc/UFSB - PPGECA (Edital 171/2026)",
+      "location": "Ilhéus, BA",
+      "state": "BA",
+      "city": "Ilhéus",
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "mestrado",
+        "engenharia",
+        "vagas"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-19",
+      "social_label": "EDUCACAO",
+      "social_keyword": "UESC",
+      "social_subtitle": "Mestrado em Engenharia Civil",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "first_seen_date": "2026-11-19",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T19:46:08-03:00",
+      "updated_at": "2026-11-19T19:46:08-03:00",
+      "verified_at": "2026-11-19T19:46:08-03:00"
+    },
+    {
+      "id": "educacao-uesc-mestrado-doutorado-ecologia-biodiversidade-2027",
+      "category": "educacao",
+      "title": "Uesc abre mestrado e doutorado em Ecologia e Conservação da Biodiversidade",
+      "short_description": "O Edital UESC nº 145/2026 abre a seleção 2027.1 do mestrado e do doutorado em Ecologia e Conservação da Biodiversidade, com no mínimo 10 vagas em cada nível. As inscrições vão até 23/11/2026 e metade das vagas é reservada a ações afirmativas, incluindo pessoas negras, indígenas, quilombolas, com deficiência, trans e refugiadas.",
+      "deadline": "23/11/2026",
+      "deadline_date": "2026-11-23",
+      "official_link": "https://www2.uesc.br/publicacoes/editais/arquivo/2026/09/145_2026.pdf",
+      "source_name": "Uesc - PPG em Ecologia e Conservação da Biodiversidade (Edital 145/2026)",
+      "location": "Ilhéus, BA",
+      "state": "BA",
+      "city": "Ilhéus",
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "mestrado",
+        "doutorado",
+        "meio ambiente",
+        "vagas"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-19",
+      "social_label": "EDUCACAO",
+      "social_keyword": "UESC",
+      "social_subtitle": "Ecologia e Biodiversidade 2027",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "first_seen_date": "2026-11-19",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T19:46:08-03:00",
+      "updated_at": "2026-11-19T19:46:08-03:00",
+      "verified_at": "2026-11-19T19:46:08-03:00"
+    },
+    {
+      "id": "cultura-uesc-especializacao-gestao-cultural-2027-2029",
+      "category": "cultura",
+      "title": "Uesc abre especialização em Gestão Cultural para a turma 2027-2029",
+      "short_description": "O Edital 179/2026 da Uesc abre a seleção da turma 2027-2029 da especialização em Gestão Cultural, com inscrições até 27/11/2026 por formulário eletrônico. O curso é presencial em Ilhéus e combina aulas de campo (imersão cultural), workshops e oficinas.",
+      "deadline": "27/11/2026",
+      "deadline_date": "2026-11-27",
+      "official_link": "https://www.uesc.br/especializacao/gestaocultural/index.php?item=conteudo_selecao.php",
+      "source_name": "Uesc - Especialização em Gestão Cultural (Edital 179/2026)",
+      "location": "Ilhéus, BA",
+      "state": "BA",
+      "city": "Ilhéus",
+      "tags": [
+        "cultura",
+        "especializacao",
+        "gestao-cultural",
+        "vagas"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-19",
+      "social_label": "CULTURA",
+      "social_keyword": "UESC",
+      "social_subtitle": "Especialização em Gestão Cultural",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "first_seen_date": "2026-11-19",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T19:46:08-03:00",
+      "updated_at": "2026-11-19T19:46:08-03:00",
+      "verified_at": "2026-11-19T19:46:08-03:00"
+    },
+    {
+      "id": "educacao-uesc-mestrado-ciencias-da-saude-2027",
+      "category": "educacao",
+      "title": "Uesc abre 15 vagas de mestrado em Ciências da Saúde",
+      "short_description": "O Edital UESC nº 186/2026 abre 15 vagas do mestrado acadêmico em Ciências da Saúde para 2027.1, divididas entre as linhas Saúde Mental, Álcool e Outras Drogas (6) e Indicadores do Processo Saúde-Doença e Agravos (9). As inscrições vão até 24/11/2026 e oito vagas são reservadas a ações afirmativas.",
+      "deadline": "24/11/2026",
+      "deadline_date": "2026-11-24",
+      "official_link": "https://www2.uesc.br/publicacoes/editais/arquivo/2026/10/186_2026.pdf",
+      "source_name": "Uesc - PPG em Ciências da Saúde (Edital 186/2026)",
+      "location": "Ilhéus, BA",
+      "state": "BA",
+      "city": "Ilhéus",
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "mestrado",
+        "saude",
+        "vagas"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-19",
+      "social_label": "EDUCACAO",
+      "social_keyword": "UESC",
+      "social_subtitle": "15 vagas em Ciências da Saúde",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "first_seen_date": "2026-11-19",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T19:46:08-03:00",
+      "updated_at": "2026-11-19T19:46:08-03:00",
+      "verified_at": "2026-11-19T19:46:08-03:00"
+    },
+    {
+      "id": "educacao-uepa-profeducatec-mestrado-2027",
+      "category": "educacao",
+      "title": "Uepa abre mestrado profissional Profeducatec para a turma 2027",
+      "short_description": "O Edital 163/2026 da Uepa abre 9 vagas do Mestrado Profissional em Processos e Tecnologias Educacionais em Rede (Profeducatec) para a turma 2027, em parceria com a Seduc-PA. As inscrições vão de 01 a 13/12/2026, e as etapas seguintes seguem o cronograma do edital.",
+      "deadline": "13/12/2026",
+      "deadline_date": "2026-12-13",
+      "official_link": "https://www.uepa.br/sites/default/files/editais/edital1632026.pdf",
+      "source_name": "Uepa - Edital nº 163/2026 (Profeducatec)",
+      "location": "Belém, PA",
+      "state": "PA",
+      "city": "Belém",
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "mestrado",
+        "formacao-docente",
+        "vagas"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-19",
+      "social_label": "EDUCACAO",
+      "social_keyword": "UEPA",
+      "social_subtitle": "9 vagas no Profeducatec",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "first_seen_date": "2026-11-19",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T19:46:08-03:00",
+      "updated_at": "2026-11-19T19:46:08-03:00",
+      "verified_at": "2026-11-19T19:46:08-03:00"
+    },
+    {
+      "id": "educacao-uepa-mestrado-ensino-matematica-seduc-2027",
+      "category": "educacao",
+      "title": "Uepa abre mestrado em Ensino de Matemática para professores da Seduc-PA",
+      "short_description": "O Edital 156/2026 do PPGEM/Uepa abre vagas do Mestrado Profissional em Ensino de Matemática em Belém, exclusivas para servidores efetivos do magistério da Seduc-PA, com início no primeiro semestre de 2027. As inscrições vão de 19 a 24/11/2026 e a prova escrita está prevista para 04/12/2026.",
+      "deadline": "24/11/2026",
+      "deadline_date": "2026-11-24",
+      "official_link": "https://www.uepa.br/sites/default/files/editais/edital1562026.pdf",
+      "source_name": "Uepa - PPGEM (Edital nº 156/2026)",
+      "location": "Belém, PA",
+      "state": "PA",
+      "city": "Belém",
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "mestrado",
+        "formacao-docente",
+        "matematica"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-19",
+      "social_label": "EDUCACAO",
+      "social_keyword": "UEPA",
+      "social_subtitle": "Mestrado para professores da Seduc",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "first_seen_date": "2026-11-19",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T19:46:08-03:00",
+      "updated_at": "2026-11-19T19:46:08-03:00",
+      "verified_at": "2026-11-19T19:46:08-03:00"
+    },
+    {
+      "id": "educacao-uepa-doutorado-ciencias-ambientais-2027",
+      "category": "educacao",
+      "title": "Uepa abre doutorado em Ciências Ambientais com 17 vagas",
+      "short_description": "O Edital 158/2026 do PPGCA/Uepa abre 17 vagas do doutorado acadêmico em Ciências Ambientais para 2027, com inscrições de 30/11/2026 a 11/01/2027. A seleção tem prova escrita e de proficiência em inglês em 26/01/2027, análise do currículo Lattes, defesa do projeto e entrevista, todas presenciais em Belém.",
+      "deadline": "11/01/2027",
+      "deadline_date": "2027-01-11",
+      "official_link": "https://www.uepa.br/sites/default/files/editais/edital1582026.pdf",
+      "source_name": "Uepa - PPGCA (Edital nº 158/2026)",
+      "location": "Belém, PA",
+      "state": "PA",
+      "city": "Belém",
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "doutorado",
+        "meio ambiente",
+        "vagas"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-19",
+      "social_label": "EDUCACAO",
+      "social_keyword": "UEPA",
+      "social_subtitle": "17 vagas no doutorado",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "first_seen_date": "2026-11-19",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T19:46:08-03:00",
+      "updated_at": "2026-11-19T19:46:08-03:00",
+      "verified_at": "2026-11-19T19:46:08-03:00"
+    },
+    {
+      "id": "educacao-uft-mestrado-agroenergia-digital-2027",
+      "category": "educacao",
+      "title": "UFT abre mestrado em Agroenergia Digital com 8 vagas",
+      "short_description": "O Mestrado Acadêmico em Agroenergia Digital da UFT (Edital nº 011/2026) oferece 8 vagas para ingresso em 2027.1, com aulas presenciais em Palmas. As inscrições vão de 04 a 29/01/2027, com taxa de R$ 150, e a seleção tem prova oral online e análise curricular; pedidos de isenção da taxa podem ser feitos até 13/12/2026.",
+      "deadline": "29/01/2027",
+      "deadline_date": "2027-01-29",
+      "official_link": "https://www.uft.edu.br/noticias/divulgada-selecao-para-mestrado-em-agroenergia-digital-com-ingresso-em-2027",
+      "source_name": "UFT - Edital nº 011/2026 (PPGAD)",
+      "location": "Palmas, TO",
+      "state": "TO",
+      "city": "Palmas",
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "mestrado",
+        "energia",
+        "vagas"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-19",
+      "social_label": "EDUCACAO",
+      "social_keyword": "UFT",
+      "social_subtitle": "8 vagas em Agroenergia Digital",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "first_seen_date": "2026-11-19",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T19:46:08-03:00",
+      "updated_at": "2026-11-19T19:46:08-03:00",
+      "verified_at": "2026-11-19T19:46:08-03:00"
+    },
+    {
+      "id": "educacao-ufrb-pse-egressos-ifs-ceteps-2027-1",
+      "category": "educacao",
+      "title": "UFRB prorroga seleção com 30 vagas para egressos de institutos federais",
+      "short_description": "A UFRB prorrogou para 22/11/2026 as inscrições do Processo Seletivo Especial 2027.1 para egressos de cursos técnicos do CETEP, IFBA e IF Baiano, com 30 vagas no Bacharelado Interdisciplinar em Energia e Sustentabilidade, em Feira de Santana. A inscrição é gratuita pelo portal Prosel e a seleção usa as notas do Enem 2026, com média mínima de 450 pontos.",
+      "deadline": "22/11/2026",
+      "deadline_date": "2026-11-22",
+      "official_link": "https://ufrb.edu.br/portal/destaque-interno/ufrb-prorroga-inscricoes-de-selecao-destinada-a-estudantes-formados-em-institutos-federais-e-ceteps/",
+      "source_name": "UFRB - Processo Seletivo Especial 2027.1 (Edital 32/2026)",
+      "location": "Feira de Santana, BA",
+      "state": "BA",
+      "city": "Feira de Santana",
+      "tags": [
+        "educacao",
+        "graduacao",
+        "enem",
+        "vagas",
+        "gratuito"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-19",
+      "social_label": "EDUCACAO",
+      "social_keyword": "UFRB",
+      "social_subtitle": "30 vagas para egressos de IFs",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "nivel": [
+        "Graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "first_seen_date": "2026-11-19",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T19:46:08-03:00",
+      "updated_at": "2026-11-19T19:46:08-03:00",
+      "verified_at": "2026-11-19T19:46:08-03:00"
+    },
+    {
+      "id": "educacao-ufersa-engenharia-400-vagas-2027-1",
+      "category": "educacao",
+      "title": "UFERSA oferece 400 vagas em cursos de Engenharia para 2027.1",
+      "short_description": "O Edital Prograd nº 019/2026 da UFERSA abre 400 vagas em cursos de Engenharia para 2027.1, distribuídas entre Mossoró (145), Pau dos Ferros (120), Caraúbas (90) e Angicos (45). As inscrições vão de 11 a 22/01/2027 pelo SIGAA, com prioridade para concluintes e egressos dos bacharelados interdisciplinares BCT e BTI; diplomados de outras instituições pedem análise curricular entre 11 e 13/01/2027.",
+      "deadline": "22/01/2027",
+      "deadline_date": "2027-01-22",
+      "official_link": "https://assecom.ufersa.edu.br/2026/11/18/ufersa-oferta-400-vagas-em-cursos-de-engenharia-para-2027-1/",
+      "source_name": "UFERSA - Edital Prograd nº 019/2026",
+      "location": "Mossoró, RN",
+      "state": "RN",
+      "city": "Mossoró",
+      "tags": [
+        "educacao",
+        "graduacao",
+        "engenharia",
+        "vagas"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-19",
+      "social_label": "EDUCACAO",
+      "social_keyword": "UFERSA",
+      "social_subtitle": "400 vagas de Engenharia",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "nivel": [
+        "Graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "first_seen_date": "2026-11-19",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T19:46:08-03:00",
+      "updated_at": "2026-11-19T19:46:08-03:00",
+      "verified_at": "2026-11-19T19:46:08-03:00"
+    },
+    {
+      "id": "educacao-ufersa-fitotecnia-34-vagas-2027",
+      "category": "educacao",
+      "title": "UFERSA abre 34 vagas em mestrado e doutorado em Fitotecnia",
+      "short_description": "A UFERSA está com inscrições abertas até 29/11/2026 para 34 vagas do Programa de Pós-Graduação em Fitotecnia (Edital PROPPG nº 63/2026): 17 para o mestrado e 17 para o doutorado, com ingresso em 2027.1. A inscrição é feita pelo SIGAA e a seleção tem apresentação de projeto com arguição remota e prova de títulos; quatro vagas de cada nível são reservadas a ações afirmativas.",
+      "deadline": "29/11/2026",
+      "deadline_date": "2026-11-29",
+      "official_link": "https://assecom.ufersa.edu.br/2026/10/28/ufersa-abre-selecao-para-mestrado-e-doutorado-em-fitotecnia/",
+      "source_name": "UFERSA - Edital PROPPG nº 63/2026 (PPGFITO)",
+      "location": "Mossoró, RN",
+      "state": "RN",
+      "city": "Mossoró",
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "mestrado",
+        "doutorado",
+        "agrarias",
+        "vagas"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-19",
+      "social_label": "EDUCACAO",
+      "social_keyword": "UFERSA",
+      "social_subtitle": "34 vagas em Fitotecnia",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "first_seen_date": "2026-11-19",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T19:46:08-03:00",
+      "updated_at": "2026-11-19T19:46:08-03:00",
+      "verified_at": "2026-11-19T19:46:08-03:00"
+    },
+    {
+      "id": "trabalho-ufam-professor-regente-ead-edital-14-2026",
+      "category": "trabalho",
+      "title": "UFAM seleciona professor regente EaD com bolsa de R$ 1.850",
+      "short_description": "O Edital nº 14/2026 do CED/Ufam seleciona professor regente para as licenciaturas EaD em Ciências Biológicas, Ciências Agrárias, Química e Artes Visuais, com vagas e cadastro de reserva. As inscrições são gratuitas e vão até 24/11/2026, por formulário eletrônico; é exigido título de mestre, 20 horas semanais e residência no Amazonas. A bolsa é de R$ 1.850 por 15 horas-aula e a seleção é por análise curricular.",
+      "deadline": "24/11/2026",
+      "deadline_date": "2026-11-24",
+      "official_link": "https://www.ufam.edu.br/component/banners/click/3358.html",
+      "source_name": "UFAM - Edital nº 14/2026 (CED/UAB)",
+      "location": "Manaus, AM",
+      "state": "AM",
+      "city": "Manaus",
+      "tags": [
+        "trabalho",
+        "docencia",
+        "bolsa",
+        "ead",
+        "vagas"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-19",
+      "social_label": "TRABALHO",
+      "social_keyword": "UFAM",
+      "social_subtitle": "Bolsa de R$ 1.850",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "mod": [
+        "EaD"
+      ],
+      "first_seen_date": "2026-11-19",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T19:46:08-03:00",
+      "updated_at": "2026-11-19T19:46:08-03:00",
+      "verified_at": "2026-11-19T19:46:08-03:00"
+    },
+    {
+      "id": "trabalho-ancine-estagio-nivel-superior-brasilia",
+      "category": "trabalho",
+      "title": "ANCINE abre estágio remunerado de nível superior em Brasília",
+      "short_description": "O Edital 10/2026 da ANCINE forma cadastro de reserva para estágio remunerado de nível superior no Escritório Sede, em Brasília, com jornada de 20 ou 30 horas semanais. Podem se inscrever estudantes de graduação de instituições do DF que não estejam nos dois últimos períodos; as inscrições vão até 23/11/2026, com 10% das vagas para PCD e 30% para pessoas negras, indígenas ou pardas.",
+      "deadline": "23/11/2026",
+      "deadline_date": "2026-11-23",
+      "official_link": "https://www.gov.br/ancine/pt-br/assuntos/noticias/ancine-abre-novo-processo-seletivo-para-estagio-de-nivel-superior-no-escritorio-sede-em-brasilia-df",
+      "source_name": "ANCINE - Edital nº 10/2026 (estágio)",
+      "location": "Brasília, DF",
+      "state": "DF",
+      "city": "Brasília",
+      "tags": [
+        "trabalho",
+        "estagio",
+        "bolsa",
+        "cultura",
+        "vagas"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-19",
+      "social_label": "TRABALHO",
+      "social_keyword": "ANCINE",
+      "social_subtitle": "Estágio em Brasília",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "nivel": [
+        "Graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "first_seen_date": "2026-11-19",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T19:46:08-03:00",
+      "updated_at": "2026-11-19T19:46:08-03:00",
+      "verified_at": "2026-11-19T19:46:08-03:00"
+    },
     {
       "id": "educacao-unitins-intercambio-academico-2027",
       "category": "educacao",
@@ -3683,14 +4330,14 @@
     {
       "id": "educacao-ufopa-psr-2027-2088-vagas",
       "category": "educacao",
-      "title": "Ufopa abre 2.088 vagas em cursos de graduação gratuitos no Pará",
-      "short_description": "A Universidade Federal do Oeste do Pará (Ufopa) abriu o Processo Seletivo Regular 2027 com 2.088 vagas em cursos presenciais de graduação em Santarém e nos campi do interior. A inscrição é gratuita, pela internet, até 17/01/2027, e a seleção usa a nota do Enem de 2023 a 2026.",
+      "title": "Ufopa abre Processo Seletivo Regular 2027 com 2.088 vagas",
+      "short_description": "A Ufopa recebe até 17/01/2027, com inscrição gratuita, as inscrições do Processo Seletivo Regular (PSR) 2027, que oferece 2.088 vagas em bacharelados e licenciaturas em Santarém e em sete campi. Podem concorrer quem concluiu o ensino médio e fez ao menos uma edição do Enem entre 2023 e 2026; a primeira convocação sai em 25/01/2027 e as aulas começam em 03/03/2027.",
       "deadline": "17/01/2027",
       "deadline_date": "2027-01-17",
-      "official_link": "https://psr2027.ufopa.edu.br/",
-      "source_name": "Universidade Federal do Oeste do Pará (Ufopa)",
+      "official_link": "https://ufopa.edu.br/ufopa/comunica/noticias/ufopa-abre-inscricoes-para-o-processo-seletivo-regular-2027/",
+      "source_name": "Ufopa - Processo Seletivo Regular (PSR) 2027",
       "source_type": "primary",
-      "location": "Santarém e campi, PA",
+      "location": "Santarém, PA",
       "country": "Brasil",
       "state": "PA",
       "city": "Santarém",
@@ -3698,20 +4345,20 @@
       "tags": [
         "educacao",
         "graduacao",
-        "vestibular",
-        "enem"
+        "enem",
+        "vagas",
+        "gratuito"
       ],
       "status": "open",
       "reliability_level": "A",
       "published_date": "2026-11-05",
-      "social_label": "EDUCAÇÃO",
+      "social_label": "EDUCACAO",
       "social_keyword": "UFOPA",
-      "social_subtitle": "2.088 vagas gratuitas · PA",
+      "social_subtitle": "2.088 vagas para 2027",
       "kw": [
-        "curso",
-        "vaga",
-        "inscricoes",
-        "gratuito"
+        "oportunidade",
+        "vagas",
+        "inscricoes"
       ],
       "nivel": [
         "Graduação"
@@ -3721,9 +4368,12 @@
       ],
       "first_seen_date": "2026-11-05",
       "last_seen_date": "2026-11-19",
-      "created_at": "2026-11-06T00:56:48-03:00",
-      "updated_at": "2026-11-06T00:56:48-03:00",
-      "verified_at": "2026-11-06T00:56:48-03:00"
+      "created_at": "2026-11-19T19:46:08-03:00",
+      "updated_at": "2026-11-19T19:46:08-03:00",
+      "verified_at": "2026-11-19T19:46:08-03:00",
+      "mod": [
+        "Presencial"
+      ]
     },
     {
       "id": "trabalho-mairi-ba-concurso-20-vagas-2026",
@@ -5480,11 +6130,11 @@
   ],
   "version": "1.2.0",
   "last_updated": "2026-08-16T20:59:30-03:00",
-  "total": 125,
+  "total": 140,
   "counts": {
-    "cultura": 8,
-    "educacao": 46,
+    "cultura": 10,
+    "educacao": 56,
     "esportes": 36,
-    "trabalho": 35
+    "trabalho": 38
   }
 }
