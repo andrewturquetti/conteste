@@ -1,6 +1,939 @@
 {
-  "generated_at": "2026-11-17T16:36:03-03:00",
+  "generated_at": "2026-11-19T00:13:49-03:00",
   "opportunities": [
+    {
+      "id": "educacao-unitins-intercambio-academico-2027",
+      "category": "educacao",
+      "title": "Unitins abre intercâmbio acadêmico presencial e virtual para 2027",
+      "short_description": "A Unitins abriu inscrições para o intercâmbio acadêmico de 2027 em parceria com a Universidad Santo Tomás, com nove opções de cursos nas modalidades presencial e virtual. As inscrições para a maioria das atividades terminam em 25/11/2026 e são feitas pelo sistema de seleção da universidade.",
+      "deadline": "25/11/2026",
+      "deadline_date": "2026-11-25",
+      "official_link": "https://www.unitins.br/nPortal/portal/noticias/detalhes/8506-2026-11-18-unitins-abre-inscricoes-para-intercambio-academico-presencial-e-virtual-em-2027",
+      "source_name": "Unitins - Intercâmbio acadêmico 2027 (Universidad Santo Tomás)",
+      "location": "Palmas, TO",
+      "state": "TO",
+      "city": "Palmas",
+      "tags": [
+        "educacao",
+        "intercambio",
+        "graduacao",
+        "internacional"
+      ],
+      "nivel": [
+        "Graduação"
+      ],
+      "mod": [
+        "Presencial",
+        "EaD"
+      ],
+      "social_keyword": "UNITINS",
+      "social_subtitle": "Intercâmbio 2027 · até 25/11",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "EDUCACAO",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "educacao-unilab-egressos-humanidades-segundo-ciclo-2026",
+      "category": "educacao",
+      "title": "Unilab abre seleção para egressos de Humanidades cursarem o segundo ciclo",
+      "short_description": "A Unilab recebe até 22/11/2026 inscrições do processo seletivo que permite a egressos do Bacharelado em Humanidades ingressarem nos cursos de segundo ciclo dos Institutos de Humanidades (IH) e de Humanidades e Letras (IHL). A seleção considera o desempenho no curso de origem e as vagas disponíveis em cada graduação.",
+      "deadline": "22/11/2026",
+      "deadline_date": "2026-11-22",
+      "official_link": "https://unilab.edu.br/2026/11/11/ate-22-11-abertas-as-inscricoes-do-processo-seletivo-para-ingresso-de-candidatos-egressos-do-bacharelado-em-humanidades-nos-cursos-dos-ih-e-ihl/",
+      "source_name": "Unilab - Seleção de egressos de Humanidades (2º ciclo)",
+      "location": "Redenção, CE",
+      "state": "CE",
+      "city": "Redenção",
+      "tags": [
+        "educacao",
+        "graduacao",
+        "humanidades",
+        "unilab"
+      ],
+      "nivel": [
+        "Graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "social_keyword": "UNILAB",
+      "social_subtitle": "Egressos · até 22/11",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "EDUCACAO",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "cultura-unilab-oficinas-festival-culturas-2026",
+      "category": "cultura",
+      "title": "Unilab abre oficinas de artesanato do Festival das Culturas",
+      "short_description": "A Unilab está com inscrições abertas até 19/11/2026 para as oficinas do evento “Cores e Dobras: Vivências, Criatividade e Lazer”, entre elas a Oficina de MDF (quadros e chaveiros personalizados) e a de crepom. As vagas são limitadas e a inscrição é feita por formulário eletrônico divulgado pela Seção de Desporto (SEDES).",
+      "deadline": "19/11/2026",
+      "deadline_date": "2026-11-19",
+      "official_link": "https://unilab.edu.br/2026/11/12/unilab-promove-oficinas-de-artesanato-e-lazer-durante-o-festival-das-culturas-inscricoes-abertas/",
+      "source_name": "Unilab - Festival das Culturas (oficinas de artesanato)",
+      "location": "Redenção, CE",
+      "state": "CE",
+      "city": "Redenção",
+      "tags": [
+        "cultura",
+        "oficina",
+        "artesanato",
+        "festival"
+      ],
+      "is_free": true,
+      "social_keyword": "UNILAB",
+      "social_subtitle": "Oficinas · até 19/11",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "CULTURA",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "educacao-uerj-125-vagas-enem-2027",
+      "category": "educacao",
+      "title": "Uerj abre 125 vagas em graduação para participantes do Enem",
+      "short_description": "A Uerj recebe de 18 a 30/11/2026 inscrições para 125 vagas remanescentes do Vestibular Estadual 2027 destinadas a quem participou do Enem, com entrada no 1º semestre de 2027. A seleção usa a nota do Enem e a inscrição é feita pela página do Vestibular Uerj, sob responsabilidade do Depsea.",
+      "deadline": "30/11/2026",
+      "deadline_date": "2026-11-30",
+      "official_link": "https://www.uerj.br/noticia/uerj-oferta-125-vagas-em-cursos-de-graduacao-para-participantes-do-enem-inscricoes-vao-de-18-a-30-11/",
+      "source_name": "Uerj - Vestibular Estadual 2027 (vagas não demandas via Enem)",
+      "location": "Rio de Janeiro, RJ",
+      "state": "RJ",
+      "city": "Rio de Janeiro",
+      "tags": [
+        "educacao",
+        "graduacao",
+        "enem",
+        "vestibular"
+      ],
+      "nivel": [
+        "Graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "social_keyword": "UERJ",
+      "social_subtitle": "125 vagas via Enem",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "EDUCACAO",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "trabalho-uergs-docentes-administracao-ead-2026",
+      "category": "trabalho",
+      "title": "Uergs seleciona docentes para o curso de Administração EaD",
+      "short_description": "A Uergs está com inscrições abertas de 17/11 a 06/12/2026 para a seleção de professores regentes do curso de Bacharelado em Administração EaD, ofertado pelo Sistema UAB. São cinco vagas imediatas e formação de listas de suplentes, com prioridade para docentes do quadro permanente da universidade.",
+      "deadline": "06/12/2026",
+      "deadline_date": "2026-12-06",
+      "official_link": "https://www.uergs.edu.br/uergs-abre-selecao-de-professores-regentes-para-o-curso-de-administracao-ead",
+      "source_name": "Uergs - Seleção de docentes para Administração EaD (UAB)",
+      "location": "Porto Alegre, RS",
+      "state": "RS",
+      "city": "Porto Alegre",
+      "tags": [
+        "trabalho",
+        "professor",
+        "ead",
+        "uab"
+      ],
+      "tipo": [
+        "Processo seletivo"
+      ],
+      "mod": [
+        "EaD"
+      ],
+      "social_keyword": "UERGS",
+      "social_subtitle": "5 vagas · EaD",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "TRABALHO",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "educacao-uepa-residencia-medica-246-vagas-2027",
+      "category": "educacao",
+      "title": "Uepa abre 246 vagas em Residência Médica 2027",
+      "short_description": "A Universidade do Estado do Pará abriu o Processo Seletivo Unificado de Residência Médica 2027 (PSU/2027), com 246 vagas credenciadas pelo MEC para médicos e concluintes do último semestre de Medicina. As inscrições vão de 13 a 26/11/2026, com prova objetiva em etapa única e início das atividades previsto para março de 2027.",
+      "deadline": "26/11/2026",
+      "deadline_date": "2026-11-26",
+      "official_link": "https://www.uepa.br/pt-br/content/uepa-oferta-246-vagas-no-processo-seletivo-unificado-de-residencia-medica-2027-0",
+      "source_name": "Uepa - Processo Seletivo Unificado de Residência Médica 2027",
+      "location": "Belém, PA",
+      "state": "PA",
+      "city": "Belém",
+      "tags": [
+        "educacao",
+        "residencia medica",
+        "pos-graduacao",
+        "saude"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "social_keyword": "UEPA",
+      "social_subtitle": "246 vagas · Residência Médica",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "EDUCACAO",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "cultura-ufmg-vestibular-habilidades-274-vagas-2026",
+      "category": "cultura",
+      "title": "UFMG abre 274 vagas no Vestibular Habilidades para cursos de artes",
+      "short_description": "A UFMG segue com inscrições abertas até 11/12/2026 no Vestibular Habilidades, que oferece 274 vagas em cursos como Artes Visuais, Cinema de Animação e Artes Digitais, Design, Música e Teatro. Além da nota do Enem, o candidato passa por provas de habilidade específica, conforme o curso escolhido.",
+      "deadline": "11/12/2026",
+      "deadline_date": "2026-12-11",
+      "official_link": "https://www.ufmg.br/comunicacao/noticias/formas-de-ingresso/inscricoes-para-o-vestibular-habilidades-seguem-abertas-ate-11-de-dezembro/",
+      "source_name": "UFMG - Vestibular Habilidades 2027",
+      "location": "Belo Horizonte, MG",
+      "state": "MG",
+      "city": "Belo Horizonte",
+      "tags": [
+        "cultura",
+        "artes",
+        "vestibular",
+        "graduacao"
+      ],
+      "nivel": [
+        "Graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "social_keyword": "UFMG ARTES",
+      "social_subtitle": "274 vagas · até 11/12",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "CULTURA",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "educacao-ufmg-vagas-indigenas-24-vagas-2026",
+      "category": "educacao",
+      "title": "UFMG abre 24 vagas suplementares para estudantes indígenas",
+      "short_description": "A UFMG recebe inscrições até 20/11/2026 no programa de vagas suplementares para estudantes indígenas, com 24 vagas distribuídas em cursos de Belo Horizonte e Montes Claros. A seleção é aberta a candidatos aldeados e usa o histórico escolar do ensino médio, conforme o edital do programa.",
+      "deadline": "20/11/2026",
+      "deadline_date": "2026-11-20",
+      "official_link": "https://www.ufmg.br/comunicacao/noticias/formas-de-ingresso/programa-de-vagas-suplementares-para-estudantes-indigenas-recebe-inscricoes-ate-20-de-novembro/",
+      "source_name": "UFMG - Programa de vagas suplementares para estudantes indígenas",
+      "location": "Belo Horizonte, MG",
+      "state": "MG",
+      "city": "Belo Horizonte",
+      "tags": [
+        "educacao",
+        "graduacao",
+        "indigenas",
+        "acoes afirmativas"
+      ],
+      "nivel": [
+        "Graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "social_keyword": "UFMG",
+      "social_subtitle": "24 vagas · até 20/11",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "EDUCACAO",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "cultura-ufgd-bolsas-cultura-2027",
+      "category": "cultura",
+      "title": "UFGD oferece 24 bolsas de cultura de R$ 700 para ações de extensão em 2027",
+      "short_description": "O Edital DAC/UFGD nº 01/2026 seleciona ações culturais de extensão para 2027 coordenadas por docentes e técnicos administrativos, com 24 bolsas de R$ 700 mensais. As inscrições são feitas pela plataforma Even3 até 10/01/2027 e priorizam projetos que aproximem a universidade da comunidade externa.",
+      "deadline": "10/01/2027",
+      "deadline_date": "2027-01-10",
+      "official_link": "https://www.ufgd.edu.br/noticias/ufgd-abre-inscricoes-para-selecao-de-projetos-culturais-coordenados-por-tecnicos-ou-docentes",
+      "source_name": "UFGD - Edital DAC/UFGD 01/2026 (bolsas de cultura)",
+      "location": "Dourados, MS",
+      "state": "MS",
+      "city": "Dourados",
+      "tags": [
+        "cultura",
+        "bolsa",
+        "extensao",
+        "arte"
+      ],
+      "custo": [
+        "Gratuito"
+      ],
+      "social_keyword": "UFGD CULTURA",
+      "social_subtitle": "24 bolsas · R$ 700",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "CULTURA",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "educacao-ufgd-vestibular-letras-libras-2027",
+      "category": "educacao",
+      "title": "UFGD abre vestibular de Letras-Libras com 60 vagas para pessoas surdas",
+      "short_description": "A UFGD está com inscrições abertas até 27/11/2026 para o vestibular do curso de Licenciatura em Letras-Libras, semipresencial, com 60 vagas prioritárias para pessoas surdas e ingresso em 2027. As inscrições vão de 5 de outubro a 27 de novembro pela Área de Seleção da UFGD, com classificação por análise do histórico escolar.",
+      "deadline": "27/11/2026",
+      "deadline_date": "2026-11-27",
+      "official_link": "https://www.ufgd.edu.br/noticias/ufgd-abre-inscricoes-para-vestibular-de-letras-libras-com-60-vagas-prioritarias-para-pessoas-surdas",
+      "source_name": "UFGD - Vestibular Letras-Libras 2027",
+      "location": "Dourados, MS",
+      "state": "MS",
+      "city": "Dourados",
+      "tags": [
+        "educacao",
+        "graduacao",
+        "libras",
+        "acessibilidade"
+      ],
+      "nivel": [
+        "Graduação"
+      ],
+      "mod": [
+        "Semipresencial"
+      ],
+      "social_keyword": "UFGD",
+      "social_subtitle": "60 vagas · Letras-Libras",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "EDUCACAO",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "educacao-ufca-mudanca-curso-transferencia-graduados-2026",
+      "category": "educacao",
+      "title": "UFCA abre mudança de curso, transferência e admissão de graduados",
+      "short_description": "A UFCA publicou os editais de mudança de curso, transferência voluntária e admissão de graduados, com inscrições de 16 a 30/11/2026. As vagas são para os campi de Juazeiro do Norte, Crato, Brejo Santo e Barbalha, e o candidato deve conferir no edital os cursos e requisitos de cada modalidade.",
+      "deadline": "30/11/2026",
+      "deadline_date": "2026-11-30",
+      "official_link": "https://www.ufca.edu.br/noticias/divulgados-editais-para-mudanca-de-curso-e-para-transferencia-voluntaria-e-admissao-de-graduados-na-ufca-inscricoes-comecam-na-segunda-feira-16/",
+      "source_name": "UFCA - Editais de mudança de curso, transferência e admissão de graduados",
+      "location": "Juazeiro do Norte, CE",
+      "state": "CE",
+      "city": "Juazeiro do Norte",
+      "tags": [
+        "educacao",
+        "graduacao",
+        "transferencia",
+        "ufca"
+      ],
+      "nivel": [
+        "Graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "social_keyword": "UFCA",
+      "social_subtitle": "16 a 30/11",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "EDUCACAO",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "cultura-ufc-premio-jornalismo-2026",
+      "category": "cultura",
+      "title": "UFC recebe inscrições para o Prêmio UFC de Jornalismo 2026",
+      "short_description": "A Universidade Federal do Ceará recebe, de 9 de outubro a 20/12/2026, inscrições para a 3ª edição do Prêmio UFC de Jornalismo, com o tema “Universidade pela vida de todas as mulheres”. Podem ser inscritas publicações em texto, vídeo, áudio, fotografia e mídias sociais, modalidade nova desta edição.",
+      "deadline": "20/12/2026",
+      "deadline_date": "2026-12-20",
+      "official_link": "https://ufcinforma.ufc.br/pt/noticias/ufc-lanca-edital-do-premio-ufc-de-jornalismo-de-2026-tema-do-concurso-e-universidade-pela-vida-de-todas-as-mulheres",
+      "source_name": "UFC - Prêmio UFC de Jornalismo 2026",
+      "location": "Fortaleza, CE",
+      "state": "CE",
+      "city": "Fortaleza",
+      "tags": [
+        "cultura",
+        "jornalismo",
+        "premio",
+        "comunicacao"
+      ],
+      "mod": [
+        "EaD"
+      ],
+      "social_keyword": "PRÊMIO UFC",
+      "social_subtitle": "Jornalismo · até 20/12",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "CULTURA",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "educacao-ufc-127-vagas-olimpiadas-2027",
+      "category": "educacao",
+      "title": "UFC oferta 127 vagas em graduação para premiados em olimpíadas do conhecimento",
+      "short_description": "A Universidade Federal do Ceará abriu edital com 127 vagas em cursos de graduação presenciais para estudantes premiados em olimpíadas e competições científicas. A inscrição é gratuita, feita pela internet no site da Prograd, de 9 a 23/11/2026, e cada candidato pode concorrer a uma única vaga.",
+      "deadline": "23/11/2026",
+      "deadline_date": "2026-11-23",
+      "official_link": "https://ufcinforma.ufc.br/pt/noticias/ufc-lanca-edital-com-127-vagas-em-cursos-de-graduacao-para-estudantes-premiados-em-olimpiadas-do-conhecimento-ou-competicoes-cientificas",
+      "source_name": "UFC - Edital de ingresso para premiados em olimpíadas do conhecimento",
+      "location": "Fortaleza, CE",
+      "state": "CE",
+      "city": "Fortaleza",
+      "tags": [
+        "educacao",
+        "graduacao",
+        "olimpiadas",
+        "ufc"
+      ],
+      "nivel": [
+        "Graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "is_free": true,
+      "social_keyword": "UFC",
+      "social_subtitle": "127 vagas · Olimpíadas",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "EDUCACAO",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "educacao-uesc-mestrado-sistemas-aquaticos-tropicais-2027",
+      "category": "educacao",
+      "title": "UESC e UFSB abrem mestrado em Sistemas Aquáticos Tropicais",
+      "short_description": "O Programa de Pós-Graduação em Sistemas Aquáticos Tropicais (UESC/UFSB) abriu seleção para a turma 2027.1 do mestrado acadêmico, com inscrições de 27/11 a 15/12/2026 pelo edital 193/2026. O edital e os anexos estão na página de editais da UESC.",
+      "deadline": "15/12/2026",
+      "deadline_date": "2026-12-15",
+      "official_link": "https://www2.uesc.br/publicacoes/editais/2026",
+      "source_name": "UESC - PPG Sistemas Aquáticos Tropicais (edital 193/2026)",
+      "location": "Ilhéus, BA",
+      "state": "BA",
+      "city": "Ilhéus",
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "mestrado",
+        "meio ambiente"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "custo": [
+        "Gratuito"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "social_keyword": "UESC",
+      "social_subtitle": "Mestrado · 27/11 a 15/12",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "EDUCACAO",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "trabalho-uepg-professores-medicina-2026",
+      "category": "trabalho",
+      "title": "UEPG abre processo seletivo para professores de Medicina",
+      "short_description": "A UEPG está com inscrições abertas até 23h59 de 26/11/2026 no processo seletivo para contratação de professores do curso de Medicina, com 6 vagas em áreas como Anatomia, Gastroenterologia, Ginecologia e Obstetrícia, Pediatria e Semiologia Médica. As inscrições são online, pela Progesp, e o edital traz os requisitos de titulação.",
+      "deadline": "26/11/2026",
+      "deadline_date": "2026-11-26",
+      "official_link": "https://www.uepg.br/seletivo-prof-medicina/",
+      "source_name": "UEPG - Processo seletivo de professores de Medicina",
+      "location": "Ponta Grossa, PR",
+      "state": "PR",
+      "city": "Ponta Grossa",
+      "tags": [
+        "trabalho",
+        "professor",
+        "medicina",
+        "processo seletivo"
+      ],
+      "tipo": [
+        "Processo seletivo"
+      ],
+      "social_keyword": "UEPG",
+      "social_subtitle": "6 vagas · Medicina",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "TRABALHO",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "educacao-uepb-ingresso-graduados-2027",
+      "category": "educacao",
+      "title": "UEPB abre seleção para graduados ingressarem em cursos em 2027.1",
+      "short_description": "A Pró-reitoria de Graduação da UEPB abriu processo seletivo com vagas para ingresso de graduados no semestre 2027.1. As inscrições ficam abertas das 16h de 09/11 às 16h de 07/12/2026 e são feitas exclusivamente pela internet, no sistema de seleção da universidade.",
+      "deadline": "07/12/2026",
+      "deadline_date": "2026-12-07",
+      "official_link": "https://uepb.edu.br/pro-reitoria-de-graduacao-abre-processo-seletivo-com-vagas-para-ingresso-de-graduados-no-semestre-letivo-2027-1/",
+      "source_name": "UEPB - Processo seletivo de ingresso de graduados 2027.1",
+      "location": "Campina Grande, PB",
+      "state": "PB",
+      "city": "Campina Grande",
+      "tags": [
+        "educacao",
+        "graduacao",
+        "graduados",
+        "uepb"
+      ],
+      "nivel": [
+        "Graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "social_keyword": "UEPB",
+      "social_subtitle": "Graduados · 2027.1",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "EDUCACAO",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "educacao-uenf-mestrado-doutorado-engenharia-civil-2027",
+      "category": "educacao",
+      "title": "UENF recebe inscrições para mestrado e doutorado em Engenharia Civil",
+      "short_description": "O Programa de Pós-Graduação em Engenharia Civil da UENF está com inscrições abertas até 30/11/2026 para mestrado e doutorado, com ingresso em 2027. O edital e o cronograma completo estão na página de editais da universidade, em Campos dos Goytacazes (RJ).",
+      "deadline": "30/11/2026",
+      "deadline_date": "2026-11-30",
+      "official_link": "https://uenf.br/portal/noticias/inscricoes-para-mestrado-e-doutorado-em-engenharia-civil-da-uenf-seguem-abertas-ate-30-de-novembro/",
+      "source_name": "UENF - PPG Engenharia Civil (mestrado e doutorado 2027)",
+      "location": "Campos dos Goytacazes, RJ",
+      "state": "RJ",
+      "city": "Campos dos Goytacazes",
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "mestrado",
+        "doutorado",
+        "engenharia"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "custo": [
+        "Gratuito"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "social_keyword": "UENF",
+      "social_subtitle": "Engenharia Civil · até 30/11",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "EDUCACAO",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "educacao-uem-428-bolsas-auxilio-2027",
+      "category": "educacao",
+      "title": "UEM oferece 428 bolsas de R$ 640 para estudantes de graduação em 2027",
+      "short_description": "A Universidade Estadual de Maringá abriu processo seletivo para 428 bolsas de R$ 640 voltadas a estudantes de graduação em vulnerabilidade socioeconômica, incluindo cotas universais para negros e ao menos 58 bolsas para os câmpus regionais. As inscrições são feitas por formulário eletrônico até 23h59 de 23/11/2026.",
+      "deadline": "23/11/2026",
+      "deadline_date": "2026-11-23",
+      "official_link": "https://www.uem.br/noticias-externas/noticias-uem/uem-oferece-428-bolsas-de-r-640-para-estudantes-de",
+      "source_name": "UEM - Programa de bolsas de auxílio estudantil 2027",
+      "location": "Maringá, PR",
+      "state": "PR",
+      "city": "Maringá",
+      "tags": [
+        "educacao",
+        "bolsa",
+        "auxilio estudantil",
+        "graduacao"
+      ],
+      "nivel": [
+        "Graduação"
+      ],
+      "is_free": true,
+      "social_keyword": "UEM",
+      "social_subtitle": "428 bolsas · R$ 640",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "EDUCACAO",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "educacao-furg-mestrado-doutorado-ciencias-saude-2027",
+      "category": "educacao",
+      "title": "FURG abre 44 vagas em mestrado e doutorado em Ciências da Saúde",
+      "short_description": "O Programa de Pós-Graduação em Ciências da Saúde da FURG está com inscrições gratuitas abertas até 03/12/2026 para ingresso em 2027, com 44 vagas (23 para mestrado e 21 para doutorado). A inscrição é feita pelo Sistema de Pós-graduação (Siposg) e o edital completo está na página de editais da universidade.",
+      "deadline": "03/12/2026",
+      "deadline_date": "2026-12-03",
+      "official_link": "https://www.furg.br/editais/editais-pos-graduacao/furg-abre-inscricoes-para-mestrado-e-doutorado-em-ciencias-da-saude-ingresso-2027",
+      "source_name": "FURG - PPG Ciências da Saúde (ingresso 2027)",
+      "location": "Rio Grande, RS",
+      "state": "RS",
+      "city": "Rio Grande",
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "mestrado",
+        "doutorado",
+        "saude"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "custo": [
+        "Gratuito"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "is_free": true,
+      "social_keyword": "FURG",
+      "social_subtitle": "44 vagas · até 03/12",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "EDUCACAO",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "esportes-selva-radical-sooretama-2027",
+      "category": "esportes",
+      "title": "Corrida de Obstáculos Selva Radical abre inscrições para 2027",
+      "short_description": "A Corrida de Obstáculos Selva Radical 2027 será realizada em 04/04/2027, às 8h, em Sooretama (ES), com percurso de obstáculos e inscrição pela plataforma Sua Inscrição. A página oficial do evento reúne regulamento, categorias, valores e datas e horários da retirada de kits.",
+      "deadline": "04/04/2027",
+      "deadline_date": "2027-04-04",
+      "official_link": "https://suainscricao.com/evento/corrida-obstaculos-selva-radical",
+      "source_name": "Sua Inscrição - Corrida de Obstáculos Selva Radical 2027",
+      "location": "Sooretama, ES",
+      "state": "ES",
+      "city": "Sooretama",
+      "tags": [
+        "esportes",
+        "corrida de obstaculos",
+        "espirito santo"
+      ],
+      "is_free": false,
+      "social_keyword": "SELVA RADICAL",
+      "social_subtitle": "04/04 · Sooretama-ES",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "ESPORTES",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "educacao-ufc-casas-cultura-estrangeira-1136-vagas-2027",
+      "category": "educacao",
+      "title": "Casas de Cultura Estrangeira da UFC abrem 1.136 vagas em cursos de idiomas",
+      "short_description": "As Casas de Cultura Estrangeira da UFC ofertam 1.136 vagas para o semestre 2027.1, sendo 573 para o semestre inicial e 563 para o teste de nível. As inscrições vão das 10h de 27/11 às 23h59 de 09/12/2026, no horário de Fortaleza; a isenção da taxa foi solicitada até 17/11.",
+      "deadline": "09/12/2026",
+      "deadline_date": "2026-12-09",
+      "official_link": "https://ufcinforma.ufc.br/pt/noticias/casas-de-cultura-estrangeira-ofertam-1136-vagas-para-o-semestre-20271-inscricoes-comecam-no-dia-2711",
+      "source_name": "UFC - Casas de Cultura Estrangeira (semestre 2027.1)",
+      "location": "Fortaleza, CE",
+      "state": "CE",
+      "city": "Fortaleza",
+      "tags": [
+        "educacao",
+        "idiomas",
+        "cursos",
+        "ufc"
+      ],
+      "nivel": [
+        "Extensão"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "social_keyword": "UFC IDIOMAS",
+      "social_subtitle": "1.136 vagas · 27/11 a 09/12",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "EDUCACAO",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
+    {
+      "id": "esportes-pedal-reis-magos-serra-2027",
+      "category": "esportes",
+      "title": "1º Pedal Reis Magos abre inscrições para janeiro de 2027",
+      "short_description": "O 1º Pedal Reis Magos será realizado em 17/01/2027, às 6h, em Nova Almeida, na Serra (ES), com prova de mountain bike e inscrição pela plataforma Sua Inscrição. A página do evento traz regulamento, categorias, percurso e informações sobre retirada de kit.",
+      "deadline": "17/01/2027",
+      "deadline_date": "2027-01-17",
+      "official_link": "https://suainscricao.com/evento/1o-pedal-reis-magos",
+      "source_name": "Sua Inscrição - 1º Pedal Reis Magos",
+      "location": "Serra, ES",
+      "state": "ES",
+      "city": "Serra",
+      "tags": [
+        "esportes",
+        "ciclismo",
+        "mtb",
+        "espirito santo"
+      ],
+      "is_free": false,
+      "social_keyword": "PEDAL REIS MAGOS",
+      "social_subtitle": "17/01 · Serra-ES",
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-18",
+      "social_label": "ESPORTES",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-18",
+      "last_seen_date": "2026-11-19",
+      "created_at": "2026-11-19T00:12:44-03:00",
+      "updated_at": "2026-11-19T00:12:44-03:00",
+      "verified_at": "2026-11-19T00:12:44-03:00"
+    },
     {
       "id": "esportes-3x3-uog-league-sao-paulo-2026",
       "category": "esportes",
@@ -40,7 +973,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -89,7 +1022,7 @@
         "EaD"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -133,7 +1066,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -177,7 +1110,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -221,7 +1154,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -267,7 +1200,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -311,7 +1244,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -357,7 +1290,7 @@
         "Pago"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -401,7 +1334,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -439,7 +1372,7 @@
         "vaga"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T15:33:49-03:00",
       "updated_at": "2026-11-17T15:33:49-03:00",
       "verified_at": "2026-11-17T15:33:49-03:00"
@@ -483,7 +1416,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -527,7 +1460,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -575,7 +1508,7 @@
         "rua"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T15:33:49-03:00",
       "updated_at": "2026-11-17T15:33:49-03:00",
       "verified_at": "2026-11-17T15:33:49-03:00"
@@ -619,7 +1552,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -663,7 +1596,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -707,7 +1640,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -753,7 +1686,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -798,7 +1731,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -847,7 +1780,7 @@
         "EaD"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -893,7 +1826,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -939,7 +1872,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -984,7 +1917,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -1028,7 +1961,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -1072,7 +2005,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -1118,7 +2051,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -1164,7 +2097,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -1208,7 +2141,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -1252,7 +2185,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -1296,7 +2229,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -1340,7 +2273,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -1384,7 +2317,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -1428,7 +2361,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -1468,48 +2401,10 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
-    },
-    {
-      "id": "trabalho-cesgranrio-eppgg-bahia-2026",
-      "category": "trabalho",
-      "title": "Bahia prorroga inscrições do concurso de Especialista em Políticas Públicas e Gestão Governamental",
-      "short_description": "A Cesgranrio prorrogou até 18/11/2026 as inscrições do concurso para Especialista em Políticas Públicas e Gestão Governamental (EPPGG) do Estado da Bahia. As inscrições são feitas no portal da banca organizadora, que reúne o edital, o cronograma e as demais etapas da seleção. Quem quer seguir carreira no serviço público estadual deve conferir os requisitos, o conteúdo programático e o valor da taxa antes do encerramento do prazo.",
-      "deadline": "18/11/2026",
-      "deadline_date": "2026-11-18",
-      "official_link": "https://www.cesgranrio.org.br/inscricoes-abertas-para-concurso-de-especialista-em-politicas-publicas-e-gestao-governamental-da-bahia/",
-      "source_name": "Cesgranrio - Concurso EPPGG Bahia 2026",
-      "source_type": "primary",
-      "location": "Bahia",
-      "country": "Brasil",
-      "state": "BA",
-      "city": null,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "servico-publico",
-        "bahia"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-17",
-      "social_label": "TRABALHO",
-      "social_keyword": "EPPGG",
-      "social_subtitle": "Inscrições até 18/11",
-      "kw": [
-        "concurso",
-        "inscricao",
-        "vaga",
-        "servico-publico"
-      ],
-      "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
-      "created_at": "2026-11-17T15:33:49-03:00",
-      "updated_at": "2026-11-17T15:33:49-03:00",
-      "verified_at": "2026-11-17T15:33:49-03:00"
     },
     {
       "id": "esportes-corrida-caminhada-natal-solidario-baixo-guandu-2026",
@@ -1554,7 +2449,7 @@
         "prova"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T15:33:49-03:00",
       "updated_at": "2026-11-17T15:33:49-03:00",
       "verified_at": "2026-11-17T15:33:49-03:00"
@@ -1602,7 +2497,7 @@
         "6km"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-17T15:33:49-03:00",
       "updated_at": "2026-11-17T15:33:49-03:00",
       "verified_at": "2026-11-17T15:33:49-03:00"
@@ -1647,7 +2542,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -1691,7 +2586,7 @@
         "Pago"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -1733,7 +2628,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -1775,7 +2670,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -1819,7 +2714,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -1856,7 +2751,7 @@
         "gratuito"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -1900,7 +2795,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -1940,7 +2835,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -1985,7 +2880,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -2031,7 +2926,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -2077,7 +2972,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -2122,7 +3017,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -2163,7 +3058,7 @@
         "Processo seletivo"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -2204,7 +3099,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -2243,7 +3138,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-12",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-12T13:09:33-03:00",
       "updated_at": "2026-11-12T13:09:33-03:00",
       "verified_at": "2026-11-12T13:09:33-03:00"
@@ -2287,7 +3182,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-12",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-12T13:09:33-03:00",
       "updated_at": "2026-11-12T13:09:33-03:00",
       "verified_at": "2026-11-12T13:09:33-03:00"
@@ -2331,7 +3226,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-12",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-12T13:09:33-03:00",
       "updated_at": "2026-11-12T13:09:33-03:00",
       "verified_at": "2026-11-12T13:09:33-03:00"
@@ -2376,7 +3271,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-12",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-12T13:09:33-03:00",
       "updated_at": "2026-11-12T13:09:33-03:00",
       "verified_at": "2026-11-12T13:09:33-03:00"
@@ -2420,55 +3315,10 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-12",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-12T13:09:33-03:00",
       "updated_at": "2026-11-12T13:09:33-03:00",
       "verified_at": "2026-11-12T13:09:33-03:00"
-    },
-    {
-      "id": "educacao-uern-especializacao-saude-familia-170-vagas-2026",
-      "category": "educacao",
-      "title": "UERN abre 170 vagas em especialização gratuita a distância em Saúde da Família",
-      "short_description": "A Diretoria de Educação a Distância da UERN abriu 170 vagas na especialização gratuita em Saúde da Família, na modalidade a distância e financiada pela UAB, com 450 horas e 18 meses de duração. Podem se inscrever graduados em Odontologia, Enfermagem, Medicina, Serviço Social, Farmácia, Fisioterapia, Psicologia, Nutrição e outras áreas da saúde; 70% das vagas são reservadas a servidores da Estratégia Saúde da Família. Inscrições de 04/11 a 18/11/2026, com polos em Açu, Caraúbas, Canguaretama, Natal e Mossoró.",
-      "deadline": "18/11/2026",
-      "deadline_date": "2026-11-18",
-      "official_link": "https://dead.uern.br/2026/11/especializacao-em-saude-da-familia-com-inscricao-aberta/",
-      "source_name": "Universidade do Estado do Rio Grande do Norte (UERN) - DEaD, edital 167",
-      "source_type": "primary",
-      "location": "Mossoró, RN",
-      "country": "Brasil",
-      "state": "RN",
-      "city": "Mossoró",
-      "is_free": true,
-      "tags": [
-        "educacao",
-        "pos-graduacao",
-        "especializacao",
-        "saude"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-11",
-      "social_label": "EDUCAÇÃO",
-      "social_keyword": "UERN",
-      "social_subtitle": "170 vagas gratuitas · RN",
-      "kw": [
-        "curso",
-        "vaga",
-        "inscricoes",
-        "gratuito"
-      ],
-      "nivel": [
-        "Pós-graduação"
-      ],
-      "custo": [
-        "Gratuito"
-      ],
-      "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-17",
-      "created_at": "2026-11-11T03:43:19-03:00",
-      "updated_at": "2026-11-11T03:43:19-03:00",
-      "verified_at": "2026-11-11T03:43:19-03:00"
     },
     {
       "id": "trabalho-nova-odessa-sp-guarda-municipal-2026",
@@ -2504,47 +3354,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-17",
-      "created_at": "2026-11-11T03:43:19-03:00",
-      "updated_at": "2026-11-11T03:43:19-03:00",
-      "verified_at": "2026-11-11T03:43:19-03:00"
-    },
-    {
-      "id": "educacao-ifsp-cursos-tecnicos-2027-3255-vagas",
-      "category": "educacao",
-      "title": "IFSP abre 3.255 vagas em cursos técnicos gratuitos; inscrições até 18/11",
-      "short_description": "O Instituto Federal de São Paulo (IFSP) abriu o processo seletivo 2027/1 dos cursos técnicos concomitantes e subsequentes ao ensino médio, com 3.255 vagas gratuitas em 78 ofertas de campi e polos, incluindo opções a distância. As inscrições vão até 18/11/2026, a taxa é de R$ 30,00. A isenção pode ser pedida até 11/11 e o pagamento da taxa vai até 19/11, conforme o edital 192/2026.",
-      "deadline": "18/11/2026",
-      "deadline_date": "2026-11-18",
-      "official_link": "https://processoseletivo.ifsp.edu.br/tecnicos-2027-1/",
-      "source_name": "Instituto Federal de São Paulo (IFSP) - Edital 192/2026",
-      "source_type": "primary",
-      "location": "São Paulo",
-      "country": "Brasil",
-      "state": "SP",
-      "city": null,
-      "is_free": false,
-      "tags": [
-        "educacao",
-        "curso-tecnico",
-        "processo-seletivo"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-11",
-      "social_label": "EDUCAÇÃO",
-      "social_keyword": "IFSP",
-      "social_subtitle": "3.255 vagas técnicas gratuitas · SP",
-      "kw": [
-        "curso",
-        "vaga",
-        "inscricoes"
-      ],
-      "nivel": [
-        "Curso técnico"
-      ],
-      "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -2583,7 +3393,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -2622,7 +3432,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -2661,7 +3471,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -2702,7 +3512,7 @@
         "Pós-graduação"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -2743,7 +3553,7 @@
         "Processo seletivo"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-12T13:09:33-03:00",
       "updated_at": "2026-11-12T13:09:33-03:00",
       "verified_at": "2026-11-12T13:09:33-03:00"
@@ -2784,47 +3594,7 @@
         "Estágio"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-17",
-      "created_at": "2026-11-06T13:47:29-03:00",
-      "updated_at": "2026-11-06T13:47:29-03:00",
-      "verified_at": "2026-11-06T13:47:29-03:00"
-    },
-    {
-      "id": "educacao-santa-casa-sp-vestibular-2027-1438-vagas",
-      "category": "educacao",
-      "title": "Santa Casa de São Paulo abre 1.438 vagas em vestibular para 21 cursos de saúde e tecnologia",
-      "short_description": "A Faculdade de Ciências Médicas da Santa Casa de São Paulo abriu o vestibular do 1º semestre de 2027 com 1.438 vagas em cursos como Biomedicina, Enfermagem, Farmácia, Odontologia, Psicologia e Sistemas da Informação. As inscrições vão até 17/11/2026 e a taxa é de R$ 68,00.",
-      "deadline": "17/11/2026",
-      "deadline_date": "2026-11-17",
-      "official_link": "https://www.ibamsp-concursos.org.br/informacoes/207/",
-      "source_name": "IBAM - banca do vestibular da Faculdade de Ciências Médicas da Santa Casa de São Paulo",
-      "source_type": "primary",
-      "location": "São Paulo, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "São Paulo",
-      "is_free": false,
-      "tags": [
-        "educacao",
-        "graduacao",
-        "vestibular"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-06",
-      "social_label": "EDUCAÇÃO",
-      "social_keyword": "SANTA CASA SP",
-      "social_subtitle": "1.438 vagas · São Paulo, SP",
-      "kw": [
-        "curso",
-        "vaga",
-        "inscricoes"
-      ],
-      "nivel": [
-        "Graduação"
-      ],
-      "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -2866,7 +3636,7 @@
         "Jurídica"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -2905,7 +3675,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -2950,7 +3720,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -2989,7 +3759,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -3030,50 +3800,7 @@
         "Processo seletivo"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-17",
-      "created_at": "2026-11-06T00:56:48-03:00",
-      "updated_at": "2026-11-06T00:56:48-03:00",
-      "verified_at": "2026-11-06T00:56:48-03:00"
-    },
-    {
-      "id": "trabalho-camara-santa-rita-de-cassia-ba-12-vagas-2026",
-      "category": "trabalho",
-      "title": "Câmara de Santa Rita de Cássia (BA) abre concurso com 12 vagas",
-      "short_description": "A Câmara Municipal de Santa Rita de Cássia (BA) abriu concurso público com 12 vagas e cadastro de reserva para cargos de níveis fundamental e médio, como auxiliar, motorista, porteiro, vigilante e redator de debates, com salários de R$ 1.670 a R$ 1.728. Inscrições até 17/11/2026 pela banca HC Concursos.",
-      "deadline": "17/11/2026",
-      "deadline_date": "2026-11-17",
-      "official_link": "https://hcconcursos.selecao.net.br/informacoes/6/",
-      "source_name": "Câmara Municipal de Santa Rita de Cássia - BA (banca: HC Concursos)",
-      "source_type": "primary",
-      "location": "Santa Rita de Cássia, BA",
-      "country": "Brasil",
-      "state": "BA",
-      "city": "Santa Rita de Cássia",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "municipal",
-        "legislativo"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-05",
-      "social_label": "TRABALHO",
-      "social_keyword": "SANTA RITA DE CÁSSIA",
-      "social_subtitle": "12 vagas · BA",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ],
-      "area": [
-        "Legislativa"
-      ],
-      "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -3112,7 +3839,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -3145,7 +3872,7 @@
       "social_keyword": "CONQUISTA",
       "social_subtitle": "80 vagas gratuitas · BA",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -3190,7 +3917,7 @@
       "social_keyword": "USP",
       "social_subtitle": "1.610 vagas gratuitas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -3232,7 +3959,7 @@
       "social_keyword": "UFMS",
       "social_subtitle": "10 mil vagas online · MS",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -3277,7 +4004,7 @@
       "social_keyword": "TRT4",
       "social_subtitle": "Técnicos e analistas · RS",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -3319,7 +4046,7 @@
       "social_keyword": "TRF3",
       "social_subtitle": "11 vagas · R$ 20 mil",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -3361,7 +4088,7 @@
       "social_keyword": "TJSP",
       "social_subtitle": "132 vagas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -3374,90 +4101,6 @@
       ],
       "area": [
         "Judiciária"
-      ]
-    },
-    {
-      "id": "trabalho-tjpb-analista-judiciario-2026",
-      "category": "trabalho",
-      "title": "TJPB abre concurso com 50 vagas de analista judiciário e salário de R$ 7.526,14",
-      "short_description": "O Tribunal de Justiça da Paraíba seleciona 50 analistas judiciários de nível superior nas especialidades de Área Judiciária (Direito), Tecnologia da Informação (desenvolvimento de sistemas, banco de dados, infraestrutura, governança, segurança da informação, inteligência artificial e ciência de dados) e Contabilidade, com salário de R$ 7.526,14. Banca FGV, inscrições até 18/11/2026 (taxa de R$ 120) e provas em 24/01/2027.",
-      "deadline": "18/11/2026",
-      "deadline_date": "2026-11-18",
-      "official_link": "https://conhecimento.fgv.br/concursos/tjpb26",
-      "source_name": "Tribunal de Justiça da Paraíba (TJPB) - banca FGV",
-      "source_type": "secondary",
-      "location": "Paraíba",
-      "country": "Brasil",
-      "state": "PB",
-      "city": null,
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "judiciario"
-      ],
-      "status": "open",
-      "reliability_level": "B",
-      "published_date": "2026-11-02",
-      "social_label": "TRABALHO",
-      "social_keyword": "TJPB",
-      "social_subtitle": "50 vagas · R$ 7,5 mil",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
-      "created_at": "2026-11-02T12:21:36-03:00",
-      "updated_at": "2026-11-02T12:21:36-03:00",
-      "verified_at": "2026-11-02T12:21:36-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ],
-      "area": [
-        "Judiciária"
-      ]
-    },
-    {
-      "id": "trabalho-sao-goncalo-rj-guardas-2026",
-      "category": "trabalho",
-      "title": "São Gonçalo abre concurso com 101 vagas para Guarda Municipal",
-      "short_description": "A Prefeitura de São Gonçalo (RJ) abriu concurso público para Guardas Municipais, com 101 vagas e exigência de nível médio. As inscrições seguem até 18/11/2026.",
-      "deadline": "18/11/2026",
-      "deadline_date": "2026-11-18",
-      "official_link": "https://selecon.org.br/",
-      "source_name": "Instituto Selecon - banca do concurso da Prefeitura de São Gonçalo/RJ",
-      "source_type": "primary",
-      "location": "São Gonçalo, RJ",
-      "country": "Brasil",
-      "state": "RJ",
-      "city": "São Gonçalo",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "seguranca"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-02",
-      "social_label": "TRABALHO",
-      "social_keyword": "SÃO GONÇALO",
-      "social_subtitle": "101 vagas · RJ",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T17:34:27-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ],
-      "area": [
-        "Segurança"
       ]
     },
     {
@@ -3487,7 +4130,7 @@
       "social_keyword": "SUZANO",
       "social_subtitle": "303 vagas de futsal · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -3528,7 +4171,7 @@
       "reliability_level": "A",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -3571,7 +4214,7 @@
       "social_keyword": "SETEC",
       "social_subtitle": "39 vagas · Campinas/SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -3609,7 +4252,7 @@
       "social_keyword": "SANTA LUZIA",
       "social_subtitle": "Concurso público · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -3647,83 +4290,7 @@
       "social_keyword": "PARAGUAÇU",
       "social_subtitle": "Concurso público · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T17:34:27-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ]
-    },
-    {
-      "id": "trabalho-matao-sp-28-vagas-2026",
-      "category": "trabalho",
-      "title": "Prefeitura de Matão abre 28 vagas com até R$ 9.717",
-      "short_description": "Concurso público da Prefeitura de Matão (SP) com 28 vagas em cargos de níveis fundamental, médio, técnico e superior e salários de até R$ 9.717,96. As inscrições vão até 18/11/2026.",
-      "deadline": "18/11/2026",
-      "deadline_date": "2026-11-18",
-      "official_link": "https://www.ibamsp-concursos.org.br/",
-      "source_name": "IBAM - banca do concurso da Prefeitura de Matão/SP",
-      "source_type": "primary",
-      "location": "Matão, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "Matão",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-02",
-      "social_label": "TRABALHO",
-      "social_keyword": "MATÃO",
-      "social_subtitle": "28 vagas · SP",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
-      "created_at": "2026-11-02T16:26:22-03:00",
-      "updated_at": "2026-11-02T17:34:27-03:00",
-      "verified_at": "2026-11-02T16:26:22-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ]
-    },
-    {
-      "id": "trabalho-contagem-mg-concurso-2026",
-      "category": "trabalho",
-      "title": "Prefeitura de Contagem retifica concurso com 272 vagas",
-      "short_description": "A Prefeitura de Contagem (MG) retificou o edital do concurso público, que soma 272 vagas em cargos de níveis fundamental, médio, técnico e superior. As inscrições seguem abertas até 17/11/2026.",
-      "deadline": "17/11/2026",
-      "deadline_date": "2026-11-17",
-      "official_link": "https://novo.ibgpconcursos.com.br/concurso.jsp?cod=739",
-      "source_name": "IBGP Concursos - concurso da Prefeitura de Contagem/MG",
-      "source_type": "primary",
-      "location": "Contagem, MG",
-      "country": "Brasil",
-      "state": "MG",
-      "city": "Contagem",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-02",
-      "social_label": "TRABALHO",
-      "social_keyword": "CONTAGEM",
-      "social_subtitle": "272 vagas · MG",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -3763,7 +4330,7 @@
       "social_keyword": "PORTO ALEGRE",
       "social_subtitle": "Esporte gratuito · 6 a 17 anos",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -3808,7 +4375,7 @@
       "social_keyword": "PC-PE",
       "social_subtitle": "1.315 vagas · PE",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -3850,7 +4417,7 @@
       "social_keyword": "PMPE",
       "social_subtitle": "Soldados e oficiais · PE",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -3892,7 +4459,7 @@
       "social_keyword": "PMMG",
       "social_subtitle": "90 vagas de oficial · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -3931,7 +4498,7 @@
       "reliability_level": "B",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T02:22:49-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -3977,7 +4544,7 @@
       "social_keyword": "REDES CORDIAIS",
       "social_subtitle": "5 mil vagas gratuitas · online",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -4023,7 +4590,7 @@
       "social_keyword": "IFRJ",
       "social_subtitle": "Curso gratuito EaD · RJ",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -4068,7 +4635,7 @@
       "social_keyword": "GIL ALVES",
       "social_subtitle": "183 vagas · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -4109,7 +4676,7 @@
       "social_keyword": "GUARAREMA",
       "social_subtitle": "Aulas gratuitas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T02:47:49-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:47:49-03:00",
@@ -4151,7 +4718,7 @@
       "social_keyword": "GOIÁS",
       "social_subtitle": "R$ 30 milhões · audiovisual",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -4197,7 +4764,7 @@
       "social_keyword": "NEUROEDUCAÇÃO",
       "social_subtitle": "5 mil vagas gratuitas · online",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -4243,7 +4810,7 @@
       "social_keyword": "FATECS",
       "social_subtitle": "Graduações gratuitas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -4288,7 +4855,7 @@
       "social_keyword": "DOIS LAJEADOS",
       "social_subtitle": "Chamamento Pnab · RS",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -4302,48 +4869,6 @@
       "tipoEdital": [
         "Edital",
         "Chamamento público"
-      ]
-    },
-    {
-      "id": "trabalho-camara-deputados-analista-2026",
-      "category": "trabalho",
-      "title": "Câmara dos Deputados abre concurso com salário de até R$ 32.070,88",
-      "short_description": "Concurso para os cargos de analista legislativo em 10 especialidades (jornalismo, divulgação institucional, relações públicas, arquivologia, biblioteconomia, museólogo, registro e redação e engenharias civil, elétrica e eletrônica/telecomunicações) e de engenheiro, com 184 vagas entre imediatas e cadastro de reserva. Inscrições até 17/11/2026 pela banca Cebraspe, com taxa de R$ 130.",
-      "deadline": "17/11/2026",
-      "deadline_date": "2026-11-17",
-      "official_link": "https://www.cebraspe.org.br/concursos/cd_26_analista",
-      "source_name": "Câmara dos Deputados - banca Cebraspe",
-      "source_type": "secondary",
-      "location": "Brasília, DF",
-      "country": "Brasil",
-      "state": "DF",
-      "city": "Brasília",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "legislativo"
-      ],
-      "status": "open",
-      "reliability_level": "B",
-      "published_date": "2026-11-02",
-      "social_label": "TRABALHO",
-      "social_keyword": "CÂMARA",
-      "social_subtitle": "184 vagas · R$ 32 mil",
-      "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
-      "created_at": "2026-11-02T12:21:36-03:00",
-      "updated_at": "2026-11-02T12:21:36-03:00",
-      "verified_at": "2026-11-02T12:21:36-03:00",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ],
-      "area": [
-        "Legislativa"
       ]
     },
     {
@@ -4373,7 +4898,7 @@
       "social_keyword": "BANESTES",
       "social_subtitle": "Cadastro de reserva · ES",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -4427,7 +4952,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "social_label": "ESPORTES",
       "social_keyword": "VILA VELHA",
       "social_subtitle": "Núcleos esportivos gratuitos · ES",
@@ -4477,7 +5002,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "social_label": "ESPORTES",
       "social_keyword": "HANDEBOL",
       "social_subtitle": "100 vagas gratuitas · São José dos Pinhais, PR",
@@ -4528,7 +5053,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "social_label": "TRABALHO",
       "social_keyword": "JOVEM APRENDIZ",
       "social_subtitle": "Vagas em Salvador · BA",
@@ -4576,7 +5101,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "social_label": "ESPORTES",
       "social_keyword": "PONTA GROSSA",
       "social_subtitle": "50 vagas gratuitas · PR",
@@ -4626,7 +5151,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "social_label": "CULTURA",
       "social_keyword": "BIBLIOTECAS",
       "social_subtitle": "Pontos de Cultura · Nacional",
@@ -4680,7 +5205,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "social_label": "ESPORTES",
       "social_keyword": "MARICÁ",
       "social_subtitle": "Judô, capoeira e samba raiz · RJ",
@@ -4730,7 +5255,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "social_label": "EDUCAÇÃO",
       "social_keyword": "IFRS",
       "social_subtitle": "200+ cursos online gratuitos",
@@ -4784,7 +5309,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "social_label": "CULTURA",
       "social_keyword": "FUNARTE",
       "social_subtitle": "Espaços culturais gratuitos",
@@ -4836,7 +5361,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "social_label": "ESPORTES",
       "social_keyword": "CUIABÁ",
       "social_subtitle": "2,6 mil vagas gratuitas · MT",
@@ -4886,7 +5411,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "social_label": "ESPORTES",
       "social_keyword": "CARIACICA",
       "social_subtitle": "Vagas esportivas gratuitas · ES",
@@ -4937,7 +5462,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-17",
+      "last_seen_date": "2026-11-19",
       "social_label": "TRABALHO",
       "social_keyword": "CIEE",
       "social_subtitle": "Estágio e Jovem Aprendiz",
@@ -4955,11 +5480,11 @@
   ],
   "version": "1.2.0",
   "last_updated": "2026-08-16T20:59:30-03:00",
-  "total": 113,
+  "total": 125,
   "counts": {
-    "cultura": 4,
-    "educacao": 35,
-    "esportes": 34,
-    "trabalho": 40
+    "cultura": 8,
+    "educacao": 46,
+    "esportes": 36,
+    "trabalho": 35
   }
 }
