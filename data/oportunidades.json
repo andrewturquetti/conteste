@@ -1,6 +1,475 @@
 {
-  "generated_at": "2026-11-22T20:21:58-03:00",
+  "generated_at": "2026-11-23T18:59:18-03:00",
   "opportunities": [
+    {
+      "id": "cultura-ufrb-forum-pro-igualdade-racial-reconcavo-2026",
+      "category": "cultura",
+      "title": "UFRB abre inscrições para o Fórum Pró-Igualdade Racial do Recôncavo",
+      "short_description": "A UFRB está com inscrições abertas para o Fórum Pró-Igualdade Racial e Inclusão Social do Recôncavo 2026, que ocorre de 4 a 27 de novembro nos campi da universidade, em Cruz das Almas e região. A programação reúne mesas, oficinas e atividades culturais, e as inscrições são feitas pelo site oficial do evento.",
+      "deadline": "27/11/2026",
+      "deadline_date": "2026-11-27",
+      "official_link": "https://ufrb.edu.br/propaae/forum2026",
+      "source_name": "UFRB - Fórum Pró-Igualdade Racial e Inclusão Social do Recôncavo 2026",
+      "location": "Cruz das Almas, BA (campi da UFRB)",
+      "state": "BA",
+      "city": "Cruz das Almas",
+      "tags": [
+        "cultura",
+        "forum",
+        "igualdade-racial",
+        "ufrb"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-23",
+      "social_label": "CULTURA",
+      "social_keyword": "UFRB",
+      "social_subtitle": "Fórum até 27/11",
+      "kw": [
+        "oportunidade",
+        "inscricoes",
+        "evento"
+      ],
+      "is_free": true,
+      "first_seen_date": "2026-11-23",
+      "last_seen_date": "2026-11-23",
+      "created_at": "2026-11-23T18:00:24-03:00",
+      "updated_at": "2026-11-23T18:00:24-03:00",
+      "verified_at": "2026-11-23T18:00:24-03:00"
+    },
+    {
+      "id": "cultura-ufpr-mba-producao-musical-experiencia-sonora-2027",
+      "category": "cultura",
+      "title": "UFPR abre inscrições para MBA em Produção Musical e Experiência Sonora",
+      "short_description": "A UFPR abriu inscrições para o MBA em Produção Musical e Experiência Sonora, especialização voltada à criação, produção e escuta crítica em música e áudio. O calendário da turma, o investimento e o formulário de inscrição estão na página do curso, na seção de Especialização e MBA da universidade.",
+      "deadline": null,
+      "deadline_date": null,
+      "official_link": "https://ufpr.br/ufpr-apresenta-mba-em-producao-musical-e-experiencia-sonora/",
+      "source_name": "UFPR - MBA em Produção Musical e Experiência Sonora",
+      "location": "Curitiba, PR",
+      "state": "PR",
+      "city": "Curitiba",
+      "tags": [
+        "cultura",
+        "musica",
+        "producao-musical",
+        "mba",
+        "ufpr"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-23",
+      "social_label": "CULTURA",
+      "social_keyword": "UFPR",
+      "social_subtitle": "MBA em produção musical",
+      "kw": [
+        "oportunidade",
+        "inscricoes",
+        "pos-graduacao"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "is_free": false,
+      "first_seen_date": "2026-11-23",
+      "last_seen_date": "2026-11-23",
+      "created_at": "2026-11-23T18:00:24-03:00",
+      "updated_at": "2026-11-23T18:00:24-03:00",
+      "verified_at": "2026-11-23T18:00:24-03:00"
+    },
+    {
+      "id": "educacao-ufgd-vestibular-letras-libras-ead-2027",
+      "category": "educacao",
+      "title": "UFGD encerra em 27/11 as inscrições do Vestibular de Letras-Libras",
+      "short_description": "A UFGD encerra em 27 de novembro de 2026 as inscrições do Vestibular 2027 do curso de Licenciatura em Letras-Libras, ofertado na modalidade a distância. O edital, a retificação e as orientações de inscrição estão na página oficial do vestibular, que também informa as etapas e o cronograma da seleção.",
+      "deadline": "27/11/2026",
+      "deadline_date": "2026-11-27",
+      "official_link": "https://portal.ufgd.edu.br/vestibular/letras-libras-ead-licenciatura/psvsletras-libras-2027",
+      "source_name": "UFGD - Vestibular Letras-Libras EaD 2027",
+      "location": "Dourados, MS (EaD)",
+      "state": "MS",
+      "city": "Dourados",
+      "tags": [
+        "educacao",
+        "vestibular",
+        "libras",
+        "ead",
+        "ufgd"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-23",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "UFGD",
+      "social_subtitle": "Letras-Libras até 27/11",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "nivel": [
+        "Graduação"
+      ],
+      "mod": [
+        "EAD"
+      ],
+      "first_seen_date": "2026-11-23",
+      "last_seen_date": "2026-11-23",
+      "created_at": "2026-11-23T18:00:24-03:00",
+      "updated_at": "2026-11-23T18:00:24-03:00",
+      "verified_at": "2026-11-23T18:00:24-03:00"
+    },
+    {
+      "id": "educacao-ifrs-curso-gratuito-autismo-sala-de-aula-2026",
+      "category": "educacao",
+      "title": "IFRS oferece curso gratuito online sobre autismo em sala de aula",
+      "short_description": "O IFRS oferece o curso gratuito e 100% online “Autismo em Sala de Aula: Estratégias de Inclusão e Aprendizagem”, com inscrição aberta no Moodle institucional e início imediato após o cadastro. Quem concluir todas as atividades até 31 de janeiro de 2027 e for aprovado recebe certificado gratuito.",
+      "deadline": "Inscrições contínuas",
+      "deadline_date": null,
+      "official_link": "https://moodle.ifrs.edu.br/enrol/index.php?id=10647",
+      "source_name": "IFRS - Curso Autismo em Sala de Aula (Moodle institucional)",
+      "location": "Rio Grande do Sul (EAD)",
+      "state": "RS",
+      "city": null,
+      "tags": [
+        "educacao",
+        "curso",
+        "autismo",
+        "inclusao",
+        "gratuito",
+        "ifrs"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-23",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "IFRS",
+      "social_subtitle": "Curso gratuito de autismo",
+      "kw": [
+        "oportunidade",
+        "curso",
+        "gratuito",
+        "ead"
+      ],
+      "nivel": [
+        "Livre"
+      ],
+      "mod": [
+        "EAD"
+      ],
+      "is_free": true,
+      "first_seen_date": "2026-11-23",
+      "last_seen_date": "2026-11-23",
+      "created_at": "2026-11-23T18:00:24-03:00",
+      "updated_at": "2026-11-23T18:00:24-03:00",
+      "verified_at": "2026-11-23T18:00:24-03:00"
+    },
+    {
+      "id": "educacao-ifms-cursos-tecnicos-ead-2365-vagas-2027",
+      "category": "educacao",
+      "title": "IFMS abre 2.365 vagas em cursos técnicos gratuitos a distância",
+      "short_description": "O IFMS está com inscrições até 6 de dezembro de 2026 no Processo Seletivo 2027 (Edital 077/2026) para 2.365 vagas em cursos técnicos subsequentes gratuitos, na modalidade EaD semipresencial, com encontros presenciais semanais nos campi e polos. A seleção é por sorteio eletrônico quando a demanda supera as vagas e há reserva para ações afirmativas.",
+      "deadline": "06/12/2026",
+      "deadline_date": "2026-12-06",
+      "official_link": "https://selecao.ifms.edu.br/perfil/estudantes/edital-no-077-2026-tecnico-subsequente-ead-semipresencial-2027-semestres-1-e-2",
+      "source_name": "IFMS - Edital 077/2026 (Técnico Subsequente EaD 2027)",
+      "location": "Mato Grosso do Sul (EaD semipresencial)",
+      "state": "MS",
+      "city": null,
+      "tags": [
+        "educacao",
+        "cursos-tecnicos",
+        "ead",
+        "gratuito",
+        "ifms"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-23",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "IFMS",
+      "social_subtitle": "2.365 vagas em cursos técnicos",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Técnico"
+      ],
+      "mod": [
+        "EAD",
+        "Semipresencial"
+      ],
+      "is_free": true,
+      "first_seen_date": "2026-11-23",
+      "last_seen_date": "2026-11-23",
+      "created_at": "2026-11-23T18:00:24-03:00",
+      "updated_at": "2026-11-23T18:00:24-03:00",
+      "verified_at": "2026-11-23T18:00:24-03:00"
+    },
+    {
+      "id": "educacao-ifba-especializacao-literatura-ensino-diversidade-2026",
+      "category": "educacao",
+      "title": "IFBA recebe inscrições para especialização gratuita em Literatura",
+      "short_description": "O IFBA recebe inscrições até 28 de novembro de 2026 na seleção da especialização gratuita em Literatura, Ensino e Diversidade, do Edital 27/2026/PRPGI. A escolha dos candidatos usa carta de intenção e avaliação de currículo, com barema próprio, e as regras, os anexos e as retificações estão na página do edital.",
+      "deadline": "28/11/2026",
+      "deadline_date": "2026-11-28",
+      "official_link": "https://portal.ifba.edu.br/prpgi/editais/2026/edital-no-27-2026-prpgi-ifba",
+      "source_name": "IFBA - Edital 27/2026/PRPGI (Especialização em Literatura, Ensino e Diversidade)",
+      "location": "Salvador, BA (IFBA)",
+      "state": "BA",
+      "city": "Salvador",
+      "tags": [
+        "educacao",
+        "especializacao",
+        "literatura",
+        "gratuito",
+        "ifba"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-23",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "IFBA",
+      "social_subtitle": "Especialização gratuita até 28/11",
+      "kw": [
+        "oportunidade",
+        "inscricoes",
+        "pos-graduacao",
+        "gratuito"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "is_free": true,
+      "first_seen_date": "2026-11-23",
+      "last_seen_date": "2026-11-23",
+      "created_at": "2026-11-23T18:00:24-03:00",
+      "updated_at": "2026-11-23T18:00:24-03:00",
+      "verified_at": "2026-11-23T18:00:24-03:00"
+    },
+    {
+      "id": "trabalho-ibge-recenseador-censo-agropecuario-27279-vagas-2026",
+      "category": "trabalho",
+      "title": "IBGE abre 27.279 vagas temporárias para recenseador do Censo Agropecuário",
+      "short_description": "O IBGE está com inscrições, de 6 a 25 de novembro de 2026, no processo seletivo simplificado para 27.279 vagas temporárias de recenseador do 12º Censo Agropecuário, Florestal e Aquícola. Exige-se ensino fundamental completo, a jornada é de 40 horas semanais, a taxa é de R$ 70 e a seleção tem prova objetiva, com isenção para candidatos de baixa renda.",
+      "deadline": "25/11/2026",
+      "deadline_date": "2026-11-25",
+      "official_link": "https://www.cesgranrio.org.br/edital-do-ibge-e-publicado-com-27-279-vagas-para-recenseador-em-todo-o-pais/",
+      "source_name": "Cesgranrio - Processo Seletivo do IBGE (Recenseador 2026)",
+      "location": "Nacional (Brasil)",
+      "state": null,
+      "city": null,
+      "tags": [
+        "trabalho",
+        "processo-seletivo",
+        "ibge",
+        "vagas",
+        "nacional"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-23",
+      "social_label": "TRABALHO",
+      "social_keyword": "IBGE",
+      "social_subtitle": "27.279 vagas de recenseador",
+      "kw": [
+        "vaga",
+        "inscricoes",
+        "processo-seletivo"
+      ],
+      "tipo": [
+        "Processo seletivo simplificado"
+      ],
+      "area": [
+        "Serviços de campo"
+      ],
+      "is_free": false,
+      "first_seen_date": "2026-11-23",
+      "last_seen_date": "2026-11-23",
+      "created_at": "2026-11-23T18:00:24-03:00",
+      "updated_at": "2026-11-23T18:00:24-03:00",
+      "verified_at": "2026-11-23T18:00:24-03:00"
+    },
+    {
+      "id": "cultura-ufsc-fazendo-genero-14-atividades-artisticas-2027",
+      "category": "cultura",
+      "title": "Fazendo Gênero 14 abre chamada para atividades artísticas e culturais",
+      "short_description": "O Seminário Internacional Fazendo Gênero 14, da UFSC, recebe até 2 de fevereiro de 2027 propostas de atividades artísticas e culturais para integrar a programação do evento. Podem se inscrever artistas e coletivos, com apresentações alocadas nos espaços do seminário; não há remuneração nem verba de deslocamento, e as atividades apresentadas recebem certificado.",
+      "deadline": "02/02/2027",
+      "deadline_date": "2027-02-02",
+      "official_link": "https://www.fazendogenero14.eventos.dype.com.br/conteudo/view?ID_CONTEUDO=786",
+      "source_name": "UFSC - Fazendo Gênero 14 (Chamada de Atividades Artísticas e Culturais)",
+      "location": "Florianópolis, SC",
+      "state": "SC",
+      "city": "Florianópolis",
+      "tags": [
+        "cultura",
+        "artes",
+        "chamada",
+        "seminario",
+        "ufsc"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-23",
+      "social_label": "CULTURA",
+      "social_keyword": "FAZENDO GÊNERO 14",
+      "social_subtitle": "Chamada artística até 02/02",
+      "kw": [
+        "oportunidade",
+        "chamada",
+        "inscricoes"
+      ],
+      "first_seen_date": "2026-11-23",
+      "last_seen_date": "2026-11-23",
+      "created_at": "2026-11-23T18:00:24-03:00",
+      "updated_at": "2026-11-23T18:00:24-03:00",
+      "verified_at": "2026-11-23T18:00:24-03:00"
+    },
+    {
+      "id": "educacao-uece-doutorado-biotecnologia-renorbio-8-vagas-2027",
+      "category": "educacao",
+      "title": "Doutorado em Biotecnologia da Renorbio tem 8 vagas na Uece",
+      "short_description": "O doutorado em Biotecnologia da Rede Renorbio, com 8 vagas na Uece, recebe inscrições de 30 de novembro de 2026 a 22 de janeiro de 2027 pelo sistema acadêmico do programa, com taxa de R$ 100. As áreas são Biotecnologia em Saúde, Agropecuária e Recursos Naturais, e o candidato deve submeter projeto de pesquisa vinculado à linha do orientador pretendido.",
+      "deadline": "22/01/2027",
+      "deadline_date": "2027-01-22",
+      "official_link": "https://www.uece.br/noticias/doutorado-em-biotecnologia-da-rede-renorbio-abre-selecao-com-oito-vagas-na-uece/",
+      "source_name": "Uece - Doutorado em Biotecnologia (Rede Renorbio), Edital 06/2026",
+      "location": "Fortaleza, CE (Rede Renorbio)",
+      "state": "CE",
+      "city": "Fortaleza",
+      "tags": [
+        "educacao",
+        "doutorado",
+        "biotecnologia",
+        "renorbio",
+        "uece"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-23",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "UECE",
+      "social_subtitle": "8 vagas no doutorado",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "nivel": [
+        "Doutorado"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "is_free": false,
+      "first_seen_date": "2026-11-23",
+      "last_seen_date": "2026-11-23",
+      "created_at": "2026-11-23T18:00:24-03:00",
+      "updated_at": "2026-11-23T18:00:24-03:00",
+      "verified_at": "2026-11-23T18:00:24-03:00"
+    },
+    {
+      "id": "esportes-campeonato-capixaba-corrida-aventura-guarapari-2026",
+      "category": "esportes",
+      "title": "Corrida de aventura tem etapa Guarapari–Vila Velha em dezembro",
+      "short_description": "A etapa Guarapari–Vila Velha do Campeonato Capixaba de Corrida de Aventura 2026 será em 6 de dezembro de 2026, com 80 vagas e inscrições pela plataforma Sua Inscrição. O segundo lote custa R$ 250 e vai até 4/12, sem inscrições no sábado, véspera da prova; o regulamento traz categorias, percursos e regras de troca de equipe.",
+      "deadline": "04/12/2026",
+      "deadline_date": "2026-12-04",
+      "official_link": "https://suainscricao.com/evento/campeonato-capixaba-de-corrida-de-aventura-2026-etapa-guarapari-vila-velha-es",
+      "source_name": "Sua Inscrição - Campeonato Capixaba de Corrida de Aventura 2026",
+      "location": "Guarapari / Vila Velha, ES",
+      "state": "ES",
+      "city": "Vila Velha",
+      "tags": [
+        "esportes",
+        "corrida-de-aventura",
+        "campeonato",
+        "espirito-santo"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-23",
+      "social_label": "ESPORTES",
+      "social_keyword": "CORRIDA DE AVENTURA",
+      "social_subtitle": "06/12 · Guarapari-Vila Velha/ES",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "is_free": false,
+      "first_seen_date": "2026-11-23",
+      "last_seen_date": "2026-11-23",
+      "created_at": "2026-11-23T18:00:24-03:00",
+      "updated_at": "2026-11-23T18:00:24-03:00",
+      "verified_at": "2026-11-23T18:00:24-03:00"
+    },
+    {
+      "id": "educacao-cesgranrio-colegios-pm-rj-89-vagas-2027",
+      "category": "educacao",
+      "title": "Colégios da PM do Rio abrem 89 vagas para o ano letivo de 2027",
+      "short_description": "A Fundação Cesgranrio abriu o processo seletivo 2027 dos Colégios da Polícia Militar do Rio de Janeiro, com 89 vagas em Niterói, Campo Grande e Duque de Caxias para o 6º e o 9º anos do Ensino Fundamental e o 1º ano do Ensino Médio. A taxa é de R$ 87, com pagamento até 11/12/2026, e famílias de baixa renda inscritas no CadÚnico podem solicitar isenção.",
+      "deadline": "11/12/2026",
+      "deadline_date": "2026-12-11",
+      "official_link": "https://concursos.cesgranrio.org.br/portal/avaliacoes/36",
+      "source_name": "Cesgranrio - Processo Seletivo dos Colégios da PM-RJ 2027",
+      "location": "Rio de Janeiro, RJ",
+      "state": "RJ",
+      "city": "Rio de Janeiro",
+      "tags": [
+        "educacao",
+        "processo-seletivo",
+        "colegio-militar",
+        "rio-de-janeiro"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-23",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "COLÉGIOS PM-RJ",
+      "social_subtitle": "89 vagas para 2027",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes"
+      ],
+      "nivel": [
+        "Ensino fundamental",
+        "Ensino médio"
+      ],
+      "is_free": false,
+      "first_seen_date": "2026-11-23",
+      "last_seen_date": "2026-11-23",
+      "created_at": "2026-11-23T18:00:24-03:00",
+      "updated_at": "2026-11-23T18:00:24-03:00",
+      "verified_at": "2026-11-23T18:00:24-03:00"
+    },
     {
       "id": "trabalho-unilab-professor-formador-liindi-18-vagas-2026",
       "category": "trabalho",
@@ -41,7 +510,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -87,7 +556,7 @@
       ],
       "is_free": false,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -133,7 +602,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -176,7 +645,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -220,7 +689,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -263,7 +732,7 @@
         "Híbrido"
       ],
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -308,7 +777,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -353,7 +822,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -396,7 +865,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -441,7 +910,7 @@
       ],
       "is_free": false,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -486,7 +955,7 @@
       ],
       "is_free": false,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -525,7 +994,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -564,7 +1033,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -610,7 +1079,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -656,7 +1125,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -694,7 +1163,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -731,7 +1200,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -776,7 +1245,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -819,7 +1288,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -863,7 +1332,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -907,7 +1376,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -951,7 +1420,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -995,7 +1464,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -1039,51 +1508,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-22",
-      "created_at": "2026-11-19T19:46:08-03:00",
-      "updated_at": "2026-11-19T19:46:08-03:00",
-      "verified_at": "2026-11-19T19:46:08-03:00"
-    },
-    {
-      "id": "educacao-ufrb-pse-egressos-ifs-ceteps-2027-1",
-      "category": "educacao",
-      "title": "UFRB prorroga seleção com 30 vagas para egressos de institutos federais",
-      "short_description": "A UFRB prorrogou para 22/11/2026 as inscrições do Processo Seletivo Especial 2027.1 para egressos de cursos técnicos do CETEP, IFBA e IF Baiano, com 30 vagas no Bacharelado Interdisciplinar em Energia e Sustentabilidade, em Feira de Santana. A inscrição é gratuita pelo portal Prosel e a seleção usa as notas do Enem 2026, com média mínima de 450 pontos.",
-      "deadline": "22/11/2026",
-      "deadline_date": "2026-11-22",
-      "official_link": "https://ufrb.edu.br/portal/destaque-interno/ufrb-prorroga-inscricoes-de-selecao-destinada-a-estudantes-formados-em-institutos-federais-e-ceteps/",
-      "source_name": "UFRB - Processo Seletivo Especial 2027.1 (Edital 32/2026)",
-      "location": "Feira de Santana, BA",
-      "state": "BA",
-      "city": "Feira de Santana",
-      "tags": [
-        "educacao",
-        "graduacao",
-        "enem",
-        "vagas",
-        "gratuito"
-      ],
-      "country": "Brasil",
-      "status": "open",
-      "source_type": "primary",
-      "reliability_level": "A",
-      "published_date": "2026-11-19",
-      "social_label": "EDUCAÇÃO",
-      "social_keyword": "UFRB",
-      "social_subtitle": "30 vagas para egressos de IFs",
-      "kw": [
-        "oportunidade",
-        "vagas",
-        "inscricoes"
-      ],
-      "nivel": [
-        "Graduação"
-      ],
-      "mod": [
-        "Presencial"
-      ],
-      "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -1126,7 +1551,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -1171,7 +1596,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -1215,7 +1640,7 @@
         "EaD"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -1259,7 +1684,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -1303,50 +1728,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-22",
-      "created_at": "2026-11-19T00:12:44-03:00",
-      "updated_at": "2026-11-19T00:12:44-03:00",
-      "verified_at": "2026-11-19T00:12:44-03:00"
-    },
-    {
-      "id": "educacao-unilab-egressos-humanidades-segundo-ciclo-2026",
-      "category": "educacao",
-      "title": "Unilab abre seleção para egressos de Humanidades cursarem o segundo ciclo",
-      "short_description": "A Unilab recebe até 22/11/2026 inscrições do processo seletivo que permite a egressos do Bacharelado em Humanidades ingressarem nos cursos de segundo ciclo dos Institutos de Humanidades (IH) e de Humanidades e Letras (IHL). A seleção considera o desempenho no curso de origem e as vagas disponíveis em cada graduação.",
-      "deadline": "22/11/2026",
-      "deadline_date": "2026-11-22",
-      "official_link": "https://unilab.edu.br/2026/11/11/ate-22-11-abertas-as-inscricoes-do-processo-seletivo-para-ingresso-de-candidatos-egressos-do-bacharelado-em-humanidades-nos-cursos-dos-ih-e-ihl/",
-      "source_name": "Unilab - Seleção de egressos de Humanidades (2º ciclo)",
-      "location": "Redenção, CE",
-      "state": "CE",
-      "city": "Redenção",
-      "tags": [
-        "educacao",
-        "graduacao",
-        "humanidades",
-        "unilab"
-      ],
-      "nivel": [
-        "Graduação"
-      ],
-      "mod": [
-        "Presencial"
-      ],
-      "social_keyword": "UNILAB",
-      "social_subtitle": "Egressos · até 22/11",
-      "country": "Brasil",
-      "status": "open",
-      "source_type": "primary",
-      "reliability_level": "A",
-      "published_date": "2026-11-18",
-      "social_label": "EDUCAÇÃO",
-      "kw": [
-        "oportunidade",
-        "vagas",
-        "inscricoes"
-      ],
-      "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -1389,7 +1771,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -1432,7 +1814,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -1475,7 +1857,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -1518,7 +1900,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -1558,7 +1940,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -1601,7 +1983,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -1644,7 +2026,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -1684,7 +2066,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -1728,7 +2110,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -1774,7 +2156,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -1814,7 +2196,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -1857,7 +2239,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -1904,7 +2286,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -1945,7 +2327,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -1993,7 +2375,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -2030,7 +2412,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -2073,7 +2455,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -2111,7 +2493,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -2155,7 +2537,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -2204,7 +2586,7 @@
         "EaD"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -2248,7 +2630,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -2292,7 +2674,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -2338,7 +2720,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -2382,7 +2764,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -2428,7 +2810,7 @@
         "Pago"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -2472,89 +2854,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
-      "created_at": "2026-11-17T16:36:03-03:00",
-      "updated_at": "2026-11-17T16:36:03-03:00",
-      "verified_at": "2026-11-17T16:36:03-03:00"
-    },
-    {
-      "id": "trabalho-pit-piaui-professores-horistas-2026",
-      "category": "trabalho",
-      "title": "PIT prorroga até 22/11 as inscrições para seleção de professores horistas no Piauí",
-      "short_description": "O PIT prorrogou até 22/11/2026 as inscrições da seleção de professores horistas no Piauí, por meio de errata ao Edital nº 16/2026. No novo cronograma, as inscrições vão de 9 a 22 de novembro; o deferimento das inscrições sai em 24/11, os recursos podem ser enviados em 25 e 26/11 e o deferimento final está previsto para 27/11. A prova didática passa a ser realizada no formato online, e a convocação indicará o local ou meio de realização.",
-      "deadline": "22/11/2026",
-      "deadline_date": "2026-11-22",
-      "official_link": "https://www.pi.gov.br/pit-prorroga-ate-22-de-novembro-as-inscricoes-para-selecao-de-professores-horistas-e-altera-prova-didatica-para-o-formato-online/",
-      "source_name": "Governo do Piauí - Edital 16/2026 (errata)",
-      "source_type": "primary",
-      "location": "Piauí",
-      "country": "Brasil",
-      "state": "PI",
-      "city": null,
-      "tags": [
-        "trabalho",
-        "selecao",
-        "professor",
-        "piaui"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-17",
-      "social_label": "TRABALHO",
-      "social_keyword": "PIT",
-      "social_subtitle": "Inscrições até 22/11",
-      "kw": [
-        "selecao",
-        "inscricao",
-        "professor",
-        "vaga"
-      ],
-      "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
-      "created_at": "2026-11-17T15:33:49-03:00",
-      "updated_at": "2026-11-17T15:33:49-03:00",
-      "verified_at": "2026-11-17T15:33:49-03:00"
-    },
-    {
-      "id": "esportes-3x3-liga-metropolitana-etapa-v-indaiatuba-2026",
-      "category": "esportes",
-      "title": "Liga Metropolitana de Basquete 3x3 chega à 5ª etapa em Indaiatuba (SP)",
-      "short_description": "A Liga Metropolitana de Basquete 3x3 está com inscrições abertas para a 5ª etapa, marcada para 22/11/2026 em Indaiatuba (SP). As equipes se inscrevem pela plataforma oficial FIBA 3x3, que reúne a página do evento, o regulamento e as informações da competição.",
-      "deadline": "22/11/2026",
-      "deadline_date": "2026-11-22",
-      "official_link": "https://play.fiba3x3.com/events/32e05930-ce2f-447c-9039-1cdfb3c455a7",
-      "source_name": "FIBA 3x3 - Liga Metropolitana Basquete 3x3 - Etapa V",
-      "source_type": "primary",
-      "location": "Indaiatuba (SP)",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "Indaiatuba",
-      "tags": [
-        "esportes",
-        "basquete",
-        "3x3",
-        "sao-paulo"
-      ],
-      "modEsporte": [
-        "Basquete 3x3"
-      ],
-      "formato": [
-        "Liga"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-17",
-      "social_label": "ESPORTES",
-      "social_keyword": "Liga Metropolitana 3x3",
-      "social_subtitle": "22/11 · Indaiatuba-SP",
-      "kw": [
-        "basquete",
-        "3x3",
-        "liga",
-        "inscricao"
-      ],
-      "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -2598,7 +2898,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -2646,7 +2946,7 @@
         "rua"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T15:33:49-03:00",
       "updated_at": "2026-11-17T15:33:49-03:00",
       "verified_at": "2026-11-17T15:33:49-03:00"
@@ -2690,7 +2990,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -2734,7 +3034,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -2780,7 +3080,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -2825,53 +3125,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
-      "created_at": "2026-11-17T11:33:15-03:00",
-      "updated_at": "2026-11-17T11:33:15-03:00",
-      "verified_at": "2026-11-17T11:33:15-03:00"
-    },
-    {
-      "id": "educacao-ifpb-picui-gestao-recursos-ambientais-semiarido-2027",
-      "category": "educacao",
-      "title": "IFPB Picuí abre 30 vagas em especialização gratuita em Recursos Ambientais do Semiárido",
-      "short_description": "O IFPB (campus Picuí) recebe inscrições até 22/11/2026 para a especialização gratuita em Gestão dos Recursos Ambientais do Semiárido 2027, com 30 vagas e 420 horas. As aulas são presenciais às quartas-feiras, nos turnos vespertino e noturno, com início previsto para fevereiro de 2027. Podem se candidatar graduados de qualquer área reconhecida pelo MEC; a inscrição é feita pelo sistema de concursos do IFPB, conforme o edital da seleção.",
-      "deadline": "22/11/2026",
-      "deadline_date": "2026-11-22",
-      "official_link": "https://concursos.ifpb.edu.br/",
-      "source_name": "Instituto Federal da Paraíba (IFPB) - Seleção 2027, campus Picuí",
-      "source_type": "primary",
-      "location": "Picuí, PB",
-      "country": "Brasil",
-      "state": "PB",
-      "city": "Picuí",
-      "is_free": true,
-      "tags": [
-        "educacao",
-        "pos-graduacao",
-        "especializacao",
-        "meio ambiente",
-        "semiarido"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-17",
-      "social_label": "EDUCAÇÃO",
-      "social_keyword": "IFPB",
-      "social_subtitle": "30 vagas gratuitas · Semiárido",
-      "kw": [
-        "curso",
-        "vaga",
-        "inscricoes",
-        "gratuito"
-      ],
-      "nivel": [
-        "Pós-graduação"
-      ],
-      "custo": [
-        "Gratuito"
-      ],
-      "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -2917,7 +3171,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -2962,7 +3216,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -3006,7 +3260,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -3050,7 +3304,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -3096,7 +3350,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -3142,7 +3396,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -3186,7 +3440,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -3230,7 +3484,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -3274,7 +3528,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -3318,7 +3572,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -3362,7 +3616,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -3406,7 +3660,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -3446,7 +3700,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -3494,7 +3748,7 @@
         "prova"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T15:33:49-03:00",
       "updated_at": "2026-11-17T15:33:49-03:00",
       "verified_at": "2026-11-17T15:33:49-03:00"
@@ -3542,7 +3796,7 @@
         "6km"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-17T15:33:49-03:00",
       "updated_at": "2026-11-17T15:33:49-03:00",
       "verified_at": "2026-11-17T15:33:49-03:00"
@@ -3587,7 +3841,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -3631,7 +3885,7 @@
         "Pago"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -3673,7 +3927,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -3715,7 +3969,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -3759,7 +4013,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -3796,7 +4050,7 @@
         "gratuito"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -3840,7 +4094,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -3880,52 +4134,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-22",
-      "created_at": "2026-11-13T19:50:19-03:00",
-      "updated_at": "2026-11-13T19:50:19-03:00",
-      "verified_at": "2026-11-13T19:50:19-03:00"
-    },
-    {
-      "id": "educacao-ifsp-sao-carlos-educacao-ciencia-tecnologia-2027",
-      "category": "educacao",
-      "title": "IFSP São Carlos abre 30 vagas em especialização gratuita em Educação, Ciência e Tecnologia",
-      "short_description": "O IFSP (campus São Carlos) está com inscrições até 22/11/2026 para a especialização gratuita e presencial em Educação, Ciência, Tecnologia e Sociedade, com 30 vagas e ingresso no primeiro semestre de 2027. As aulas serão às terças e sextas-feiras, à noite, com 420 horas de carga horária (60 delas para o TCC). Podem se inscrever graduados em qualquer área reconhecida pelo MEC; a seleção inclui carta de interesse.",
-      "deadline": "22/11/2026",
-      "deadline_date": "2026-11-22",
-      "official_link": "https://scl.ifsp.edu.br/",
-      "source_name": "IFSP - campus São Carlos, especialização 2027",
-      "source_type": "primary",
-      "location": "São Carlos, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "São Carlos",
-      "is_free": true,
-      "tags": [
-        "educacao",
-        "pos-graduacao",
-        "especializacao",
-        "gratuito"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-13",
-      "social_label": "EDUCAÇÃO",
-      "social_keyword": "IFSP",
-      "social_subtitle": "30 vagas gratuitas · São Carlos, SP",
-      "kw": [
-        "curso",
-        "vaga",
-        "inscricoes",
-        "gratuito"
-      ],
-      "nivel": [
-        "Pós-graduação"
-      ],
-      "custo": [
-        "Gratuito"
-      ],
-      "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -3971,7 +4180,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -4017,7 +4226,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -4062,7 +4271,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -4103,7 +4312,7 @@
         "Processo seletivo"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -4144,7 +4353,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -4183,7 +4392,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-12",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-12T13:09:33-03:00",
       "updated_at": "2026-11-12T13:09:33-03:00",
       "verified_at": "2026-11-12T13:09:33-03:00"
@@ -4227,7 +4436,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-12",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-12T13:09:33-03:00",
       "updated_at": "2026-11-12T13:09:33-03:00",
       "verified_at": "2026-11-12T13:09:33-03:00"
@@ -4271,7 +4480,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-12",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-12T13:09:33-03:00",
       "updated_at": "2026-11-12T13:09:33-03:00",
       "verified_at": "2026-11-12T13:09:33-03:00"
@@ -4316,7 +4525,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-12",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-12T13:09:33-03:00",
       "updated_at": "2026-11-12T13:09:33-03:00",
       "verified_at": "2026-11-12T13:09:33-03:00"
@@ -4360,7 +4569,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-12",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-12T13:09:33-03:00",
       "updated_at": "2026-11-12T13:09:33-03:00",
       "verified_at": "2026-11-12T13:09:33-03:00"
@@ -4399,7 +4608,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -4438,7 +4647,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -4477,7 +4686,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -4516,7 +4725,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -4557,7 +4766,7 @@
         "Pós-graduação"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -4598,7 +4807,7 @@
         "Processo seletivo"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-12T13:09:33-03:00",
       "updated_at": "2026-11-12T13:09:33-03:00",
       "verified_at": "2026-11-12T13:09:33-03:00"
@@ -4639,7 +4848,7 @@
         "Estágio"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -4681,7 +4890,7 @@
         "Jurídica"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -4720,7 +4929,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -4765,7 +4974,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00",
@@ -4807,7 +5016,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -4848,7 +5057,7 @@
         "Processo seletivo"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -4887,7 +5096,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -4920,7 +5129,7 @@
       "social_keyword": "CONQUISTA",
       "social_subtitle": "80 vagas gratuitas · BA",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -4965,7 +5174,7 @@
       "social_keyword": "USP",
       "social_subtitle": "1.610 vagas gratuitas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -5007,7 +5216,7 @@
       "social_keyword": "UFMS",
       "social_subtitle": "10 mil vagas online · MS",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -5052,7 +5261,7 @@
       "social_keyword": "TRT4",
       "social_subtitle": "Técnicos e analistas · RS",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5094,7 +5303,7 @@
       "social_keyword": "TRF3",
       "social_subtitle": "11 vagas · R$ 20 mil",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -5136,7 +5345,7 @@
       "social_keyword": "TJSP",
       "social_subtitle": "132 vagas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5178,7 +5387,7 @@
       "social_keyword": "SUZANO",
       "social_subtitle": "303 vagas de futsal · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -5219,7 +5428,7 @@
       "reliability_level": "A",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -5262,7 +5471,7 @@
       "social_keyword": "SETEC",
       "social_subtitle": "39 vagas · Campinas/SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5300,7 +5509,7 @@
       "social_keyword": "SANTA LUZIA",
       "social_subtitle": "Concurso público · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5338,7 +5547,7 @@
       "social_keyword": "PARAGUAÇU",
       "social_subtitle": "Concurso público · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5378,7 +5587,7 @@
       "social_keyword": "PORTO ALEGRE",
       "social_subtitle": "Esporte gratuito · 6 a 17 anos",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5423,7 +5632,7 @@
       "social_keyword": "PC-PE",
       "social_subtitle": "1.315 vagas · PE",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5465,7 +5674,7 @@
       "social_keyword": "PMPE",
       "social_subtitle": "Soldados e oficiais · PE",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5507,7 +5716,7 @@
       "social_keyword": "PMMG",
       "social_subtitle": "90 vagas de oficial · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5546,7 +5755,7 @@
       "reliability_level": "B",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T02:22:49-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -5592,7 +5801,7 @@
       "social_keyword": "REDES CORDIAIS",
       "social_subtitle": "5 mil vagas gratuitas · online",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5638,7 +5847,7 @@
       "social_keyword": "IFRJ",
       "social_subtitle": "Curso gratuito EaD · RJ",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -5683,7 +5892,7 @@
       "social_keyword": "GIL ALVES",
       "social_subtitle": "183 vagas · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5724,7 +5933,7 @@
       "social_keyword": "GUARAREMA",
       "social_subtitle": "Aulas gratuitas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T02:47:49-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:47:49-03:00",
@@ -5766,7 +5975,7 @@
       "social_keyword": "GOIÁS",
       "social_subtitle": "R$ 30 milhões · audiovisual",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5812,7 +6021,7 @@
       "social_keyword": "NEUROEDUCAÇÃO",
       "social_subtitle": "5 mil vagas gratuitas · online",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5858,7 +6067,7 @@
       "social_keyword": "FATECS",
       "social_subtitle": "Graduações gratuitas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5902,7 +6111,7 @@
       "social_keyword": "BANESTES",
       "social_subtitle": "Cadastro de reserva · ES",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5956,7 +6165,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "social_label": "ESPORTES",
       "social_keyword": "VILA VELHA",
       "social_subtitle": "Núcleos esportivos gratuitos · ES",
@@ -6006,7 +6215,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "social_label": "ESPORTES",
       "social_keyword": "HANDEBOL",
       "social_subtitle": "100 vagas gratuitas · São José dos Pinhais, PR",
@@ -6057,7 +6266,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "social_label": "TRABALHO",
       "social_keyword": "JOVEM APRENDIZ",
       "social_subtitle": "Vagas em Salvador · BA",
@@ -6105,7 +6314,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "social_label": "ESPORTES",
       "social_keyword": "PONTA GROSSA",
       "social_subtitle": "50 vagas gratuitas · PR",
@@ -6155,7 +6364,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "social_label": "CULTURA",
       "social_keyword": "BIBLIOTECAS",
       "social_subtitle": "Pontos de Cultura · Nacional",
@@ -6209,7 +6418,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "social_label": "ESPORTES",
       "social_keyword": "MARICÁ",
       "social_subtitle": "Judô, capoeira e samba raiz · RJ",
@@ -6259,7 +6468,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "social_label": "EDUCAÇÃO",
       "social_keyword": "IFRS",
       "social_subtitle": "200+ cursos online gratuitos",
@@ -6313,7 +6522,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "social_label": "CULTURA",
       "social_keyword": "FUNARTE",
       "social_subtitle": "Espaços culturais gratuitos",
@@ -6365,7 +6574,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "social_label": "ESPORTES",
       "social_keyword": "CUIABÁ",
       "social_subtitle": "2,6 mil vagas gratuitas · MT",
@@ -6415,7 +6624,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "social_label": "ESPORTES",
       "social_keyword": "CARIACICA",
       "social_subtitle": "Vagas esportivas gratuitas · ES",
@@ -6466,7 +6675,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-22",
+      "last_seen_date": "2026-11-23",
       "social_label": "TRABALHO",
       "social_keyword": "CIEE",
       "social_subtitle": "Estágio e Jovem Aprendiz",
@@ -6484,10 +6693,10 @@
   ],
   "version": "1.2.0",
   "last_updated": "2026-08-16T20:59:30-03:00",
-  "total": 148,
+  "total": 153,
   "counts": {
-    "cultura": 10,
-    "educacao": 62,
+    "cultura": 13,
+    "educacao": 64,
     "esportes": 34,
     "trabalho": 42
   }
