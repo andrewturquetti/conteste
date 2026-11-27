@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T17:42:46-03:00",
+  "generated_at": "2026-11-27T20:45:24-03:00",
   "opportunities": [
     {
       "id": "educacao-ufu-especializacao-ciencia-dados-aplicada",
@@ -362,51 +362,6 @@
       ],
       "mod": [
         "Presencial"
-      ],
-      "is_free": true,
-      "first_seen_date": "2026-11-27",
-      "last_seen_date": "2026-11-27",
-      "created_at": "2026-11-27T17:42:46-03:00",
-      "updated_at": "2026-11-27T17:42:46-03:00",
-      "verified_at": "2026-11-27T17:42:46-03:00"
-    },
-    {
-      "id": "educacao-ifms-2365-vagas-tecnicos-semipresenciais",
-      "category": "educacao",
-      "title": "IFMS abre 2.365 vagas em cursos técnicos semipresenciais",
-      "short_description": "O Instituto Federal de Mato Grosso do Sul (IFMS) está com inscrições até 6 de dezembro de 2026 para 2.365 vagas em cursos técnicos semipresenciais, destinadas a quem já concluiu o ensino médio e com encontros presenciais semanais. A inscrição é gratuita e a relação preliminar de inscritos está prevista para 7 de dezembro.",
-      "deadline": "06/12/2026",
-      "deadline_date": "2026-12-06",
-      "official_link": "https://www.ifms.edu.br/noticias/2026/abertas-2-3-mil-vagas-em-cursos-tecnicos-presenciais",
-      "source_name": "IFMS - Cursos técnicos semipresenciais (2.365 vagas)",
-      "location": "Mato Grosso do Sul (IFMS)",
-      "state": "MS",
-      "city": "",
-      "tags": [
-        "educacao",
-        "tecnico",
-        "ifms",
-        "mato-grosso-do-sul"
-      ],
-      "country": "Brasil",
-      "status": "open",
-      "source_type": "primary",
-      "reliability_level": "A",
-      "published_date": "2026-11-27",
-      "social_label": "EDUCAÇÃO",
-      "social_keyword": "TÉCNICO IFMS",
-      "social_subtitle": "2.365 vagas até 06/12",
-      "kw": [
-        "oportunidade",
-        "vagas",
-        "inscricoes",
-        "gratuito"
-      ],
-      "nivel": [
-        "Técnico"
-      ],
-      "mod": [
-        "Semipresencial"
       ],
       "is_free": true,
       "first_seen_date": "2026-11-27",
@@ -7092,10 +7047,10 @@
   ],
   "version": "1.2.0",
   "last_updated": "2026-08-16T20:59:30-03:00",
-  "total": 162,
+  "total": 161,
   "counts": {
     "cultura": 15,
-    "educacao": 75,
+    "educacao": 74,
     "esportes": 39,
     "trabalho": 33
   }
