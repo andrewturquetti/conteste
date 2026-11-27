@@ -1,6 +1,605 @@
 {
-  "generated_at": "2026-11-27T09:15:17-03:00",
+  "generated_at": "2026-11-27T17:42:46-03:00",
   "opportunities": [
+    {
+      "id": "educacao-ufu-especializacao-ciencia-dados-aplicada",
+      "category": "educacao",
+      "title": "UFU abre especialização em Ciência de Dados Aplicada com 60 vagas",
+      "short_description": "A UFU está com inscrições de 27 de novembro de 2026 a 21 de março de 2027 para a especialização em Ciência de Dados Aplicada, ofertada de forma remota com 60 vagas. As aulas do primeiro cronograma estão previstas para começar em 3 de maio de 2027, e há novos períodos de inscrição ao longo do ano.",
+      "deadline": "21/03/2027",
+      "deadline_date": "2027-03-21",
+      "official_link": "https://comunica.ufu.br/noticias/2026/11/ufu-abre-inscricoes-para-pos-graduacao-em-ciencia-de-dados-aplicada",
+      "source_name": "UFU - Especialização em Ciência de Dados Aplicada (60 vagas)",
+      "location": "Uberlândia, MG (UFU)",
+      "state": "MG",
+      "city": "Uberlândia",
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "especializacao",
+        "ciencia-de-dados",
+        "ufu"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-27",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "CIÊNCIA DE DADOS",
+      "social_subtitle": "60 vagas até 21/03",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes",
+        "pos-graduacao"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "mod": [
+        "EAD"
+      ],
+      "is_free": false,
+      "first_seen_date": "2026-11-27",
+      "last_seen_date": "2026-11-27",
+      "created_at": "2026-11-27T17:42:46-03:00",
+      "updated_at": "2026-11-27T17:42:46-03:00",
+      "verified_at": "2026-11-27T17:42:46-03:00"
+    },
+    {
+      "id": "educacao-ufjf-cursos-gratuitos-educacao-inclusiva",
+      "category": "educacao",
+      "title": "UFJF prorroga cursos gratuitos de Educação Inclusiva",
+      "short_description": "A UFJF prorrogou para 30 de novembro de 2026 as inscrições dos cursos gratuitos de Educação Inclusiva, voltados a profissionais da educação pública de Minas Gerais. A formação é gratuita e destinada a quem atua na rede pública de ensino.",
+      "deadline": "30/11/2026",
+      "deadline_date": "2026-11-30",
+      "official_link": "https://www2.ufjf.br/noticias/2026/11/26/ufjf-prorroga-inscricoes-para-cursos-gratuitos-de-educacao-inclusiva/",
+      "source_name": "UFJF - Cursos gratuitos de Educação Inclusiva",
+      "location": "Minas Gerais (UFJF)",
+      "state": "MG",
+      "city": "Juiz de Fora",
+      "tags": [
+        "educacao",
+        "curso",
+        "inclusao",
+        "ufjf",
+        "minas-gerais"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-27",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "EDUCAÇÃO INCLUSIVA",
+      "social_subtitle": "Inscrições até 30/11",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Extensão"
+      ],
+      "mod": [],
+      "is_free": true,
+      "first_seen_date": "2026-11-27",
+      "last_seen_date": "2026-11-27",
+      "created_at": "2026-11-27T17:42:46-03:00",
+      "updated_at": "2026-11-27T17:42:46-03:00",
+      "verified_at": "2026-11-27T17:42:46-03:00"
+    },
+    {
+      "id": "educacao-ifrr-325-vagas-especializacoes-ead",
+      "category": "educacao",
+      "title": "IFRR abre 325 vagas em especializações a distância",
+      "short_description": "O campus Bonfim do IFRR abriu, em 27 de novembro, as inscrições para 325 vagas em dois cursos de pós-graduação lato sensu a distância, ofertados em oito municípios de Roraima. As inscrições seguem até 13 de dezembro de 2026 pelo Sistema Gestor de Concurso (SGC), com resultado final e convocação para matrícula em 23 de dezembro.",
+      "deadline": "13/12/2026",
+      "deadline_date": "2026-12-13",
+      "official_link": "https://ifrr.edu.br/noticias/campus-bonfim-do-ifrr-oferta-mais-de-300-vagas-em-especializacoes-em-ead/",
+      "source_name": "IFRR - Especializações a distância (325 vagas)",
+      "location": "Roraima (IFRR)",
+      "state": "RR",
+      "city": "",
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "especializacao",
+        "ead",
+        "ifrr",
+        "roraima"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-27",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "ESPECIALIZAÇÃO IFRR",
+      "social_subtitle": "325 vagas até 13/12",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes",
+        "pos-graduacao",
+        "gratuito"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "mod": [
+        "EAD"
+      ],
+      "is_free": true,
+      "first_seen_date": "2026-11-27",
+      "last_seen_date": "2026-11-27",
+      "created_at": "2026-11-27T17:42:46-03:00",
+      "updated_at": "2026-11-27T17:42:46-03:00",
+      "verified_at": "2026-11-27T17:42:46-03:00"
+    },
+    {
+      "id": "educacao-ifrn-operador-computador-80-vagas",
+      "category": "educacao",
+      "title": "IFRN oferece 80 vagas em cursos de Operador de Computador",
+      "short_description": "O IFRN está com inscrições até 21 de dezembro de 2026 para 80 vagas nos cursos de Operador de Computador, destinados a pessoas com ensino fundamental completo na modalidade de Educação de Jovens e Adultos (EJA). As turmas são ofertadas nos campi Ceará-Mirim e Parnamirim.",
+      "deadline": "21/12/2026",
+      "deadline_date": "2026-12-21",
+      "official_link": "https://portal.ifrn.edu.br/campus/reitoria/noticias/cursos-de-operador-de-computador-ofertam-80-vagas-para-pessoas-com-ensino-fundamental-completo/",
+      "source_name": "IFRN - Operador de Computador (80 vagas)",
+      "location": "Ceará-Mirim e Parnamirim, RN",
+      "state": "RN",
+      "city": "",
+      "tags": [
+        "educacao",
+        "curso",
+        "informatica",
+        "eja",
+        "ifrn"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-27",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "OPERADOR DE COMPUTADOR",
+      "social_subtitle": "80 vagas até 21/12",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Qualificação profissional"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "is_free": true,
+      "first_seen_date": "2026-11-27",
+      "last_seen_date": "2026-11-27",
+      "created_at": "2026-11-27T17:42:46-03:00",
+      "updated_at": "2026-11-27T17:42:46-03:00",
+      "verified_at": "2026-11-27T17:42:46-03:00"
+    },
+    {
+      "id": "educacao-ifrn-transferencia-facultativa-2027",
+      "category": "educacao",
+      "title": "IFRN abre transferência facultativa para cursos de graduação",
+      "short_description": "O IFRN está com inscrições até 7 de dezembro de 2026, às 23h59, na Transferência Facultativa 2027 (edital 71/2026), voltada a estudantes de outras instituições que desejam ingressar em cursos de graduação do Instituto. O resultado final está previsto para janeiro de 2027 e as matrículas para 8 de fevereiro de 2027.",
+      "deadline": "07/12/2026",
+      "deadline_date": "2026-12-07",
+      "official_link": "https://portal.ifrn.edu.br/campus/reitoria/processo-seletivos-estude-no-ifrn/transferencia-facultativa-2027/",
+      "source_name": "IFRN - Transferência Facultativa 2027",
+      "location": "Rio Grande do Norte (IFRN)",
+      "state": "RN",
+      "city": "",
+      "tags": [
+        "educacao",
+        "graduacao",
+        "transferencia",
+        "ifrn",
+        "rio-grande-do-norte"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-27",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "TRANSFERÊNCIA IFRN",
+      "social_subtitle": "Inscrições até 07/12",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "is_free": true,
+      "first_seen_date": "2026-11-27",
+      "last_seen_date": "2026-11-27",
+      "created_at": "2026-11-27T17:42:46-03:00",
+      "updated_at": "2026-11-27T17:42:46-03:00",
+      "verified_at": "2026-11-27T17:42:46-03:00"
+    },
+    {
+      "id": "educacao-ifrn-especializacao-ead-2027",
+      "category": "educacao",
+      "title": "IFRN abre especialização a distância com ingresso em 2027",
+      "short_description": "O IFRN está com inscrições até 30 de novembro de 2026, às 23h59, no processo seletivo do curso de pós-graduação lato sensu em nível de especialização a distância (edital 62/2026), com ingresso em 2027. O resultado final está previsto para 7 de janeiro de 2027.",
+      "deadline": "30/11/2026",
+      "deadline_date": "2026-11-30",
+      "official_link": "https://portal.ifrn.edu.br/campus/reitoria/processo-seletivos-estude-no-ifrn/pos-graduacao-lato-sensu-em-nivel-de-especializacao-a-distancia/",
+      "source_name": "IFRN - Especialização a distância 2027",
+      "location": "Rio Grande do Norte (IFRN)",
+      "state": "RN",
+      "city": "",
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "especializacao",
+        "ead",
+        "ifrn"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-27",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "ESPECIALIZAÇÃO IFRN",
+      "social_subtitle": "Inscrições até 30/11",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes",
+        "pos-graduacao",
+        "gratuito"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "mod": [
+        "EAD"
+      ],
+      "is_free": true,
+      "first_seen_date": "2026-11-27",
+      "last_seen_date": "2026-11-27",
+      "created_at": "2026-11-27T17:42:46-03:00",
+      "updated_at": "2026-11-27T17:42:46-03:00",
+      "verified_at": "2026-11-27T17:42:46-03:00"
+    },
+    {
+      "id": "educacao-ifmt-96-vagas-tecnicos-subsequentes",
+      "category": "educacao",
+      "title": "IFMT abre 96 vagas em cursos técnicos subsequentes",
+      "short_description": "O IFMT está com inscrições gratuitas de 23 de novembro a 13 de dezembro de 2026 para 96 vagas remanescentes em cursos técnicos subsequentes de Agropecuária, Biocombustíveis, Hospedagem, Qualidade e Manutenção Aeronáutica em Célula, em seis campi. O sorteio público está previsto para 17 de dezembro.",
+      "deadline": "13/12/2026",
+      "deadline_date": "2026-12-13",
+      "official_link": "https://ifmt.edu.br/blog/abertas-inscricoes-para-96-vagas-em-cursos-tecnicos-subsequentes-em-6-campi/",
+      "source_name": "IFMT - Cursos técnicos subsequentes (96 vagas)",
+      "location": "Mato Grosso (IFMT)",
+      "state": "MT",
+      "city": "",
+      "tags": [
+        "educacao",
+        "tecnico",
+        "subsequente",
+        "ifmt",
+        "mato-grosso"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-27",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "TÉCNICO IFMT",
+      "social_subtitle": "96 vagas até 13/12",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Técnico"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "is_free": true,
+      "first_seen_date": "2026-11-27",
+      "last_seen_date": "2026-11-27",
+      "created_at": "2026-11-27T17:42:46-03:00",
+      "updated_at": "2026-11-27T17:42:46-03:00",
+      "verified_at": "2026-11-27T17:42:46-03:00"
+    },
+    {
+      "id": "educacao-ifmt-175-vagas-cursos-superiores-2027",
+      "category": "educacao",
+      "title": "IFMT abre 175 vagas em cursos superiores com nota do Enem",
+      "short_description": "O IFMT está com inscrições gratuitas até 8 de dezembro de 2026 para 175 vagas em cursos de graduação presenciais em oito campi, com ingresso no primeiro semestre de 2027. A seleção utiliza a nota do Enem, e o resultado preliminar das inscrições está previsto para 15 de janeiro de 2027.",
+      "deadline": "08/12/2026",
+      "deadline_date": "2026-12-08",
+      "official_link": "https://ifmt.edu.br/blog/ifmt-abre-175-vagas-para-cursos-superiores-em-oito-campi/",
+      "source_name": "IFMT - Cursos superiores 2027 (175 vagas)",
+      "location": "Mato Grosso (IFMT)",
+      "state": "MT",
+      "city": "",
+      "tags": [
+        "educacao",
+        "graduacao",
+        "enem",
+        "ifmt",
+        "mato-grosso"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-27",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "GRADUAÇÃO IFMT",
+      "social_subtitle": "175 vagas até 08/12",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "is_free": true,
+      "first_seen_date": "2026-11-27",
+      "last_seen_date": "2026-11-27",
+      "created_at": "2026-11-27T17:42:46-03:00",
+      "updated_at": "2026-11-27T17:42:46-03:00",
+      "verified_at": "2026-11-27T17:42:46-03:00"
+    },
+    {
+      "id": "educacao-ifms-2365-vagas-tecnicos-semipresenciais",
+      "category": "educacao",
+      "title": "IFMS abre 2.365 vagas em cursos técnicos semipresenciais",
+      "short_description": "O Instituto Federal de Mato Grosso do Sul (IFMS) está com inscrições até 6 de dezembro de 2026 para 2.365 vagas em cursos técnicos semipresenciais, destinadas a quem já concluiu o ensino médio e com encontros presenciais semanais. A inscrição é gratuita e a relação preliminar de inscritos está prevista para 7 de dezembro.",
+      "deadline": "06/12/2026",
+      "deadline_date": "2026-12-06",
+      "official_link": "https://www.ifms.edu.br/noticias/2026/abertas-2-3-mil-vagas-em-cursos-tecnicos-presenciais",
+      "source_name": "IFMS - Cursos técnicos semipresenciais (2.365 vagas)",
+      "location": "Mato Grosso do Sul (IFMS)",
+      "state": "MS",
+      "city": "",
+      "tags": [
+        "educacao",
+        "tecnico",
+        "ifms",
+        "mato-grosso-do-sul"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-27",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "TÉCNICO IFMS",
+      "social_subtitle": "2.365 vagas até 06/12",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Técnico"
+      ],
+      "mod": [
+        "Semipresencial"
+      ],
+      "is_free": true,
+      "first_seen_date": "2026-11-27",
+      "last_seen_date": "2026-11-27",
+      "created_at": "2026-11-27T17:42:46-03:00",
+      "updated_at": "2026-11-27T17:42:46-03:00",
+      "verified_at": "2026-11-27T17:42:46-03:00"
+    },
+    {
+      "id": "educacao-ifap-tecnico-proeja-2027",
+      "category": "educacao",
+      "title": "IFAP abre processo seletivo do Técnico ProEJA 2027",
+      "short_description": "O IFAP está com inscrições até 30 de novembro de 2026, às 23h, no Processo Seletivo Discente do Técnico ProEJA 2027, voltado à educação de jovens e adultos. As vagas abrangem campi como Macapá, Santana e Laranjal do Jari, com matrículas previstas de 4 a 8 de janeiro de 2027.",
+      "deadline": "30/11/2026",
+      "deadline_date": "2026-11-30",
+      "official_link": "https://ifap.edu.br/campus/reitoria/processos-seletivos-estude-no-ifap/processo-seletivo-discente-tecnico-proeja-2027/",
+      "source_name": "IFAP - Técnico ProEJA 2027",
+      "location": "Amapá (IFAP)",
+      "state": "AP",
+      "city": "",
+      "tags": [
+        "educacao",
+        "proeja",
+        "ifap",
+        "amapa",
+        "eja"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-27",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "PROEJA IFAP",
+      "social_subtitle": "Inscrições até 30/11",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Técnico"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "is_free": true,
+      "first_seen_date": "2026-11-27",
+      "last_seen_date": "2026-11-27",
+      "created_at": "2026-11-27T17:42:46-03:00",
+      "updated_at": "2026-11-27T17:42:46-03:00",
+      "verified_at": "2026-11-27T17:42:46-03:00"
+    },
+    {
+      "id": "educacao-ifap-vestibulinho-2027",
+      "category": "educacao",
+      "title": "IFAP abre Vestibulinho 2027 com inscrições até 30 de novembro",
+      "short_description": "O Instituto Federal do Amapá (IFAP) recebe até 30 de novembro de 2026, às 23h59, as candidaturas do Processo Seletivo Discente Vestibulinho 2027, com oferta nos campi de Macapá, Santana e Laranjal do Jari. As matrículas estão previstas para o período de 4 a 8 de janeiro de 2027.",
+      "deadline": "30/11/2026",
+      "deadline_date": "2026-11-30",
+      "official_link": "https://ifap.edu.br/campus/reitoria/processos-seletivos-estude-no-ifap/processo-seletivo-discente-vestibulinho-2027/",
+      "source_name": "IFAP - Vestibulinho 2027",
+      "location": "Macapá, Santana e Laranjal do Jari, AP",
+      "state": "AP",
+      "city": "Macapá",
+      "tags": [
+        "educacao",
+        "vestibulinho",
+        "ifap",
+        "amapa"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-27",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "VESTIBULINHO IFAP",
+      "social_subtitle": "Inscrições até 30/11",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Técnico"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "is_free": true,
+      "first_seen_date": "2026-11-27",
+      "last_seen_date": "2026-11-27",
+      "created_at": "2026-11-27T17:42:46-03:00",
+      "updated_at": "2026-11-27T17:42:46-03:00",
+      "verified_at": "2026-11-27T17:42:46-03:00"
+    },
+    {
+      "id": "educacao-ifbaiano-600-vagas-especializacao-ead",
+      "category": "educacao",
+      "title": "IF Baiano abre 600 vagas em especializações a distância",
+      "short_description": "O IF Baiano publicou dois editais com 600 vagas em cursos de especialização a distância: Gestão na Educação Profissional e Tecnológica, com inscrições de 27 de novembro a 2 de dezembro de 2026, e Educação a Distância na EPT, de 29 de novembro a 4 de dezembro. A seleção é feita por sorteio eletrônico quando a procura supera o número de vagas.",
+      "deadline": "04/12/2026",
+      "deadline_date": "2026-12-04",
+      "official_link": "https://ifbaiano.edu.br/portal/if-baiano-oferta-600-vagas-em-cursos-de-especializacao-a-distancia/",
+      "source_name": "IF Baiano - Especializações a distância (600 vagas)",
+      "location": "Bahia (IF Baiano)",
+      "state": "BA",
+      "city": "",
+      "tags": [
+        "educacao",
+        "pos-graduacao",
+        "especializacao",
+        "ead",
+        "if-baiano",
+        "bahia"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-27",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "ESPECIALIZAÇÃO IF BAIANO",
+      "social_subtitle": "600 vagas até 04/12",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes",
+        "pos-graduacao",
+        "gratuito"
+      ],
+      "nivel": [
+        "Pós-graduação"
+      ],
+      "mod": [
+        "EAD"
+      ],
+      "is_free": true,
+      "first_seen_date": "2026-11-27",
+      "last_seen_date": "2026-11-27",
+      "created_at": "2026-11-27T17:42:46-03:00",
+      "updated_at": "2026-11-27T17:42:46-03:00",
+      "verified_at": "2026-11-27T17:42:46-03:00"
+    },
+    {
+      "id": "educacao-ifbaiano-guanambi-148-vagas-ociosas-graduacao",
+      "category": "educacao",
+      "title": "IF Baiano abre 148 vagas ociosas na graduação em Guanambi",
+      "short_description": "O campus Guanambi do IF Baiano está com inscrições de 28 de novembro a 10 de dezembro de 2026 para 148 vagas ociosas nos cursos de Agronomia, Química e Ciências Biológicas. O ingresso pode ser feito por histórico do ensino médio, transferência externa, Enem, reintegração, portador de diploma ou professor da educação básica.",
+      "deadline": "10/12/2026",
+      "deadline_date": "2026-12-10",
+      "official_link": "https://ifbaiano.edu.br/portal/campus-guanambi-abre-148-vagas-ociosas-nos-cursos-de-graduacao-em-agronomia-quimica-e-ciencias-biologicas/",
+      "source_name": "IF Baiano - Vagas ociosas em Guanambi (148 vagas)",
+      "location": "Guanambi, BA (IF Baiano)",
+      "state": "BA",
+      "city": "Guanambi",
+      "tags": [
+        "educacao",
+        "graduacao",
+        "vagas-ociosas",
+        "if-baiano",
+        "bahia"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-27",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "VAGAS OCIOSAS IF BAIANO",
+      "social_subtitle": "148 vagas até 10/12",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes",
+        "gratuito"
+      ],
+      "nivel": [
+        "Graduação"
+      ],
+      "mod": [
+        "Presencial"
+      ],
+      "is_free": true,
+      "first_seen_date": "2026-11-27",
+      "last_seen_date": "2026-11-27",
+      "created_at": "2026-11-27T17:42:46-03:00",
+      "updated_at": "2026-11-27T17:42:46-03:00",
+      "verified_at": "2026-11-27T17:42:46-03:00"
+    },
     {
       "id": "trabalho-fundacao-helio-augusto-souza-concurso-07-2026",
       "category": "trabalho",
@@ -6493,10 +7092,10 @@
   ],
   "version": "1.2.0",
   "last_updated": "2026-08-16T20:59:30-03:00",
-  "total": 149,
+  "total": 162,
   "counts": {
     "cultura": 15,
-    "educacao": 62,
+    "educacao": 75,
     "esportes": 39,
     "trabalho": 33
   }
