@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-11-26T23:50:59-03:00",
+  "generated_at": "2026-11-27T09:15:17-03:00",
   "opportunities": [
+    {
+      "id": "trabalho-fundacao-helio-augusto-souza-concurso-07-2026",
+      "category": "trabalho",
+      "title": "Fundação Hélio Augusto de Souza (SP) abre concurso público 07/2026 em São José dos Campos",
+      "short_description": "A Fundação Hélio Augusto de Souza (Fhas), de São José dos Campos (SP), está com inscrições abertas para o concurso público regido pelo Edital 07/2026, de 27 de novembro de 2026. As inscrições vão de 27/11 a 28/12/2026, com pedido de isenção da taxa até 2 de dezembro de 2026. O certame é organizado pela Avança SP e o edital completo, com cargos, vagas e exigências, está disponível no site da banca.",
+      "deadline": "28/12/2026",
+      "deadline_date": "2026-12-28",
+      "official_link": "https://www.avancasp.org.br/informacoes/294/",
+      "source_name": "Avança SP - Edital 07/2026 Fundação Hélio Augusto de Souza",
+      "location": "São José dos Campos, SP",
+      "state": "SP",
+      "city": "São José dos Campos",
+      "tags": [
+        "trabalho",
+        "concurso",
+        "concurso-publico",
+        "avanca-sp",
+        "sao-jose-dos-campos"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-27",
+      "social_label": "TRABALHO",
+      "social_keyword": "CONCURSO PÚBLICO",
+      "social_subtitle": "Inscrições até 28/12",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes",
+        "concurso"
+      ],
+      "first_seen_date": "2026-11-27",
+      "last_seen_date": "2026-11-27",
+      "created_at": "2026-11-27T09:15:16-03:00",
+      "updated_at": "2026-11-27T09:15:16-03:00",
+      "verified_at": "2026-11-27T09:15:16-03:00"
+    },
+    {
+      "id": "educacao-colegios-policia-militar-rj-2027",
+      "category": "educacao",
+      "title": "Colégios da Polícia Militar do RJ abrem processo seletivo 2027 com 89 vagas",
+      "short_description": "A Fundação Cesgranrio abriu, em 24 de novembro de 2026, as inscrições do processo seletivo para 89 vagas nos Colégios da Polícia Militar do Estado do Rio de Janeiro no ano letivo de 2027. As oportunidades são para estudantes do Ensino Fundamental e Médio, em unidades de Niterói, Campo Grande (Zona Oeste) e Duque de Caxias (Baixada Fluminense). O prazo de inscrição termina em 9 de dezembro de 2026, com taxa de R$ 87 (pagamento até 11/12) e possibilidade de isenção para famílias de baixa renda inscritas no CadÚnico.",
+      "deadline": "09/12/2026",
+      "deadline_date": "2026-12-09",
+      "official_link": "https://www.cesgranrio.org.br/colegios-da-policia-militar-do-estado-do-rio-de-janeiro-abrem-processo-seletivo-para-o-ano-letivo-de-2027/",
+      "source_name": "Cesgranrio - Colégios da Polícia Militar do RJ 2027",
+      "location": "Rio de Janeiro, RJ (Niterói, Campo Grande e Duque de Caxias)",
+      "state": "RJ",
+      "city": "Rio de Janeiro",
+      "tags": [
+        "educacao",
+        "processo-seletivo",
+        "ensino-fundamental",
+        "ensino-medio",
+        "colegio-militar",
+        "cesgranrio",
+        "rio-de-janeiro"
+      ],
+      "country": "Brasil",
+      "status": "open",
+      "source_type": "primary",
+      "reliability_level": "A",
+      "published_date": "2026-11-27",
+      "social_label": "EDUCAÇÃO",
+      "social_keyword": "COLÉGIOS PM-RJ",
+      "social_subtitle": "89 vagas até 09/12",
+      "kw": [
+        "oportunidade",
+        "vagas",
+        "inscricoes",
+        "processo seletivo"
+      ],
+      "nivel": [
+        "Ensino Fundamental",
+        "Ensino Médio"
+      ],
+      "first_seen_date": "2026-11-27",
+      "last_seen_date": "2026-11-27",
+      "created_at": "2026-11-27T09:15:16-03:00",
+      "updated_at": "2026-11-27T09:15:16-03:00",
+      "verified_at": "2026-11-27T09:15:16-03:00"
+    },
     {
       "id": "educacao-unirio-extensao-educacao-especial-inclusiva-809-vagas",
       "category": "educacao",
@@ -38,7 +122,7 @@
         "Extensão"
       ],
       "first_seen_date": "2026-11-26",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-26T23:50:59-03:00",
       "updated_at": "2026-11-26T23:50:59-03:00",
       "verified_at": "2026-11-26T23:50:59-03:00"
@@ -79,7 +163,7 @@
         "Graduação"
       ],
       "first_seen_date": "2026-11-26",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-26T23:50:59-03:00",
       "updated_at": "2026-11-26T23:50:59-03:00",
       "verified_at": "2026-11-26T23:50:59-03:00"
@@ -121,7 +205,7 @@
         "Pós-graduação"
       ],
       "first_seen_date": "2026-11-26",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-26T23:50:59-03:00",
       "updated_at": "2026-11-26T23:50:59-03:00",
       "verified_at": "2026-11-26T23:50:59-03:00"
@@ -167,7 +251,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-26",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-26T23:50:59-03:00",
       "updated_at": "2026-11-26T23:50:59-03:00",
       "verified_at": "2026-11-26T23:50:59-03:00"
@@ -212,7 +296,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-26",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-26T23:50:59-03:00",
       "updated_at": "2026-11-26T23:50:59-03:00",
       "verified_at": "2026-11-26T23:50:59-03:00"
@@ -257,7 +341,7 @@
       ],
       "is_free": false,
       "first_seen_date": "2026-11-26",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-26T23:50:59-03:00",
       "updated_at": "2026-11-26T23:50:59-03:00",
       "verified_at": "2026-11-26T23:50:59-03:00"
@@ -299,7 +383,7 @@
         "Extensão"
       ],
       "first_seen_date": "2026-11-26",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-26T23:50:59-03:00",
       "updated_at": "2026-11-26T23:50:59-03:00",
       "verified_at": "2026-11-26T23:50:59-03:00"
@@ -341,7 +425,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-26",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-26T23:50:59-03:00",
       "updated_at": "2026-11-26T23:50:59-03:00",
       "verified_at": "2026-11-26T23:50:59-03:00"
@@ -384,7 +468,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-26",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-26T23:50:59-03:00",
       "updated_at": "2026-11-26T23:50:59-03:00",
       "verified_at": "2026-11-26T23:50:59-03:00"
@@ -425,7 +509,7 @@
       ],
       "is_free": false,
       "first_seen_date": "2026-11-26",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-26T23:50:59-03:00",
       "updated_at": "2026-11-26T23:50:59-03:00",
       "verified_at": "2026-11-26T23:50:59-03:00"
@@ -466,7 +550,7 @@
       ],
       "is_free": false,
       "first_seen_date": "2026-11-26",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-26T23:50:59-03:00",
       "updated_at": "2026-11-26T23:50:59-03:00",
       "verified_at": "2026-11-26T23:50:59-03:00"
@@ -508,7 +592,7 @@
         "Pós-graduação"
       ],
       "first_seen_date": "2026-11-26",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-26T23:50:59-03:00",
       "updated_at": "2026-11-26T23:50:59-03:00",
       "verified_at": "2026-11-26T23:50:59-03:00"
@@ -549,7 +633,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-26",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-26T23:50:59-03:00",
       "updated_at": "2026-11-26T23:50:59-03:00",
       "verified_at": "2026-11-26T23:50:59-03:00"
@@ -594,7 +678,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-26",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-26T23:50:59-03:00",
       "updated_at": "2026-11-26T23:50:59-03:00",
       "verified_at": "2026-11-26T23:50:59-03:00"
@@ -636,7 +720,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-25",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-25T23:38:58-03:00",
       "updated_at": "2026-11-25T23:38:58-03:00",
       "verified_at": "2026-11-25T23:38:58-03:00"
@@ -678,7 +762,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-25",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-25T23:38:58-03:00",
       "updated_at": "2026-11-25T23:38:58-03:00",
       "verified_at": "2026-11-25T23:38:58-03:00"
@@ -716,7 +800,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-25",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-25T23:38:58-03:00",
       "updated_at": "2026-11-25T23:38:58-03:00",
       "verified_at": "2026-11-25T23:38:58-03:00"
@@ -761,7 +845,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-25",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-25T23:38:58-03:00",
       "updated_at": "2026-11-25T23:38:58-03:00",
       "verified_at": "2026-11-25T23:38:58-03:00"
@@ -806,7 +890,7 @@
       ],
       "is_free": false,
       "first_seen_date": "2026-11-25",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-25T23:38:58-03:00",
       "updated_at": "2026-11-25T23:38:58-03:00",
       "verified_at": "2026-11-25T23:38:58-03:00"
@@ -851,7 +935,7 @@
       ],
       "is_free": false,
       "first_seen_date": "2026-11-25",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-25T23:38:58-03:00",
       "updated_at": "2026-11-25T23:38:58-03:00",
       "verified_at": "2026-11-25T23:38:58-03:00"
@@ -889,7 +973,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-25",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-25T23:38:58-03:00",
       "updated_at": "2026-11-25T23:38:58-03:00",
       "verified_at": "2026-11-25T23:38:58-03:00"
@@ -934,7 +1018,7 @@
       ],
       "is_free": false,
       "first_seen_date": "2026-11-25",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-25T23:38:58-03:00",
       "updated_at": "2026-11-25T23:38:58-03:00",
       "verified_at": "2026-11-25T23:38:58-03:00"
@@ -972,7 +1056,7 @@
       ],
       "is_free": false,
       "first_seen_date": "2026-11-25",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-25T23:38:58-03:00",
       "updated_at": "2026-11-25T23:38:58-03:00",
       "verified_at": "2026-11-25T23:38:58-03:00"
@@ -1010,7 +1094,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-25",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-25T23:38:58-03:00",
       "updated_at": "2026-11-25T23:38:58-03:00",
       "verified_at": "2026-11-25T23:38:58-03:00"
@@ -1048,7 +1132,7 @@
       ],
       "is_free": false,
       "first_seen_date": "2026-11-25",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-25T23:38:58-03:00",
       "updated_at": "2026-11-25T23:38:58-03:00",
       "verified_at": "2026-11-25T23:38:58-03:00"
@@ -1086,7 +1170,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-23",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-23T18:00:24-03:00",
       "updated_at": "2026-11-23T18:00:24-03:00",
       "verified_at": "2026-11-23T18:00:24-03:00"
@@ -1128,7 +1212,7 @@
       ],
       "is_free": false,
       "first_seen_date": "2026-11-23",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-23T18:00:24-03:00",
       "updated_at": "2026-11-23T18:00:24-03:00",
       "verified_at": "2026-11-23T18:00:24-03:00"
@@ -1172,7 +1256,7 @@
         "EAD"
       ],
       "first_seen_date": "2026-11-23",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-23T18:00:24-03:00",
       "updated_at": "2026-11-23T18:00:24-03:00",
       "verified_at": "2026-11-23T18:00:24-03:00"
@@ -1219,7 +1303,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-23",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-23T18:00:24-03:00",
       "updated_at": "2026-11-23T18:00:24-03:00",
       "verified_at": "2026-11-23T18:00:24-03:00"
@@ -1266,7 +1350,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-23",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-23T18:00:24-03:00",
       "updated_at": "2026-11-23T18:00:24-03:00",
       "verified_at": "2026-11-23T18:00:24-03:00"
@@ -1309,7 +1393,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-23",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-23T18:00:24-03:00",
       "updated_at": "2026-11-23T18:00:24-03:00",
       "verified_at": "2026-11-23T18:00:24-03:00"
@@ -1347,7 +1431,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-23",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-23T18:00:24-03:00",
       "updated_at": "2026-11-23T18:00:24-03:00",
       "verified_at": "2026-11-23T18:00:24-03:00"
@@ -1392,7 +1476,7 @@
       ],
       "is_free": false,
       "first_seen_date": "2026-11-23",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-23T18:00:24-03:00",
       "updated_at": "2026-11-23T18:00:24-03:00",
       "verified_at": "2026-11-23T18:00:24-03:00"
@@ -1430,7 +1514,7 @@
       ],
       "is_free": false,
       "first_seen_date": "2026-11-23",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-23T18:00:24-03:00",
       "updated_at": "2026-11-23T18:00:24-03:00",
       "verified_at": "2026-11-23T18:00:24-03:00"
@@ -1472,7 +1556,7 @@
       ],
       "is_free": false,
       "first_seen_date": "2026-11-23",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-23T18:00:24-03:00",
       "updated_at": "2026-11-23T18:00:24-03:00",
       "verified_at": "2026-11-23T18:00:24-03:00"
@@ -1517,7 +1601,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -1563,7 +1647,7 @@
       ],
       "is_free": false,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -1609,7 +1693,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -1652,7 +1736,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -1696,7 +1780,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -1739,7 +1823,7 @@
         "Híbrido"
       ],
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -1784,7 +1868,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -1829,7 +1913,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -1872,7 +1956,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -1917,7 +2001,7 @@
       ],
       "is_free": false,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -1962,7 +2046,7 @@
       ],
       "is_free": false,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -2001,7 +2085,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -2040,7 +2124,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -2086,7 +2170,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -2132,7 +2216,7 @@
       ],
       "is_free": true,
       "first_seen_date": "2026-11-21",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-22T20:18:10-03:00",
       "updated_at": "2026-11-22T20:18:10-03:00",
       "verified_at": "2026-11-22T20:18:10-03:00"
@@ -2170,7 +2254,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -2207,7 +2291,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -2250,7 +2334,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -2294,7 +2378,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -2338,7 +2422,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -2382,7 +2466,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -2425,7 +2509,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -2470,7 +2554,7 @@
         "Presencial"
       ],
       "first_seen_date": "2026-11-19",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00"
@@ -2513,7 +2597,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -2556,50 +2640,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-26",
-      "created_at": "2026-11-19T00:12:44-03:00",
-      "updated_at": "2026-11-19T00:12:44-03:00",
-      "verified_at": "2026-11-19T00:12:44-03:00"
-    },
-    {
-      "id": "educacao-uepa-residencia-medica-246-vagas-2027",
-      "category": "educacao",
-      "title": "Uepa abre 246 vagas em Residência Médica 2027",
-      "short_description": "A Universidade do Estado do Pará abriu o Processo Seletivo Unificado de Residência Médica 2027 (PSU/2027), com 246 vagas credenciadas pelo MEC para médicos e concluintes do último semestre de Medicina. As inscrições vão de 13 a 26/11/2026, com prova objetiva em etapa única e início das atividades previsto para março de 2027.",
-      "deadline": "26/11/2026",
-      "deadline_date": "2026-11-26",
-      "official_link": "https://www.uepa.br/pt-br/content/uepa-oferta-246-vagas-no-processo-seletivo-unificado-de-residencia-medica-2027-0",
-      "source_name": "Uepa - Processo Seletivo Unificado de Residência Médica 2027",
-      "location": "Belém, PA",
-      "state": "PA",
-      "city": "Belém",
-      "tags": [
-        "educacao",
-        "residencia medica",
-        "pos-graduacao",
-        "saude"
-      ],
-      "nivel": [
-        "Pós-graduação"
-      ],
-      "mod": [
-        "Presencial"
-      ],
-      "social_keyword": "UEPA",
-      "social_subtitle": "246 vagas · Residência Médica",
-      "country": "Brasil",
-      "status": "open",
-      "source_type": "primary",
-      "reliability_level": "A",
-      "published_date": "2026-11-18",
-      "social_label": "EDUCAÇÃO",
-      "kw": [
-        "oportunidade",
-        "vagas",
-        "inscricoes"
-      ],
-      "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -2642,7 +2683,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -2682,7 +2723,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -2725,7 +2766,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -2768,7 +2809,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -2808,7 +2849,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -2854,47 +2895,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-26",
-      "created_at": "2026-11-19T00:12:44-03:00",
-      "updated_at": "2026-11-19T00:12:44-03:00",
-      "verified_at": "2026-11-19T00:12:44-03:00"
-    },
-    {
-      "id": "trabalho-uepg-professores-medicina-2026",
-      "category": "trabalho",
-      "title": "UEPG abre processo seletivo para professores de Medicina",
-      "short_description": "A UEPG está com inscrições abertas até 23h59 de 26/11/2026 no processo seletivo para contratação de professores do curso de Medicina, com 6 vagas em áreas como Anatomia, Gastroenterologia, Ginecologia e Obstetrícia, Pediatria e Semiologia Médica. As inscrições são online, pela Progesp, e o edital traz os requisitos de titulação.",
-      "deadline": "26/11/2026",
-      "deadline_date": "2026-11-26",
-      "official_link": "https://www.uepg.br/seletivo-prof-medicina/",
-      "source_name": "UEPG - Processo seletivo de professores de Medicina",
-      "location": "Ponta Grossa, PR",
-      "state": "PR",
-      "city": "Ponta Grossa",
-      "tags": [
-        "trabalho",
-        "professor",
-        "medicina",
-        "processo seletivo"
-      ],
-      "tipo": [
-        "Processo seletivo"
-      ],
-      "social_keyword": "UEPG",
-      "social_subtitle": "6 vagas · Medicina",
-      "country": "Brasil",
-      "status": "open",
-      "source_type": "primary",
-      "reliability_level": "A",
-      "published_date": "2026-11-18",
-      "social_label": "TRABALHO",
-      "kw": [
-        "oportunidade",
-        "vagas",
-        "inscricoes"
-      ],
-      "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -2937,7 +2938,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -2984,7 +2985,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -3032,7 +3033,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -3069,7 +3070,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -3112,7 +3113,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -3150,7 +3151,7 @@
         "inscricoes"
       ],
       "first_seen_date": "2026-11-18",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T00:12:44-03:00",
       "updated_at": "2026-11-19T00:12:44-03:00",
       "verified_at": "2026-11-19T00:12:44-03:00"
@@ -3194,7 +3195,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -3238,7 +3239,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -3282,7 +3283,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -3328,7 +3329,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -3372,7 +3373,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -3418,7 +3419,7 @@
         "Pago"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -3462,7 +3463,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -3506,7 +3507,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -3554,7 +3555,7 @@
         "rua"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T15:33:49-03:00",
       "updated_at": "2026-11-17T15:33:49-03:00",
       "verified_at": "2026-11-17T15:33:49-03:00"
@@ -3598,7 +3599,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -3642,7 +3643,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -3688,7 +3689,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -3733,7 +3734,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -3777,7 +3778,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -3821,7 +3822,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -3867,7 +3868,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -3913,7 +3914,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -3957,7 +3958,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -4001,7 +4002,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -4045,7 +4046,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -4089,7 +4090,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -4133,7 +4134,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -4177,7 +4178,7 @@
         "inscricao"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T16:36:03-03:00",
       "updated_at": "2026-11-17T16:36:03-03:00",
       "verified_at": "2026-11-17T16:36:03-03:00"
@@ -4217,7 +4218,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T11:33:15-03:00",
       "updated_at": "2026-11-17T11:33:15-03:00",
       "verified_at": "2026-11-17T11:33:15-03:00"
@@ -4265,7 +4266,7 @@
         "prova"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T15:33:49-03:00",
       "updated_at": "2026-11-17T15:33:49-03:00",
       "verified_at": "2026-11-17T15:33:49-03:00"
@@ -4313,7 +4314,7 @@
         "6km"
       ],
       "first_seen_date": "2026-11-17",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-17T15:33:49-03:00",
       "updated_at": "2026-11-17T15:33:49-03:00",
       "verified_at": "2026-11-17T15:33:49-03:00"
@@ -4357,7 +4358,7 @@
         "Pago"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -4399,7 +4400,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -4443,7 +4444,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -4480,7 +4481,7 @@
         "gratuito"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -4524,7 +4525,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -4564,7 +4565,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -4610,7 +4611,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -4656,7 +4657,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -4697,7 +4698,7 @@
         "Processo seletivo"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -4738,7 +4739,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-13",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-13T19:50:19-03:00",
       "updated_at": "2026-11-13T19:50:19-03:00",
       "verified_at": "2026-11-13T19:50:19-03:00"
@@ -4777,7 +4778,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -4816,7 +4817,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -4855,87 +4856,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-26",
-      "created_at": "2026-11-11T03:43:19-03:00",
-      "updated_at": "2026-11-11T03:43:19-03:00",
-      "verified_at": "2026-11-11T03:43:19-03:00"
-    },
-    {
-      "id": "trabalho-canto-do-buriti-pi-209-vagas-2026",
-      "category": "trabalho",
-      "title": "Canto do Buriti (PI) abre concurso com 209 vagas em todos os níveis",
-      "short_description": "A Prefeitura de Canto do Buriti (PI) abriu o concurso público 001/2026 com 209 vagas para cargos de nível fundamental, médio e superior, como Agente Comunitário de Saúde, Motorista, Vigia, Eletricista e Auxiliar de Serviços Gerais, além de 45 vagas para professores. As inscrições vão até 26/11/2026; os pedidos de isenção da taxa se encerraram em 31/10. O edital foi retificado em 26 e 29/10.",
-      "deadline": "26/11/2026",
-      "deadline_date": "2026-11-26",
-      "official_link": "https://www.institutovicentenelson.com.br/informacoes/105/",
-      "source_name": "Instituto Vicente Nelson - banca do concurso da Prefeitura de Canto do Buriti/PI",
-      "source_type": "primary",
-      "location": "Canto do Buriti, PI",
-      "country": "Brasil",
-      "state": "PI",
-      "city": "Canto do Buriti",
-      "is_free": false,
-      "tags": [
-        "trabalho",
-        "concurso",
-        "municipal"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-11",
-      "social_label": "TRABALHO",
-      "social_keyword": "CANTO DO BURITI",
-      "social_subtitle": "209 vagas · Canto do Buriti, PI",
-      "kw": [
-        "vaga",
-        "inscricoes"
-      ],
-      "tipo": [
-        "Concurso público"
-      ],
-      "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-26",
-      "created_at": "2026-11-11T03:43:19-03:00",
-      "updated_at": "2026-11-11T03:43:19-03:00",
-      "verified_at": "2026-11-11T03:43:19-03:00"
-    },
-    {
-      "id": "educacao-butantan-especializacao-uma-so-saude-2027",
-      "category": "educacao",
-      "title": "Butantan abre especialização em Uma Só Saúde com bolsa de R$ 1.650",
-      "short_description": "A Escola Superior do Instituto Butantan (ESIB) abriu o processo seletivo 2027 da especialização em Uma Só Saúde, com 960 horas, seis meses de duração e bolsa de R$ 1.650 por mês da Secretaria de Estado da Saúde de São Paulo. As aulas são presenciais, de segunda a sexta, das 8h30 às 17h. Podem concorrer graduados em Medicina Veterinária, Biologia, Enfermagem, Farmácia, Biomedicina, Nutrição, Psicologia e outras áreas da saúde e do meio ambiente. Inscrições até 26/11/2026, com taxa de R$ 105,80.",
-      "deadline": "26/11/2026",
-      "deadline_date": "2026-11-26",
-      "official_link": "https://escolasuperior.butantan.gov.br/especializacao/especializacao-uma-so-saude",
-      "source_name": "Escola Superior do Instituto Butantan (ESIB)",
-      "source_type": "primary",
-      "location": "São Paulo, SP",
-      "country": "Brasil",
-      "state": "SP",
-      "city": "São Paulo",
-      "is_free": false,
-      "tags": [
-        "educacao",
-        "pos-graduacao",
-        "especializacao",
-        "bolsa"
-      ],
-      "status": "open",
-      "reliability_level": "A",
-      "published_date": "2026-11-11",
-      "social_label": "EDUCAÇÃO",
-      "social_keyword": "BUTANTAN",
-      "social_subtitle": "Bolsa de R$ 1.650 · São Paulo, SP",
-      "kw": [
-        "curso",
-        "vaga",
-        "inscricoes"
-      ],
-      "nivel": [
-        "Pós-graduação"
-      ],
-      "first_seen_date": "2026-11-11",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-11T03:43:19-03:00",
       "updated_at": "2026-11-11T03:43:19-03:00",
       "verified_at": "2026-11-11T03:43:19-03:00"
@@ -4976,7 +4897,7 @@
         "Processo seletivo"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-12T13:09:33-03:00",
       "updated_at": "2026-11-12T13:09:33-03:00",
       "verified_at": "2026-11-12T13:09:33-03:00"
@@ -5017,7 +4938,7 @@
         "Estágio"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -5059,7 +4980,7 @@
         "Jurídica"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -5098,7 +5019,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-06",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-06T13:47:29-03:00",
       "updated_at": "2026-11-06T13:47:29-03:00",
       "verified_at": "2026-11-06T13:47:29-03:00"
@@ -5143,7 +5064,7 @@
         "Gratuito"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-19T19:46:08-03:00",
       "updated_at": "2026-11-19T19:46:08-03:00",
       "verified_at": "2026-11-19T19:46:08-03:00",
@@ -5185,7 +5106,7 @@
         "Concurso público"
       ],
       "first_seen_date": "2026-11-05",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-06T00:56:48-03:00",
       "updated_at": "2026-11-06T00:56:48-03:00",
       "verified_at": "2026-11-06T00:56:48-03:00"
@@ -5218,7 +5139,7 @@
       "social_keyword": "CONQUISTA",
       "social_subtitle": "80 vagas gratuitas · BA",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -5263,7 +5184,7 @@
       "social_keyword": "USP",
       "social_subtitle": "1.610 vagas gratuitas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -5305,7 +5226,7 @@
       "social_keyword": "UFMS",
       "social_subtitle": "10 mil vagas online · MS",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -5350,7 +5271,7 @@
       "social_keyword": "TJSP",
       "social_subtitle": "132 vagas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5392,7 +5313,7 @@
       "social_keyword": "SUZANO",
       "social_subtitle": "303 vagas de futsal · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T12:21:36-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -5433,7 +5354,7 @@
       "reliability_level": "A",
       "published_date": "2026-11-02",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-02T02:19:02-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:19:02-03:00",
@@ -5476,7 +5397,7 @@
       "social_keyword": "SETEC",
       "social_subtitle": "39 vagas · Campinas/SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5514,7 +5435,7 @@
       "social_keyword": "SANTA LUZIA",
       "social_subtitle": "Concurso público · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5552,7 +5473,7 @@
       "social_keyword": "PARAGUAÇU",
       "social_subtitle": "Concurso público · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5592,7 +5513,7 @@
       "social_keyword": "PORTO ALEGRE",
       "social_subtitle": "Esporte gratuito · 6 a 17 anos",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5637,7 +5558,7 @@
       "social_keyword": "PC-PE",
       "social_subtitle": "1.315 vagas · PE",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5679,7 +5600,7 @@
       "social_keyword": "PMMG",
       "social_subtitle": "90 vagas de oficial · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5722,7 +5643,7 @@
       "social_keyword": "REDES CORDIAIS",
       "social_subtitle": "5 mil vagas gratuitas · online",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5768,7 +5689,7 @@
       "social_keyword": "IFRJ",
       "social_subtitle": "Curso gratuito EaD · RJ",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-02T12:21:36-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T12:21:36-03:00",
@@ -5813,7 +5734,7 @@
       "social_keyword": "GIL ALVES",
       "social_subtitle": "183 vagas · MG",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5854,7 +5775,7 @@
       "social_keyword": "GUARAREMA",
       "social_subtitle": "Aulas gratuitas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-02T02:47:49-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T02:47:49-03:00",
@@ -5896,7 +5817,7 @@
       "social_keyword": "GOIÁS",
       "social_subtitle": "R$ 30 milhões · audiovisual",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T16:26:22-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5942,7 +5863,7 @@
       "social_keyword": "NEUROEDUCAÇÃO",
       "social_subtitle": "5 mil vagas gratuitas · online",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -5988,7 +5909,7 @@
       "social_keyword": "FATECS",
       "social_subtitle": "Graduações gratuitas · SP",
       "first_seen_date": "2026-11-02",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "created_at": "2026-11-02T16:26:22-03:00",
       "updated_at": "2026-11-02T17:34:27-03:00",
       "verified_at": "2026-11-02T16:26:22-03:00",
@@ -6044,7 +5965,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "social_label": "ESPORTES",
       "social_keyword": "VILA VELHA",
       "social_subtitle": "Núcleos esportivos gratuitos · ES",
@@ -6094,7 +6015,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "social_label": "ESPORTES",
       "social_keyword": "HANDEBOL",
       "social_subtitle": "100 vagas gratuitas · São José dos Pinhais, PR",
@@ -6145,7 +6066,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "social_label": "TRABALHO",
       "social_keyword": "JOVEM APRENDIZ",
       "social_subtitle": "Vagas em Salvador · BA",
@@ -6193,7 +6114,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "social_label": "ESPORTES",
       "social_keyword": "PONTA GROSSA",
       "social_subtitle": "50 vagas gratuitas · PR",
@@ -6243,7 +6164,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "social_label": "CULTURA",
       "social_keyword": "BIBLIOTECAS",
       "social_subtitle": "Pontos de Cultura · Nacional",
@@ -6297,7 +6218,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "social_label": "ESPORTES",
       "social_keyword": "MARICÁ",
       "social_subtitle": "Judô, capoeira e samba raiz · RJ",
@@ -6347,7 +6268,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "social_label": "EDUCAÇÃO",
       "social_keyword": "IFRS",
       "social_subtitle": "200+ cursos online gratuitos",
@@ -6401,7 +6322,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "social_label": "CULTURA",
       "social_keyword": "FUNARTE",
       "social_subtitle": "Espaços culturais gratuitos",
@@ -6453,7 +6374,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "social_label": "ESPORTES",
       "social_keyword": "CUIABÁ",
       "social_subtitle": "2,6 mil vagas gratuitas · MT",
@@ -6503,7 +6424,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "social_label": "ESPORTES",
       "social_keyword": "CARIACICA",
       "social_subtitle": "Vagas esportivas gratuitas · ES",
@@ -6554,7 +6475,7 @@
       "notes": null,
       "published_date": "2026-08-16",
       "first_seen_date": "2026-08-16",
-      "last_seen_date": "2026-11-26",
+      "last_seen_date": "2026-11-27",
       "social_label": "TRABALHO",
       "social_keyword": "CIEE",
       "social_subtitle": "Estágio e Jovem Aprendiz",
@@ -6572,11 +6493,11 @@
   ],
   "version": "1.2.0",
   "last_updated": "2026-08-16T20:59:30-03:00",
-  "total": 151,
+  "total": 149,
   "counts": {
     "cultura": 15,
-    "educacao": 63,
+    "educacao": 62,
     "esportes": 39,
-    "trabalho": 34
+    "trabalho": 33
   }
 }
